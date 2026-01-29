@@ -1,0 +1,349 @@
+/* Mari Codex Quartz Enhancements */
+/* Typography, Callouts, Tables, Animations, Mouse Glow */
+
+/* ========== TYPOGRAPHY IMPROVEMENTS ========== */
+p {
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+  margin-top: 1.2rem;
+}
+
+/* ========== ENHANCED LINK STYLING ========== */
+a {
+  color: #d4af37;
+  background: linear-gradient(to right, rgba(212, 175, 55, 0.15) 0%, transparent 100%);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.4);
+}
+
+a:hover {
+  background: linear-gradient(to right, rgba(212, 175, 55, 0.3) 0%, transparent 100%);
+  color: #d4a574;
+  border-bottom-color: #d4a574;
+  text-shadow: 0 0 8px rgba(212, 175, 55, 0.3);
+}
+
+a:visited {
+  color: #c9a574;
+}
+
+/* ========== CALLOUT BOXES ========== */
+.callout {
+  border-left: 4px solid #d4af37;
+  background: rgba(212, 175, 55, 0.08);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  line-height: 1.7;
+}
+
+.callout p {
+  margin-bottom: 0.5rem;
+}
+
+.callout p:last-child {
+  margin-bottom: 0;
+}
+
+.callout.warning {
+  border-left-color: #c91f1f;
+  background: rgba(201, 31, 31, 0.08);
+}
+
+.callout.warning strong {
+  color: #c91f1f;
+}
+
+.callout.info {
+  border-left-color: #4169e1;
+  background: rgba(65, 105, 225, 0.08);
+}
+
+.callout.info strong {
+  color: #4169e1;
+}
+
+.callout.success {
+  border-left-color: #2d5a3d;
+  background: rgba(45, 90, 61, 0.08);
+}
+
+.callout.success strong {
+  color: #2d5a3d;
+}
+
+/* ========== CODE BLOCK IMPROVEMENTS ========== */
+pre {
+  background: #000 !important;
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 8px;
+  padding: 1.5rem;
+  overflow-x: auto;
+  line-height: 1.6;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+pre code {
+  background: transparent;
+  color: #d4a574;
+  padding: 0;
+  font-size: 0.9rem;
+}
+
+code {
+  color: #d4a574;
+  background: rgba(65, 105, 225, 0.1);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* ========== TABLE IMPROVEMENTS ========== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+thead {
+  background: rgba(212, 175, 55, 0.1);
+}
+
+th {
+  color: #d4af37;
+  padding: 1rem 1.5rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(212, 175, 55, 0.3);
+  font-weight: 600;
+  font-family: 'Cinzel', serif;
+}
+
+td {
+  padding: 0.8rem 1.5rem;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.1);
+  color: #f5f5f5;
+}
+
+tbody tr:hover {
+  background: rgba(212, 175, 55, 0.05);
+  transition: background 0.2s ease;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ========== BLOCKQUOTE IMPROVEMENTS ========== */
+blockquote {
+  border-left: 4px solid #d4af37;
+  background: rgba(212, 175, 55, 0.08);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  color: #d4a574;
+  font-style: italic;
+  line-height: 1.8;
+}
+
+blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* ========== LIST IMPROVEMENTS ========== */
+ul, ol {
+  margin: 1.5rem 0;
+  padding-left: 2rem;
+  line-height: 1.8;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  color: #f5f5f5;
+}
+
+ul li::marker {
+  color: #d4af37;
+}
+
+ol li::marker {
+  color: #4169e1;
+}
+
+/* ========== SMOOTH ANIMATIONS ========== */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+article {
+  animation: fadeInUp 0.6s ease;
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.backlinks, .table-of-contents {
+  animation: slideInLeft 0.6s ease;
+}
+
+/* Hover lift effect on cards/boxes */
+.callout {
+  transition: all 0.3s ease;
+}
+
+.callout:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.1);
+}
+
+/* ========== MOUSE GLOW EFFECT ========== */
+body {
+  position: relative;
+  cursor: none;
+}
+
+.mouse-glow {
+  position: fixed;
+  width: 300px;
+  height: 300px;
+  background: radial-gradient(circle, rgba(212, 175, 55, 0.15) 0%, rgba(212, 175, 55, 0.05) 40%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+  filter: blur(40px);
+  mix-blend-mode: screen;
+  transform: translate(-150px, -150px);
+  display: none;
+}
+
+body.has-mouse-support .mouse-glow {
+  display: block;
+}
+
+/* Show default cursor when not hovering interactive elements */
+a, button, input, textarea, select {
+  cursor: pointer;
+}
+
+input, textarea, select {
+  cursor: text;
+}
+
+/* ========== RESPONSIVE IMPROVEMENTS ========== */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8rem;
+    margin-top: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    margin-top: 1.4rem;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+  }
+
+  .callout {
+    padding: 0.8rem 1rem;
+    margin: 1rem 0;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+
+  th, td {
+    padding: 0.6rem 0.8rem;
+  }
+
+  pre {
+    padding: 1rem;
+    font-size: 0.85rem;
+  }
+
+  p {
+    line-height: 1.7;
+  }
+}
+
+/* ========== SCROLLBAR STYLING ========== */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(212, 175, 55, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.3);
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(212, 175, 55, 0.5);
+}
+
+/* ========== SELECTION STYLING ========== */
+::selection {
+  background: rgba(212, 175, 55, 0.25);
+  color: #f5f5f5;
+}
+
+::-moz-selection {
+  background: rgba(212, 175, 55, 0.25);
+  color: #f5f5f5;
+}
