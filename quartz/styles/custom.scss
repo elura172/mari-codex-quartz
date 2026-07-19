@@ -1,3 +1,141 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ========== Mari Codex mystical theme ==========
+// Adapted from quartz-theme.scss to Quartz v4's real DOM and CSS variables.
+// Palette: gold #d4af37, crimson #c91f1f, clay #d4a574, royal #4169e1
+
+// --- Dark mode: deep-space gradient + accent flourishes ---
+[saved-theme="dark"] body {
+  background: linear-gradient(135deg, #0a0e1a 0%, #0f1422 50%, #151b2b 100%);
+  background-attachment: fixed;
+}
+
+[saved-theme="dark"] {
+  .page-title a {
+    color: #d4af37;
+    text-shadow: 0 2px 8px rgba(201, 31, 31, 0.2);
+  }
+
+  article {
+    h1 {
+      color: #d4af37;
+      text-shadow: 0 2px 8px rgba(201, 31, 31, 0.2);
+    }
+    h2 {
+      color: #7a94e8;
+      border-bottom: 2px solid rgba(212, 175, 55, 0.3);
+      padding-bottom: 0.4rem;
+    }
+    h3 {
+      color: #d4a574;
+    }
+  }
+
+  blockquote {
+    border-left: 4px solid #d4af37;
+    background: rgba(212, 175, 55, 0.05);
+    font-style: italic;
+    border-radius: 0 4px 4px 0;
+  }
+
+  code {
+    background: rgba(65, 105, 225, 0.12);
+    color: #d4a574;
+  }
+
+  pre {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+
+    code {
+      color: #d4a574;
+    }
+  }
+
+  .tag-link {
+    background: rgba(65, 105, 225, 0.15);
+    color: #d4a574;
+    border: 1px solid rgba(65, 105, 225, 0.3);
+
+    &:hover {
+      background: rgba(212, 175, 55, 0.15);
+      color: #d4af37;
+      border-color: #d4af37;
+    }
+  }
+
+  .search > .search-button {
+    background: rgba(65, 105, 225, 0.08);
+    border: 1px solid rgba(212, 175, 55, 0.25);
+  }
+
+  ::selection {
+    background: rgba(212, 175, 55, 0.25);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(212, 175, 55, 0.4);
+
+    &:hover {
+      background: rgba(212, 175, 55, 0.6);
+    }
+  }
+}
+
+// --- Both modes: typographic polish ---
+body {
+  letter-spacing: 0.3px;
+  line-height: 1.7;
+}
+
+article h1,
+article h2,
+article h3 {
+  letter-spacing: 0.5px;
+}
+
+blockquote {
+  padding: 1rem 1.5rem;
+}
+
+// ========== Homepage: hero + stat cards ==========
+.hero-frame {
+  display: block;
+  width: 100%;
+  height: 340px;
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 8px;
+  background: #000;
+  margin-bottom: 1.5rem;
+}
+
+.codex-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+
+  .stat-card {
+    text-align: center;
+    padding: 1.1rem 0.5rem;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 8px;
+    background: rgba(212, 175, 55, 0.05);
+
+    .stat-number {
+      display: block;
+      font-family: var(--headerFont);
+      font-size: 1.9rem;
+      color: var(--secondary);
+      line-height: 1.2;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 0.85rem;
+      color: var(--gray);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+  }
+}

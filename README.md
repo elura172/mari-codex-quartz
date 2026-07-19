@@ -1,17 +1,21 @@
-# Quartz v4
+# Mari Swaruu Codex
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A digital-garden knowledge base of cosmic contact and consciousness exploration — 1,355 interlinked topic notes distilled from 494 Mari Swaruu transcripts, published with [Quartz v4](https://quartz.jzhao.xyz/).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**Live site:** https://elura172.github.io/mari-codex-quartz/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Structure
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- `content/index.md` — homepage (hero animation + stats)
+- `content/topics/` — the 1,355 topic notes; master topics consolidate related sub-topics, each note carries quotes, source transcripts, tags, and wikilinks to related concepts
+- `quartz/styles/custom.scss` — the dark mystical theme (gold/crimson/clay/royal palette, Cinzel/Spectral/Space Mono typography)
+- `quartz/static/ringstate-hero.htm` — self-contained canvas ring animation embedded on the homepage
 
-## Sponsors
+## Development
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```bash
+npm ci
+npx quartz build --serve   # http://localhost:8080
+```
+
+Deployment is automatic: every push to `main` builds and publishes to GitHub Pages via `.github/workflows/deploy.yml`.
