@@ -63,7 +63,7 @@ This principle reminds us that our presence here transcends mere observation or 
 ## Related Topics
 
 - [[matrix-energy-fields|Matrix Energy Fields]]
-- Earth Realm
+- [[earth-as-existential-realm|Earth Realm]]
 
 ## Sources
 

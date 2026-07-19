@@ -55,7 +55,7 @@ For crew members engaging with Earth's population, remember that mathematical li
 
 ## Related Topics
 
-- Energy Fields
+- [[matrix-energy-fields|Energy Fields]]
 - Dimensional Mirroring Phenomena
 
 ## Sources

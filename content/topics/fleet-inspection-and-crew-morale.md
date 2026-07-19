@@ -60,7 +60,7 @@ Such wisdom transforms routine inspection into ceremony of connection—a practi
 ## Related Topics
 
 - [[starship-operations|Starship Operations]]
-- Taygetan Royal Leadership
+- [[taygetan-leadership|Taygetan Royal Leadership]]
 
 ## Sources
 

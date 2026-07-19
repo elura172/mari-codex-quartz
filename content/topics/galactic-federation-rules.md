@@ -59,7 +59,7 @@ In this framework, we find not limitation, but the wisdom of cosmic gardeners wh
 
 ## Related Topics
 
-- Extraction Protocols
+- [[protocol-827-military-extraction|Extraction Protocols]]
 
 ## Sources
 

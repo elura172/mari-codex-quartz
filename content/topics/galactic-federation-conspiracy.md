@@ -69,7 +69,7 @@ Mari's courage in revealing these truths honors the authentic principles of gala
 
 ## Related Topics
 
-- Secret Space Program
+- [[human-secret-space-program-craft-capture|Secret Space Program]]
 - [[earths-matrix-control-system|Earth's Matrix Control System]]
 
 ## Sources

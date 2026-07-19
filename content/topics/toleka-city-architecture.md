@@ -55,7 +55,7 @@ Through Mari's observations, we witness architecture as conscious expressionbuil
 
 ## Related Topics
 
-- Taygetan Culture
+- [[taygetan-social-culture|Taygetan Culture]]
 - Temmer
 
 ## Sources

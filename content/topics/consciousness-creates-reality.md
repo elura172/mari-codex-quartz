@@ -66,7 +66,7 @@ The liberation of Earth will ultimately emerge from within—as humans remember 
 ## Related Topics
 
 - [[lower-astral-entities|Lower Astral Entities]]
-- Matrix Control and Self-Manifestation
+- [[matrix-control|Matrix Control and Self-Manifestation]]
 
 ## Sources
 

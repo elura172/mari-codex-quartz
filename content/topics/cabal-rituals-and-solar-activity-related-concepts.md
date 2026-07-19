@@ -13,13 +13,13 @@ sources:
   - "The Sun and its portals. (English)"
 ---
 
-# Cabal Rituals and Solar Activity & Related Concepts
+# [[cabal-rituals-and-solar-activity-related-concepts|Cabal Rituals and Solar Activity]] & Related Concepts
 
 *Master Topic - Collection of Related Concepts*
 
 ## Related Topics
 
-- Cabal Rituals and Solar Activity
+- [[cabal-rituals-and-solar-activity-related-concepts|Cabal Rituals]] and Solar Activity
 - Cabal Rituals
 
 ## Summary

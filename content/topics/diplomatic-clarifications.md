@@ -63,7 +63,7 @@ This diplomatic framework ensures that our presence remains a bridge between civ
 ## Related Topics
 
 - [[federation-distrust|Federation Distrust]]
-- Taygetan Response
+- [[taygetan-military-response|Taygetan Response]]
 
 ## Sources
 

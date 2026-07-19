@@ -65,7 +65,7 @@ The reintegration strengthens our unified approach to consciousness evolution wh
 ## Related Topics
 
 - DNA Analysis
-- Taygetan Identity
+- [[taygetan-swaruunian-identity|Taygetan Identity]]
 
 ## Sources
 

@@ -60,7 +60,7 @@ Our mission continues to support humanity's transition beyond these artificial c
 ## Related Topics
 
 - [[prime-directive|Prime Directive]]
-- Secret Space Program
+- [[human-secret-space-program-craft-capture|Secret Space Program]]
 
 ## Sources
 

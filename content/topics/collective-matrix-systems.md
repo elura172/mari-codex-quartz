@@ -59,7 +59,7 @@ The recognition of reality's collaborative nature marks a crucial threshold in s
 ## Related Topics
 
 - Deep Space Travel
-- Planetary Magnetosphere
+- [[planetary-magnetosphere-as-reality-modulator|Planetary Magnetosphere]]
 
 ## Sources
 

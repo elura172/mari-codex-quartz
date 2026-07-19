@@ -63,7 +63,7 @@ The path forward lies not in rejecting advancement, but in approaching it from w
 ## Related Topics
 
 - [[cabal-operations|Cabal Operations]]
-- AI Control
+- [[ai-as-control-mechanism|AI Control]]
 
 ## Sources
 

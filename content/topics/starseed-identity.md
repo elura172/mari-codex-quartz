@@ -65,7 +65,7 @@ Mari's wisdom guides us toward inclusive expansion consciousness, honoring the c
 ## Related Topics
 
 - Spiritual Seeking (Level 3)
-- Extraterrestrial Identity
+- [[extraterrestrial-memories-and-identity-conflicts|Extraterrestrial Identity]]
 
 ## Sources
 

@@ -61,7 +61,7 @@ This synthesis represents our commitment to technologies that elevate rather tha
 ## Related Topics
 
 - [[jump-drive-technology|Jump Drive Technology]]
-- Plasma Formation
+- [[plasma-formation-around-spacecraft|Plasma Formation]]
 
 ## Sources
 

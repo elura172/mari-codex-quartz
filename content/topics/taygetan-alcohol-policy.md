@@ -67,7 +67,7 @@ Understanding this aspect of Taygetan culture proves essential for successful di
 ## Related Topics
 
 - [[alcohol-and-spiritual-influence|Alcohol and Spiritual Influence]]
-- Step-down Protocols
+- [[step-downs|Step-down Protocols]]
 
 ## Sources
 

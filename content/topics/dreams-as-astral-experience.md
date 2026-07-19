@@ -68,7 +68,7 @@ Mari's insight reveals that humanity already possesses the experiential foundati
 
 ## Related Topics
 
-- Body as Perception Filter
+- [[perception-filters|Body as Perception Filter]]
 - [[government-astral-projects|Government Astral Projects]]
 
 ## Sources

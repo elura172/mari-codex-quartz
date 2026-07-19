@@ -63,7 +63,7 @@ These systems serve our broader mission of conscious evolution, allowing stellar
 
 ## Related Topics
 
-- Walk-Ins and Soul Exchange
+- [[walk-ins|Walk-Ins and Soul Exchange]]
 - Technological Manipulation
 
 ## Sources

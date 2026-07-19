@@ -61,7 +61,7 @@ This incident shall stand as both warning and wisdom for all civilizations navig
 
 ## Related Topics
 
-- Military Protocol 827
+- [[protocol-827-military-extraction|Military Protocol 827]]
 - Taygetan Political Crisis
 
 ## Sources

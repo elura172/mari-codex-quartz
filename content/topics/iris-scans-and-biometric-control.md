@@ -63,7 +63,7 @@ The iris truly serves as window to the soul, making its involuntary scanning a f
 ## Related Topics
 
 - [[matrix-control-systems|Matrix Control Systems]]
-- Starseed Detection
+- [[starseed-detection-through-iris-analysis|Starseed Detection]]
 
 ## Sources
 

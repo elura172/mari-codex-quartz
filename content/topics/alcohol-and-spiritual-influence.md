@@ -68,7 +68,7 @@ Mari's wisdom illuminates pathways toward liberation through conscious choice an
 ## Related Topics
 
 - Taygetan Policies
-- Cabal Control Methods
+- [[cabal-control|Cabal Control Methods]]
 
 ## Sources
 

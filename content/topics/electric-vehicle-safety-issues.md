@@ -15,7 +15,7 @@ tags:
   - "spontaneous"
 ---
 
-# Electric Vehicle Safety Issues
+# Electric [[electric-vehicle-safety-issues|Vehicle Safety]] Issues
 
 ## Summary
 

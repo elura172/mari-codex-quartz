@@ -60,7 +60,7 @@ The evolved starseed learns to honor both their cosmic nature and their human in
 ## Related Topics
 
 - [[starseed-family-conflict|Starseed Family Conflict]]
-- Consciousness Levels
+- [[consciousness-levels-and-parallel-realities|Consciousness Levels]]
 
 ## Sources
 

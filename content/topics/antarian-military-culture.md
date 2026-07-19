@@ -59,7 +59,7 @@ For diplomatic relations and crew understanding: Antarian military culture shoul
 ## Related Topics
 
 - Star Race Defense
-- Galactic Protection
+- [[galactic-federation-protection|Galactic Protection]]
 
 ## Sources
 

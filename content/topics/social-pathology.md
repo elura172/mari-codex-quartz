@@ -69,7 +69,7 @@ The highest service involves modeling alternative possibilitiesdemonstrating tha
 ## Related Topics
 
 - Earth Society
-- Survival Instinct
+- [[group-psychology-and-survival-instincts|Survival Instinct]]
 
 ## Sources
 

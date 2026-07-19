@@ -63,7 +63,7 @@ Mari's gift was helping us see beyond the theater of opposition into the unified
 
 ## Related Topics
 
-- Population Reduction
+- [[population-reduction-agenda|Population Reduction]]
 - [[gender-war-engineering|Gender War Engineering]]
 
 ## Sources

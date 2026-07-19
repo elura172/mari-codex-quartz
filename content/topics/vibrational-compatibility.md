@@ -56,7 +56,7 @@ Mari's teachings illuminate how this principle serves as both limitation and lib
 
 ## Related Topics
 
-- DNA as Etheric Antennas
+- [[dna-as-antenna|DNA as Etheric Antennas]]
 - [[walk-ins-and-soul-evolution|Walk-ins and Soul Evolution]]
 
 ## Sources

@@ -66,8 +66,8 @@ Mari's legacy reminds us that authentic service transcends political structures.
 
 ## Related Topics
 
-- Pleiadian-Urmah Military Treaty
-- Earth Intervention
+- [[pleiadian-urmah-treaty|Pleiadian-Urmah Military Treaty]]
+- [[taygetan-earth-intervention-history|Earth Intervention]]
 
 ## Sources
 

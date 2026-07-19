@@ -62,8 +62,8 @@ Starseeds experiencing this displacement require validation of their perceptions
 
 ## Related Topics
 
-- Memory Wiping vs Frequency Incompatibility
-- Soul Incarnation Waves
+- [[frequency-incompatibility|Memory Wiping vs Frequency Incompatibility]]
+- [[soul-incarnation|Soul Incarnation Waves]]
 
 ## Sources
 

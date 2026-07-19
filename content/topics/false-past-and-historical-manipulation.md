@@ -67,7 +67,7 @@ The liberation of Earth's collective memory remains essential to planetary ascen
 ## Related Topics
 
 - [[matrix-control|Matrix Control]]
-- Social Conditioning
+- [[social-conditioning-and-educational-control|Social Conditioning]]
 
 ## Sources
 

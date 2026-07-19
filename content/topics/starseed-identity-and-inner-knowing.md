@@ -57,7 +57,7 @@ The starseed's certainty flows from the same source as our own recognition of ho
 
 ## Related Topics
 
-- Energy Sensitivity
+- [[energy-sensitivity-and-empathic-abilities|Energy Sensitivity]]
 - [[spiritual-awakening|Spiritual Awakening]]
 
 ## Sources

@@ -62,7 +62,7 @@ Mari's insights reveal that healing this fracture requires more than simply rele
 
 ## Related Topics
 
-- Scientific Control Mechanisms
+- [[control-mechanisms|Scientific Control Mechanisms]]
 - Elite Knowledge
 
 ## Sources

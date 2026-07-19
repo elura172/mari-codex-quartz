@@ -64,7 +64,7 @@ Mari's insights remind us that consciousness exploration remains fundamental to 
 
 ## Related Topics
 
-- Astral Traveling
+- [[astral-traveling-techniques|Astral Traveling]]
 - [[consciousness-and-perception|Consciousness and Perception]]
 
 ## Sources

@@ -65,7 +65,7 @@ Mari's transmission serves as reminder that truth emerges through continuous ref
 ## Related Topics
 
 - Art as Stellar Currency
-- Three Types of Gold in Space
+- [[types-of-gold|Three Types of Gold in Space]]
 - [[holistic-society-model|Holistic Society Model]]
 
 ## Sources

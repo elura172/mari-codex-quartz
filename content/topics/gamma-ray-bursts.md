@@ -58,7 +58,7 @@ In recognizing these patterns, we honor both the scientific precision and spirit
 ## Related Topics
 
 - [[hyperspace-travel|Hyperspace Travel]]
-- Space Traffic Control
+- [[galactic-federation-space-traffic-control|Space Traffic Control]]
 
 ## Sources
 

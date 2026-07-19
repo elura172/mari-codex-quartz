@@ -60,7 +60,7 @@ Her story reminds us that truth-bearers often emerge from liminal spaces, their 
 ## Related Topics
 
 - Space Travel
-- Earth Experience
+- [[human-identity-and-earth-experience|Earth Experience]]
 
 ## Sources
 

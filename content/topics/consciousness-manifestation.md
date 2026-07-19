@@ -64,7 +64,7 @@ The transmission wisdom of Mari Swaruu continues illuminating these foundational
 
 ## Related Topics
 
-- Soul Vibration
+- [[soul-frequency-and-vibration|Soul Vibration]]
 - [[material-world-as-illusion|Material World as Illusion]]
 
 ## Sources

@@ -79,7 +79,7 @@ The manifestation theory thus represents not merely an explanation of how realit
 
 ## Related Topics
 
-- Ether Physics
+- [[gravity-and-ether-physics|Ether Physics]]
 - [[consciousness-and-gravity-theory|Consciousness and Gravity Theory]]
 
 ## Sources

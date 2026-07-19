@@ -62,8 +62,8 @@ This event stands as testament to the principle that apparent failure often birt
 
 ## Related Topics
 
-- Military Extraction
-- Protocol 827
+- [[protocol-827-military-extraction|Military Extraction]]
+- [[protocol-827-military-extraction|Protocol 827]]
 
 ## Sources
 

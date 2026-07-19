@@ -57,7 +57,7 @@ This enhancement reflects not retreat from engagement, but deeper commitment to 
 
 ## Related Topics
 
-- Urmah Alliance
+- [[urmah-feline-alliance|Urmah Alliance]]
 - [[kidnapping-attempt-investigation|Kidnapping Attempt Investigation]]
 
 ## Sources

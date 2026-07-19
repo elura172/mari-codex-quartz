@@ -66,7 +66,7 @@ For crew members encountering such entities, maintenance of strong Source connec
 
 ## Related Topics
 
-- Soul Displacement
+- [[soul-displacement-and-devil-deals|Soul Displacement]]
 - [[manifestation-and-fear|Manifestation and Fear]]
 
 ## Sources

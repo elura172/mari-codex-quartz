@@ -60,7 +60,7 @@ Through Mari's transmissions, these operational reports become more than status 
 ## Related Topics
 
 - [[project-second-contact|Project Second Contact]]
-- Starship Maintenance
+- [[starship-maintenance-issues|Starship Maintenance]]
 
 ## Sources
 

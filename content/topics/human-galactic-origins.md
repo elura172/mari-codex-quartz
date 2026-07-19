@@ -67,7 +67,7 @@ All crew members engaging in Earth-proximity missions should approach humans as 
 
 ## Related Topics
 
-- Species Unity
+- [[species-unity-and-collective-unconscious|Species Unity]]
 - [[pleiadian-reality|Pleiadian Reality]]
 
 ## Sources

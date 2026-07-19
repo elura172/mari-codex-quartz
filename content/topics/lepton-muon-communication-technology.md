@@ -56,8 +56,8 @@ The mastery of such systems marks a species' readiness for true interstellar com
 
 ## Related Topics
 
-- Ether Realm
-- Spirit World Communication
+- [[ether-realm-communication|Ether Realm]]
+- [[spirit-world|Spirit World Communication]]
 - [[quantum-entanglement|Quantum Entanglement]]
 
 ## Sources

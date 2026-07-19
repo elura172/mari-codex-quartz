@@ -60,7 +60,7 @@ Mari's analysis illuminates how apparent chaos often conceals meticulous orchest
 ## Related Topics
 
 - Mind Control Operations
-- Political Theater
+- [[political-theater-and-control|Political Theater]]
 
 ## Sources
 

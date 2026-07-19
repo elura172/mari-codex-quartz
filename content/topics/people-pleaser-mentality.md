@@ -58,7 +58,7 @@ This codex entry stands as testament to consciousness examining itself across th
 ## Related Topics
 
 - Service to Others vs Self
-- Contact Boundaries
+- [[contact-boundaries-and-burnout|Contact Boundaries]]
 - [[holistic-society|Holistic Society]]
 
 ## Sources

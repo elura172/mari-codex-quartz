@@ -52,7 +52,7 @@ In wearing these suits, we carry with us the crystallized wisdom of our ancestor
 ## Related Topics
 
 - Space Suits
-- Zero-Point Technology
+- [[zero-point-reactor-technology|Zero-Point Technology]]
 - [[taygetan-technology|Taygetean Technology]]
 
 ## Sources

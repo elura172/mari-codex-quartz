@@ -63,7 +63,7 @@ Mari Swaruu's observations illuminate how this technology bridges the gap betwee
 
 ## Related Topics
 
-- Queen Alenym's Medical Condition
+- [[alenyms-condition|Queen Alenym's Medical Condition]]
 
 ## Sources
 

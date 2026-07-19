@@ -69,7 +69,7 @@ The crisis ultimately resolved through appropriate species-matched treatment, de
 ## Related Topics
 
 - Athena's Search Mission
-- Urmah Medical Technology
+- [[medical-technology|Urmah Medical Technology]]
 
 ## Sources
 

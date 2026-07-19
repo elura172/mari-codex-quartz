@@ -62,7 +62,7 @@ This event serves as meditation on impermanence and the courage required for phy
 
 - Emergency Response
 - Toleka City
-- Weather Control Systems
+- [[weather-control-operations|Weather Control Systems]]
 
 ## Sources
 

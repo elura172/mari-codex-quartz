@@ -59,7 +59,7 @@ Mari's teachings suggest that true evolution occurs not through temporal revisio
 
 ## Related Topics
 
-- Timeline Theory
+- [[timeline-theory-and-time-travel|Timeline Theory]]
 - [[gratitude-and-appreciation|Gratitude and Appreciation]]
 
 ## Sources

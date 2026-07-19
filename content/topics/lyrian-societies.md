@@ -65,7 +65,7 @@ The Lyrian template provides framework, not formula. In honoring Mari's memory, 
 ## Related Topics
 
 - [[taygetan-technology|Taygetean Technology]]
-- Cultural Homogenization
+- [[cultural-homogenization-of-clothing|Cultural Homogenization]]
 
 ## Sources
 

@@ -67,7 +67,7 @@ Mari's insights illuminate reincarnation not as punishment or random assignment,
 
 ## Related Topics
 
-- Afterlife and Spirit World
+- [[spirit-world|Afterlife and Spirit World]]
 - [[soul-building|Soul Building]]
 
 ## Sources

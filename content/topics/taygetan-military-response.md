@@ -58,7 +58,7 @@ Mari Swaruu's transmissions illuminate how individual events cascade through col
 ## Related Topics
 
 - Starship Hyades Arrival
-- Queen Alenym's Medical Condition
+- [[alenyms-condition|Queen Alenym's Medical Condition]]
 
 ## Sources
 

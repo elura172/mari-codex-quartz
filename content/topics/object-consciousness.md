@@ -66,7 +66,7 @@ Mari's wisdom continues illuminating pathways toward universal understanding.
 
 ## Related Topics
 
-- Consciousness as Primary Reality
+- [[consciousness-and-reality|Consciousness as Primary Reality]]
 - [[observer-dependent-reality|Observer-Dependent Reality]]
 
 ## Sources

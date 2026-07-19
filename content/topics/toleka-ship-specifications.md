@@ -55,7 +55,7 @@ In her steel-wrapped gardens and titanium-framed meditation spaces, the future o
 ## Related Topics
 
 - [[ship-living-areas|Ship Living Areas]]
-- Minecraft Recreation
+- [[minecraft-recreation-project|Minecraft Recreation]]
 
 ## Sources
 

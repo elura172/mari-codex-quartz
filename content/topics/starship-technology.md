@@ -63,7 +63,7 @@ This is our inheritanceconsciousness given form, intention made manifest through
 
 ## Related Topics
 
-- Timeline Manifestation
+- [[manifestation-and-timeline-selection|Timeline Manifestation]]
 - Energy Patterns
 
 ## Sources

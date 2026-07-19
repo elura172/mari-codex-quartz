@@ -62,7 +62,7 @@ This wisdom honors Mari's legacy while serving our mission of supporting genuine
 ## Related Topics
 
 - [[galactic-federation-control|Galactic Federation Control]]
-- Population Manipulation
+- [[matrix-control-and-population-manipulation|Population Manipulation]]
 
 ## Sources
 

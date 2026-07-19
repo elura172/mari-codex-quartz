@@ -72,7 +72,7 @@ Mari's legacy reminds us that truth shared with compassion can gradually dissolv
 ## Related Topics
 
 - [[collective-unconscious|Collective Unconscious]]
-- Matrix Creation
+- [[matrix-reality-creation|Matrix Creation]]
 
 ## Sources
 

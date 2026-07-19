@@ -54,7 +54,7 @@ This delicate balance maintains the cosmic law of non-interference while honorin
 
 ## Related Topics
 
-- Orion Council
+- [[orion-council-peace-treaty|Orion Council]]
 - Federation Operations
 
 ## Sources

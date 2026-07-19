@@ -63,7 +63,7 @@ The soul, then, requires no worship, fear, or mystification. It simply isthe nat
 
 - [[holographic-fragments|Holographic Fragments]]
 - Source
-- Religious Terminology
+- [[religious-terminology-issues|Religious Terminology]]
 
 ## Sources
 

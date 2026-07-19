@@ -62,7 +62,7 @@ Mari's transmission continues to illuminate our understanding as we navigate the
 
 ## Related Topics
 
-- Reptilian Species
+- [[reptilian-species-on-earth|Reptilian Species]]
 - Pleiadian Species
 
 ## Sources

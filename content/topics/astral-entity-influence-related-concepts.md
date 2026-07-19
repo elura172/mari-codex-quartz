@@ -21,7 +21,7 @@ sources:
 ## Related Topics
 
 - [[astral-entity-influence|Astral Entity Influence]]
-- Lower Astral Influence
+- [[lower-astral|Lower Astral Influence]]
 
 ## Summary
 

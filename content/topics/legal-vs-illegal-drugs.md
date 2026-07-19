@@ -58,7 +58,7 @@ For our crews interfacing with human consciousness, understanding this dynamic p
 ## Related Topics
 
 - [[alcohol-as-a-drug|Alcohol as a Drug]]
-- Social Control Mechanisms
+- [[control-mechanisms|Social Control Mechanisms]]
 
 ## Sources
 

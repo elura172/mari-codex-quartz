@@ -66,7 +66,7 @@ Mari's wisdom reminds us that true star family support involves encouraging Eart
 ## Related Topics
 
 - Spiritual Escapism
-- Life Outside Earth
+- [[life-outside-earth-reality|Life Outside Earth]]
 
 ## Sources
 

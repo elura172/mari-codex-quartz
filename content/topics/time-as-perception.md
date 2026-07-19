@@ -77,7 +77,7 @@ This knowledge serves not merely as philosophical insight, but as practical wisd
 ## Related Topics
 
 - [[historical-manipulation|Historical Manipulation]]
-- Hexa-dimensional Space-Time
+- [[hexa-dimensional-space-time-model|Hexa-dimensional Space-Time]]
 
 ## Sources
 

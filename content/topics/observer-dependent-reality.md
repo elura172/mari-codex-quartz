@@ -62,7 +62,7 @@ Through her transmissions, Swaruu of Erra reminded us that consciousness is the 
 ## Related Topics
 
 - [[object-consciousness|Object Consciousness]]
-- Consciousness as Primary Reality
+- [[consciousness-and-reality|Consciousness as Primary Reality]]
 
 ## Sources
 

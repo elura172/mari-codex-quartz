@@ -58,7 +58,7 @@ The disc speaks to unity, completion, and the eternal returnprinciples Mari unde
 
 ## Related Topics
 
-- Electromagnetic Propulsion
+- [[electromagnetic-propulsion-systems|Electromagnetic Propulsion]]
 - Anti-Gravity Technology
 
 ## Sources

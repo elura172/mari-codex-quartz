@@ -60,7 +60,7 @@ The path forward requires holding space for both protective discernment and open
 ## Related Topics
 
 - [[urmah-relations|Urmah Relations]]
-- Taygetan Response
+- [[taygetan-military-response|Taygetan Response]]
 
 ## Sources
 

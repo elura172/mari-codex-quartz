@@ -62,7 +62,7 @@ Navigation teams should approach solar portal mapping with both technical precis
 
 ## Related Topics
 
-- Solar Cycles and Events
+- [[solar-cycles-and-historical-events|Solar Cycles and Events]]
 - Portal Systems
 
 ## Sources

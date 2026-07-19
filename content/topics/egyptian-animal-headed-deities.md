@@ -58,7 +58,7 @@ This symbolic sophistication suggests Egypt's contact with expanded awareness, p
 ## Related Topics
 
 - Urmah Influence in Egypt
-- Ancient Starport
+- [[ancient-egypt-starport|Ancient Starport]]
 
 ## Sources
 

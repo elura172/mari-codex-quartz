@@ -111,7 +111,7 @@ Mari's documentation suggests we witness not merely political control but consci
 
 ## Related Topics
 
-- Historical Manipulation by Victors
+- [[historical-manipulation|Historical Manipulation by Victors]]
 - Civilization Resets
 
 ## Sources

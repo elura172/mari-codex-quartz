@@ -56,7 +56,7 @@ In documenting their presence, we honor both their sacrifice and their gift to h
 ## Related Topics
 
 - [[starseeds|Starseeds]]
-- Consciousness and Soul Evolution
+- [[soul-consciousness|Consciousness and Soul Evolution]]
 
 ## Sources
 

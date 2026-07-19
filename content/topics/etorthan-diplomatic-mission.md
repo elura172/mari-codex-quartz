@@ -61,7 +61,7 @@ We maintain observation protocols, ready to serve as interpretive bridge between
 
 ## Related Topics
 
-- Orion Council
+- [[orion-council-peace-treaty|Orion Council]]
 - Galactic Federation Oversight
 
 ## Sources

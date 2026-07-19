@@ -61,7 +61,7 @@ Mari's transmission of this wisdom reflects the broader galactic recognition tha
 
 ## Related Topics
 
-- Earth Cats
+- [[earth-cat-protection|Earth Cats]]
 - Feline Protection
 
 ## Sources

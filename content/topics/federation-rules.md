@@ -60,7 +60,7 @@ Though physical return remains impossible, the extracted being carries within th
 ## Related Topics
 
 - Extraction Logistics
-- Extraction Ethics
+- [[extraction-ethics-and-problems|Extraction Ethics]]
 
 ## Sources
 

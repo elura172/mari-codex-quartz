@@ -64,7 +64,7 @@ Their approach serves as both inspiration and practical guidance for species see
 
 ## Related Topics
 
-- Urmah Independence
+- [[urmah-confederation-independence|Urmah Independence]]
 - Galactic Federation
 
 ## Sources

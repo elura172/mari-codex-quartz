@@ -65,7 +65,7 @@ Mari Swaruu's transmissions continue illuminating these dynamics, helping bridge
 
 - [[orbital-mechanics|Orbital Mechanics]]
 - [[van-allen-radiation-belts|Van Allen Radiation Belts]]
-- Holographic Concealment
+- [[holographic-concealment-technology|Holographic Concealment]]
 
 ## Sources
 

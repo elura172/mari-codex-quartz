@@ -67,7 +67,7 @@ The wisdom Mari shared reminds us that understanding transcends belief systemsâ€
 ## Related Topics
 
 - [[theory-of-manifestation|Theory of Manifestation]]
-- Universal Consciousness
+- [[source-as-universal-consciousness|Universal Consciousness]]
 
 ## Sources
 

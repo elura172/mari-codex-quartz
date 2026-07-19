@@ -62,7 +62,7 @@ Mari's transmission of this knowledge serves as both strategic intelligence and 
 ## Related Topics
 
 - [[urmah-astral-mastery|Urmah Astral Mastery]]
-- Astral Entities and Demons
+- [[demons-and-lower-astral-entities|Astral Entities and Demons]]
 
 ## Sources
 

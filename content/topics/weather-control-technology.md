@@ -68,7 +68,7 @@ Mari's teachings remind us that technology without consciousness becomes mere ma
 
 ## Related Topics
 
-- Planet Temmer Climate
+- [[planet-temmer|Planet Temmer Climate]]
 - [[taygetan-technology|Taygetan Technology]]
 
 ## Sources

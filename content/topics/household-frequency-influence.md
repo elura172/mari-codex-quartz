@@ -59,7 +59,7 @@ The dwelling thus becomes a temple of consciousness creation, where each thought
 ## Related Topics
 
 - Area Frequency Effects
-- Frequency Portals
+- [[frequency-based-portal-creation|Frequency Portals]]
 
 ## Sources
 

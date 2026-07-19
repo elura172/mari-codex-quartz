@@ -59,7 +59,7 @@ This convocation stands as testament to our civilization's commitment to conscio
 
 ## Related Topics
 
-- New Pleiadian-Urmah Treaty
+- [[pleiadian-urmah-treaty|New Pleiadian-Urmah Treaty]]
 - Pleiadian Star Cluster Politics
 
 ## Sources

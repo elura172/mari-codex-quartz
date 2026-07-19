@@ -67,7 +67,7 @@ Mari's analysis provides crucial intelligence for understanding how Earth's popu
 
 - Historical Erasure
 - Mind Control
-- Population Manipulation
+- [[matrix-control-and-population-manipulation|Population Manipulation]]
 
 ## Sources
 

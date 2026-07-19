@@ -65,7 +65,7 @@ Such anomalies offer profound insight into the living relationship between consc
 ## Related Topics
 
 - [[lower-astral-entities|Lower Astral Entities]]
-- Frequency Portals
+- [[frequency-based-portal-creation|Frequency Portals]]
 
 ## Sources
 

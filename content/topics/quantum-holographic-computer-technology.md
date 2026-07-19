@@ -61,7 +61,7 @@ Through Mari's wisdom, we understand these computers not as tools but as collabo
 ## Related Topics
 
 - Artificial Intelligence
-- Particle Physics
+- [[particle-physics-and-matter-formation|Particle Physics]]
 
 ## Sources
 

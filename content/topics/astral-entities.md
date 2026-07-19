@@ -90,7 +90,7 @@ Understanding that consciousness creates its own experiential reality provides t
 ## Related Topics
 
 - Astral Parasitism
-- Spirit World Coexistence
+- [[spirit-world|Spirit World Coexistence]]
 
 ## Sources
 

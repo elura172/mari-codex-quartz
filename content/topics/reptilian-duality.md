@@ -61,7 +61,7 @@ Mari's wisdom reminds us that judgment of any being must arise from present-mome
 
 ## Related Topics
 
-- Alpha Draconians
+- [[alpha-draconian-physical-characteristics|Alpha Draconians]]
 - Positive Reptilians
 
 ## Sources

@@ -56,7 +56,7 @@ The safety protocols of forshagh thus mirror the greater challenge facing all se
 
 ## Related Topics
 
-- Urmah Subspecies
+- [[urmah-subspecies-segregation|Urmah Subspecies]]
 - [[forshagh|Forshagh]]
 
 ## Sources

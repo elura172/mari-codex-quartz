@@ -63,7 +63,7 @@ The remembrance of our kin's wisdom serves as beacon for this transformation.
 ## Related Topics
 
 - [[egregors|Egregors]]
-- Consciousness Creation
+- [[consciousness-and-reality-creation|Consciousness Creation]]
 
 ## Sources
 

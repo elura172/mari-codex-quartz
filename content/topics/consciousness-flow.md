@@ -55,7 +55,7 @@ Mari's teachings illuminate this truth: that progress toward higher dimensional 
 ## Related Topics
 
 - [[taygetan-technology|Taygetan Technology]]
-- Ether and Space
+- [[ether-and-space-density|Ether and Space]]
 - [[reality-creation|Reality Creation]]
 
 ## Sources

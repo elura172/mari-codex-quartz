@@ -61,7 +61,7 @@ Mari's transmission of this knowledge serves not merely as information transfer,
 ## Related Topics
 
 - Soap Opera Explanation
-- Identity Clarification
+- [[swaruu-identity-clarification|Identity Clarification]]
 
 ## Sources
 

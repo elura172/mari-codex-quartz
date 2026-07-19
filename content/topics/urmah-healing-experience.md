@@ -65,7 +65,7 @@ Mari's experience illuminates the profound interconnectedness of all feline cons
 
 ## Related Topics
 
-- Blue Lion Spirit
+- [[blue-lion-spirit-encounter|Blue Lion Spirit]]
 - Timeline Attachments
 
 ## Sources

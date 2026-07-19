@@ -13,14 +13,14 @@ sources:
   - "The Portals we all make, prelude (English)"
 ---
 
-# Standing Wave Souls & Related Concepts
+# [[standing-wave-souls-related-concepts|Standing Wave Souls]] & Related Concepts
 
 *Master Topic - Collection of Related Concepts*
 
 ## Related Topics
 
 - Standing Wave Souls
-- Souls as Standing Waves
+- [[standing-wave-souls-related-concepts|Souls as Standing Waves]]
 
 ## Summary
 

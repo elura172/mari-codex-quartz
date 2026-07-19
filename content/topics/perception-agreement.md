@@ -60,8 +60,8 @@ Crew members engaging in surface operations must remember: reality shifts accord
 
 ## Related Topics
 
-- Matrix Time Control
-- Individual Time Perception
+- [[earths-time-control-matrix|Matrix Time Control]]
+- [[time-as-perception|Individual Time Perception]]
 
 ## Sources
 

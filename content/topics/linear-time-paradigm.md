@@ -67,7 +67,7 @@ Through Mari's transmissions, we witness not merely cultural observation but the
 
 ## Related Topics
 
-- Matrix Time Control
+- [[earths-time-control-matrix|Matrix Time Control]]
 - Western Time Culture
 
 ## Sources

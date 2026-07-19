@@ -62,8 +62,8 @@ The interplay between stellar rhythms, consciousness frequencies, and dimensiona
 
 ## Related Topics
 
-- Cabal Rituals
-- Solar Portals and Sunspots
+- [[cabal-rituals-and-solar-activity-related-concepts|Cabal Rituals]]
+- [[sunspots-as-portals|Solar Portals and Sunspots]]
 
 ## Sources
 

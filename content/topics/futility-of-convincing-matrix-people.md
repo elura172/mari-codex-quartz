@@ -63,7 +63,7 @@ Through her transmissions, we understand that true service lies not in convincin
 ## Related Topics
 
 - [[matrix-agents|Matrix Agents]]
-- Consciousness Levels
+- [[consciousness-levels-and-parallel-realities|Consciousness Levels]]
 
 ## Sources
 

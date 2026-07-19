@@ -66,7 +66,7 @@ These techniques demonstrate that astral combat success depends primarily on men
 ## Related Topics
 
 - [[urmah-military-operations|Urmah Military Operations]]
-- Astral Entities and Demons
+- [[demons-and-lower-astral-entities|Astral Entities and Demons]]
 
 ## Sources
 

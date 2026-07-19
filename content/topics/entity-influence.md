@@ -68,7 +68,7 @@ Mari's wisdom reminds us: consciousness is never truly isolated—we exist withi
 ## Related Topics
 
 - Spiritual Path
-- Personal Frequency
+- [[personal-frequency-control|Personal Frequency]]
 
 ## Sources
 

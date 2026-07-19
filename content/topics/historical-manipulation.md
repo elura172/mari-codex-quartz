@@ -79,7 +79,7 @@ Historical manipulation represents consciousness warfare at its most sophisticat
 ## Related Topics
 
 - Global Resets
-- Authority Control
+- [[social-matrix-and-authority-control|Authority Control]]
 - [[time-as-perception|Time as Perception]]
 
 ## Sources

@@ -60,7 +60,7 @@ Through understanding reality as mental construct, we honor both the creative po
 ## Related Topics
 
 - Matrix Creation by Humans
-- Religious Exorcism Validity
+- [[religious-exorcism|Religious Exorcism Validity]]
 
 ## Sources
 

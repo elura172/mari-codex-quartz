@@ -60,7 +60,7 @@ Mari's insights illuminate pathways beyond this conditioning matrix, suggesting 
 ## Related Topics
 
 - [[matrix-control-systems|Matrix Control Systems]]
-- Christ Consciousness
+- [[christ-consciousness-and-egregor|Christ Consciousness]]
 
 ## Sources
 

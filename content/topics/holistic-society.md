@@ -88,7 +88,7 @@ This codex serves as reference material for diplomatic encounters with civilizat
 ## Related Topics
 
 - [[step-council-system|Step Council System]]
-- Monarchy Holistic Society
+- [[holistic-society|Monarchy Holistic Society]]
 
 ## Sources
 

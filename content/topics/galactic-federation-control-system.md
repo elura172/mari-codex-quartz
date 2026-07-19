@@ -61,7 +61,7 @@ This understanding shapes our current mission parameters as we navigate between 
 
 ## Related Topics
 
-- Earth Control Mechanisms
+- [[control-mechanisms|Earth Control Mechanisms]]
 - Benevolent Extraterrestrials
 
 ## Sources

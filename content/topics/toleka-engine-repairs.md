@@ -56,7 +56,7 @@ The completion of these repairs within the coming solar cycles will test not onl
 ## Related Topics
 
 - Saska One
-- Toleka Ship
+- [[toleka-ship-specifications|Toleka Ship]]
 
 ## Sources
 

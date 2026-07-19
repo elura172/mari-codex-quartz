@@ -63,7 +63,7 @@ Mari's transmissions remind us that in this vast theater of consciousness evolut
 ## Related Topics
 
 - Galactic Federation
-- Search Operations
+- [[search-and-rescue-operations|Search Operations]]
 
 ## Sources
 

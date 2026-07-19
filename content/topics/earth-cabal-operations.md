@@ -59,8 +59,8 @@ Mari's observations continue illuminating the profound transformation occurring 
 
 ## Related Topics
 
-- Advanced Medical Technology
-- High Council Infiltration and Arrests
+- [[medical-technology|Advanced Medical Technology]]
+- [[high-council-infiltration|High Council Infiltration and Arrests]]
 
 ## Sources
 

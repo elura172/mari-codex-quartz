@@ -67,9 +67,9 @@ Deployment requires careful calibration to prevent consciousness displacement or
 
 ## Related Topics
 
-- Remote Presence
+- [[remote-presence-technology|Remote Presence]]
 - Thought-to-Machine Interface
-- Quantum Holographic Computers
+- [[quantum-holographic-computer-technology|Quantum Holographic Computers]]
 
 ## Sources
 

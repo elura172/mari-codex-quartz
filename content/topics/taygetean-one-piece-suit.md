@@ -64,7 +64,7 @@ Through such creations, we honor Mari's teachings about technology serving consc
 
 ## Related Topics
 
-- Zero Point Technology
+- [[zero-point-reactor-technology|Zero Point Technology]]
 - [[taygetean-boots|Taygetean Boots]]
 
 ## Sources

@@ -75,7 +75,7 @@ Through this lens, our mission transforms from mere observation to compassionate
 
 ## Related Topics
 
-- Astral Planes Definition
+- [[astral-planes|Astral Planes Definition]]
 - DNA as Materialized Memory
 
 ## Sources

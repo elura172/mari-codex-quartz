@@ -61,7 +61,7 @@ Standard contrails pose no interference to our propulsion systems but serve as u
 
 ## Related Topics
 
-- Chemical Spraying
+- [[chemical-spraying-programs|Chemical Spraying]]
 - Weather Control
 
 ## Sources

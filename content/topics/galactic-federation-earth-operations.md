@@ -65,7 +65,7 @@ The patience required for such long-term cultural transformation reflects the de
 
 ## Related Topics
 
-- Underground Networks
+- [[underground-trafficking-networks|Underground Networks]]
 - Earth Liberation
 - [[galactic-federation-criticism|Galactic Federation Criticism]]
 

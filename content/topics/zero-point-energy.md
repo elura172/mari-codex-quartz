@@ -64,7 +64,7 @@ Mari's teachings remind us that technology and consciousness evolve together, ea
 ## Related Topics
 
 - Dimensional Understanding
-- Mathematical Models
+- [[mathematical-models-and-free-energy|Mathematical Models]]
 
 ## Sources
 

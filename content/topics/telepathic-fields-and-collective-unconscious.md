@@ -66,7 +66,7 @@ Understanding telepathic field dynamics proves essential for diplomatic contact 
 ## Related Topics
 
 - Manifestation
-- Group Psychology
+- [[group-psychology-and-survival-instincts|Group Psychology]]
 
 ## Sources
 

@@ -62,7 +62,7 @@ Personnel should maintain heightened awareness regarding both conventional secur
 
 ## Related Topics
 
-- Astral Warfare
+- [[government-astral-warfare-programs|Astral Warfare]]
 - Triad Alliance
 - Cabal Opposition
 

@@ -64,7 +64,7 @@ Mari's characteristic composure throughout this ordeal reflects the wisdom gaine
 
 ## Related Topics
 
-- Security Protocols
+- [[security-protocols-enhancement|Security Protocols]]
 - Military Reorganization
 
 ## Sources

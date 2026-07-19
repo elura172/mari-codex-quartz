@@ -59,7 +59,7 @@ For diplomatic personnel: Understand that consciousness-based societies will per
 ## Related Topics
 
 - Personal Freedom
-- Royal Duties
+- [[queenly-duties-and-royal-life|Royal Duties]]
 
 ## Sources
 

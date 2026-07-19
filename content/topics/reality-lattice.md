@@ -67,7 +67,7 @@ The Reality Lattice thus emerges not as a constraint upon existence, but as the 
 
 - [[portal-technology|Portal Technology]]
 - Consciousness
-- Particle Physics
+- [[particle-physics-and-matter-formation|Particle Physics]]
 
 ## Sources
 

@@ -57,7 +57,7 @@ The question remains whether this represents genuine protective wisdom or instit
 ## Related Topics
 
 - Reptilian Isolation
-- Human Matrix System
+- [[matrix-system|Human Matrix System]]
 
 ## Sources
 

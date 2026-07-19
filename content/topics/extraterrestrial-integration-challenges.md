@@ -64,7 +64,7 @@ Her experience serves as both cautionary tale and roadmap for future diplomatic 
 ## Related Topics
 
 - Educational Systems
-- Human-Extraterrestrial Interactions
+- [[interaction-with-humans|Human-Extraterrestrial Interactions]]
 
 ## Sources
 

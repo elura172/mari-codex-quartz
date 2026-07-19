@@ -59,7 +59,7 @@ Mari's insights remind us that Earth's current paradigm is not humanity's natura
 ## Related Topics
 
 - [[holistic-society-model|Holistic Society Model]]
-- Money as Control System
+- [[control-systems|Money as Control System]]
 
 ## Sources
 

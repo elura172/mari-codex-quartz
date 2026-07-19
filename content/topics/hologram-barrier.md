@@ -68,7 +68,7 @@ Mari's clarity regarding this deception honors those surface humans whose intuit
 ## Related Topics
 
 - Project Blue Beam
-- Moon Control Systems
+- [[control-systems|Moon Control Systems]]
 
 ## Sources
 

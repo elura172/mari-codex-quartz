@@ -59,7 +59,7 @@ Mari's approach demonstrated this principlebypassing established UFO organizatio
 
 ## Related Topics
 
-- Controlled Disclosure
+- [[government-controlled-ufo-disclosure|Controlled Disclosure]]
 - False Contactees
 
 ## Sources

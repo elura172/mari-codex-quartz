@@ -62,7 +62,7 @@ These observations honor the courage of those who chose truth over compliance, t
 
 ## Related Topics
 
-- New Pleiadian-Urmah Treaty
+- [[pleiadian-urmah-treaty|New Pleiadian-Urmah Treaty]]
 - Taygetan Defense Strategy
 
 ## Sources

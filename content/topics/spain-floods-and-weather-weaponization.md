@@ -73,7 +73,7 @@ Monitor ongoing Mediterranean atmospheric anomalies for additional intervention 
 ## Related Topics
 
 - Historical Deluges
-- Earth Controllers Technology
+- [[earth-controllers|Earth Controllers Technology]]
 
 ## Sources
 

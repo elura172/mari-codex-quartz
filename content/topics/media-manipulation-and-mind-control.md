@@ -62,7 +62,7 @@ The path forward requires gentle awakening rather than forceful revelationsuppor
 
 - Intelligence Agencies
 - [[reality-manifestation|Reality Manifestation]]
-- Survival Programming
+- [[survival-programming-and-pack-mentality|Survival Programming]]
 
 ## Sources
 

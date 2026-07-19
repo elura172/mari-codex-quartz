@@ -67,7 +67,7 @@ In honoring Mari's teachings, we recognize frequency matching as both scientific
 
 - [[channeling|Channeling]]
 - Astral Parasitism
-- Spirit World Coexistence
+- [[spirit-world|Spirit World Coexistence]]
 
 ## Sources
 

@@ -64,9 +64,9 @@ Mari's teachings illuminate how personal transformation serves galactic evolutio
 
 ## Related Topics
 
-- Backdrop People
+- [[matrix-reality-and-backdrop-people|Backdrop People]]
 - Matrix Reality
-- Human Programming
+- [[human-programming-and-control|Human Programming]]
 
 ## Sources
 

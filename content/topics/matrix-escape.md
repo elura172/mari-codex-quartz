@@ -64,7 +64,7 @@ The matrix escape is ultimately a return—a remembering of the consciousness's 
 ## Related Topics
 
 - [[social-matrix-and-authority-control|Social Matrix and Authority Control]]
-- Critical Thinking Methods
+- [[critical-thinking|Critical Thinking Methods]]
 
 ## Sources
 

@@ -59,7 +59,7 @@ Mari's observations illuminate not merely a control system, but a fundamental di
 ## Related Topics
 
 - [[cabal-control|Cabal Control]]
-- Population Manipulation
+- [[matrix-control-and-population-manipulation|Population Manipulation]]
 
 ## Sources
 

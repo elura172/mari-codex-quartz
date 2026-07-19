@@ -62,7 +62,7 @@ The event serves as a reminder that even the most advanced consciousness may fin
 
 ## Related Topics
 
-- Political Enemies
+- [[political-enemies-and-threats|Political Enemies]]
 - Starship Security
 
 ## Sources

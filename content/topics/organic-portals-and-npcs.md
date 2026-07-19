@@ -62,7 +62,7 @@ This knowledge, shared through Mari's wisdom, illuminates the true nature of Ear
 ## Related Topics
 
 - Soul Types
-- Entity Possession
+- [[lower-astral-entity-possession|Entity Possession]]
 
 ## Sources
 

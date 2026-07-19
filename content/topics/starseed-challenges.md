@@ -71,7 +71,7 @@ The starseed's primary mission remains unchanged despite these obstacles: to anc
 ## Related Topics
 
 - Indirect Targeting Strategy
-- Vibrational Frequency Defense
+- [[vibrational-frequency|Vibrational Frequency Defense]]
 
 ## Sources
 

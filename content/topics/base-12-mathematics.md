@@ -66,7 +66,7 @@ For diplomatic missions to Earth, recognize that humanity's mathematical limitat
 ## Related Topics
 
 - [[hexa-dimensional-space-time-model|Hexa-Dimensional Space-Time Model]]
-- Free Energy
+- [[mathematical-models-and-free-energy|Free Energy]]
 
 ## Sources
 
