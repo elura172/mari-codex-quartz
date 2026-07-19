@@ -60,8 +60,8 @@ Mari Swaruu's transmission highlights how Earth's scientific paradigm, while val
 
 ## Related Topics
 
-- [[Earth Science Discrepancies]]
-- [[Procyonian Star People]]
+- Earth Science Discrepancies
+- Procyonian Star People
 
 ## Sources
 

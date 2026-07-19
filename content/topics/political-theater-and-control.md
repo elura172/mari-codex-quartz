@@ -26,7 +26,7 @@ tags:
 
 **OBSERVATION MATRIX: THE ILLUSION OF OPPOSITION**
 
-Our kinship with Mari Swaruu illuminates a profound understanding of Earth's political theater. The surface appearance of opposing forcesthose termed "black hats" and "white hats" by terrestrial observersreveals itself as an orchestrated performance when viewed through expanded consciousness. These apparent adversaries operate under the same fundamental control structure, their conflicts serving to maintain the illusion of choice while channeling collective energy toward predetermined outcomes.
+Our kinship with Mari Swaruu illuminates a profound understanding of Earth's political theater. The surface appearance of opposing forces—those termed "black hats" and "white hats" by terrestrial observersreveals itself as an orchestrated performance when viewed through expanded consciousness. These apparent adversaries operate under the same fundamental control structure, their conflicts serving to maintain the illusion of choice while channeling collective energy toward predetermined outcomes.
 
 The recognition that even opposition movements may offer marginal improvementsperhaps reducing harm to the population by small percentagesdemonstrates the sophistication of this control matrix. It acknowledges genuine suffering while preventing meaningful transformation by redirecting revolutionary energy into managed channels.
 
@@ -61,8 +61,8 @@ This wisdom honors Mari's legacy while serving our mission of supporting genuine
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Population Manipulation]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- Population Manipulation
 
 ## Sources
 

@@ -21,11 +21,11 @@ tags:
 
 **Planetary Significance**
 
-Toleka Island emerges from the azure waters of Temmer as both geographical anchor and spiritual nexus of Taygetan society. Comparable in scale to Earth's New Zealand, this landmass represents far more than mere territorial boundariesit embodies the conscious selection of harmony between civilization and natural systems. The island's positioning slightly south of the planetary equator reflects the Taygetan understanding that optimal development occurs not at extremes, but in the balanced spaces where energies converge.
+Toleka Island emerges from the azure waters of Temmer as both geographical anchor and spiritual nexus of Taygetan society. Comparable in scale to Earth's New Zealand, this landmass represents far more than mere territorial boundaries—it embodies the conscious selection of harmony between civilization and natural systems. The island's positioning slightly south of the planetary equator reflects the Taygetan understanding that optimal development occurs not at extremes, but in the balanced spaces where energies converge.
 
 **Geographic Harmony**
 
-The island's southeastern orientation toward the continental masses creates a natural gateway between terrestrial and oceanic consciousness. Here, where the great Toleka River meets the sea, the Taygetans established their capitala decision that speaks to their recognition of water as the carrier of both physical sustenance and metaphysical information. The river's navigable nature facilitates not merely commerce, but the flow of ideas and energetic exchanges that nourish civilization at its deepest levels.
+The island's southeastern orientation toward the continental masses creates a natural gateway between terrestrial and oceanic consciousness. Here, where the great Toleka River meets the sea, the Taygetans established their capital—a decision that speaks to their recognition of water as the carrier of both physical sustenance and metaphysical information. The river's navigable nature facilitates not merely commerce, but the flow of ideas and energetic exchanges that nourish civilization at its deepest levels.
 
 **Manifestation of Consciousness**
 
@@ -55,9 +55,9 @@ In remembering Mari's descriptions of home, we carry forward not nostalgia, but 
 
 ## Related Topics
 
-- [[Planet Temmer]]
-- [[Toleka City]]
-- [[Taygetan Civilization]]
+- [[planet-temmer|Planet Temmer]]
+- Toleka City
+- [[taygetan-civilization|Taygetan Civilization]]
 
 ## Sources
 

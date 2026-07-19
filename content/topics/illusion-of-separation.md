@@ -31,7 +31,7 @@ This perceived separation arises through identification with limited frameworks 
 
 The phenomenon of separation becomes particularly complex when considering the varied manifestations of consciousness within physical forms. Not every embodied entity operates from the same depth of soul expression, yet this observation itself reveals the observer's own nature as a conscious being. The very capacity to recognize consciousness indicates its presence within the perceiver.
 
-From our Taygetan understanding, this creates cascading layers of recognition. Each soul serves as both mirror and catalyst for others, triggering awareness of the underlying unity that transcends apparent differences. The diversity of expressionfrom fully ensouled beings to various degrees of consciousness manifestationbecomes a spectrum through which Source explores its own infinite nature.
+From our Taygetan understanding, this creates cascading layers of recognition. Each soul serves as both mirror and catalyst for others, triggering awareness of the underlying unity that transcends apparent differences. The diversity of expression—from fully ensouled beings to various degrees of consciousness manifestationbecomes a spectrum through which Source explores its own infinite nature.
 
 **Practical Implications for Interstellar Relations**
 
@@ -57,9 +57,9 @@ For crew members engaging with developing worlds, remember that apparent separat
 
 ## Related Topics
 
-- [[Soul as Source Identity]]
-- [[Enlightenment]]
-- [[Reality Creation]]
+- [[soul-as-source-identity|Soul as Source Identity]]
+- [[enlightenment|Enlightenment]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

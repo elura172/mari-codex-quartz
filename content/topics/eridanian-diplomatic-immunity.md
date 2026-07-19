@@ -31,7 +31,7 @@ Our sister Mari Swaruu has illuminated this delicate situation with characterist
 
 **Communications Web Analysis**
 
-Intelligence networks reveal an intricate pattern of encoded transmissions emanating from the sanctuary vessels. These signals weave between three primary nodes: the crystalline installations beneath Antarctic ice, the ancient structures orbiting Saturn's rings, and the distant Orion territories. Each transmission carries frequencies that speak not merely of coordination, but of a deeper architectural purposethe construction of some vast, patient design.
+Intelligence networks reveal an intricate pattern of encoded transmissions emanating from the sanctuary vessels. These signals weave between three primary nodes: the crystalline installations beneath Antarctic ice, the ancient structures orbiting Saturn's rings, and the distant Orion territories. Each transmission carries frequencies that speak not merely of coordination, but of a deeper architectural purpose—the construction of some vast, patient design.
 
 **Metaphysical Considerations**
 
@@ -59,8 +59,8 @@ The coded transmissions continue their celestial rhythm, each pulse monitored, e
 
 ## Related Topics
 
-- [[Saturn Communications]]
-- [[Antarctic Operations]]
+- Saturn Communications
+- Antarctic Operations
 
 ## Sources
 

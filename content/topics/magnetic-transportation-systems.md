@@ -27,7 +27,7 @@ tags:
 
 **Overview of System Architecture**
 
-The Solatians have achieved what many civilizations aspire to but few accomplish: complete harmony between technological advancement and environmental preservation. Their magnetic transportation networks represent a philosophical statement as much as an engineering triumpha conscious choice to flow above rather than carve through their world's living systems.
+The Solatians have achieved what many civilizations aspire to but few accomplish: complete harmony between technological advancement and environmental preservation. Their magnetic transportation networks represent a philosophical statement as much as an engineering triumph—a conscious choice to flow above rather than carve through their world's living systems.
 
 **Physical Infrastructure Design**
 
@@ -65,8 +65,8 @@ Mari's observations remind us that advanced civilizations are measured not by th
 
 ## Related Topics
 
-- [[Pleiadian Technology]]
-- [[Solatian Technology]]
+- Pleiadian Technology
+- Solatian Technology
 
 ## Sources
 

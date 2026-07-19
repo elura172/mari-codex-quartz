@@ -63,8 +63,8 @@ Mari's wisdom echoes through dimensions, reminding us that truth transcends the 
 
 ## Related Topics
 
-- [[Material World Illusion]]
-- [[Soul Consciousness]]
+- [[material-world-illusion|Material World Illusion]]
+- [[soul-consciousness|Soul Consciousness]]
 
 ## Sources
 

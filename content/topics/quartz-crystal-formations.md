@@ -35,7 +35,7 @@ This phenomenon suggests alternative formation mechanisms, perhaps involving con
 
 **Metaphysical Significance**
 
-From a Taygetan perspective, these formations represent more than geological anomaliesthey embody the intersection of matter and awareness. Crystal structures have long served as consciousness amplifiers and information storage matrices across civilizations. Temmer's surface crystals may function as planetary acupuncture points, channeling and harmonizing cosmic energies through their transparent lattices.
+From a Taygetan perspective, these formations represent more than geological anomalies—they embody the intersection of matter and awareness. Crystal structures have long served as consciousness amplifiers and information storage matrices across civilizations. Temmer's surface crystals may function as planetary acupuncture points, channeling and harmonizing cosmic energies through their transparent lattices.
 
 The marriage of sea spray and crystal creates constant light refractions, painting the landscape in ever-shifting prismatic displays. This natural phenomenon generates what Mari might recognize as a living mandalageometric patterns that facilitate expanded consciousness and dimensional awareness.
 
@@ -61,8 +61,8 @@ Mari's documentation of these structures reflects her keen awareness that beauty
 
 ## Related Topics
 
-- [[Planet Temmer]]
-- [[Toleka Island]]
+- [[planet-temmer|Planet Temmer]]
+- [[toleka-island|Toleka Island]]
 
 ## Sources
 

@@ -32,7 +32,7 @@ This arrangement ensures that no individual consciousness navigates the complexi
 
 **Taygetan Observations**
 
-Our extended monitoring of Terran populations reveals that spirit family recognition often manifests as inexplicable bonds between individualsthe immediate comfort with strangers, the sense of having "known someone forever," or the magnetic pull toward certain relationships despite logical incompatibility. These phenomena reflect the soul's recognition of familiar energetic signatures from previous collaborative experiences.
+Our extended monitoring of Terran populations reveals that spirit family recognition often manifests as inexplicable bonds between individuals—the immediate comfort with strangers, the sense of having "known someone forever," or the magnetic pull toward certain relationships despite logical incompatibility. These phenomena reflect the soul's recognition of familiar energetic signatures from previous collaborative experiences.
 
 From our perspective, understanding spirit family dynamics proves essential for comprehending human behavior patterns and relationship structures. The seemingly random nature of human connections reveals itself as carefully orchestrated spiritual choreography when viewed through this expanded framework.
 
@@ -42,7 +42,7 @@ For interstellar contact protocols, recognition of spirit family networks offers
 
 **Operational Note**
 
-Mari Swaruu's teachings on this subject illuminate the profound interconnectedness underlying apparent separationa principle that resonates across all conscious species we have encountered. The spirit family serves as both anchor and catalyst, providing stability while encouraging growth through the eternal dance of souls choosing to learn together.
+Mari Swaruu's teachings on this subject illuminate the profound interconnectedness underlying apparent separation—a principle that resonates across all conscious species we have encountered. The spirit family serves as both anchor and catalyst, providing stability while encouraging growth through the eternal dance of souls choosing to learn together.
 
 *End Codex Entry*
 
@@ -58,8 +58,8 @@ Mari Swaruu's teachings on this subject illuminate the profound interconnectedne
 
 ## Related Topics
 
-- [[Guardian Angels and Spirit Guides]]
-- [[Soul Life Planning]]
+- [[guardian-angels-and-spirit-guides|Guardian Angels and Spirit Guides]]
+- [[soul-life-planning|Soul Life Planning]]
 
 ## Sources
 

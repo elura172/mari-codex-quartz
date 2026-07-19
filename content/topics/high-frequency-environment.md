@@ -57,8 +57,8 @@ Such worlds await not discovery, but remembrance.
 
 ## Related Topics
 
-- [[Cyndriel Planet]]
-- [[Enlightenment]]
+- [[cyndriel-planet|Cyndriel Planet]]
+- [[enlightenment|Enlightenment]]
 
 ## Sources
 

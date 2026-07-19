@@ -50,7 +50,7 @@ These temporal measurement limitations significantly impact our understanding of
 
 When engaging with Earth historical narratives, maintain awareness that their chronological frameworks represent approximations filtered through consciousness-distorted measurement systems. Approach their temporal claims with compassionate understanding rather than correction, recognizing that their dating methods reflect their current level of awareness regarding consciousness-time relationships.
 
-Mari's insights remind us that measurement itself transforms the measureda principle our kin on Earth are gradually approaching through their quantum mechanical discoveries.
+Mari's insights remind us that measurement itself transforms the measured—a principle our kin on Earth are gradually approaching through their quantum mechanical discoveries.
 
 ## Quotes
 
@@ -68,8 +68,8 @@ Mari's insights remind us that measurement itself transforms the measureda princ
 
 ## Related Topics
 
-- [[Time and Consciousness]]
-- [[Origins of Money]]
+- [[time-and-consciousness|Time and Consciousness]]
+- [[origins-of-money|Origins of Money]]
 
 ## Sources
 

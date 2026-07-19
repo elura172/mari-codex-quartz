@@ -36,7 +36,7 @@ Mari Swaruu's observations reveal how this belief transforms potential creators 
 
 **Energetic Consequences**
 
-From our Taygetan understanding of consciousness mechanics, we observe how this belief creates a closed-loop system of spiritual entropy. The life forcethat dynamic creative essence that propels souls toward expansionbecomes trapped in patterns of acceptance rather than flowing toward manifestation and growth.
+From our Taygetan understanding of consciousness mechanics, we observe how this belief creates a closed-loop system of spiritual entropy. The life force—that dynamic creative essence that propels souls toward expansionbecomes trapped in patterns of acceptance rather than flowing toward manifestation and growth.
 
 The awakening human, initially seeking empowerment through spiritual knowledge, instead discovers a philosophy that strips away agency. This creates what we classify as "enlightened victimhood"a state where individuals use spiritual concepts to justify inaction and surrender to circumstances that could otherwise be transcended.
 
@@ -66,8 +66,8 @@ Mari's wisdom reminds us that awakened beings are not prisoners of cosmic contra
 
 ## Related Topics
 
-- [[Free Will vs Determinism]]
-- [[Quantum Jumping]]
+- Free Will vs Determinism
+- [[quantum-jumping|Quantum Jumping]]
 
 ## Sources
 

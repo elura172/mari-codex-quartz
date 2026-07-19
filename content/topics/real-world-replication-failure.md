@@ -24,7 +24,7 @@ tags:
 
 **Incident Overview**
 
-Our consciousness-based fabrication systems experienced a profound manifestation failure during the complete replication of a terrestrial automotive vehicle. This event represents more than mere technical malfunctionit illuminates the delicate interplay between dimensional frequencies and material coherence that governs our reality-shaping technologies.
+Our consciousness-based fabrication systems experienced a profound manifestation failure during the complete replication of a terrestrial automotive vehicle. This event represents more than mere technical malfunction—it illuminates the delicate interplay between dimensional frequencies and material coherence that governs our reality-shaping technologies.
 
 **Manifestation Degradation Pattern**
 
@@ -62,7 +62,7 @@ The dissolved rubber speaks to impermanence; the surviving metal frame suggests 
 
 ## Related Topics
 
-- [[Recent Replicator Problems]]
+- [[recent-replicator-problems|Recent Replicator Problems]]
 
 ## Sources
 

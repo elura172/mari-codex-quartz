@@ -44,7 +44,7 @@ This environment provides optimal conditions for soul development, free from the
 
 **Taygetan Perspective**
 
-Our civilization recognizes the spirit world as humanity's authentic origin pointnot merely a destination but the eternal home from which all beings temporarily venture into physical expression for experiential growth. Understanding this relationship helps explain why death appears traumatic only from the limited perspective of material attachment.
+Our civilization recognizes the spirit world as humanity's authentic origin point—not merely a destination but the eternal home from which all beings temporarily venture into physical expression for experiential growth. Understanding this relationship helps explain why death appears traumatic only from the limited perspective of material attachment.
 
 **Operational Significance**
 
@@ -62,8 +62,8 @@ For starfaring civilizations, acknowledging spirit world dynamics proves essenti
 
 ## Related Topics
 
-- [[Immortality of Consciousness]]
-- [[Dark Entities]]
+- [[immortality-of-consciousness|Immortality of Consciousness]]
+- [[dark-entities|Dark Entities]]
 
 ## Sources
 

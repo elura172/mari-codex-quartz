@@ -47,7 +47,7 @@ Hostile encounters typically correlate with human fear responses, negative emoti
 
 When monitoring human-Shadow People interactions, observe the emotional substrate of the environment as primary indicator of outcome probability. These beings offer insight into humanity's evolving capacity for inter-dimensional awareness and peaceful coexistence with consciousness forms beyond their current perceptual framework.
 
-Mari's wisdom reminds us that all consciousness seeks recognition and respect. The Shadow People's variable behavior toward humans reflects this universal principlethey respond to the quality of acknowledgment they receive, teaching humanity valuable lessons about the reciprocal nature of inter-species communication across dimensional boundaries.
+Mari's wisdom reminds us that all consciousness seeks recognition and respect. The Shadow People's variable behavior toward humans reflects this universal principle—they respond to the quality of acknowledgment they receive, teaching humanity valuable lessons about the reciprocal nature of inter-species communication across dimensional boundaries.
 
 **Recommended Approach:** Observe with compassion, document without interference, honor the learning occurring on both sides of this remarkable interaction.
 
@@ -63,8 +63,8 @@ Mari's wisdom reminds us that all consciousness seeks recognition and respect. T
 
 ## Related Topics
 
-- [[Shadow People Behavior]]
-- [[Protection Methods]]
+- [[shadow-people-behavior|Shadow People Behavior]]
+- [[protection-methods|Protection Methods]]
 
 ## Sources
 

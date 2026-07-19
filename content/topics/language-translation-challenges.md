@@ -34,7 +34,7 @@ Human languages, constrained by linear sequential processing, cannot accommodate
 
 **Operational Implications**
 
-This translation barrier necessitates continuous interpretation rather than direct conversion. Each communication requires conscious distillation of meaning layers, selecting which dimensional aspects can be preserved within human cognitive frameworks. The process resembles attempting to capture an ocean's essence in a series of small vesselseach container holds truth, yet the totality remains beyond singular comprehension.
+This translation barrier necessitates continuous interpretation rather than direct conversion. Each communication requires conscious distillation of meaning layers, selecting which dimensional aspects can be preserved within human cognitive frameworks. The process resembles attempting to capture an ocean's essence in a series of small vessels—each container holds truth, yet the totality remains beyond singular comprehension.
 
 Our translation protocols must therefore emphasize conceptual bridges rather than lexical equivalence. We construct meaning through approximation and metaphor, allowing human consciousness to reconstruct understanding through its own interpretive pathways. This approach honors both the integrity of our original communication and the receptive capacity of human awareness.
 
@@ -62,8 +62,8 @@ This translation dynamic serves broader diplomatic purposes, fostering mutual ev
 
 ## Related Topics
 
-- [[Cultural Differences]]
-- [[New Crew Arrivals]]
+- [[cultural-differences|Cultural Differences]]
+- [[new-crew-arrivals|New Crew Arrivals]]
 
 ## Sources
 

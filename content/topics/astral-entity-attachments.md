@@ -30,7 +30,7 @@ Like a key finding its corresponding lock, these entities require only the small
 
 **Mechanics of Attachment**
 
-The entities function as energy vampires, drawn by the promise of sustenance from the life force of their hosts. Their approach mirrors predatory behavior observed in biological ecosystemsthey identify weakness, vulnerability, or emotional disturbance as invitation signals. Fear, anger, despair, and addiction create particularly strong frequency matches that act as beacons across dimensional boundaries.
+The entities function as energy vampires, drawn by the promise of sustenance from the life force of their hosts. Their approach mirrors predatory behavior observed in biological ecosystems—they identify weakness, vulnerability, or emotional disturbance as invitation signals. Fear, anger, despair, and addiction create particularly strong frequency matches that act as beacons across dimensional boundaries.
 
 Once established, these attachments operate through subtle influence rather than overt control. The host's thoughts, emotions, and behavioral patterns gradually shift to accommodate the entity's needs, creating feedback loops that strengthen the parasitic bond while weakening the host's sovereign will.
 
@@ -60,8 +60,8 @@ Understanding this phenomenon serves our diplomatic mission by recognizing how s
 
 ## Related Topics
 
-- [[Vibrational Frequency Matching]]
-- [[Lower Astral Entities]]
+- Vibrational Frequency Matching
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

@@ -59,8 +59,8 @@ The wise diplomat recognizes that every transaction, regardless of its medium, r
 
 ## Related Topics
 
-- [[Types of Gold]]
-- [[Holistic Society]]
+- [[types-of-gold|Types of Gold]]
+- [[holistic-society|Holistic Society]]
 
 ## Sources
 

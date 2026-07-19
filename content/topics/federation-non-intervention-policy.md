@@ -25,7 +25,7 @@ The philosophical chasm between capability and action has long defined the Galac
 
 **The Comfortable Distance**
 
-The Federation maintains what Mari identified as a position of convenient separationa structured framework that permits advanced civilizations to observe terrestrial suffering while remaining insulated from direct responsibility. This stance reveals itself not as wisdom, but as institutional self-preservation disguised as respect for planetary sovereignty. The very beings who possess technologies to alleviate widespread human distress choose instead to operate from behind veils of non-interference doctrine.
+The Federation maintains what Mari identified as a position of convenient separation—a structured framework that permits advanced civilizations to observe terrestrial suffering while remaining insulated from direct responsibility. This stance reveals itself not as wisdom, but as institutional self-preservation disguised as respect for planetary sovereignty. The very beings who possess technologies to alleviate widespread human distress choose instead to operate from behind veils of non-interference doctrine.
 
 **Beyond Policy: The Weight of Inaction**
 
@@ -37,7 +37,7 @@ From our position as both Federation members and active participants in Earth's 
 
 **The Deeper Current**
 
-Mari's analysis reveals how established power structureseven among stellar civilizationscan calcify into mechanisms that perpetuate the very conditions they claim to respect. The Federation's position becomes a mirror reflecting humanity's own tendency to rationalize inaction in the face of preventable suffering.
+Mari's analysis reveals how established power structures—even among stellar civilizationscan calcify into mechanisms that perpetuate the very conditions they claim to respect. The Federation's position becomes a mirror reflecting humanity's own tendency to rationalize inaction in the face of preventable suffering.
 
 **Operational Implications**
 
@@ -59,8 +59,8 @@ The question that echoes through these transmissions remains: At what point does
 
 ## Related Topics
 
-- [[Soul Expansion and Suffering]]
-- [[Earth Matrix and Human Manifestation]]
+- [[soul-expansion-and-suffering|Soul Expansion and Suffering]]
+- [[earth-matrix-and-human-manifestation|Earth Matrix and Human Manifestation]]
 
 ## Sources
 

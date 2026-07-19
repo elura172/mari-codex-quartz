@@ -44,7 +44,7 @@ From our Taygetan perspective, these safety challenges reflect Earth's character
 
 For diplomatic personnel engaging with Terran transportation infrastructure, awareness of these vulnerabilities proves essential. The planet's transition from combustion to electrical propulsion carries noble intentions toward atmospheric restoration, yet the implementation reveals the species' ongoing struggle to balance technological capability with energetic mastery.
 
-Mari's observations remind us that true advancement requires not merely new technologies, but the consciousness evolution necessary to wield them safelya lesson relevant far beyond Earth's borders.
+Mari's observations remind us that true advancement requires not merely new technologies, but the consciousness evolution necessary to wield them safely—a lesson relevant far beyond Earth's borders.
 
 *End Entry - Archive Classification: General Distribution*
 
@@ -68,8 +68,8 @@ Mari's observations remind us that true advancement requires not merely new tech
 
 ## Related Topics
 
-- [[Fire Hazards]]
-- [[Vehicle Safety]]
+- Fire Hazards
+- Vehicle Safety
 
 ## Sources
 

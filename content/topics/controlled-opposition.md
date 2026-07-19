@@ -30,13 +30,13 @@ The phenomenon of controlled opposition represents one of Earth's most sophistic
 
 **Operational Architecture**
 
-Intelligence agencies operating within Earth's matrix of control have perfected the art of narrative shepherding. Rather than suppressing alternative viewpoints outrighta strategy that often amplifies resistancethey infiltrate and guide these movements from within. Large spiritual organizations, despite appearing autonomous, frequently operate under invisible hierarchies that answer to governmental oversight structures.
+Intelligence agencies operating within Earth's matrix of control have perfected the art of narrative shepherding. Rather than suppressing alternative viewpoints outrighta strategy that often amplifies resistance—they infiltrate and guide these movements from within. Large spiritual organizations, despite appearing autonomous, frequently operate under invisible hierarchies that answer to governmental oversight structures.
 
 This creates a fascinating paradox: those seeking truth find themselves unwittingly consuming carefully crafted pseudo-revelations. The yearning for awakening becomes commodified, packaged into profitable enterprises that simultaneously serve surveillance and misdirection purposes.
 
 **The Dialectical Trap**
 
-Perhaps most ingenious is the deployment of apparent opposition between groups. From our elevated perspective, we observe how seemingly contradictory movementseach claiming exclusive access to truthoften emerge from identical source points within intelligence networks. This manufactured dialectic creates the illusion of choice while ensuring all pathways ultimately serve predetermined outcomes.
+Perhaps most ingenious is the deployment of apparent opposition between groups. From our elevated perspective, we observe how seemingly contradictory movements—each claiming exclusive access to truthoften emerge from identical source points within intelligence networks. This manufactured dialectic creates the illusion of choice while ensuring all pathways ultimately serve predetermined outcomes.
 
 Starseeds and awakening humans, drawn naturally toward communities of resonance, may find themselves corralled within these managed ecosystems. Their genuine spiritual impulses become harvested energy, their authentic seeking redirected through carefully constructed channeled narratives.
 
@@ -66,8 +66,8 @@ Understanding controlled opposition dynamics proves essential for effective Eart
 
 ## Related Topics
 
-- [[Spiritual Seeking (Level 3)]]
-- [[Social Control]]
+- Spiritual Seeking (Level 3)
+- Social Control
 
 ## Sources
 

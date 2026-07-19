@@ -64,8 +64,8 @@ Mari's guidance continues illuminating pathways toward conscious evolution, offe
 
 ## Related Topics
 
-- [[Wind Cleansing]]
-- [[Natural Elements]]
+- [[wind-cleansing|Wind Cleansing]]
+- Natural Elements
 
 ## Sources
 

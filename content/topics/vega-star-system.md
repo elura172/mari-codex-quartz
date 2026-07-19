@@ -34,7 +34,7 @@ The second planet, known as Avyon, pulses with the fierce dignity of the Urmah c
 
 **Lyra: Cradle of Human Genesis**
 
-The official birthworld of humanity, Lyra carries within its atmospheric envelope the original template of human consciousness before its diaspora across the galaxy. This planet exists as both physical location and metaphysical anchor pointthe source frequency from which all human variations, including Earth's current iteration, derive their essential nature. Understanding Lyra means understanding the archetypal human: unbounded, creative, eternally seeking expansion beyond the horizon of the known.
+The official birthworld of humanity, Lyra carries within its atmospheric envelope the original template of human consciousness before its diaspora across the galaxy. This planet exists as both physical location and metaphysical anchor point—the source frequency from which all human variations, including Earth's current iteration, derive their essential nature. Understanding Lyra means understanding the archetypal human: unbounded, creative, eternally seeking expansion beyond the horizon of the known.
 
 **Metaphysical Significance**
 
@@ -58,8 +58,8 @@ Approach protocols should reflect appropriate reverence for both civilizations' 
 
 ## Related Topics
 
-- [[Urmah Homeworld]]
-- [[Human Origins]]
+- Urmah Homeworld
+- Human Origins
 
 ## Sources
 

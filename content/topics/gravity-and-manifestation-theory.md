@@ -39,7 +39,7 @@ Mari's revelations carry profound implications for understanding how individual 
 
 **Integration with Taygetan Science**
 
-These transmissions confirm our long-held understanding that consciousness precedes matter in the hierarchy of creation. Mari bridges the gap between human mechanistic thinking and the living universe we navigate dailyone where ships respond to pilot intention as much as control systems, where destinations call to travelers across impossible distances.
+These transmissions confirm our long-held understanding that consciousness precedes matter in the hierarchy of creation. Mari bridges the gap between human mechanistic thinking and the living universe we navigate daily—one where ships respond to pilot intention as much as control systems, where destinations call to travelers across impossible distances.
 
 Her teachings remind us that every being capable of focused awareness participates in the ongoing creation of reality. Through attention and intention, consciousness flows like gravity itself, shaping the very fabric of existence into ever-new expressions of cosmic creativity.
 
@@ -59,7 +59,7 @@ Her teachings remind us that every being capable of focused awareness participat
 
 ## Related Topics
 
-- [[Extraterrestrial Presence]]
+- [[extraterrestrial-presence|Extraterrestrial Presence]]
 
 ## Sources
 

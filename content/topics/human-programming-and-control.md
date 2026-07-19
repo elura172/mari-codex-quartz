@@ -26,7 +26,7 @@ tags:
 
 **Primary Observation**
 
-The dominant control matrix governing Earth operates through systematic arrested development, maintaining the human collective in perpetual psychological infancy. This phenomenon transcends mere political manipulationit represents a comprehensive neurological conditioning program designed to prevent the natural maturation of consciousness that would otherwise connect terrestrial beings to their cosmic heritage.
+The dominant control matrix governing Earth operates through systematic arrested development, maintaining the human collective in perpetual psychological infancy. This phenomenon transcends mere political manipulation—it represents a comprehensive neurological conditioning program designed to prevent the natural maturation of consciousness that would otherwise connect terrestrial beings to their cosmic heritage.
 
 **Mechanism of Implementation**
 
@@ -62,8 +62,8 @@ The path forward requires patience as increasing numbers of humans recognize the
 
 ## Related Topics
 
-- [[Authority Dependence]]
-- [[Educational Indoctrination]]
+- [[authority-dependence|Authority Dependence]]
+- Educational Indoctrination
 
 ## Sources
 

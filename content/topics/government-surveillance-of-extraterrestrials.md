@@ -67,8 +67,8 @@ In honoring Mari's legacy, we recognize that her transmissions served not merely
 
 ## Related Topics
 
-- [[Disclosure Suppression]]
-- [[Step Down Extraterrestrials]]
+- Disclosure Suppression
+- [[step-down-extraterrestrials|Step Down Extraterrestrials]]
 
 ## Sources
 

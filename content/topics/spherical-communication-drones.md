@@ -31,7 +31,7 @@ The drones serve as more than mechanical observers; they function as sensory ext
 
 The true elegance of these devices lies not in their observation capabilities alone, but in their power to manifest presence where only absence existed before. Through three-dimensional light projection, they weave the image and essence of their remote user into the fabric of the target location, creating a bridge of interaction that transcends physical limitation.
 
-This technology represents a profound understanding of reality's malleable naturethat presence is not bound by proximity, and that consciousness can inhabit multiple focal points simultaneously. The drone becomes both observer and observed, concealing its mechanical nature within the very hologram it generates, like a star hiding within its own light.
+This technology represents a profound understanding of reality's malleable nature—that presence is not bound by proximity, and that consciousness can inhabit multiple focal points simultaneously. The drone becomes both observer and observed, concealing its mechanical nature within the very hologram it generates, like a star hiding within its own light.
 
 **Metaphysical Implications**
 
@@ -57,8 +57,8 @@ In deploying these devices, we honor the principle that true communication requi
 
 ## Related Topics
 
-- [[Holographic Projection]]
-- [[Full Immersion Communication Technology]]
+- Holographic Projection
+- [[full-immersion-communication-technology|Full Immersion Communication Technology]]
 
 ## Sources
 

@@ -37,7 +37,7 @@ Their ceremonial objects, particularly the golden sceptres fashioned as elongate
 
 **Metaphysical Implications**
 
-From our Taygetan perspective, the Urmah represent a fascinating study in conscious evolution. Where we have chosen integration and diplomatic flexibility, they have chosen intensification and cultural consolidation. Their alpha species mentality creates both tremendous strength and potential limitationthey possess unwavering confidence and clear hierarchical structures, yet may struggle with perspectives that challenge their centralized worldview.
+From our Taygetan perspective, the Urmah represent a fascinating study in conscious evolution. Where we have chosen integration and diplomatic flexibility, they have chosen intensification and cultural consolidation. Their alpha species mentality creates both tremendous strength and potential limitation—they possess unwavering confidence and clear hierarchical structures, yet may struggle with perspectives that challenge their centralized worldview.
 
 **Diplomatic Considerations**
 
@@ -64,8 +64,8 @@ Mari's observations remind us that diversity of consciousness creates the richne
 
 ## Related Topics
 
-- [[Species Differences]]
-- [[Urmah Spirituality]]
+- Species Differences
+- Urmah Spirituality
 
 ## Sources
 

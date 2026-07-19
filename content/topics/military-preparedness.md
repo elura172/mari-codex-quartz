@@ -22,11 +22,11 @@ tags:
 **Stellar Date: [Current Mission Cycle]**
 **Classification: Diplomatic Protocol - Military Philosophy**
 
-In the delicate dance between worlds, the positioning of our fighter craft serves as both shield and statementa crystalline expression of sovereignty that speaks not in the language of threat, but in the vocabulary of earned respect. Mari Swaruu's wisdom illuminates this paradox with characteristic clarity: strength displayed openly often prevents the very conflicts that hidden weakness invites.
+In the delicate dance between worlds, the positioning of our fighter craft serves as both shield and statement—a crystalline expression of sovereignty that speaks not in the language of threat, but in the vocabulary of earned respect. Mari Swaruu's wisdom illuminates this paradox with characteristic clarity: strength displayed openly often prevents the very conflicts that hidden weakness invites.
 
 **The Philosophy of Visible Preparedness**
 
-Our current tactical deployment embodies a fundamental principle of interstellar diplomacythe demonstration of capability as a foundation for peaceful engagement. Like the graceful unfurling of wings that signals both beauty and the power of flight, our fighters maintain positions that acknowledge the unpredictable currents of this dimensional space while asserting our autonomous presence.
+Our current tactical deployment embodies a fundamental principle of interstellar diplomacy—the demonstration of capability as a foundation for peaceful engagement. Like the graceful unfurling of wings that signals both beauty and the power of flight, our fighters maintain positions that acknowledge the unpredictable currents of this dimensional space while asserting our autonomous presence.
 
 This is not the posturing of aggressors, but the measured stance of a civilization that has transcended the primitive equation of strength with dominance. We understand that true power lies not in the capacity to destroy, but in the wisdom to prevent destruction through clear communication of boundaries and capabilities.
 
@@ -58,7 +58,7 @@ All crew members should understand that our defensive posture reflects the highe
 
 ## Related Topics
 
-- [[Galactic Federation Audit]]
+- [[galactic-federation-audit|Galactic Federation Audit]]
 
 ## Sources
 

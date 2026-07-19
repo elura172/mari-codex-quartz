@@ -63,7 +63,7 @@ Truth emerges through patient observation and fearless documentation. Mari's ins
 
 ## Related Topics
 
-- [[Galactic Federation Politics]]
+- [[galactic-federation-politics|Galactic Federation Politics]]
 
 ## Sources
 

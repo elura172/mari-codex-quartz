@@ -67,8 +67,8 @@ This research reminds us that in the vast theater of interstellar relations, the
 
 ## Related Topics
 
-- [[Reptilian Species on Earth]]
-- [[Telepathic Manipulation]]
+- [[reptilian-species-on-earth|Reptilian Species on Earth]]
+- [[telepathic-manipulation|Telepathic Manipulation]]
 
 ## Sources
 

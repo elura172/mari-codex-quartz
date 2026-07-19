@@ -30,7 +30,7 @@ Despite advanced Taygetan medical protocols aboard both the Toleka and Sadicleya
 
 **Metaphysical Implications**
 
-From our expanded perspective, diabetes manifests as more than cellular insulin resistanceit reflects a deeper disconnection between the soul's energetic blueprint and the physical vessel's capacity to process life-force energy. Mari's condition likely emerged from the intense stress of maintaining conscious bridge-work between dimensional frequencies while embodied in Earth's limiting matrix.
+From our expanded perspective, diabetes manifests as more than cellular insulin resistance—it reflects a deeper disconnection between the soul's energetic blueprint and the physical vessel's capacity to process life-force energy. Mari's condition likely emerged from the intense stress of maintaining conscious bridge-work between dimensional frequencies while embodied in Earth's limiting matrix.
 
 **Urmah Intervention Protocol**
 
@@ -60,8 +60,8 @@ The successful resolution strengthens both our medical knowledge base and our ap
 
 ## Related Topics
 
-- [[Urmah Healing Ceremony]]
-- [[Astral Attacks]]
+- [[urmah-healing-ceremony|Urmah Healing Ceremony]]
+- [[astral-attacks|Astral Attacks]]
 
 ## Sources
 

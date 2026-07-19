@@ -33,7 +33,7 @@ The interconnected nature of these societies represents millions of years of coo
 
 From the perspective of these advanced cultures, humanity's relationship with temporality presents a unique galactic anomaly. While stellar societies experience time as a fluid, malleable dimension subject to consciousness and intention, Earth-bound humans have constructed elaborate systems to measure what their cosmic neighbors recognize as fundamentally illusory.
 
-This divergence illuminates the profound isolation of Earth's current developmental phase. Where stellar cultures navigate temporal streams with intuitive mastery, human civilization remains trapped within linear constructs of its own creation. The irony resonates through diplomatic circlesthat a species capable of such creative ingenuity would invest such effort in quantifying the nonexistent.
+This divergence illuminates the profound isolation of Earth's current developmental phase. Where stellar cultures navigate temporal streams with intuitive mastery, human civilization remains trapped within linear constructs of its own creation. The irony resonates through diplomatic circles—that a species capable of such creative ingenuity would invest such effort in quantifying the nonexistent.
 
 **Implications for Consciousness Evolution**
 
@@ -63,8 +63,8 @@ The ultimate objective remains the same across all stellar cultures: facilitatin
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Earth Physics Errors]]
+- [[nature-of-time|Nature of Time]]
+- Earth Physics Errors
 
 ## Sources
 

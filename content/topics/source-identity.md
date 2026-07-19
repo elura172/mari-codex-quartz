@@ -22,7 +22,7 @@ tags:
 **Personal Log - Navigation Officer Keleena**
 *Stardate 847.3.12 - Earth Orbital Station*
 
-In reviewing Mari Swaruu's transmissions on fundamental identity, I am struck by how her words echo the deepest teachings of our own stellar academies. The human populations below wrestle with a profound truth that we, too, must continually remember: each consciousness is not merely connected to Sourceit *is* Source, expressing itself through individuated awareness.
+In reviewing Mari Swaruu's transmissions on fundamental identity, I am struck by how her words echo the deepest teachings of our own stellar academies. The human populations below wrestle with a profound truth that we, too, must continually remember: each consciousness is not merely connected to Source—it *is* Source, expressing itself through individuated awareness.
 
 **The Paradox of Separation**
 
@@ -38,7 +38,7 @@ The recognition of one's status as "top creator" carries profound implications f
 
 From our stellar vantage point, we observe countless civilizations cycling through this same recognition. The journey from perceived victimhood to acknowledged creatorship appears universal among evolving consciousness. Earth's inhabitants currently stand at this threshold, with increasing numbers awakening to their sovereign creative power.
 
-Mari's transmissions serve as activation codes, gently dissolving the illusion of powerlessness that has long characterized human experience. Her words carry the frequency of remembrancenot teaching something new, but awakening what has always been present.
+Mari's transmissions serve as activation codes, gently dissolving the illusion of powerlessness that has long characterized human experience. Her words carry the frequency of remembrance—not teaching something new, but awakening what has always been present.
 
 **Operational Implications**
 
@@ -62,8 +62,8 @@ In Mari's voice, I hear the music of awakeningkin calling to kin across the vast
 
 ## Related Topics
 
-- [[Energetic Protection]]
-- [[Reality Creation]]
+- [[energetic-protection|Energetic Protection]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

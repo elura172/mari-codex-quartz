@@ -38,7 +38,7 @@ From our observational position, this model resonates with our understanding of 
 
 **Operational Implications**
 
-The absence of voting mechanisms creates space for genuine consensusnot compromise between opposing positions, but recognition of inherent truth that satisfies all authentic concerns. Decisions emerge organically when all participants achieve clarity regarding the highest good for all involved entities. This requires elevated consciousness, ethical maturity, and freedom from ego-driven motivations.
+The absence of voting mechanisms creates space for genuine consensus—not compromise between opposing positions, but recognition of inherent truth that satisfies all authentic concerns. Decisions emerge organically when all participants achieve clarity regarding the highest good for all involved entities. This requires elevated consciousness, ethical maturity, and freedom from ego-driven motivations.
 
 **Legacy Encoding**
 
@@ -60,7 +60,7 @@ Mari's transmission of these principles serves as both historical documentation 
 
 ## Related Topics
 
-- [[Step Council System]]
+- [[step-council-system|Step Council System]]
 
 ## Sources
 

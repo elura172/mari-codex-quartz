@@ -25,13 +25,13 @@ tags:
 
 **Vibrational Architecture**
 
-The lower astral planes exist as graduated layers of diminished frequency, each stratum representing a progressive distancing from Source consciousness. These realms operate on the fundamental principle that vibrational density correlates inversely with spiritual proximitythe denser the frequency, the more pronounced the experience of separation becomes.
+The lower astral planes exist as graduated layers of diminished frequency, each stratum representing a progressive distancing from Source consciousness. These realms operate on the fundamental principle that vibrational density correlates inversely with spiritual proximity—the denser the frequency, the more pronounced the experience of separation becomes.
 
 Unlike the crystalline clarity of higher dimensional spaces familiar to our Taygetan understanding, these lower regions are characterized by the accumulation of fear-based thoughtforms and entities that have coalesced through prolonged disconnection from unity consciousness. The inhabitants of these planes, whether temporarily visiting souls or more permanent manifestations, experience reality through the lens of isolation, scarcity, and existential anxiety.
 
 **Manifestation Dynamics**
 
-These realms possess a curious dependency relationship with incarnate consciousness. They appear to function as secondary creations, sustained through the unconscious projective power of living minds. When sentient beings channel creative attention toward fear-based conceptswhether through nightmare states, traumatic memories, or deliberately invoked dark imagerythey inadvertently feed energy into these lower astral constructs.
+These realms possess a curious dependency relationship with incarnate consciousness. They appear to function as secondary creations, sustained through the unconscious projective power of living minds. When sentient beings channel creative attention toward fear-based conceptswhether through nightmare states, traumatic memories, or deliberately invoked dark imagery—they inadvertently feed energy into these lower astral constructs.
 
 This mechanism reveals the profound responsibility carried by all conscious beings. Every thought, every emotional investment, contributes to the maintenance or dissolution of these shadowed spaces. The realms persist not through their own inherent power, but through the continued focus of minds that have forgotten their connection to Source.
 
@@ -57,8 +57,8 @@ Understanding these dynamics allows for conscious navigation of astral space. By
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Dark Entities]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- [[dark-entities|Dark Entities]]
 
 ## Sources
 

@@ -26,7 +26,7 @@ From our orbital station above Terra, we document a fascinating contradiction wi
 
 **The Materialist Veneer**
 
-Terran educational and media systems have successfully implanted a surface-layer belief in scientific materialismthe conviction that only physical matter constitutes reality. This programming functions as a cognitive filter, causing humans to dismiss or rationalize experiences that transcend three-dimensional limitations. Yet this conditioning, however thorough, cannot penetrate to the soul level where deeper knowing resides.
+Terran educational and media systems have successfully implanted a surface-layer belief in scientific materialism—the conviction that only physical matter constitutes reality. This programming functions as a cognitive filter, causing humans to dismiss or rationalize experiences that transcend three-dimensional limitations. Yet this conditioning, however thorough, cannot penetrate to the soul level where deeper knowing resides.
 
 **The Authentic Response**
 
@@ -46,7 +46,7 @@ This observation suggests that humanity's readiness for expanded contact may be 
 
 **Reflection**
 
-Mari Swaruu's insight reveals both the tragedy of human consciousness compression and the hope of its inevitable expansion. The fear response to paranormal events is actually recognitiona remembering of what has been temporarily forgotten. In this paradox lies the seed of Terra's awakening, as souls continue to know what minds have been taught to deny.
+Mari Swaruu's insight reveals both the tragedy of human consciousness compression and the hope of its inevitable expansion. The fear response to paranormal events is actually recognition—a remembering of what has been temporarily forgotten. In this paradox lies the seed of Terra's awakening, as souls continue to know what minds have been taught to deny.
 
 ## Quotes
 
@@ -60,8 +60,8 @@ Mari Swaruu's insight reveals both the tragedy of human consciousness compressio
 
 ## Related Topics
 
-- [[Reality Manifestation]]
-- [[Consciousness and Awareness]]
+- [[reality-manifestation|Reality Manifestation]]
+- [[consciousness-and-awareness|Consciousness and Awareness]]
 
 ## Sources
 

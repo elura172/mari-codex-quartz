@@ -62,8 +62,8 @@ Mari's transmissions serve as waypoints for those navigating beyond these constr
 
 ## Related Topics
 
-- [[Matrix Control Systems]]
-- [[Historical Manipulation]]
+- [[matrix-control-systems|Matrix Control Systems]]
+- [[historical-manipulation|Historical Manipulation]]
 
 ## Sources
 

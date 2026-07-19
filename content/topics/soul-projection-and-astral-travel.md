@@ -27,7 +27,7 @@ tags:
 
 The Solatian mastery of consciousness mobility represents one of the most sophisticated applications of soul mechanics observed within our galactic community. Through disciplined ethereal projection, these advanced beings achieve complete separation of awareness from their physical vessels, maintaining full cognitive coherence while inhabiting alternate corporeal forms across vast distances.
 
-The originating body enters a profound meditative suspensionnot mere sleep, but a conscious withdrawal that preserves the essential life-thread connecting soul to form. This technique transcends what Earth humans term "astral travel," as it involves complete temporary relocation of the operational consciousness matrix rather than exploratory projection of subtle bodies.
+The originating body enters a profound meditative suspension—not mere sleep, but a conscious withdrawal that preserves the essential life-thread connecting soul to form. This technique transcends what Earth humans term "astral travel," as it involves complete temporary relocation of the operational consciousness matrix rather than exploratory projection of subtle bodies.
 
 **Terrestrial Applications**
 
@@ -59,8 +59,8 @@ Mari's teachings through these transmissions continue to illuminate pathways bey
 
 ## Related Topics
 
-- [[Solatian Spirituality]]
-- [[Earth Starseeds]]
+- Solatian Spirituality
+- Earth Starseeds
 
 ## Sources
 

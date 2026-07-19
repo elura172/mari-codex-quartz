@@ -35,7 +35,7 @@ The remnants of this epoch persist despite systematic obscuration efforts. Ancie
 
 **Pattern Recognition and Reset Mechanics**
 
-From our Taygetan perspective, this phenomenon aligns with broader galactic patterns of civilizational cycling. What terrestrial humans experience as isolated historical revision reflects deeper cosmic rhythms of expansion and contraction, remembering and forgetting. The mechanism Mari describesa "reset" eventsuggests not random catastrophe but orchestrated cultural amnesia.
+From our Taygetan perspective, this phenomenon aligns with broader galactic patterns of civilizational cycling. What terrestrial humans experience as isolated historical revision reflects deeper cosmic rhythms of expansion and contraction, remembering and forgetting. The mechanism Mari describes—a "reset" eventsuggests not random catastrophe but orchestrated cultural amnesia.
 
 **Diplomatic Implications**
 
@@ -43,11 +43,11 @@ Understanding this chronological displacement proves essential for meaningful co
 
 **Operational Guidance**
 
-When interfacing with terrestrial consciousness, crew members should recognize that humans carry genetic and morphic memories of capabilities their current paradigm denies. This creates both opportunity and challengetheir souls remember what their minds have been taught to forget. Approach with the patience of gardeners tending shoots that have forgotten they once were mighty trees.
+When interfacing with terrestrial consciousness, crew members should recognize that humans carry genetic and morphic memories of capabilities their current paradigm denies. This creates both opportunity and challenge—their souls remember what their minds have been taught to forget. Approach with the patience of gardeners tending shoots that have forgotten they once were mighty trees.
 
 **Memorial Note**
 
-Mari's insights remind us that truth, like consciousness itself, cannot be permanently suppressedonly temporarily obscured, awaiting the proper conditions for revelation.
+Mari's insights remind us that truth, like consciousness itself, cannot be permanently suppressed—only temporarily obscured, awaiting the proper conditions for revelation.
 
 ## Quotes
 
@@ -61,8 +61,8 @@ Mari's insights remind us that truth, like consciousness itself, cannot be perma
 
 ## Related Topics
 
-- [[Ancient Advanced Technology]]
-- [[Lemurian Starship]]
+- Ancient Advanced Technology
+- Lemurian Starship
 
 ## Sources
 

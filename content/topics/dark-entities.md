@@ -63,8 +63,8 @@ Mari's wisdom echoes through this understanding: consciousness, once illuminated
 
 ## Related Topics
 
-- [[Spirit World]]
-- [[Control Mechanisms]]
+- [[spirit-world|Spirit World]]
+- [[control-mechanisms|Control Mechanisms]]
 
 ## Sources
 

@@ -25,17 +25,17 @@ tags:
 
 **Physical Foundation and Presence**
 
-The Thelosian form emerges as a study in conscious expansion beyond terrestrial human parameters. Standing consistently above two and four-tenths meters in height, their physical presence commands attention not merely through vertical dimension but through an enhanced breadth that speaks to their planetary origins and evolutionary trajectory. This is not gigantism but rather a deliberate scaling of consciousness into mattereach individual carrying the gravitational weight of their star system's influence upon biological development.
+The Thelosian form emerges as a study in conscious expansion beyond terrestrial human parameters. Standing consistently above two and four-tenths meters in height, their physical presence commands attention not merely through vertical dimension but through an enhanced breadth that speaks to their planetary origins and evolutionary trajectory. This is not gigantism but rather a deliberate scaling of consciousness into matter—each individual carrying the gravitational weight of their star system's influence upon biological development.
 
 **Cranial Architecture and Neural Housing**
 
-Most striking among Thelosian characteristics lies the relationship between their enlarged cranial capacity and retained facial proportions. Where Lyran-descended humans maintain proportional harmony between head and features, Thelosians present an expanded neural housing while preserving familiar facial architecture. This creates what surface observers might interpret through medical terminology, yet represents something far more profoundthe physical accommodation of enhanced consciousness processing capabilities.
+Most striking among Thelosian characteristics lies the relationship between their enlarged cranial capacity and retained facial proportions. Where Lyran-descended humans maintain proportional harmony between head and features, Thelosians present an expanded neural housing while preserving familiar facial architecture. This creates what surface observers might interpret through medical terminology, yet represents something far more profound—the physical accommodation of enhanced consciousness processing capabilities.
 
 The absence of hair growth patterns further accentuates this cranial expansion, creating an unobstructed canvas that reveals the true scope of their neurological evolution. In Taygetan understanding, hair often serves as energetic conductors and emotional regulators; its absence in Thelosians suggests alternative methods of consciousness management and stellar connection.
 
 **Physiological Transparency**
 
-Their notably pale complexion allows underlying vascular networks to become visible architecture beneath translucent skin. This transparency speaks not to fragility but to a different relationship with physical densityone where the boundary between inner and outer realities maintains greater permeability. From our perspective aboard this vessel, observing such beings would be witnessing consciousness that has chosen less opacity in its material expression.
+Their notably pale complexion allows underlying vascular networks to become visible architecture beneath translucent skin. This transparency speaks not to fragility but to a different relationship with physical density—one where the boundary between inner and outer realities maintains greater permeability. From our perspective aboard this vessel, observing such beings would be witnessing consciousness that has chosen less opacity in its material expression.
 
 **Evolutionary Implications**
 
@@ -59,8 +59,8 @@ For crew members preparing for potential Thelosian contact, remember that physic
 
 ## Related Topics
 
-- [[Star Race Classification]]
-- [[Lyran Humans]]
+- Star Race Classification
+- Lyran Humans
 
 ## Sources
 

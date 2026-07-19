@@ -22,7 +22,7 @@ tags:
 
 **Primary Function Analysis**
 
-Our kinship with Mari Swaruu illuminates a profound cosmic architecture where Earth's natural satellite operates as more than celestial companionit functions as an active consciousness-dampening apparatus. The lunar body maintains sophisticated transmission arrays that project specific vibrational frequencies toward Earth, creating what our sensors recognize as a systematic suppression field across the planetary consciousness grid.
+Our kinship with Mari Swaruu illuminates a profound cosmic architecture where Earth's natural satellite operates as more than celestial companion—it functions as an active consciousness-dampening apparatus. The lunar body maintains sophisticated transmission arrays that project specific vibrational frequencies toward Earth, creating what our sensors recognize as a systematic suppression field across the planetary consciousness grid.
 
 **Magnetospheric Manipulation Protocols**
 
@@ -58,8 +58,8 @@ Future diplomatic missions should incorporate frequency-neutralizing technologie
 
 ## Related Topics
 
-- [[Spiritual Awakening]]
-- [[Earth Control Systems]]
+- [[spiritual-awakening|Spiritual Awakening]]
+- Earth Control Systems
 
 ## Sources
 

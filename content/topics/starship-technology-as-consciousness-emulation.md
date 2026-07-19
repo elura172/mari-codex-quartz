@@ -28,7 +28,7 @@ Each component within our propulsion matrix functions as an external manifestati
 
 **Temporal-Spatial Navigation**
 
-Movement through space-time operates through vibrational resonance matching. Every destination point exists within a unique configuration of gravitational, mass, and energetic signaturesa cosmic fingerprint that defines its position within the universal matrix. Our navigation systems analyze these destination signatures with exacting precision, then reconfigure our vessel's own energetic matrix to achieve harmonic alignment.
+Movement through space-time operates through vibrational resonance matching. Every destination point exists within a unique configuration of gravitational, mass, and energetic signatures—a cosmic fingerprint that defines its position within the universal matrix. Our navigation systems analyze these destination signatures with exacting precision, then reconfigure our vessel's own energetic matrix to achieve harmonic alignment.
 
 This process transcends simple physical displacement. By modulating our ship's fundamental vibrational signature to match that of the target location, we essentially become that destination. Distance collapses not through force or speed, but through identity transformation at the quantum level.
 
@@ -56,8 +56,8 @@ Through Mari's wisdom, we remember: we are not passengers within consciousness; 
 
 ## Related Topics
 
-- [[Vibrational Compatibility]]
-- [[Law of Mirrors]]
+- [[vibrational-compatibility|Vibrational Compatibility]]
+- [[law-of-mirrors|Law of Mirrors]]
 
 ## Sources
 

@@ -60,8 +60,8 @@ The family tree, when pruned with wisdom and compassion, allows remaining connec
 
 ## Related Topics
 
-- [[Environmental Changes]]
-- [[Self-Improvement Strategies]]
+- Environmental Changes
+- [[self-improvement-strategies|Self-Improvement Strategies]]
 
 ## Sources
 

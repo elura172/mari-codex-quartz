@@ -88,8 +88,8 @@ Educational initiatives focusing on astral awareness and personal sovereignty re
 
 ## Related Topics
 
-- [[Low Vibrational State]]
-- [[Collective Unconscious]]
+- Low Vibrational State
+- [[collective-unconscious|Collective Unconscious]]
 
 ## Sources
 

@@ -26,7 +26,7 @@ From our orbital observation post, we witness a world that serves as one of the 
 
 **The Selection Process**
 
-Not all beings venture into Earth's dense vibrational field. The incarnation process here represents a voluntary descent into complexityone that requires exceptional spiritual fortitude. This planetary matrix challenges consciousness through layers of forgetting, limited perception, and compressed time-space experience. Only those who have mastered fundamental lessons in previous incarnations typically attempt this advanced curriculum.
+Not all beings venture into Earth's dense vibrational field. The incarnation process here represents a voluntary descent into complexity—one that requires exceptional spiritual fortitude. This planetary matrix challenges consciousness through layers of forgetting, limited perception, and compressed time-space experience. Only those who have mastered fundamental lessons in previous incarnations typically attempt this advanced curriculum.
 
 **Training Methodology**
 
@@ -58,7 +58,7 @@ Through Mari's transmissions, we recognize Earth not as a prison, but as a sacre
 
 ## Related Topics
 
-- [[Stellar Royalty Training]]
+- Stellar Royalty Training
 
 ## Sources
 

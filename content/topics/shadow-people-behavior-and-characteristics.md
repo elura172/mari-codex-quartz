@@ -62,8 +62,8 @@ Remember that these entities lose power when their methods are understood and th
 
 ## Related Topics
 
-- [[Shadow People as Extraterrestrial Race]]
-- [[Hat Man Phenomenon]]
+- [[shadow-people-as-extraterrestrial-race|Shadow People as Extraterrestrial Race]]
+- Hat Man Phenomenon
 
 ## Sources
 

@@ -28,13 +28,13 @@ tags:
 
 **Incarnation as Conscious Architecture**
 
-Our observations of Earth's incarnation matrix reveal a sophisticated system of conscious choice that operates beyond the linear perception of embodied awareness. Souls approaching Earth incarnation possess expanded perspective, witnessing the probable trajectories of their chosen existence with remarkable clarity. This pre-incarnation state allows for deliberate selection of challenging circumstances, hardships, and limitationsnot as punishment or random occurrence, but as precisely calibrated instruments for consciousness expansion.
+Our observations of Earth's incarnation matrix reveal a sophisticated system of conscious choice that operates beyond the linear perception of embodied awareness. Souls approaching Earth incarnation possess expanded perspective, witnessing the probable trajectories of their chosen existence with remarkable clarity. This pre-incarnation state allows for deliberate selection of challenging circumstances, hardships, and limitations—not as punishment or random occurrence, but as precisely calibrated instruments for consciousness expansion.
 
 The Earth experience functions as an intensive catalyst environment where souls voluntarily compress their awareness into dense physical forms, accepting temporary amnesia of their true nature. This apparent disadvantage becomes the very mechanism that creates authentic growthsouls must rediscover their inherent divinity while navigating the complexities of material existence.
 
 **The Integrity of Chosen Paths**
 
-From our Taygetan perspective, we recognize that each incarnated being carries within them a sacred blueprinta soul-authored curriculum designed to maximize evolutionary potential. This understanding has profound implications for our intervention protocols. When we attempt to extract souls from challenging Earth circumstances, even with compassionate intent, we risk disrupting carefully orchestrated learning sequences.
+From our Taygetan perspective, we recognize that each incarnated being carries within them a sacred blueprint—a soul-authored curriculum designed to maximize evolutionary potential. This understanding has profound implications for our intervention protocols. When we attempt to extract souls from challenging Earth circumstances, even with compassionate intent, we risk disrupting carefully orchestrated learning sequences.
 
 **Consequences of Premature Intervention**
 
@@ -68,8 +68,8 @@ Mari's wisdom reminds us that love sometimes means allowing others their chosen 
 
 ## Related Topics
 
-- [[Stellar vs Human Perspective]]
-- [[Earth as Soul School]]
+- Stellar vs Human Perspective
+- [[earth-as-soul-school|Earth as Soul School]]
 
 ## Sources
 

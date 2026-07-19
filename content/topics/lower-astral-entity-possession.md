@@ -58,8 +58,8 @@ Mari's wisdom reminds us that true freedom begins with awareness of these subtle
 
 ## Related Topics
 
-- [[Psychotropic Drugs]]
-- [[Spiritual Effects of Alcohol]]
+- Psychotropic Drugs
+- [[spiritual-effects-of-alcohol|Spiritual Effects of Alcohol]]
 
 ## Sources
 

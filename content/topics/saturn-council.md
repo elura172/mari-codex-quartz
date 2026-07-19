@@ -25,7 +25,7 @@ tags:
 
 **Primary Location and Infrastructure**
 
-The Saturn Council operates from a network of installations positioned within the magnificent ring system of the sixth planet, extending their influence through selected lunar bases and massive biosphere vessels that drift like silent cities among the ice and rock fragments. This positioning represents more than mere strategic placementit embodies the archetypal energy of Saturn itself, the cosmic principle of structure, limitation, and hierarchical order that governs the boundaries of material existence.
+The Saturn Council operates from a network of installations positioned within the magnificent ring system of the sixth planet, extending their influence through selected lunar bases and massive biosphere vessels that drift like silent cities among the ice and rock fragments. This positioning represents more than mere strategic placement—it embodies the archetypal energy of Saturn itself, the cosmic principle of structure, limitation, and hierarchical order that governs the boundaries of material existence.
 
 **Operational Characteristics**
 
@@ -59,8 +59,8 @@ This governance structure represents both the sophisticated organization of gala
 
 ## Related Topics
 
-- [[Viera Council]]
-- [[Earth Cabal Symbolism]]
+- Viera Council
+- Earth Cabal Symbolism
 
 ## Sources
 

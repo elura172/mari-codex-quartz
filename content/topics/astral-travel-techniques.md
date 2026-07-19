@@ -29,7 +29,7 @@ The art of astral projection represents one of the most individualized expressio
 
 **Individual Resonance Frequencies**
 
-What emerges from terrestrial attempts at astral travel mirrors our own experiences with consciousness mobilityno single methodology serves all beings uniformly. This phenomenon reflects the deeper truth that each consciousness operates within its own vibrational frequency matrix. Where one individual may achieve projection through visualization techniques, another requires physical stillness protocols, and yet another responds to sound frequencies or breathwork patterns.
+What emerges from terrestrial attempts at astral travel mirrors our own experiences with consciousness mobility—no single methodology serves all beings uniformly. This phenomenon reflects the deeper truth that each consciousness operates within its own vibrational frequency matrix. Where one individual may achieve projection through visualization techniques, another requires physical stillness protocols, and yet another responds to sound frequencies or breathwork patterns.
 
 The challenge lies not in finding the "correct" technique, but in developing the patience and dedication to explore multiple approaches until the natural resonance point is discovered. This process itself becomes a form of self-discovery, revealing how each being's consciousness interface operates within the broader dimensional spectrum.
 
@@ -63,8 +63,8 @@ The dedication Mari describes parallels our own understanding that genuine consc
 
 ## Related Topics
 
-- [[Dreams and Astral Realms]]
-- [[Meditation]]
+- [[dreams-and-astral-realms|Dreams and Astral Realms]]
+- [[meditation|Meditation]]
 
 ## Sources
 

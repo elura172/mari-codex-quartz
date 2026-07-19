@@ -74,8 +74,8 @@ Her legacy reminds us that truth-speaking across dimensional boundaries serves n
 
 ## Related Topics
 
-- [[Higher Realms]]
-- [[Existential Densities]]
+- [[higher-realms|Higher Realms]]
+- [[existential-densities|Existential Densities]]
 
 ## Sources
 

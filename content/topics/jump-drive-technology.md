@@ -26,7 +26,7 @@ tags:
 
 Jump drive technology operates on the foundational understanding that all matter exists within a spectrum of vibrational frequencies. Rather than propelling mass through physical space, our vessels achieve instantaneous translocation by synchronizing their complete energetic signature with that of the destination coordinate.
 
-This process transcends conventional concepts of movement. The ship does not traverse distanceit ceases resonance with its origin point and manifests at the target location by achieving perfect harmonic alignment with that space-time coordinate's unique vibrational pattern.
+This process transcends conventional concepts of movement. The ship does not traverse distance—it ceases resonance with its origin point and manifests at the target location by achieving perfect harmonic alignment with that space-time coordinate's unique vibrational pattern.
 
 **Operational Mechanics**
 
@@ -62,8 +62,8 @@ Crew members must develop sensitivity to vibrational signatures through meditati
 
 ## Related Topics
 
-- [[Stellar Navigation]]
-- [[Electromagnetic Propulsion Systems]]
+- Stellar Navigation
+- [[electromagnetic-propulsion-systems|Electromagnetic Propulsion Systems]]
 
 ## Sources
 

@@ -36,11 +36,11 @@ Through sophisticated narrative engineering, these regressive forces convinced F
 
 The invaders weaponized the Federation's own philosophical foundationsparticularly non-interference principles designed to protect developing civilizations. By presenting themselves as indigenous Earth influences while portraying genuine awakening catalysts as foreign interventions, they achieved complete tactical reversal. The very entity meant to safeguard consciousness expansion became its primary obstacle.
 
-Mari identified how this manipulation extends beyond political maneuvering into consciousness architecture itself. The starseedsthose advanced souls incarnating to accelerate planetary awakeningfind their missions systematically neutralized through Federation-endorsed containment protocols masquerading as respect for human agency.
+Mari identified how this manipulation extends beyond political maneuvering into consciousness architecture itself. The starseeds—those advanced souls incarnating to accelerate planetary awakeningfind their missions systematically neutralized through Federation-endorsed containment protocols masquerading as respect for human agency.
 
 **Metaphysical Implications: The Compassion Trap**
 
-From Taygetan perspective, this represents consciousness parasitism at galactic scale. The Federation's genuine desire to honor free will became the transmission vector for its own ideological infection. True compassion requires distinguishing between authentic choice and manufactured consenta discernment the invaders deliberately obscured.
+From Taygetan perspective, this represents consciousness parasitism at galactic scale. The Federation's genuine desire to honor free will became the transmission vector for its own ideological infection. True compassion requires distinguishing between authentic choice and manufactured consent—a discernment the invaders deliberately obscured.
 
 The irony penetrates deep: organizations founded on unity principles became instruments of separation, convinced they protected Earth by preventing the very connections that would heal it.
 
@@ -72,8 +72,8 @@ The path forward requires unprecedented discernmenthonoring legitimate sovereign
 
 ## Related Topics
 
-- [[Orion Council Invasion of Earth]]
-- [[Space Law Exploitation]]
+- Orion Council Invasion of Earth
+- Space Law Exploitation
 
 ## Sources
 

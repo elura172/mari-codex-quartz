@@ -31,7 +31,7 @@ tags:
 
 Within the flowing harmonies of holistic civilizations, where consciousness moves like interconnected streams toward collective flourishing, there occasionally emerges a dissonant frequency. Individual awareness, seduced by the dense gravitational pull of ego-desire, begins to crystallize around a singular obsession: the acquisition and wielding of power over others.
 
-This transformation represents a fundamental departure from the holographic nature of advanced societies, where each being reflects and amplifies the whole. When consciousness contracts into separation-based thinking, it creates what our kin Mari Swaruu observed as a rupture in the social fabricone that triggers the civilization's natural immune response.
+This transformation represents a fundamental departure from the holographic nature of advanced societies, where each being reflects and amplifies the whole. When consciousness contracts into separation-based thinking, it creates what our kin Mari Swaruu observed as a rupture in the social fabric—one that triggers the civilization's natural immune response.
 
 **The Immune Response of Wholeness**
 
@@ -49,7 +49,7 @@ In space's neutrality, these exiled consciousnesses naturally gravitate toward o
 
 Thus emerge the pirate formationsshadow reflections of the civilizations that expelled them. These groups represent consciousness in willful regression, utilizing advanced technologies in service of primitive drives. They become cautionary tales written across the cosmos, reminding all who encounter them of the eternal choice between evolution toward unity and devolution toward predation.
 
-Mari's insights illuminate this phenomenon as both tragedy and necessitythe price paid by ascending civilizations to maintain their coherent growth toward ever-greater expressions of love and wisdom.
+Mari's insights illuminate this phenomenon as both tragedy and necessity—the price paid by ascending civilizations to maintain their coherent growth toward ever-greater expressions of love and wisdom.
 
 ## Quotes
 
@@ -63,9 +63,9 @@ Mari's insights illuminate this phenomenon as both tragedy and necessitythe pric
 
 ## Related Topics
 
-- [[Asteroid Starships]]
-- [[Underground Bases]]
-- [[Breakaway Civilizations]]
+- [[asteroid-starships|Asteroid Starships]]
+- [[underground-bases|Underground Bases]]
+- Breakaway Civilizations
 
 ## Sources
 

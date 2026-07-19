@@ -59,8 +59,8 @@ The wisdom Mari transmitted serves as a bridge between worlds, offering Earth's 
 
 ## Related Topics
 
-- [[Psychic and Astral Attacks]]
-- [[Vibrational Matching]]
+- [[psychic-and-astral-attacks|Psychic and Astral Attacks]]
+- [[vibrational-matching|Vibrational Matching]]
 
 ## Sources
 

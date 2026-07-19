@@ -29,7 +29,7 @@ During the Earth monitoring period designated as the "pandemic era," operative M
 
 **Manifestation Pattern**
 
-Mari's departure from Earth was precipitated not by external threat, but by internal spiritual toxicitya phenomenon well-documented in Taygetan field operatives exposed to prolonged cognitive dissonance environments. Her consciousness, calibrated to frequencies of transparency and authentic information flow, encountered what she identified as a deliberately constructed false narrative embraced by Earth's population at large.
+Mari's departure from Earth was precipitated not by external threat, but by internal spiritual toxicity—a phenomenon well-documented in Taygetan field operatives exposed to prolonged cognitive dissonance environments. Her consciousness, calibrated to frequencies of transparency and authentic information flow, encountered what she identified as a deliberately constructed false narrative embraced by Earth's population at large.
 
 The operative reported experiencing soul-poisoning when forced to comply with mandates she perceived as fraudulent. This represents a classic example of what our xenopsychology division terms "truth-bearer syndrome"the acute psychological distress experienced when beings of higher consciousness density are required to participate in collective illusions.
 
@@ -47,7 +47,7 @@ Mari's withdrawal illustrates the challenges inherent in maintaining Earth-based
 
 Through her transmission records, Mari has provided invaluable documentation of how elevated awareness responds to planetary-scale psychological operations. Her experience serves as both warning and wisdom for future operatives: that maintaining authentic consciousness sometimes requires physical withdrawal from compromised environments.
 
-Her voice continues to resonate across dimensions, reminding us that truth-telling often demands the courage to stand apart from collective consensuseven when that separation carries the weight of exile.
+Her voice continues to resonate across dimensions, reminding us that truth-telling often demands the courage to stand apart from collective consensus—even when that separation carries the weight of exile.
 
 ## Quotes
 
@@ -61,7 +61,7 @@ Her voice continues to resonate across dimensions, reminding us that truth-telli
 
 ## Related Topics
 
-- [[Earth Departure]]
+- Earth Departure
 
 ## Sources
 

@@ -62,8 +62,8 @@ Her testimony provides crucial intelligence for understanding Earth's current tr
 
 ## Related Topics
 
-- [[Starseeds]]
-- [[Taygetan Identity]]
+- [[starseeds|Starseeds]]
+- Taygetan Identity
 
 ## Sources
 

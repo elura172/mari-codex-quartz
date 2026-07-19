@@ -24,7 +24,7 @@ tags:
 
 The crystalline networks of human consciousness operate through delicate electrochemical symphonies within their neural matrices. Ethanol, the molecular compound Terrans commonly call "alcohol," functions as a primary disruptor of these higher cognitive frequencies. Unlike the precise consciousness-expanding compounds recognized in advanced civilizations, this substance systematically depresses the central nervous system's capacity for coherent thought transmission.
 
-Mari Swaruu's observations illuminate a profound disconnect within human societal programmingtheir resistance to acknowledging this compound's true pharmacological nature stems from deep cultural conditioning that separates "acceptable" from "unacceptable" consciousness alterants. This cognitive dissonance reveals the extent to which Terran populations have been trained to compartmentalize their understanding of reality.
+Mari Swaruu's observations illuminate a profound disconnect within human societal programming—their resistance to acknowledging this compound's true pharmacological nature stems from deep cultural conditioning that separates "acceptable" from "unacceptable" consciousness alterants. This cognitive dissonance reveals the extent to which Terran populations have been trained to compartmentalize their understanding of reality.
 
 **Metaphysical Implications for Density Navigation**
 
@@ -54,8 +54,8 @@ The Terran relationship with ethanol serves as a microcosm of their species' bro
 
 ## Related Topics
 
-- [[Brain Function and Consciousness]]
-- [[Legal vs Illegal Drugs]]
+- [[brain-function-and-consciousness|Brain Function and Consciousness]]
+- [[legal-vs-illegal-drugs|Legal vs Illegal Drugs]]
 
 ## Sources
 

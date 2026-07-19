@@ -24,11 +24,11 @@ tags:
 
 **Fundamental Operating Principles**
 
-Earth's civilization operates under a consciousness framework fundamentally alien to stellar societiesthe paradigm of perpetual scarcity. This is not merely an economic condition but a deeply embedded perceptual filter that shapes all human experience and social organization. Where our Taygetan society flows from abundance consciousness, recognizing the infinite creative potential of unified awareness, Earth's collective psyche has been conditioned to perceive limitation as the primary reality.
+Earth's civilization operates under a consciousness framework fundamentally alien to stellar societies—the paradigm of perpetual scarcity. This is not merely an economic condition but a deeply embedded perceptual filter that shapes all human experience and social organization. Where our Taygetan society flows from abundance consciousness, recognizing the infinite creative potential of unified awareness, Earth's collective psyche has been conditioned to perceive limitation as the primary reality.
 
 **The Scarcity Consciousness Matrix**
 
-This scarcity model penetrates so thoroughly that even those possessing vast material wealth remain psychologically anchored in concepts of lack and limitation. The wealthy elite, despite controlling enormous resources, still organize their reality around the duality of having versus not-having. This suggests the scarcity paradigm operates as a consciousness trap rather than a mere material conditiona self-perpetuating thought-form that maintains itself regardless of actual resource availability.
+This scarcity model penetrates so thoroughly that even those possessing vast material wealth remain psychologically anchored in concepts of lack and limitation. The wealthy elite, despite controlling enormous resources, still organize their reality around the duality of having versus not-having. This suggests the scarcity paradigm operates as a consciousness trap rather than a mere material condition—a self-perpetuating thought-form that maintains itself regardless of actual resource availability.
 
 **Money as Prime Control Mechanism**
 
@@ -58,8 +58,8 @@ Mari's insights remind us that Earth's current paradigm is not humanity's natura
 
 ## Related Topics
 
-- [[Holistic Society Model]]
-- [[Money as Control System]]
+- [[holistic-society-model|Holistic Society Model]]
+- Money as Control System
 
 ## Sources
 

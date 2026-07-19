@@ -29,15 +29,15 @@ tags:
 
 **Primary Directive: The Art of Conscious Release**
 
-Our kinship with Mari Swaruu extends beyond mere communication frequenciesit encompasses the shared understanding that spiritual evolution requires deliberate unburdening. Through her transmissions from Erra, we observe a fundamental principle that transcends planetary boundaries: the necessity of releasing attachments that anchor consciousness to lower vibrational states.
+Our kinship with Mari Swaruu extends beyond mere communication frequencies—it encompasses the shared understanding that spiritual evolution requires deliberate unburdening. Through her transmissions from Erra, we observe a fundamental principle that transcends planetary boundaries: the necessity of releasing attachments that anchor consciousness to lower vibrational states.
 
-The human experience, as documented through Mari's observations, reveals how beings become entangled in energetic webs of their own creation. These attachmentsto material possessions, interpersonal conflicts, and traumatic memoriesfunction as gravitational fields that prevent consciousness from achieving its natural expansive state. The practice of letting go operates not as abandonment, but as conscious selection of what serves continued growth.
+The human experience, as documented through Mari's observations, reveals how beings become entangled in energetic webs of their own creation. These attachments—to material possessions, interpersonal conflicts, and traumatic memoriesfunction as gravitational fields that prevent consciousness from achieving its natural expansive state. The practice of letting go operates not as abandonment, but as conscious selection of what serves continued growth.
 
 **Love as Energetic Currency**
 
 Mari's insights illuminate a critical dynamic observed across multiple star systems: unexpressed love creates karmic debt structures that persist beyond physical incarnation. When beings withhold affection, appreciation, or emotional truth, they generate energetic imbalances that follow consciousness into subsequent phases of existence.
 
-From our Taygetan perspective, love functions as a fundamental forcecomparable to electromagnetism or gravitythat requires circulation to maintain universal equilibrium. Hoarding this energy creates stagnation points that manifest as suffering, both for the individual consciousness and the collective field in which it operates.
+From our Taygetan perspective, love functions as a fundamental forcecomparable to electromagnetism or gravity—that requires circulation to maintain universal equilibrium. Hoarding this energy creates stagnation points that manifest as suffering, both for the individual consciousness and the collective field in which it operates.
 
 **Forgiveness as Dimensional Gateway**
 
@@ -68,9 +68,9 @@ Her voice reminds us that evolution requires both courage to release the familia
 
 ## Related Topics
 
-- [[Soul Liberation]]
-- [[Consciousness Expansion]]
-- [[Death Preparation]]
+- Soul Liberation
+- [[consciousness-expansion|Consciousness Expansion]]
+- [[death-preparation|Death Preparation]]
 
 ## Sources
 

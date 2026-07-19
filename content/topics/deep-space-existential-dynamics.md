@@ -54,8 +54,8 @@ In remembering these principles, we honor both the courage of consciousness that
 
 ## Related Topics
 
-- [[Planetary Magnetosphere]]
-- [[Law of Mirrors]]
+- Planetary Magnetosphere
+- [[law-of-mirrors|Law of Mirrors]]
 
 ## Sources
 

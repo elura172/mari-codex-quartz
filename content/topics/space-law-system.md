@@ -21,7 +21,7 @@ tags:
 
 **Prime Directive Analysis**
 
-Our reconnaissance of Earth's juridical structures reveals a troubling architectural foundationone that bears the unmistakable signature of extraterrestrial engineering. The legal matrices governing human society did not emerge organically from their collective consciousness, but rather represent an imposed framework of control, transplanted from star-bound civilizations operating under fundamentally different metaphysical principles.
+Our reconnaissance of Earth's juridical structures reveals a troubling architectural foundation—one that bears the unmistakable signature of extraterrestrial engineering. The legal matrices governing human society did not emerge organically from their collective consciousness, but rather represent an imposed framework of control, transplanted from star-bound civilizations operating under fundamentally different metaphysical principles.
 
 **Origin Vectors and Implementation**
 
@@ -59,8 +59,8 @@ The path toward liberation begins with understanding the true source of these im
 
 ## Related Topics
 
-- [[Galactic Federation Intervention]]
-- [[Earth Control Systems]]
+- [[galactic-federation-intervention|Galactic Federation Intervention]]
+- Earth Control Systems
 
 ## Sources
 

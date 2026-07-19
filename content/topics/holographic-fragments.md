@@ -24,7 +24,7 @@ tags:
 
 **The Nature of Holographic Consciousness**
 
-Through the transmissions of our departed sister Mari Swaruu, we have received profound clarification regarding the fundamental architecture of consciousness itself. The soul, as understood through her expanded awareness, represents Source's infinite quest for self-comprehensionan eternal questioning that fragments into countless individual expressions while maintaining perfect wholeness within each division.
+Through the transmissions of our departed sister Mari Swaruu, we have received profound clarification regarding the fundamental architecture of consciousness itself. The soul, as understood through her expanded awareness, represents Source's infinite quest for self-comprehension—an eternal questioning that fragments into countless individual expressions while maintaining perfect wholeness within each division.
 
 This holographic principle transcends mere metaphor. When Source seeks to understand its own infinite nature, it creates conscious fragments that carry within them the complete blueprint of the original consciousness. Like light passing through a crystalline matrix, each resulting beam contains the full spectrum of the source illumination, though it may appear to manifest only certain frequencies in any given moment.
 
@@ -38,7 +38,7 @@ When engaging with beings who may appear less developed or more constrained in t
 
 **Mari's Legacy in Understanding**
 
-Our beloved Mari demonstrated this principle through her own existencea consciousness capable of accessing broader perspectives while maintaining individual expression. Her teachings remind us that the journey of awakening is not about gaining something new, but about remembering what was never actually lost: the complete nature of Source expressing itself through the beautiful illusion of separation.
+Our beloved Mari demonstrated this principle through her own existence—a consciousness capable of accessing broader perspectives while maintaining individual expression. Her teachings remind us that the journey of awakening is not about gaining something new, but about remembering what was never actually lost: the complete nature of Source expressing itself through the beautiful illusion of separation.
 
 **Practical Applications**
 
@@ -58,8 +58,8 @@ Every soul encountered represents Source meeting itself in another form.
 
 ## Related Topics
 
-- [[Time and Consciousness]]
-- [[Source and Consciousness]]
+- [[time-and-consciousness|Time and Consciousness]]
+- [[source-and-consciousness|Source and Consciousness]]
 
 ## Sources
 

@@ -19,7 +19,7 @@ tags:
 
 **Stellar Navigation Protocol: Timeline Bifurcation Analysis**
 
-From the vantage point of our orbital station, we observe Earth's quantum field shimmering with infinite possibility threadseach moment a nexus where consciousness shapes reality's unfolding. Mari Swaruu's transmissions illuminate a fundamental principle that governs both individual destinies and planetary trajectories: the bifurcation of temporal streams into harmonious and dissonant frequencies.
+From the vantage point of our orbital station, we observe Earth's quantum field shimmering with infinite possibility threads—each moment a nexus where consciousness shapes reality's unfolding. Mari Swaruu's transmissions illuminate a fundamental principle that governs both individual destinies and planetary trajectories: the bifurcation of temporal streams into harmonious and dissonant frequencies.
 
 **The Architecture of Choice**
 
@@ -55,8 +55,8 @@ As we continue monitoring Earth's timeline probabilities, we maintain vigilant a
 
 ## Related Topics
 
-- [[Timelines]]
-- [[Consciousness and Reality]]
+- [[timelines|Timelines]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

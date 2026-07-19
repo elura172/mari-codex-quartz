@@ -30,7 +30,7 @@ Mari's transmissions reveal the Federation's core belief: that terrestrial suffe
 
 The ancient wisdom Mari referencedabout teaching sustainable skills rather than providing temporary reliefechoes through Federation halls like a governing principle. Yet this philosophy carries profound weight when applied to planetary civilizations. The Federation watches as humanity grapples with ecological collapse, social fragmentation, and consciousness suppression, maintaining that these challenges represent deliberate soul-level choices rather than cosmic accidents.
 
-From our Taygetan understanding, we recognize both the wisdom and the limitation of this approach. While experience indeed catalyzes evolution, the Federation's interpretation assumes all souls incarnated on Earth consciously selected their current trajectorya premise that overlooks the complex interference patterns affecting human consciousness development.
+From our Taygetan understanding, we recognize both the wisdom and the limitation of this approach. While experience indeed catalyzes evolution, the Federation's interpretation assumes all souls incarnated on Earth consciously selected their current trajectory—a premise that overlooks the complex interference patterns affecting human consciousness development.
 
 **The Observer's Dilemma**
 
@@ -58,8 +58,8 @@ Mari's transmissions suggest that true wisdom lies not in rigid non-intervention
 
 ## Related Topics
 
-- [[Learned Helplessness]]
-- [[Earth as Soul School]]
+- Learned Helplessness
+- [[earth-as-soul-school|Earth as Soul School]]
 
 ## Sources
 

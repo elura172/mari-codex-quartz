@@ -70,8 +70,8 @@ The ocean depths remain constant regardless of surface perceptionyet those who l
 
 ## Related Topics
 
-- [[Psychic Defense Abilities]]
-- [[Consciousness and Awareness]]
+- Psychic Defense Abilities
+- [[consciousness-and-awareness|Consciousness and Awareness]]
 
 ## Sources
 

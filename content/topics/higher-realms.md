@@ -65,9 +65,9 @@ Through her transmissions, Mari Swaruu illuminated these concepts not as abstrac
 
 ## Related Topics
 
-- [[Consciousness Expansion]]
-- [[Light Beings]]
-- [[Atemporal Existence]]
+- [[consciousness-expansion|Consciousness Expansion]]
+- [[light-beings|Light Beings]]
+- [[atemporal-existence|Atemporal Existence]]
 
 ## Sources
 

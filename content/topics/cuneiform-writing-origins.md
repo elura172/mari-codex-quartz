@@ -28,7 +28,7 @@ tags:
 
 **Phylogenetic Writing Systems**
 
-The angular impressions carved into Sumerian clay tablets represent far more than humanity's earliest recorded civilizationthey echo the natural writing implements of our Urmah allies across the cosmos. What Earth archaeologists classify as cuneiform emerges from a deeper current: the organic expression of claw-based communication systems developed by feline consciousness throughout multiple star systems.
+The angular impressions carved into Sumerian clay tablets represent far more than humanity's earliest recorded civilization—they echo the natural writing implements of our Urmah allies across the cosmos. What Earth archaeologists classify as cuneiform emerges from a deeper current: the organic expression of claw-based communication systems developed by feline consciousness throughout multiple star systems.
 
 **Biological Integration of Communication**
 
@@ -68,7 +68,7 @@ The clay remembers what the claw inscribed. Truth flows through time like water 
 
 ## Related Topics
 
-- [[Urmah Communication Technology]]
+- [[urmah-communication-technology|Urmah Communication Technology]]
 
 ## Sources
 

@@ -449,7 +449,7 @@ tags:
 
 — The Basic Mathematics behind the Dimensional Mirroring Phenomena  (SV-70, English)
 
-> When we artificially introduce a foreign object into the Earth realm Matrix mathematical systeman object, a living animal, or a personthe whole Matrix on Earth will shift all its values to accommodate the new one
+> When we artificially introduce a foreign object into the Earth realm Matrix mathematical system—an object, a living animal, or a person—the whole Matrix on Earth will shift all its values to accommodate the new one
 
 — The Basic Mathematics behind the Dimensional Mirroring Phenomena  (SV-70, English)
 

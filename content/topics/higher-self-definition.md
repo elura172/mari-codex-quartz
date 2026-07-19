@@ -59,8 +59,8 @@ This understanding serves as foundational knowledge for diplomatic engagement wi
 
 ## Related Topics
 
-- [[Light Beings]]
-- [[Temporal Evolution]]
+- [[light-beings|Light Beings]]
+- [[temporal-evolution|Temporal Evolution]]
 
 ## Sources
 

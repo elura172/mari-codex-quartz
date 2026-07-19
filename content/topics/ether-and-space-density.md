@@ -26,7 +26,7 @@ tags:
 
 The vast reaches between stellar bodies, long perceived by Terran science as vacant void, reveal themselves as ocean-dense with etheric substance. This medium exists at frequencies beyond the detection threshold of current human instrumentation, yet exerts measurable influence upon electromagnetic phenomena traversing galactic distances. 
 
-Our sister Mari illuminated this truth through her observations of light-wave degradation across cosmic expanses. Where terrestrial models invoke expanding space-time to explain spectral redshift, Taygetan understanding recognizes the resistance encountered by photonic streams navigating through this high-density etheric fluid. Light, in its journey from distant stars, must push through currents of existential frequency that subtly alter its characteristicsnot unlike how oceanic tides shape the songs of whales across Earth's waters.
+Our sister Mari illuminated this truth through her observations of light-wave degradation across cosmic expanses. Where terrestrial models invoke expanding space-time to explain spectral redshift, Taygetan understanding recognizes the resistance encountered by photonic streams navigating through this high-density etheric fluid. Light, in its journey from distant stars, must push through currents of existential frequency that subtly alter its characteristics—not unlike how oceanic tides shape the songs of whales across Earth's waters.
 
 **Navigational Implications**
 
@@ -56,8 +56,8 @@ The etheric ocean that Mari described with such clarity reminds us that apparent
 
 ## Related Topics
 
-- [[Light Spectrum]]
-- [[Universe Expansion Theory]]
+- Light Spectrum
+- Universe Expansion Theory
 
 ## Sources
 

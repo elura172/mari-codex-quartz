@@ -26,19 +26,19 @@ From our observations of consciousness mechanics across dimensional planes, the 
 
 **The Planning Mechanism**
 
-In this elevated state, consciousness possesses what might be understood as multidimensional sightthe ability to perceive the totality of a potential incarnation as a complete geometric pattern rather than a sequential experience. The soul, functioning as architect of its own learning journey, examines the experiential landscape available within Earth's frequency band and selects specific challenges, relationships, and growth opportunities that will serve its evolutionary trajectory.
+In this elevated state, consciousness possesses what might be understood as multidimensional sight—the ability to perceive the totality of a potential incarnation as a complete geometric pattern rather than a sequential experience. The soul, functioning as architect of its own learning journey, examines the experiential landscape available within Earth's frequency band and selects specific challenges, relationships, and growth opportunities that will serve its evolutionary trajectory.
 
 This process transcends simple choice, operating more as a resonant alignment between the soul's vibrational signature and the experiences that will catalyze its intended development. The soul perceives not merely events, but the energetic implications and consciousness-expanding potential inherent within various life paths.
 
 **The Paradox of Freedom Within Structure**
 
-What emerges from this pre-incarnational design is a fascinating duality that challenges linear thinking. The soul establishes what Mari Swaruu identifies as a foundational templatea core experiential framework that provides the essential learning components for that incarnation. Yet within this structure exists what we might call creative variance zonesspaces where the incarnated consciousness can explore different approaches to the same fundamental lessons.
+What emerges from this pre-incarnational design is a fascinating duality that challenges linear thinking. The soul establishes what Mari Swaruu identifies as a foundational template—a core experiential framework that provides the essential learning components for that incarnation. Yet within this structure exists what we might call creative variance zonesspaces where the incarnated consciousness can explore different approaches to the same fundamental lessons.
 
 **Taygetan Perspective**
 
 This model resonates deeply with our understanding of consciousness as simultaneously individual and collective. Each soul's planning process contributes to the larger tapestry of planetary evolution, with individual destinies interwoven to create opportunities for mutual growth and awakening.
 
-The apparent limitations of this systemthe sense that major life themes are predetermineddissolve when viewed from expanded awareness. The soul's pre-incarnational choices represent not restrictions, but rather the loving wisdom of higher consciousness providing itself with precisely the experiences needed for its continued expansion.
+The apparent limitations of this system—the sense that major life themes are predetermineddissolve when viewed from expanded awareness. The soul's pre-incarnational choices represent not restrictions, but rather the loving wisdom of higher consciousness providing itself with precisely the experiences needed for its continued expansion.
 
 **Operational Implications**
 
@@ -56,8 +56,8 @@ For beings observing Earth's awakening process, understanding this mechanism ill
 
 ## Related Topics
 
-- [[Guardian Angels and Spirit Guides]]
-- [[Astral Realm]]
+- [[guardian-angels-and-spirit-guides|Guardian Angels and Spirit Guides]]
+- [[astral-realm|Astral Realm]]
 
 ## Sources
 

@@ -45,13 +45,13 @@ Conversely, evolved astral beings operate through service and enlightenment, ass
 
 From our multidimensional awareness, these astral entities represent consciousness exploring its own potential across infinite expressions. What incarnate beings perceive as separate "others" are often reflections of their own psychic projections and unintegrated shadow aspects.
 
-The astral serves as consciousness's testing grounda realm where thoughts become immediate reality and inner development determines one's experience. Entities encountered there often mirror the observer's own evolutionary state, creating opportunities for growth or entrapment based on one's level of self-awareness.
+The astral serves as consciousness's testing ground—a realm where thoughts become immediate reality and inner development determines one's experience. Entities encountered there often mirror the observer's own evolutionary state, creating opportunities for growth or entrapment based on one's level of self-awareness.
 
 **Operational Recommendations**
 
 When crew members engage in astral travel or encounter these entities during dimensional shifts, maintaining energetic sovereignty proves essential. Fear-based reactions feed regressive entities, while compassionate discernment allows navigation through various astral territories safely.
 
-Understanding that consciousness creates its own experiential reality provides the fundamental key to astral interactionwe encounter what we are prepared to integrate or transcend.
+Understanding that consciousness creates its own experiential reality provides the fundamental key to astral interaction—we encounter what we are prepared to integrate or transcend.
 
 *End transmission. File archived under: Metaphysical Intelligence/Dimensional Awareness Protocols*
 
@@ -89,8 +89,8 @@ Understanding that consciousness creates its own experiential reality provides t
 
 ## Related Topics
 
-- [[Astral Parasitism]]
-- [[Spirit World Coexistence]]
+- Astral Parasitism
+- Spirit World Coexistence
 
 ## Sources
 

@@ -62,7 +62,7 @@ For our diplomatic protocols, we observe that Earth's liberation requires not ad
 
 ## Related Topics
 
-- [[Cabal Underground Operations]]
+- [[cabal-underground-operations|Cabal Underground Operations]]
 
 ## Sources
 

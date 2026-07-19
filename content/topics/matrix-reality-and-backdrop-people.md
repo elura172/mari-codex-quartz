@@ -63,8 +63,8 @@ Understanding these dynamics proves essential for any meaningful contact protoco
 
 ## Related Topics
 
-- [[Consciousness Control]]
-- [[Etheric Barrier]]
+- Consciousness Control
+- [[etheric-barrier|Etheric Barrier]]
 
 ## Sources
 

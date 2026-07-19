@@ -36,7 +36,7 @@ Deep within the fertile darkness of subconsciousness, psychological triggers est
 
 **The Imprisonment of Potential**
 
-Perhaps most significantly, these submerged patterns function as invisible chains, constraining the being's natural expansion toward its intended trajectory. The soul recognizes its capacity for growth, yet encounters mysterious resistance when attempting to manifest its deeper aspirations. This creates a profound frustrationthe awareness of possibility coupled with the experience of inexplicable limitation.
+Perhaps most significantly, these submerged patterns function as invisible chains, constraining the being's natural expansion toward its intended trajectory. The soul recognizes its capacity for growth, yet encounters mysterious resistance when attempting to manifest its deeper aspirations. This creates a profound frustration—the awareness of possibility coupled with the experience of inexplicable limitation.
 
 **Taygetan Perspective**
 
@@ -59,8 +59,8 @@ True evolution requires the integration of these shadow aspects, transforming un
 
 ## Related Topics
 
-- [[Alter Egos for Personal Development]]
-- [[Emotional Triggers]]
+- [[alter-egos-for-personal-development|Alter Egos for Personal Development]]
+- [[emotional-triggers|Emotional Triggers]]
 
 ## Sources
 

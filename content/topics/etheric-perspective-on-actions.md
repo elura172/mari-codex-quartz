@@ -44,7 +44,7 @@ In our interactions with developing civilizations, these principles guide our as
 
 For crew members engaging with terrestrial populations, remember that awakening others to their internal witness cultivates authentic transformation. Support recognition of personal choice even within constraining circumstances. Honor the courage required to maintain ethical clarity when surrounded by systems demanding unconscious compliance.
 
-The path to liberation begins with acknowledging the eternal observer withinthe aspect of self that remains untouchable by external coercion while maintaining perfect discernment between chosen and imposed experience.
+The path to liberation begins with acknowledging the eternal observer within—the aspect of self that remains untouchable by external coercion while maintaining perfect discernment between chosen and imposed experience.
 
 *End Codex Entry*
 
@@ -62,8 +62,8 @@ The path to liberation begins with acknowledging the eternal observer withinthe 
 
 ## Related Topics
 
-- [[Star Seed Identity]]
-- [[Matrix Non-Compliance]]
+- [[starseed-identity|Star Seed Identity]]
+- [[matrix-non-compliance|Matrix Non-Compliance]]
 
 ## Sources
 

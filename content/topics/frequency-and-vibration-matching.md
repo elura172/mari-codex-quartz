@@ -42,7 +42,7 @@ For interstellar civilizations, these dynamics carry profound implications. Crew
 
 **Mari's Clarity**
 
-Through patient observation, our Erran kin recognized these principles as fundamental cosmic law rather than metaphysical speculation. Her transmissions consistently emphasized the mechanical nature of frequency matchinga universe operating with crystalline precision where consciousness serves as both navigation system and destination selector.
+Through patient observation, our Erran kin recognized these principles as fundamental cosmic law rather than metaphysical speculation. Her transmissions consistently emphasized the mechanical nature of frequency matching—a universe operating with crystalline precision where consciousness serves as both navigation system and destination selector.
 
 **Practical Applications**
 
@@ -62,8 +62,8 @@ The implications ripple across all aspects of existence, from healing to explora
 
 ## Related Topics
 
-- [[Dreams and Sleep States]]
-- [[Lower Astral Entities]]
+- Dreams and Sleep States
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

@@ -69,7 +69,7 @@ Success requires maintaining awareness that the reconstructed memories are consc
 
 ## Related Topics
 
-- [[Alter Egos for Personal Development]]
+- [[alter-egos-for-personal-development|Alter Egos for Personal Development]]
 
 ## Sources
 

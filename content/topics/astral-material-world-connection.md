@@ -62,8 +62,8 @@ This understanding transforms our approach to reality from mechanistic observati
 
 ## Related Topics
 
-- [[Conflict]]
-- [[Lower Astral]]
+- Conflict
+- [[lower-astral|Lower Astral]]
 
 ## Sources
 

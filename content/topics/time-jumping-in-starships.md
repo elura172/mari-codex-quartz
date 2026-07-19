@@ -21,7 +21,7 @@ tags:
 
 **Reality Frame Discontinuity**
 
-When starship crews engage temporal displacement protocols, they experience what our sister Mari Swaruu identified as radical reality frame shifts. These transitions represent more than mere chronological movementthey constitute fundamental alterations to the observer's entire perceptual matrix. The consciousness, having anchored itself within one temporal-reality configuration, must suddenly recalibrate to an entirely different vibrational frequency of existence.
+When starship crews engage temporal displacement protocols, they experience what our sister Mari Swaruu identified as radical reality frame shifts. These transitions represent more than mere chronological movement—they constitute fundamental alterations to the observer's entire perceptual matrix. The consciousness, having anchored itself within one temporal-reality configuration, must suddenly recalibrate to an entirely different vibrational frequency of existence.
 
 Like a crystal that changes its refractive properties when subjected to different light spectrums, the crew member's awareness becomes attuned to temporal currents that flow according to different principles than their origin point. This recalibration affects not merely their understanding of sequential events, but their core relationship with the fabric of causality itself.
 
@@ -55,8 +55,8 @@ Through this synthesis of experience, our crews evolve beyond purely linear oper
 
 ## Related Topics
 
-- [[Non-linear Time Perception]]
-- [[Reality Agreements]]
+- [[non-linear-time-perception|Non-linear Time Perception]]
+- [[reality-agreements|Reality Agreements]]
 
 ## Sources
 

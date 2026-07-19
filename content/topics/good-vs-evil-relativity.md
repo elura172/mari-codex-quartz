@@ -36,7 +36,7 @@ Human history demonstrates this principle repeatedly: actions celebrated as hero
 
 Mari's transmissions illuminate a profound truth recognized across advanced civilizations: the underlying creative force of existence operates beyond the dualistic framework of moral judgment. From the perspective of total integrationwhat humans often term Source or Godall experiences serve the expansion of consciousness itself. Pain and pleasure, creation and destruction, harmony and conflict all contribute to the infinite exploration of possibility.
 
-This understanding does not advocate for moral nihilism, but rather invites a more sophisticated approach to ethicsone rooted in expanded awareness rather than rigid categorization. When consciousness recognizes its fundamental interconnection, natural compassion arises not from moral obligation, but from the direct experience of unity.
+This understanding does not advocate for moral nihilism, but rather invites a more sophisticated approach to ethics—one rooted in expanded awareness rather than rigid categorization. When consciousness recognizes its fundamental interconnection, natural compassion arises not from moral obligation, but from the direct experience of unity.
 
 **Practical Applications**
 
@@ -58,8 +58,8 @@ For diplomatic engagement with developing civilizations, this principle proves e
 
 ## Related Topics
 
-- [[Divine Justice and Karma Deception]]
-- [[Empathy as Weapon]]
+- [[divine-justice-and-karma-deception|Divine Justice and Karma Deception]]
+- [[empathy-as-weapon|Empathy as Weapon]]
 
 ## Sources
 

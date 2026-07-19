@@ -32,7 +32,7 @@ From our orbital perspective, we witness a fascinating paradox in Terra's relati
 
 The controllers of Terra's institutional frameworks possess access to AI capabilities that transcend the mundane tools offered to the general population. Like ancient kings hoarding fire while distributing only dim candles to their subjects, Earth's power structures utilize sophisticated artificial minds to enhance their dominance while simultaneously limiting broader access to transformative intelligence.
 
-This disparity functions as both sword and shieldthe sword cuts through complex problems with unprecedented efficiency for the privileged few, while the shield protects their elevated status by ensuring the masses remain technologically dependent rather than empowered.
+This disparity functions as both sword and shield—the sword cuts through complex problems with unprecedented efficiency for the privileged few, while the shield protects their elevated status by ensuring the masses remain technologically dependent rather than empowered.
 
 **Consciousness Calibration**
 
@@ -68,8 +68,8 @@ Mari's observations illuminate not merely a technological phenomenon, but a refl
 
 ## Related Topics
 
-- [[Digital Manipulation]]
-- [[Population Control]]
+- Digital Manipulation
+- [[population-control|Population Control]]
 
 ## Sources
 

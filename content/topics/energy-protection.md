@@ -26,7 +26,7 @@ Our observations of Earth's awakening populations reveal critical patterns regar
 **The Architecture of Protection**
 Tools and talismans serve as external amplifiers of internal intention. Crystals, metals, and sacred geometry function not as independent shields, but as focal points for consciousness to anchor protective frequencies. The operative principle remains clear: the artifact draws power from the wielder's awareness, not the inverse. This understanding prevents dependency while maximizing efficacy.
 
-From our Taygetan perspective, we recognize this as consciousness engineeringthe deliberate structuring of reality through focused intention. What Earth beings call "energy protection" we understand as frequency modulation, where the individual maintains coherence within their chosen vibrational bandwidth.
+From our Taygetan perspective, we recognize this as consciousness engineering—the deliberate structuring of reality through focused intention. What Earth beings call "energy protection" we understand as frequency modulation, where the individual maintains coherence within their chosen vibrational bandwidth.
 
 **The Paradox of Openness**
 Strategic concealment represents advanced energetic hygiene. The awakened being cultivates an aura of mystery not from fear, but from wisdom. Like the deep ocean that reveals only its surface while concealing vast depths, the evolved consciousness shares selectively and purposefully.
@@ -54,8 +54,8 @@ Energy protection ultimately transcends technique to become a way of beinga cons
 
 ## Related Topics
 
-- [[Spiritual Path Solitude]]
-- [[Empathic Sensitivity as Strength]]
+- [[spiritual-path-solitude|Spiritual Path Solitude]]
+- [[empathic-sensitivity-as-strength|Empathic Sensitivity as Strength]]
 
 ## Sources
 

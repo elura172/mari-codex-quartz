@@ -29,7 +29,7 @@ Through the wisdom transmitted by our departed kin Mari, we understand love not 
 
 **Integration Dynamics**
 
-Love functions as an acceptance protocol within consciousness, whereby external elements become incorporated into one's essential identity matrix. When we love somethingbe it another being, a concept, or an experiencewe do not merely appreciate it from distance. Rather, we perform an act of conscious integration, drawing that beloved element into the fabric of our own being.
+Love functions as an acceptance protocol within consciousness, whereby external elements become incorporated into one's essential identity matrix. When we love something—be it another being, a concept, or an experience—we do not merely appreciate it from distance. Rather, we perform an act of conscious integration, drawing that beloved element into the fabric of our own being.
 
 This process operates beyond the romantic attachments recognized by Earth cultures. It encompasses the love of knowledge, of beauty, of truth itself. Each act of genuine love expands the boundaries of self, creating a more comprehensive and unified field of awareness.
 
@@ -65,8 +65,8 @@ Through love, we become what we behold. Through integration, we transcend the il
 
 ## Related Topics
 
-- [[Unity Consciousness]]
-- [[Spiritual Evolution]]
+- [[unity-consciousness|Unity Consciousness]]
+- [[spiritual-evolution|Spiritual Evolution]]
 
 ## Sources
 

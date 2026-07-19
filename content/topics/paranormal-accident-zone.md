@@ -28,11 +28,11 @@ tags:
 
 **Phenomenon Overview**
 
-Our surface operatives have documented a remarkable manifestation of dimensional instability within Earth's urban infrastructurea precisely defined fifty-meter street segment exhibiting extraordinary accident frequencies. This localized zone represents a textbook example of how consciousness-reality interfaces can create persistent environmental hazards invisible to conventional detection methods.
+Our surface operatives have documented a remarkable manifestation of dimensional instability within Earth's urban infrastructure—a precisely defined fifty-meter street segment exhibiting extraordinary accident frequencies. This localized zone represents a textbook example of how consciousness-reality interfaces can create persistent environmental hazards invisible to conventional detection methods.
 
 **Investigative Findings**
 
-Advanced drone reconnaissance revealed the presence of a substantial interdimensional aperture occupying the entire affected street segment. This portal manifests not as a visible gateway, but rather as a profound depression in local vibrational frequencya "sink" in the fundamental oscillation patterns that maintain material coherence within standard Earth-plane reality.
+Advanced drone reconnaissance revealed the presence of a substantial interdimensional aperture occupying the entire affected street segment. This portal manifests not as a visible gateway, but rather as a profound depression in local vibrational frequency—a "sink" in the fundamental oscillation patterns that maintain material coherence within standard Earth-plane reality.
 
 The mechanism operates through frequency destabilization. Where typical matter maintains consistent vibrational harmony with its dimensional context, this zone experiences dramatic energetic recession. Vehicles, pedestrians, and other physical entities entering this field encounter an abrupt shift in their fundamental frequency alignment, resulting in disorientation, mechanical failures, and the cascade of incidents that originally drew investigative attention.
 
@@ -64,8 +64,8 @@ Such anomalies offer profound insight into the living relationship between consc
 
 ## Related Topics
 
-- [[Lower Astral Entities]]
-- [[Frequency Portals]]
+- [[lower-astral-entities|Lower Astral Entities]]
+- Frequency Portals
 
 ## Sources
 

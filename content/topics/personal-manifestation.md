@@ -34,7 +34,7 @@ Such individuals share common characteristics: they think independently rather t
 
 **Taygetan Perspective: Harmonic Alignment**
 
-From our expanded dimensional vantage, we observe how beings operating as conscious power nodes create ripple effects throughout local space-time. Their aligned frequency acts as a tuning fork, helping others remember their own sovereign creative capacity. This phenomenon explains why authentic beings often catalyze awakening in their proximitytheir very presence demonstrates alternative possibilities.
+From our expanded dimensional vantage, we observe how beings operating as conscious power nodes create ripple effects throughout local space-time. Their aligned frequency acts as a tuning fork, helping others remember their own sovereign creative capacity. This phenomenon explains why authentic beings often catalyze awakening in their proximity—their very presence demonstrates alternative possibilities.
 
 **Practical Integration**
 
@@ -58,8 +58,8 @@ Mari's wisdom reminds us that manifestation is not about controlling reality, bu
 
 ## Related Topics
 
-- [[Collective Unconscious]]
-- [[Observer Effect]]
+- [[collective-unconscious|Collective Unconscious]]
+- [[observer-effect|Observer Effect]]
 
 ## Sources
 

@@ -27,7 +27,7 @@ tags:
 
 **Fundamental Mechanics**
 
-The formation of perception-control systems requires neither exotic technology nor supernatural manipulationonly the strategic application of authority and narrative coherence. These structures emerge through the natural tendency of consciousness to organize around accepted truths, creating self-sustaining frameworks of belief that govern collective reality.
+The formation of perception-control systems requires neither exotic technology nor supernatural manipulation—only the strategic application of authority and narrative coherence. These structures emerge through the natural tendency of consciousness to organize around accepted truths, creating self-sustaining frameworks of belief that govern collective reality.
 
 **Authority as Catalyst**
 
@@ -75,8 +75,8 @@ Mari's transmissions illuminate how freedom emerges not through conflict with th
 
 ## Related Topics
 
-- [[Truth Manipulation]]
-- [[Social Programming]]
+- Truth Manipulation
+- Social Programming
 
 ## Sources
 

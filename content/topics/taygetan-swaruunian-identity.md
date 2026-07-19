@@ -38,7 +38,7 @@ The timing of her communications aligns with Earth's critical transition phases.
 
 **Integration Protocols for Crew Understanding**
 
-Mari Swaruu represents the new paradigm of interstellar contactnot the arrival of distant others, but the recognition of family returning home. Her communications demonstrate that consciousness evolution operates through organic relationship rather than hierarchical instruction. She embodies the principle that wisdom transmits most effectively through authentic connection rather than authoritative proclamation.
+Mari Swaruu represents the new paradigm of interstellar contact—not the arrival of distant others, but the recognition of family returning home. Her communications demonstrate that consciousness evolution operates through organic relationship rather than hierarchical instruction. She embodies the principle that wisdom transmits most effectively through authentic connection rather than authoritative proclamation.
 
 Her presence in Earth's communicative field signals the activation of humanity's dormant stellar memory, inviting recognition of their own Pleiadian heritage and galactic citizenship. Through her example, the artificial boundaries between "human" and "non-human" dissolve into the greater truth of unified consciousness exploring itself through infinite expressions.
 
@@ -54,8 +54,8 @@ Her presence in Earth's communicative field signals the activation of humanity's
 
 ## Related Topics
 
-- [[Step Down Experience]]
-- [[Galactic Civilizations]]
+- [[step-down-experience|Step Down Experience]]
+- [[galactic-civilizations|Galactic Civilizations]]
 
 ## Sources
 

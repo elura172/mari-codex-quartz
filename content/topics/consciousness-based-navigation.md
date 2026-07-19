@@ -61,8 +61,8 @@ The path from earthbound consciousness to cosmic navigator begins with understan
 
 ## Related Topics
 
-- [[Vibrational Reality Creation]]
-- [[Starship Navigation Technology]]
+- [[vibrational-reality-creation|Vibrational Reality Creation]]
+- [[starship-navigation-technology|Starship Navigation Technology]]
 
 ## Sources
 

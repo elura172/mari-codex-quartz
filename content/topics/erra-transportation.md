@@ -59,8 +59,8 @@ Through Mari's transmissions, we understand that transportation on Erra represen
 
 ## Related Topics
 
-- [[Taygetan Technology]]
-- [[Erra Cities and Settlements]]
+- [[taygetan-technology|Taygetan Technology]]
+- [[erra-cities-and-settlements|Erra Cities and Settlements]]
 
 ## Sources
 

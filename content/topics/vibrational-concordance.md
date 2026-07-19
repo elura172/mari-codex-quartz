@@ -36,7 +36,7 @@ From our Taygetan perspective, this principle reflects the deeper truth that con
 
 **Practical Application**
 
-The cultivation of vibrational concordance requires disciplined focusnot the strain of forcing, but the relaxed precision of a musician finding perfect pitch. One must practice inhabiting the feeling-state of already being what they wish to become. This involves releasing attachment to timeline and method while maintaining clear vision of the desired state.
+The cultivation of vibrational concordance requires disciplined focus—not the strain of forcing, but the relaxed precision of a musician finding perfect pitch. One must practice inhabiting the feeling-state of already being what they wish to become. This involves releasing attachment to timeline and method while maintaining clear vision of the desired state.
 
 **Diplomatic Implications**
 
@@ -60,8 +60,8 @@ Mari's wisdom reminds us that in the grand symphony of consciousness, we are sim
 
 ## Related Topics
 
-- [[Consciousness and Reality]]
-- [[Manifestation Theory]]
+- [[consciousness-and-reality|Consciousness and Reality]]
+- [[manifestation-theory|Manifestation Theory]]
 
 ## Sources
 

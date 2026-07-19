@@ -25,7 +25,7 @@ tags:
 
 **The Ancient Garden Tenders**
 
-Across the vast tapestry of inhabited worlds, civilizations have long practiced the sacred art of planetary cultivationthe deliberate transplantation of life forms between worlds. This ancient tradition transforms barren spheres into flourishing biomes, yet carries within it both the promise of creation and the shadow of destruction.
+Across the vast tapestry of inhabited worlds, civilizations have long practiced the sacred art of planetary cultivation—the deliberate transplantation of life forms between worlds. This ancient tradition transforms barren spheres into flourishing biomes, yet carries within it both the promise of creation and the shadow of destruction.
 
 The practice flows like an invisible river through galactic history. Countless star-faring peoples continue this work even now, their vessels carrying precious genetic cargo between distant suns. Seeds drift through hyperspace corridors, while carefully preserved specimens await rebirth on alien soils. Each world becomes both recipient and donor in this endless exchange of biological diversity.
 
@@ -61,8 +61,8 @@ As we continue our own conservation and seeding missions, we carry the responsib
 
 ## Related Topics
 
-- [[Erra Ecosystems]]
-- [[M'Oa Birds]]
+- [[erra-ecosystems|Erra Ecosystems]]
+- M'Oa Birds
 
 ## Sources
 

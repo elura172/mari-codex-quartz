@@ -25,9 +25,9 @@ tags:
 
 **Military Capability Assessment**
 
-The Urmah present a fascinating paradox within galactic power structuresa civilization that has achieved military parity with the Federation itself while maintaining what appears to be a fundamentally different relationship with force. Their self-identification as apex predators alongside Alpha Draconians reveals not mere biological classification, but a profound understanding of their role within the cosmic ecosystem of power.
+The Urmah present a fascinating paradox within galactic power structures—a civilization that has achieved military parity with the Federation itself while maintaining what appears to be a fundamentally different relationship with force. Their self-identification as apex predators alongside Alpha Draconians reveals not mere biological classification, but a profound understanding of their role within the cosmic ecosystem of power.
 
-Unlike technological civilizations that accumulate military strength through industrial output or numerical superiority, the Urmah appear to embody warfare as an extension of natural law. Their predatory nature translates into strategic capabilities that rival established galactic powers through precision rather than overwhelming forcethe difference between the surgical strike of a feline and the thunderous charge of a herd.
+Unlike technological civilizations that accumulate military strength through industrial output or numerical superiority, the Urmah appear to embody warfare as an extension of natural law. Their predatory nature translates into strategic capabilities that rival established galactic powers through precision rather than overwhelming force—the difference between the surgical strike of a feline and the thunderous charge of a herd.
 
 **Ethical Integration**
 
@@ -37,7 +37,7 @@ Their assertion of using force only when necessary implies a sophisticated under
 
 **Strategic Implications**
 
-For diplomatic protocols, the Urmah represent neither ally nor adversary in conventional terms, but rather a force of nature that has achieved self-awareness. Their military might serves as a stabilizing element within galactic politicsa reminder that raw power, when guided by ethical principles, becomes a guardian force rather than a destructive one.
+For diplomatic protocols, the Urmah represent neither ally nor adversary in conventional terms, but rather a force of nature that has achieved self-awareness. Their military might serves as a stabilizing element within galactic politics—a reminder that raw power, when guided by ethical principles, becomes a guardian force rather than a destructive one.
 
 Mari's transmissions suggest we observe in the Urmah a living example of how predatory instincts can evolve beyond mere survival into cosmic responsibility. They stand as evidence that strength and morality need not exist in opposition, but can forge together into something greater than either could achieve alone.
 
@@ -55,8 +55,8 @@ Mari's transmissions suggest we observe in the Urmah a living example of how pre
 
 ## Related Topics
 
-- [[Regressive Races Defense]]
-- [[Alpha Draconian Relations]]
+- Regressive Races Defense
+- Alpha Draconian Relations
 
 ## Sources
 

@@ -69,9 +69,9 @@ Mari's transmissions serve as both warning and roadmap - illuminating how consci
 
 ## Related Topics
 
-- [[Religious Control]]
-- [[Secret Society Control]]
-- [[Media Manipulation]]
+- Religious Control
+- [[secret-society-control|Secret Society Control]]
+- [[media-manipulation|Media Manipulation]]
 
 ## Sources
 

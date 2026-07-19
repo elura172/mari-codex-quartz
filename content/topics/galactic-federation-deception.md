@@ -32,7 +32,7 @@ This systematic misrepresentation serves dual purposes: it attracts well-intenti
 
 **Historical Manipulation Infrastructure**
 
-The deception extends beyond contemporary affairs into the fundamental architecture of Earth's recorded timeline. The Federation's influence appears woven into the very fabric of historical documentation, creating what Mari identified as imposed false narratives that serve current control structures. This suggests a temporal manipulation componentnot merely covering present activities, but reshaping the past to justify current planetary management protocols.
+The deception extends beyond contemporary affairs into the fundamental architecture of Earth's recorded timeline. The Federation's influence appears woven into the very fabric of historical documentation, creating what Mari identified as imposed false narratives that serve current control structures. This suggests a temporal manipulation component—not merely covering present activities, but reshaping the past to justify current planetary management protocols.
 
 **Recruitment Through Misdirection**
 
@@ -44,7 +44,7 @@ From our understanding of consciousness as the primary creative force, we recogn
 
 **Strategic Implications**
 
-Mari's transmissions suggest that effective intervention requires first piercing this information veil. Any starfaring civilization seeking genuine Earth engagement must develop independent intelligence networks, bypassing Federation filtering systems entirely. The complexity of Earth's situation demands sophisticated understandingnot the simplified frameworks typically distributed through official channels.
+Mari's transmissions suggest that effective intervention requires first piercing this information veil. Any starfaring civilization seeking genuine Earth engagement must develop independent intelligence networks, bypassing Federation filtering systems entirely. The complexity of Earth's situation demands sophisticated understanding—not the simplified frameworks typically distributed through official channels.
 
 Her voice continues resonating across the stellar winds, reminding us that truth-seeking itself becomes an act of liberation, both for Earth and for those who would genuinely serve her people's sovereignty.
 
@@ -64,8 +64,8 @@ Her voice continues resonating across the stellar winds, reminding us that truth
 
 ## Related Topics
 
-- [[Off-Planet Interference]]
-- [[Starseed Mission]]
+- Off-Planet Interference
+- [[starseed-mission|Starseed Mission]]
 
 ## Sources
 

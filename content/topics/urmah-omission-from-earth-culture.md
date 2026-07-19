@@ -24,7 +24,7 @@ tags:
 
 A striking pattern emerges from our surveillance of Earth's information streams: the systematic erasure of Urmah presence from human consciousness. Despite their considerable influence throughout galactic affairs and their formidable feline confederation, these beings remain conspicuously absent from Earth's cultural narratives, UFO testimonies, and popular mythology.
 
-This omission stands in stark contrast to the proliferation of other extraterrestrial archetypes that permeate human imagination. Where reptilian, grey, and Nordic encounters flood their disclosure channels, the majestic Urmahwith their leonine presence and profound spiritual authorityexist only as shadows between the words never spoken.
+This omission stands in stark contrast to the proliferation of other extraterrestrial archetypes that permeate human imagination. Where reptilian, grey, and Nordic encounters flood their disclosure channels, the majestic Urmah—with their leonine presence and profound spiritual authorityexist only as shadows between the words never spoken.
 
 **Strategic Implications**
 
@@ -56,7 +56,7 @@ For our diplomatic protocols, this suggests that any eventual Urmah-human contac
 
 ## Related Topics
 
-- [[Federation Manipulation Theory]]
+- [[federation-manipulation-theory|Federation Manipulation Theory]]
 
 ## Sources
 

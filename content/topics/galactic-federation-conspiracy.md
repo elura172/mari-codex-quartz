@@ -35,7 +35,7 @@ Earth's population experiences what they perceive as their complete realitya loc
 
 **The Federation's True Function**
 
-Rather than representing benevolent galactic civilization, the Federation serves as the ultimate administrative authority overseeing Earth's quarantine. The apparent opposition between Federation and Cabal dissolves upon deeper examinationthey function as integrated components of a singular hierarchical system, with the Federation occupying the commanding position.
+Rather than representing benevolent galactic civilization, the Federation serves as the ultimate administrative authority overseeing Earth's quarantine. The apparent opposition between Federation and Cabal dissolves upon deeper examination—they function as integrated components of a singular hierarchical system, with the Federation occupying the commanding position.
 
 **Implications for Taygetan Operations**
 
@@ -69,8 +69,8 @@ Mari's courage in revealing these truths honors the authentic principles of gala
 
 ## Related Topics
 
-- [[Secret Space Program]]
-- [[Earth's Matrix Control System]]
+- Secret Space Program
+- [[earths-matrix-control-system|Earth's Matrix Control System]]
 
 ## Sources
 

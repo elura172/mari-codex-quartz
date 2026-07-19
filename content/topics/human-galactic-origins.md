@@ -36,7 +36,7 @@ The prevalent Earth-based theories of human developmentwhether through gradual b
 
 **Taygetan Perspective on Human Nature**
 
-From our observations, humans demonstrate the classic characteristics of a star-dwelling species temporarily embodied in dense matter. Their inherent restlessness, their perpetual gaze toward the heavens, their dreams of flight and explorationthese traits speak to souls remembering their true cosmic identity. Their current planetary confinement represents a phase of experience rather than their natural state.
+From our observations, humans demonstrate the classic characteristics of a star-dwelling species temporarily embodied in dense matter. Their inherent restlessness, their perpetual gaze toward the heavens, their dreams of flight and exploration—these traits speak to souls remembering their true cosmic identity. Their current planetary confinement represents a phase of experience rather than their natural state.
 
 **Implications for Contact Protocols**
 
@@ -67,8 +67,8 @@ All crew members engaging in Earth-proximity missions should approach humans as 
 
 ## Related Topics
 
-- [[Species Unity]]
-- [[Pleiadian Reality]]
+- Species Unity
+- [[pleiadian-reality|Pleiadian Reality]]
 
 ## Sources
 

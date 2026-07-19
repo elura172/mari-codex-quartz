@@ -26,11 +26,11 @@ The world of Erra presents a profound study in celestial extremes, where the dan
 
 **The Great Transitions**
 
-Winter's arrival on Erra does not whisper its approachit announces itself with the fury of cosmic forces unleashed. The transition periods represent more than mere seasonal change; they embody the fundamental principle that transformation in the universe often arrives through intensity rather than gradation. When the planet's orbital mechanics align to bring the deepest cold, temperatures plummet to extremes that would challenge even the most adapted life forms, reaching depths where the very air seems to crystallize into silence.
+Winter's arrival on Erra does not whisper its approach—it announces itself with the fury of cosmic forces unleashed. The transition periods represent more than mere seasonal change; they embody the fundamental principle that transformation in the universe often arrives through intensity rather than gradation. When the planet's orbital mechanics align to bring the deepest cold, temperatures plummet to extremes that would challenge even the most adapted life forms, reaching depths where the very air seems to crystallize into silence.
 
 **Temperature Gradients and Biological Impact**
 
-The polar regions bear witness to temperatures that approach the threshold where molecular motion nearly ceases, creating landscapes of such pristine stillness that they mirror the void between stars. Even in less extreme latitudes, the cold descends with sufficient force to trigger mass die-offs across multiple species, creating what Mari understood as nature's own meditation on impermanencea teaching written in ice and loss across the planetary surface.
+The polar regions bear witness to temperatures that approach the threshold where molecular motion nearly ceases, creating landscapes of such pristine stillness that they mirror the void between stars. Even in less extreme latitudes, the cold descends with sufficient force to trigger mass die-offs across multiple species, creating what Mari understood as nature's own meditation on impermanence—a teaching written in ice and loss across the planetary surface.
 
 **Metaphysical Implications**
 
@@ -54,8 +54,8 @@ For crew members studying terrestrial weather patterns, Erra provides essential 
 
 ## Related Topics
 
-- [[Planet Erra Geography]]
-- [[Taygetan Civilization]]
+- [[planet-erra-geography|Planet Erra Geography]]
+- [[taygetan-civilization|Taygetan Civilization]]
 
 ## Sources
 

@@ -62,8 +62,8 @@ The same starlight that once announced divine presence now heralds scientific in
 
 ## Related Topics
 
-- [[Matrix Perception Agreements]]
-- [[Human Seeding]]
+- Matrix Perception Agreements
+- Human Seeding
 
 ## Sources
 

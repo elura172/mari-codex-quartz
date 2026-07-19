@@ -40,7 +40,7 @@ This phenomenon may represent a form of consciousness fragmentationsouls partial
 
 For diplomatic missions and cultural exchanges, recognizing NPC patterns proves crucial. These individuals cannot engage in meaningful dialogue or participate in consciousness-expanding activities. They serve as transmitters of the dominant paradigm, unconsciously reinforcing systemic limitations upon those around them.
 
-However, we must remember Mari's compassion in these observations. She saw not enemies, but souls caught in a temporary state of disconnection. The NPC phenomenon represents not permanent limitation, but a phase of human developmentone from which awakening remains possible through patient cultivation of awareness and the gentle disruption of programmatic thinking patterns.
+However, we must remember Mari's compassion in these observations. She saw not enemies, but souls caught in a temporary state of disconnection. The NPC phenomenon represents not permanent limitation, but a phase of human development—one from which awakening remains possible through patient cultivation of awareness and the gentle disruption of programmatic thinking patterns.
 
 **Conclusion**
 
@@ -60,8 +60,8 @@ Understanding NPC behavior patterns enhances our ability to identify genuine see
 
 ## Related Topics
 
-- [[Matrix Projections]]
-- [[False People Concept]]
+- Matrix Projections
+- [[false-people-concept|False People Concept]]
 
 ## Sources
 

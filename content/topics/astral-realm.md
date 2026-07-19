@@ -27,7 +27,7 @@ tags:
 
 **Dimensional Interface Structure**
 
-The astral realm exists as a frequency-based dimensional layer where consciousness directly interfaces with reality's malleable substrate. Unlike the dense matter configurations of physical space, this domain operates as a fluid medium of interconnected vibrational statesa living soup where thought becomes tangible force and intention shapes experiential reality.
+The astral realm exists as a frequency-based dimensional layer where consciousness directly interfaces with reality's malleable substrate. Unlike the dense matter configurations of physical space, this domain operates as a fluid medium of interconnected vibrational states—a living soup where thought becomes tangible force and intention shapes experiential reality.
 
 Within this frequency matrix, the boundary between imagination and manifestation dissolves. What sentient beings conceive in material consciousness carries profound weight and substance in astral dimensions. This principle underlies much of what Earth humans misunderstand about mental and spiritual phenomena, failing to recognize that their conceptual activity generates measurable effects across dimensional boundaries.
 
@@ -71,7 +71,7 @@ The astral domain represents a bridge between thought and forma crucial interfac
 
 ## Related Topics
 
-- [[Urmah Medicine]]
+- [[urmah-medicine|Urmah Medicine]]
 
 ## Sources
 

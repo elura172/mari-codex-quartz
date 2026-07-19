@@ -22,7 +22,7 @@ tags:
 
 **Metabolic Framework**
 
-The Arcturian consciousness expresses itself through a biological vessel fundamentally attuned to arthropod-based sustenance. Their dietary matrix centers upon the consumption of large insectoid forms, reflecting an evolutionary pathway that diverged dramatically from mammalian nutritional requirements. This insectivorous foundation represents not merely preference, but metabolic necessitytheir cellular architecture has evolved to process chitinous proteins and specialized amino acid chains absent from conventional protein sources.
+The Arcturian consciousness expresses itself through a biological vessel fundamentally attuned to arthropod-based sustenance. Their dietary matrix centers upon the consumption of large insectoid forms, reflecting an evolutionary pathway that diverged dramatically from mammalian nutritional requirements. This insectivorous foundation represents not merely preference, but metabolic necessity—their cellular architecture has evolved to process chitinous proteins and specialized amino acid chains absent from conventional protein sources.
 
 **Fermentation Consciousness**
 
@@ -58,8 +58,8 @@ When facilitating contact protocols between Arcturians and human populations, ab
 
 ## Related Topics
 
-- [[Species Differences]]
-- [[Planetary Ecosystem]]
+- Species Differences
+- Planetary Ecosystem
 
 ## Sources
 

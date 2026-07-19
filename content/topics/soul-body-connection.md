@@ -44,7 +44,7 @@ The specificity of soul-body pairing reflects cosmic intelligence of extraordina
 
 For diplomatic missions involving incarnate species, understanding this fundamental relationship becomes crucial. Beings operating with compromised soul-body resonance demonstrate reduced capacity for higher reasoning, emotional regulation, and spiritual discernment. Their decision-making processes reflect primarily lower-dimensional survival programming rather than integrated consciousness awareness.
 
-Mari's guidance serves as both warning and invitationa reminder that the incarnate experience, when properly maintained, represents conscious evolution's most elegant expression. The physical form becomes not a prison for spirit, but its most sophisticated tool for dimensional exploration and growth.
+Mari's guidance serves as both warning and invitation—a reminder that the incarnate experience, when properly maintained, represents conscious evolution's most elegant expression. The physical form becomes not a prison for spirit, but its most sophisticated tool for dimensional exploration and growth.
 
 **End Entry - Archive Classification: Essential Understanding**
 
@@ -64,8 +64,8 @@ Mari's guidance serves as both warning and invitationa reminder that the incarna
 
 ## Related Topics
 
-- [[Brain Function and Consciousness]]
-- [[Spiritual Effects of Alcohol]]
+- [[brain-function-and-consciousness|Brain Function and Consciousness]]
+- [[spiritual-effects-of-alcohol|Spiritual Effects of Alcohol]]
 
 ## Sources
 

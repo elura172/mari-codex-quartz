@@ -58,9 +58,9 @@ Their dedication serves as testament to love's capacity to dissolve artificial s
 
 ## Related Topics
 
-- [[Taygetan Variants]]
-- [[Extraterrestrial Adaptation]]
-- [[Cultural Exchange]]
+- Taygetan Variants
+- Extraterrestrial Adaptation
+- Cultural Exchange
 
 ## Sources
 

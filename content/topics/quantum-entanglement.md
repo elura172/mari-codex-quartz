@@ -62,8 +62,8 @@ Through Mari's wisdom, we understand that quantum entanglement is not merely a c
 
 ## Related Topics
 
-- [[Dimensional Mirroring Effect]]
-- [[Frequency Compatibility]]
+- Dimensional Mirroring Effect
+- [[frequency-compatibility|Frequency Compatibility]]
 
 ## Sources
 

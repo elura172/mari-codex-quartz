@@ -30,7 +30,7 @@ Mari's practice of composing material in English before translation demonstrates
 
 **The Collective Intelligence Model**
 
-The sustained collaboration pattern, involving translation assistance multiple times weekly, reveals the profound commitment required for genuine knowledge transfer between civilizational levels. This is not merely content production but consciousness bridgingthe delicate art of preserving essential meaning while adapting form to reach diverse human perceptual frameworks.
+The sustained collaboration pattern, involving translation assistance multiple times weekly, reveals the profound commitment required for genuine knowledge transfer between civilizational levels. This is not merely content production but consciousness bridging—the delicate art of preserving essential meaning while adapting form to reach diverse human perceptual frameworks.
 
 **Metaphysical Implications**
 
@@ -58,8 +58,8 @@ These logs preserve evidence of a remarkable period when direct communication be
 
 ## Related Topics
 
-- [[Earth Communication]]
-- [[Team Collaboration]]
+- Earth Communication
+- Team Collaboration
 
 ## Sources
 

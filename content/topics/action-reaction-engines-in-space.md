@@ -36,7 +36,7 @@ The key lies in electromagnetic plasma generation calibrated to specific frequen
 
 **Metaphysical Context**
 
-Mari Swaruu's transmissions illuminate how advanced civilizations recognize space not as emptiness but as a living mediuma sea of potential through which intention and engineering unite. The etheric waters respond to properly tuned emissions much as an ocean responds to a swimmer's movements, creating forward momentum through conscious interaction with the cosmos itself.
+Mari Swaruu's transmissions illuminate how advanced civilizations recognize space not as emptiness but as a living medium—a sea of potential through which intention and engineering unite. The etheric waters respond to properly tuned emissions much as an ocean responds to a swimmer's movements, creating forward momentum through conscious interaction with the cosmos itself.
 
 **Practical Applications**
 
@@ -60,8 +60,8 @@ Such wisdom guides our peaceful observation missions, honoring both the mechanic
 
 ## Related Topics
 
-- [[Space Medium Properties]]
-- [[Advanced Propulsion Systems]]
+- Space Medium Properties
+- Advanced Propulsion Systems
 
 ## Sources
 

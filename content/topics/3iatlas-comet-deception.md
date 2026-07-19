@@ -65,8 +65,8 @@ Remember: truth possesses its own luminosity. No amount of narrative engineering
 
 ## Related Topics
 
-- [[False Alien Invasion]]
-- [[Media Manipulation]]
+- [[false-alien-invasion|False Alien Invasion]]
+- [[media-manipulation|Media Manipulation]]
 
 ## Sources
 

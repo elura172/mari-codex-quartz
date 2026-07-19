@@ -29,7 +29,7 @@ Fear operates as consciousness's most primitive yet potent focusing mechanism, e
 
 **Mechanism of Fear-Based Manifestation**
 
-The human neural architecture, when seized by fear, creates an intense concentration of attentiona laser-like beam of consciousness that the universe interprets as a clear manifestation request. This survival programming, once useful for detecting predators in physical environments, now amplifies whatever scenarios occupy the fearful mind. The being essentially places an order with reality itself, unknowingly demanding delivery of their worst imagined outcomes.
+The human neural architecture, when seized by fear, creates an intense concentration of attention—a laser-like beam of consciousness that the universe interprets as a clear manifestation request. This survival programming, once useful for detecting predators in physical environments, now amplifies whatever scenarios occupy the fearful mind. The being essentially places an order with reality itself, unknowingly demanding delivery of their worst imagined outcomes.
 
 What makes fear particularly dangerous in manifestation terms is its efficiency. Where positive visualization often struggles against doubt and scattered attention, fear achieves instant, unwavering focus. The terrified mind rehearses catastrophic scenarios with vivid detail and emotional intensityprecisely the ingredients required for materializing experiences across dimensional boundaries.
 
@@ -61,8 +61,8 @@ The ultimate teaching remains simple yet profound: consciousness creates through
 
 ## Related Topics
 
-- [[Mind Programming]]
-- [[Egregor Formation]]
+- [[mind-programming|Mind Programming]]
+- [[egregor-formation|Egregor Formation]]
 
 ## Sources
 

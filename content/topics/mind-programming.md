@@ -59,8 +59,8 @@ When interfacing with Earth consciousness, approach with patience for the strugg
 
 ## Related Topics
 
-- [[Earth Matrix]]
-- [[Manifestation Theory]]
+- [[earth-matrix|Earth Matrix]]
+- [[manifestation-theory|Manifestation Theory]]
 
 ## Sources
 

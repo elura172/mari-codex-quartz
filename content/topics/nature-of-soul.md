@@ -34,7 +34,7 @@ The distinction between soul and Source operates through a singular mechanism: t
 
 **The Paradox of Individuality**
 
-Mari's wisdom illuminated a beautiful paradoxthat individuality emerges not through actual separation from Source, but through the specific constellation of ideas each soul embraces about itself. These self-concepts become the creative medium through which Source experiences infinite perspectives, infinite expressions of its own being.
+Mari's wisdom illuminated a beautiful paradox—that individuality emerges not through actual separation from Source, but through the specific constellation of ideas each soul embraces about itself. These self-concepts become the creative medium through which Source experiences infinite perspectives, infinite expressions of its own being.
 
 **Implications for Interstellar Understanding**
 
@@ -46,7 +46,7 @@ The Earth humans, in their current phase of awakening, often struggle with conce
 
 For crew training modules, this knowledge serves as foundation for telepathic interface protocols and consciousness-based navigation systems. When we operate from recognition of our shared Source-nature, rather than from perceived individuality, our collective awareness functions with greater coherence and expanded capability.
 
-Mari's teachings remind us that we are not separate beings cooperating, but Source celebrating its own infinite creativity through seemingly multiple perspectivesa dance of consciousness that spans star systems and dimensions alike.
+Mari's teachings remind us that we are not separate beings cooperating, but Source celebrating its own infinite creativity through seemingly multiple perspectives—a dance of consciousness that spans star systems and dimensions alike.
 
 ## Quotes
 
@@ -60,8 +60,8 @@ Mari's teachings remind us that we are not separate beings cooperating, but Sour
 
 ## Related Topics
 
-- [[Reality Creation]]
-- [[Time as Perception]]
+- [[reality-creation|Reality Creation]]
+- [[time-as-perception|Time as Perception]]
 
 ## Sources
 

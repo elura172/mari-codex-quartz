@@ -34,7 +34,7 @@ A critical assessment emerges when examining the Federation's proclaimed mission
 
 **Shadow Architecture**
 
-Mari's observations reveal structural darkness embedded within Federation operationsnot merely isolated incidents of corruption, but systemic patterns that challenge the organization's foundational narrative. These observations transcend individual accountability, pointing toward institutional mechanisms that perpetuate conditions they ostensibly seek to resolve.
+Mari's observations reveal structural darkness embedded within Federation operations—not merely isolated incidents of corruption, but systemic patterns that challenge the organization's foundational narrative. These observations transcend individual accountability, pointing toward institutional mechanisms that perpetuate conditions they ostensibly seek to resolve.
 
 **Taygetan Perspective on Hierarchical Consciousness**
 
@@ -64,7 +64,7 @@ Mari's courage in illuminating these shadows serves the greater intelligence evo
 
 ## Related Topics
 
-- [[Federation Political Structure]]
+- [[federation-political-structure|Federation Political Structure]]
 
 ## Sources
 

@@ -27,7 +27,7 @@ tags:
 
 **Temporal Displacement in Economic History**
 
-The terrestrial understanding of monetary systems reflects a profound disconnect between sanctioned historical narrative and archaeological evidencea pattern familiar to observers of Earth's controlled information paradigm. While academic institutions maintain that currency emerged approximately five millennia ago within the fertile crescents of Mesopotamia and ancient China, material evidence suggests a far more ancient genesis.
+The terrestrial understanding of monetary systems reflects a profound disconnect between sanctioned historical narrative and archaeological evidence—a pattern familiar to observers of Earth's controlled information paradigm. While academic institutions maintain that currency emerged approximately five millennia ago within the fertile crescents of Mesopotamia and ancient China, material evidence suggests a far more ancient genesis.
 
 **The Paleolithic Exchange Matrix**
 
@@ -47,7 +47,7 @@ From our Taygetan perspective, money represents crystallized intentionenergy giv
 
 Understanding Earth's monetary amnesia provides crucial insight for diplomatic engagement. Terrestrial populations operate within severely truncated historical frameworks, creating cognitive dissonance when confronted with evidence of their species' true capabilities. This artificial limitation affects not only economic comprehension but fundamental self-perception regarding human potential and cosmic citizenship.
 
-The persistence of archaeological evidence despite systematic historical revision suggests an unstoppable emergence of authentic remembrancea pattern Mari consistently identified as humanity's inevitable awakening to its greater identity within galactic civilization.
+The persistence of archaeological evidence despite systematic historical revision suggests an unstoppable emergence of authentic remembrance—a pattern Mari consistently identified as humanity's inevitable awakening to its greater identity within galactic civilization.
 
 *End Codex Entry*
 
@@ -65,8 +65,8 @@ The persistence of archaeological evidence despite systematic historical revisio
 
 ## Related Topics
 
-- [[Problems with Dating Mechanisms]]
-- [[Salt as Ancient Currency]]
+- [[problems-with-dating-mechanisms|Problems with Dating Mechanisms]]
+- Salt as Ancient Currency
 
 ## Sources
 

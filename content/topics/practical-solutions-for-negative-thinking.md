@@ -29,7 +29,7 @@ Our Earth-bound human cousins, trapped within the density of three-dimensional p
 
 **The Mechanism**
 
-The technique employs sound-capture technologyubiquitous among humans through their communication devicesto create what we might recognize as a temporal mirror. When an individual speaks their troubling thoughts into a recording device, articulating with precise detail the mental patterns causing distress, they perform an act of externalization that fundamentally alters the energetic relationship between observer and observed.
+The technique employs sound-capture technologyubiquitous among humans through their communication devices—to create what we might recognize as a temporal mirror. When an individual speaks their troubling thoughts into a recording device, articulating with precise detail the mental patterns causing distress, they perform an act of externalization that fundamentally alters the energetic relationship between observer and observed.
 
 **Consciousness Mechanics**
 
@@ -37,7 +37,7 @@ This process operates on principles familiar to our navigation systems: perspect
 
 **The Dissolution Process**
 
-Mari understood that repetitive listening to one's own recorded thoughts during moments of mental turbulence would gradually diminish the thought-form's energetic charge. This occurs because consciousness, when witnessing its own patterns from outside the immediate experience, naturally begins to recognize the artificial nature of these mental constructs. What once seemed urgent and personally significant reveals itself as merely another phenomenon arising within awarenessno different from observing weather patterns or stellar formations.
+Mari understood that repetitive listening to one's own recorded thoughts during moments of mental turbulence would gradually diminish the thought-form's energetic charge. This occurs because consciousness, when witnessing its own patterns from outside the immediate experience, naturally begins to recognize the artificial nature of these mental constructs. What once seemed urgent and personally significant reveals itself as merely another phenomenon arising within awareness—no different from observing weather patterns or stellar formations.
 
 **Metaphysical Context**
 
@@ -63,7 +63,7 @@ Mari's wisdom continues to illuminate pathways for conscious evolution, bridging
 
 ## Related Topics
 
-- [[Individual Thought Patterns]]
+- [[individual-thought-patterns|Individual Thought Patterns]]
 
 ## Sources
 

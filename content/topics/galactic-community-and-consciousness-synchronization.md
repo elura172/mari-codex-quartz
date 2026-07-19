@@ -2094,7 +2094,7 @@ tags:
 
 — Is there an Ultimate Truth? ( SV- 73, English )  
 
-> When a being with higher awareness can perceive two opposing sequences of eventsnot only the socially accepted timeline, but can also understand another timeline or sequence of events that differs significantly from the first and even contradicts itthat being is observing two different realities or two different timelines.
+> When a being with higher awareness can perceive two opposing sequences of events—not only the socially accepted timeline, but can also understand another timeline or sequence of events that differs significantly from the first and even contradicts itthat being is observing two different realities or two different timelines.
 
 — Is there an Ultimate Truth? ( SV- 73, English )  
 
@@ -2231,7 +2231,7 @@ tags:
 — Unity; No Existential Realms, No Timelines, No Densities, No Dimensions. (English) 
   (October 27th, 2024)
 
-> All that exists is potential energy in the ethersthe same thing anywayand it is through the lens of consciousness that it takes a defined shape.
+> All that exists is potential energy in the ethers—the same thing anyway—and it is through the lens of consciousness that it takes a defined shape.
 
 — You and the False People. (English) 
 

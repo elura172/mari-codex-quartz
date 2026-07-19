@@ -25,7 +25,7 @@ tags:
 
 **Theoretical Foundation**
 
-The terrestrial understanding of consciousness generation requires fundamental revision according to our dimensional analysis and the wisdom shared by Mari Swaruu. Rather than viewing the brain as the birthplace of awareness, we observe it functioning as a sophisticated translation apparatusa biological bridge between dimensional states of being.
+The terrestrial understanding of consciousness generation requires fundamental revision according to our dimensional analysis and the wisdom shared by Mari Swaruu. Rather than viewing the brain as the birthplace of awareness, we observe it functioning as a sophisticated translation apparatus—a biological bridge between dimensional states of being.
 
 **Cellular Reception Matrix**
 
@@ -61,8 +61,8 @@ This knowledge, gifted through Mari's transmissions, represents a bridge between
 
 ## Related Topics
 
-- [[Soul-Body Connection]]
-- [[Spiritual Effects of Alcohol]]
+- [[soul-body-connection|Soul-Body Connection]]
+- [[spiritual-effects-of-alcohol|Spiritual Effects of Alcohol]]
 
 ## Sources
 

@@ -57,8 +57,8 @@ Mari's insights remind us that true wisdom lies not in abandoning systematic thi
 
 ## Related Topics
 
-- [[Multi-dimensional Reality]]
-- [[Higher Consciousness]]
+- Multi-dimensional Reality
+- Higher Consciousness
 
 ## Sources
 

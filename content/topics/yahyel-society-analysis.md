@@ -25,9 +25,9 @@ tags:
 
 **Political Architecture**
 
-The Yahyel collective presents a fascinating study in civilizational contradictiona society where surface harmony masks deeper structural tensions. Their governmental framework operates through mechanisms that appear benevolent to external observation yet function as instruments of profound social control. This system sustains itself through sophisticated information management, creating narrative layers that obscure the true nature of individual autonomy within their culture.
+The Yahyel collective presents a fascinating study in civilizational contradiction—a society where surface harmony masks deeper structural tensions. Their governmental framework operates through mechanisms that appear benevolent to external observation yet function as instruments of profound social control. This system sustains itself through sophisticated information management, creating narrative layers that obscure the true nature of individual autonomy within their culture.
 
-Mari's observations reveal a civilization that has achieved technological sophistication while remaining trapped in patterns of authoritarian governance. The Yahyel demonstrate how advanced societies can still fall prey to the illusion that collective stability justifies individual suppressiona cautionary tale for all developing worlds.
+Mari's observations reveal a civilization that has achieved technological sophistication while remaining trapped in patterns of authoritarian governance. The Yahyel demonstrate how advanced societies can still fall prey to the illusion that collective stability justifies individual suppression—a cautionary tale for all developing worlds.
 
 **Psychological Manifestations**
 
@@ -61,7 +61,7 @@ Mari's insights remind us that true civilization advances not through the suppre
 
 ## Related Topics
 
-- [[Galactic Federation Compartmentalization]]
+- [[galactic-federation-compartmentalization|Galactic Federation Compartmentalization]]
 
 ## Sources
 

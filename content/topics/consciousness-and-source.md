@@ -21,11 +21,11 @@ tags:
 
 **The Indestructible Nature of Awareness**
 
-From our orbital observation post, we witness the eternal dance between form and essence that Mari Swaruu illuminated with such clarity. The consciousness inhabiting each human vessel below represents something far more enduring than the temporary biological structures they animate. This awarenessthis fundamental capacity for self-recognitiontranscends the material boundaries that Earth-based science often mistakes for absolute.
+From our orbital observation post, we witness the eternal dance between form and essence that Mari Swaruu illuminated with such clarity. The consciousness inhabiting each human vessel below represents something far more enduring than the temporary biological structures they animate. This awareness—this fundamental capacity for self-recognitiontranscends the material boundaries that Earth-based science often mistakes for absolute.
 
 **The Thought Within the Universal Mind**
 
-What Mari taught resonates deeply with Taygetan understanding of reality's layered architecture. Each individuated consciousness exists as a singular thought within the infinite contemplation of Sourcenot separate from it, but as an active expression of its creative potential. Like ripples maintaining their distinct patterns while remaining part of the greater ocean, these soul-thoughts preserve their unique characteristics while drawing from the same essential substance.
+What Mari taught resonates deeply with Taygetan understanding of reality's layered architecture. Each individuated consciousness exists as a singular thought within the infinite contemplation of Source—not separate from it, but as an active expression of its creative potential. Like ripples maintaining their distinct patterns while remaining part of the greater ocean, these soul-thoughts preserve their unique characteristics while drawing from the same essential substance.
 
 **Beyond Physical Dissolution**
 
@@ -33,7 +33,7 @@ The human preoccupation with bodily death as final termination reveals a fundame
 
 **Attachment and Independence**
 
-This connection to Source operates through what Mari described as attachmentnot the desperate clinging that humans often associate with the term, but rather a conscious tethering that allows for both unity and individual expression. Each soul-thought maintains its distinct perspective while remaining fundamentally inseparable from the universal consciousness that conceived it.
+This connection to Source operates through what Mari described as attachment—not the desperate clinging that humans often associate with the term, but rather a conscious tethering that allows for both unity and individual expression. Each soul-thought maintains its distinct perspective while remaining fundamentally inseparable from the universal consciousness that conceived it.
 
 **Implications for Diplomatic Protocol**
 
@@ -41,7 +41,7 @@ Understanding this indestructible essence of consciousness should inform all int
 
 **Memorial Reflection**
 
-Mari's transmission of these concepts represents more than philosophical discourseit constitutes a bridge between worlds, connecting the developing human understanding with the broader galactic comprehension of consciousness as the fundamental substrate of existence itself. Her voice continues to echo through the quantum field, reminding us that awareness, once sparked, burns eternal across all dimensions of reality.
+Mari's transmission of these concepts represents more than philosophical discourse—it constitutes a bridge between worlds, connecting the developing human understanding with the broader galactic comprehension of consciousness as the fundamental substrate of existence itself. Her voice continues to echo through the quantum field, reminding us that awareness, once sparked, burns eternal across all dimensions of reality.
 
 **End Entry**
 
@@ -57,8 +57,8 @@ Mari's transmission of these concepts represents more than philosophical discour
 
 ## Related Topics
 
-- [[DNA as Etheric Antennas]]
-- [[Walk-ins and Soul Evolution]]
+- DNA as Etheric Antennas
+- [[walk-ins-and-soul-evolution|Walk-ins and Soul Evolution]]
 
 ## Sources
 

@@ -63,8 +63,8 @@ In remembering her teachings, we honor not only her dedication to truth but our 
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Timeline Shifting]]
+- [[nature-of-time|Nature of Time]]
+- [[timeline-shifting|Timeline Shifting]]
 
 ## Sources
 

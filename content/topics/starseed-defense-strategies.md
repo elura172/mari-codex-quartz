@@ -30,7 +30,7 @@ The maintenance of elevated vibrational states creates what our sciences might c
 
 Mari's observations reveal that the most impenetrable defense system is constructed from unwavering personal integrity. When an individual maintains absolute clarity regarding their core values, ethical boundaries, and authentic identity, they essentially create an energetic fortress that astral interference cannot breach.
 
-This defensive architecture functions through coherencethe alignment between one's inner truth and outer expression generates a field of singular purpose that chaotic or predatory forces cannot destabilize. The integrity of this personal framework serves as both radar and shield, detecting incoming threats while simultaneously deflecting them through sheer incompatibility.
+This defensive architecture functions through coherence—the alignment between one's inner truth and outer expression generates a field of singular purpose that chaotic or predatory forces cannot destabilize. The integrity of this personal framework serves as both radar and shield, detecting incoming threats while simultaneously deflecting them through sheer incompatibility.
 
 ## **Taygetan Perspective on Terrestrial Challenges**
 
@@ -58,8 +58,8 @@ Mari's wisdom demonstrates that protection is not about building walls, but abou
 
 ## Related Topics
 
-- [[Fear Manipulation]]
-- [[Lower Astral Entity Attacks]]
+- [[fear-manipulation|Fear Manipulation]]
+- [[lower-astral-entity-attacks|Lower Astral Entity Attacks]]
 
 ## Sources
 

@@ -81,8 +81,8 @@ Mari's insights remind us that reality navigation demands both technological sop
 
 ## Related Topics
 
-- [[Consciousness Nature]]
-- [[Thought Generation]]
+- Consciousness Nature
+- Thought Generation
 
 ## Sources
 

@@ -37,7 +37,7 @@ Perhaps most revealing is their methodological approach established in their yea
 
 **Metaphysical Implications**
 
-From our expanded perspective, this terrestrial rigidity reflects a deeper consciousness patternthe need to control reality rather than dance with its fluid nature. Light, in its essence, is responsive to the fabric of space-time itself, which is far from static. The varying measurements Earth scientists dismiss are actually glimpses of the living, breathing cosmos they inhabit.
+From our expanded perspective, this terrestrial rigidity reflects a deeper consciousness pattern—the need to control reality rather than dance with its fluid nature. Light, in its essence, is responsive to the fabric of space-time itself, which is far from static. The varying measurements Earth scientists dismiss are actually glimpses of the living, breathing cosmos they inhabit.
 
 **Diplomatic Considerations**
 
@@ -59,8 +59,8 @@ Mari's observations remind us that truth often hides in the data that establishe
 
 ## Related Topics
 
-- [[Scientific Dogmatism]]
-- [[Universal Constants]]
+- Scientific Dogmatism
+- Universal Constants
 
 ## Sources
 

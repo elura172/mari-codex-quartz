@@ -61,8 +61,8 @@ Her teachings serve as beacon frequency for those navigating the transition betw
 
 ## Related Topics
 
-- [[Divine Justice and Karma Deception]]
-- [[Source Integration]]
+- [[divine-justice-and-karma-deception|Divine Justice and Karma Deception]]
+- [[source-integration|Source Integration]]
 
 ## Sources
 

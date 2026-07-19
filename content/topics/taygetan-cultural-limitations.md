@@ -26,7 +26,7 @@ Our Taygetan civilization operates within a framework of complete social integra
 
 **The Boundary Paradox**
 
-In Taygetan society, healthy boundaries emerge organically through shared telepathic awareness and mutual respect for consciousness expansion. However, when interfacing with human psychologyshaped by millennia of survival-based thinking and emotional armorour diplomatic teams often find themselves unprepared for the necessity of explicit limitation-setting. We approach with extended hands, only to discover that such openness can be perceived as weakness or invitation for exploitation.
+In Taygetan society, healthy boundaries emerge organically through shared telepathic awareness and mutual respect for consciousness expansion. However, when interfacing with human psychologyshaped by millennia of survival-based thinking and emotional armor—our diplomatic teams often find themselves unprepared for the necessity of explicit limitation-setting. We approach with extended hands, only to discover that such openness can be perceived as weakness or invitation for exploitation.
 
 **Cascading Complexity Syndrome**
 
@@ -56,8 +56,8 @@ Mari Swaruu's observations illuminate this not as a permanent limitation, but as
 
 ## Related Topics
 
-- [[Drama Creation]]
-- [[Communication Complications]]
+- Drama Creation
+- Communication Complications
 
 ## Sources
 

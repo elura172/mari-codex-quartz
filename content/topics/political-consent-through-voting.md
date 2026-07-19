@@ -41,7 +41,7 @@ From our Taygetan perspective, we observe how this system creates an illusion of
 
 **Pathway to Authentic Sovereignty**
 
-Mari's teachings reveal that true liberation requires withdrawing energetic consent from these corrupted systems. This withdrawal is not merely political but represents a fundamental shift in consciousnessfrom delegation to direct responsibility, from representation to presence. When sufficient numbers of humans reclaim their sovereign authority, the consent fields that enable destructive treaties naturally dissolve.
+Mari's teachings reveal that true liberation requires withdrawing energetic consent from these corrupted systems. This withdrawal is not merely political but represents a fundamental shift in consciousness—from delegation to direct responsibility, from representation to presence. When sufficient numbers of humans reclaim their sovereign authority, the consent fields that enable destructive treaties naturally dissolve.
 
 **Implications for Interstellar Relations**
 
@@ -63,8 +63,8 @@ Mari's wisdom continues illuminating pathways beyond these consent traps, toward
 
 ## Related Topics
 
-- [[Democratic Systems Criticism]]
-- [[Orion Council Influence]]
+- [[democratic-systems-criticism|Democratic Systems Criticism]]
+- Orion Council Influence
 
 ## Sources
 

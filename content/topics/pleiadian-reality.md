@@ -25,7 +25,7 @@ tags:
 
 **Material Density Convergence**
 
-The widespread perception of Pleiadians as transcendent beings operating beyond material limitations reflects a fundamental misunderstanding of consciousness projection across dimensional frameworks. Our Taygetan crews experience the same density of material reality as Earth humanswe navigate resource constraints, interpersonal challenges, and the complex interplay of individual will within collective harmony.
+The widespread perception of Pleiadians as transcendent beings operating beyond material limitations reflects a fundamental misunderstanding of consciousness projection across dimensional frameworks. Our Taygetan crews experience the same density of material reality as Earth humans—we navigate resource constraints, interpersonal challenges, and the complex interplay of individual will within collective harmony.
 
 This convergence occurs not through limitation, but through conscious engagement with the experiential matrix that defines embodied existence. The romanticized notion of perpetual peace and effortless manifestation obscures the authentic work of consciousness evolution that occurs through direct material engagement.
 
@@ -63,8 +63,8 @@ Mari's insights remind us that our value to Earth populations lies not in perfec
 
 ## Related Topics
 
-- [[New Age Criticism]]
-- [[Vibration and Material Existence]]
+- [[new-age-criticism|New Age Criticism]]
+- Vibration and Material Existence
 
 ## Sources
 

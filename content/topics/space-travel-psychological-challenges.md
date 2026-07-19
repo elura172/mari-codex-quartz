@@ -57,8 +57,8 @@ Our people have long understood that space travel is fundamentally a journey inw
 
 ## Related Topics
 
-- [[Deep Space Existential Dynamics]]
-- [[Law of Mirrors in Space]]
+- [[deep-space-existential-dynamics|Deep Space Existential Dynamics]]
+- [[law-of-mirrors-in-space|Law of Mirrors in Space]]
 
 ## Sources
 

@@ -71,8 +71,8 @@ Mari's transmissions serve as bridges between worldscareful frequencies that can
 
 ## Related Topics
 
-- [[Soul Level vs Physical Level]]
-- [[Local Federation Control]]
+- Soul Level vs Physical Level
+- Local Federation Control
 
 ## Sources
 

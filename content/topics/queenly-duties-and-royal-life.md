@@ -30,7 +30,7 @@ Such ceremonies serve dual purposes: they reinforce collective unity while provi
 
 **Administrative Synthesis and Interstellar Diplomacy**
 
-Mari's working hours reveal the true complexity of modern Taygetan governance. Her communications with Temmerour primary settlementdemonstrate how sovereign consciousness must simultaneously anchor itself in local concerns while maintaining broader stellar perspectives. Each decision reverberates through multiple dimensional layers, affecting not only immediate crew dynamics but the evolutionary trajectory of Taygetan civilization itself.
+Mari's working hours reveal the true complexity of modern Taygetan governance. Her communications with Temmer—our primary settlementdemonstrate how sovereign consciousness must simultaneously anchor itself in local concerns while maintaining broader stellar perspectives. Each decision reverberates through multiple dimensional layers, affecting not only immediate crew dynamics but the evolutionary trajectory of Taygetan civilization itself.
 
 The diplomatic exchanges with sister Pleiadian worlds showcase the sophisticated network of consciousness that binds our cluster civilizations. These conversations require linguistic fluidity, cultural sensitivity, and the ability to perceive solutions that honor diverse evolutionary paths while maintaining cosmic harmony.
 
@@ -56,8 +56,8 @@ Her example demonstrates that true sovereignty lies not in commanding obedience,
 
 ## Related Topics
 
-- [[Security Measures]]
-- [[Isolation and Loneliness]]
+- Security Measures
+- [[isolation-and-loneliness|Isolation and Loneliness]]
 
 ## Sources
 

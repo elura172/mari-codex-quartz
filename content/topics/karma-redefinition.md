@@ -31,7 +31,7 @@ This redefinition strikes at the heart of human spiritual programming, revealing
 
 **The Architecture of Surrendered Will**
 
-Mari describes karma as the condition wherein individuals relinquish their natural birthright as conscious creators, choosing instead to navigate existence through frameworks imposed by others. This state manifests as a perpetual anxietya fear-based existence where beings constantly anticipate punishment from whatever authorities they have accepted as their rulers.
+Mari describes karma as the condition wherein individuals relinquish their natural birthright as conscious creators, choosing instead to navigate existence through frameworks imposed by others. This state manifests as a perpetual anxiety—a fear-based existence where beings constantly anticipate punishment from whatever authorities they have accepted as their rulers.
 
 The Taygetan understanding recognizes this as a fundamental misalignment with Source consciousness, where the individual disconnects from their inner knowing and authentic moral compass. Rather than developing discernment through direct experience and inner wisdom, those living in karma adopt ready-made ethical frameworks without critical examination or personal responsibility for their implications.
 
@@ -45,7 +45,7 @@ This mechanism proves particularly insidious because it masquerades as spiritual
 
 From our Taygetan perspective, this understanding of karma reveals why so many Earth beings struggle to transcend limitation and step into their full creative potential. The very spiritual concepts meant to liberate have become tools of subtle control, maintaining beings in states of dependency rather than awakening them to their inherent sovereignty.
 
-Mari's transmission serves as a clarion call toward conscious self-determinationan invitation to reclaim the sacred responsibility of creating one's reality through authentic choice rather than unconscious compliance.
+Mari's transmission serves as a clarion call toward conscious self-determination—an invitation to reclaim the sacred responsibility of creating one's reality through authentic choice rather than unconscious compliance.
 
 **End Transmission**
 
@@ -65,9 +65,9 @@ Mari's transmission serves as a clarion call toward conscious self-determination
 
 ## Related Topics
 
-- [[Manifestation]]
-- [[Service to Self]]
-- [[Dharma]]
+- Manifestation
+- Service to Self
+- Dharma
 
 ## Sources
 

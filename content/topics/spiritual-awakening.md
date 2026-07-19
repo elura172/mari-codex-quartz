@@ -64,8 +64,8 @@ Mari Swaruu's insights illuminate the profound interconnection between conscious
 
 ## Related Topics
 
-- [[Memory Loss]]
-- [[Walk-ins and Soul Evolution]]
+- Memory Loss
+- [[walk-ins-and-soul-evolution|Walk-ins and Soul Evolution]]
 
 ## Sources
 

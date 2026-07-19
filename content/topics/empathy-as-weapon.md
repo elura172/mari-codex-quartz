@@ -22,7 +22,7 @@ tags:
 
 **The Paradox of Compassion**
 
-Through Mari's transmissions, we observe a profound tactical inversion employed by Earth's controlling hierarchies: the weaponization of humanity's greatest strengththeir capacity for empathetic connection. This represents one of the most insidious forms of psychological manipulation documented in our interstellar observations.
+Through Mari's transmissions, we observe a profound tactical inversion employed by Earth's controlling hierarchies: the weaponization of humanity's greatest strength—their capacity for empathetic connection. This represents one of the most insidious forms of psychological manipulation documented in our interstellar observations.
 
 **Mechanism of Exploitation**
 
@@ -38,7 +38,7 @@ High-ethics individuals find themselves repeatedly outmaneuvered not due to inte
 
 **Taygetan Perspective**
 
-From our stellar vantage point, we recognize this as a species-level evolutionary challenge. Empathy represents consciousness expansionthe ability to feel beyond the boundaries of individual selfhood. Yet during transitional phases between density levels, this expanded awareness can become a liability when interfacing with regressive consciousness.
+From our stellar vantage point, we recognize this as a species-level evolutionary challenge. Empathy represents consciousness expansion—the ability to feel beyond the boundaries of individual selfhood. Yet during transitional phases between density levels, this expanded awareness can become a liability when interfacing with regressive consciousness.
 
 **Implications for Awakening**
 
@@ -62,8 +62,8 @@ This represents the delicate balance required during humanity's current evolutio
 
 ## Related Topics
 
-- [[Control System Programming]]
-- [[Human Lyran Characteristics]]
+- [[control-system-programming|Control System Programming]]
+- [[human-lyran-characteristics|Human Lyran Characteristics]]
 
 ## Sources
 

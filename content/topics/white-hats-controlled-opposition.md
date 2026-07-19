@@ -64,8 +64,8 @@ The most profound prison requires no visible barsonly the perpetual promise that
 
 ## Related Topics
 
-- [[Cabal Operations]]
-- [[Duality Strategy]]
+- [[cabal-operations|Cabal Operations]]
+- Duality Strategy
 
 ## Sources
 

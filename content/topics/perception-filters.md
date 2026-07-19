@@ -57,8 +57,8 @@ Mari's teachings illuminate this process with characteristic clarity, reminding 
 
 ## Related Topics
 
-- [[Physical Matrix Formation]]
-- [[Consciousness and Reality Creation]]
+- [[physical-matrix-formation|Physical Matrix Formation]]
+- [[consciousness-and-reality-creation|Consciousness and Reality Creation]]
 
 ## Sources
 

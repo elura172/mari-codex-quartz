@@ -62,8 +62,8 @@ The rigidity of Earth's materialistic framework paradoxically contains the seeds
 
 ## Related Topics
 
-- [[Medical Limitations]]
-- [[Consciousness Suppression]]
+- Medical Limitations
+- Consciousness Suppression
 
 ## Sources
 

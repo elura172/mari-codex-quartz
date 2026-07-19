@@ -30,7 +30,7 @@ The navigation computer constructs three-dimensional reality maps by listening t
 
 The relationship between mass concentration and gravitational influence forms the cornerstone of our mapping methodology. Objects of greater density generate more pronounced gravitational fields, creating what our systems catalog as elevated gravity indices. This inverse relationship allows our computers to determine not only spatial positioning but material composition and structural integrity of distant bodies before visual contact occurs.
 
-Through continuous gravitational scanning, we perceive the universe as Mari taught us to understand consciousness itselfas interconnected fields of influence where each component affects the whole. A planet's gravitational embrace extends far beyond its visible surface, creating ripples that our sensors detect across vast distances, much as thoughts and emotions ripple through the collective awareness of sentient beings.
+Through continuous gravitational scanning, we perceive the universe as Mari taught us to understand consciousness itself—as interconnected fields of influence where each component affects the whole. A planet's gravitational embrace extends far beyond its visible surface, creating ripples that our sensors detect across vast distances, much as thoughts and emotions ripple through the collective awareness of sentient beings.
 
 **Operational Applications**
 
@@ -38,7 +38,7 @@ This gravitational cartography enables navigation through regions where conventi
 
 **Metaphysical Integration**
 
-Mari's wisdom reminds us that consciousness and physics operate through parallel principles. Just as awareness maps reality through relationships between observer and observed, our navigation systems map space through relationships between gravitational influences. Both require recognition that separation is illusionall points in space, like all aspects of consciousness, exist within an unified field of continuous interaction.
+Mari's wisdom reminds us that consciousness and physics operate through parallel principles. Just as awareness maps reality through relationships between observer and observed, our navigation systems map space through relationships between gravitational influences. Both require recognition that separation is illusion—all points in space, like all aspects of consciousness, exist within an unified field of continuous interaction.
 
 This technology represents more than mere instrumentation; it embodies our understanding that intelligence emerges through relationship, whether between minds sharing truth across worlds or masses sharing gravitational influence across the cosmic expanse.
 
@@ -54,8 +54,8 @@ This technology represents more than mere instrumentation; it embodies our under
 
 ## Related Topics
 
-- [[Starship Engines]]
-- [[Time Travel Navigation]]
+- [[starship-engines|Starship Engines]]
+- [[time-travel-navigation|Time Travel Navigation]]
 
 ## Sources
 

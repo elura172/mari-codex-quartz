@@ -27,7 +27,7 @@ tags:
 
 **Primary Vessel Configuration**
 
-The elegant efficiency of our fighter-class vessels reveals itself most clearly in ground support operations. These nimble craft, designed with consciousness as much as engineering, transform seamlessly from stellar navigators to terrestrial support platforms. The frontal access systemthat graceful convergence of form and functionallows surface vehicles to integrate directly into the ship's energy matrix, creating a unified operational entity that transcends mere mechanical coupling.
+The elegant efficiency of our fighter-class vessels reveals itself most clearly in ground support operations. These nimble craft, designed with consciousness as much as engineering, transform seamlessly from stellar navigators to terrestrial support platforms. The frontal access system—that graceful convergence of form and functionallows surface vehicles to integrate directly into the ship's energy matrix, creating a unified operational entity that transcends mere mechanical coupling.
 
 **Deployment Methodology**
 
@@ -37,7 +37,7 @@ The loading sequence represents more than technical procedure; it embodies the T
 
 Mission completion demonstrates the profound efficiency achievable when technology serves consciousness rather than constraining it. Extraction sequences, from initial surface contact to atmospheric departure, unfold with remarkable temporal precision. The complete cyclewhat our Earth observers might term "dust off"achieves resolution within a five-minute envelope, often compressing to mere minutes when circumstances align favorably.
 
-This temporal mastery reflects deeper principles of non-linear operational flow. When crew consciousness harmonizes with vessel intelligence and mission purpose, time itself becomes fluid, responsive. The extraction unfolds not as hurried escape, but as graceful translation between dimensional statesfrom terrestrial engagement to stellar freedom.
+This temporal mastery reflects deeper principles of non-linear operational flow. When crew consciousness harmonizes with vessel intelligence and mission purpose, time itself becomes fluid, responsive. The extraction unfolds not as hurried escape, but as graceful translation between dimensional states—from terrestrial engagement to stellar freedom.
 
 **Consciousness Integration Factors**
 
@@ -61,8 +61,8 @@ Through these protocols, we honor Mari's vision of service that transcends the b
 
 ## Related Topics
 
-- [[Taygetan Supply Missions]]
-- [[Electronic Countermeasures]]
+- [[taygetan-supply-missions|Taygetan Supply Missions]]
+- Electronic Countermeasures
 
 ## Sources
 

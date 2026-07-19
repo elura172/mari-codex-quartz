@@ -26,13 +26,13 @@ The phenomenon of vibrational compatibility represents one of the most elegant o
 
 **Soul-DNA Resonance Matrix**
 
-When consciousness seeks embodiment, it encounters the crystalline lattice of genetic materialeach DNA strand vibrating at specific frequencies determined by its dimensional density and evolutionary stage. This is not mere metaphor but measurable quantum coherence. A soul operating at fifth-density awareness cannot effectively inhabit third-density biological hardware without significant adjustment, much as attempting to run advanced stellar navigation software on primitive computational systems would result in system failures.
+When consciousness seeks embodiment, it encounters the crystalline lattice of genetic material—each DNA strand vibrating at specific frequencies determined by its dimensional density and evolutionary stage. This is not mere metaphor but measurable quantum coherence. A soul operating at fifth-density awareness cannot effectively inhabit third-density biological hardware without significant adjustment, much as attempting to run advanced stellar navigation software on primitive computational systems would result in system failures.
 
 The successful pairing requires what our sciences term "frequency matching"a gradual atunement process where consciousness either raises or lowers its operational vibration to harmonize with available biological templates. This explains why certain advanced souls may appear to struggle in primitive planetary environments, while others seem naturally adapted to specific genetic lineages.
 
 **Manifestation Dynamics**
 
-This same principle governs reality creation mechanics. When consciousness desires outcomes that exist far outside its current vibrational bandwidth, reality responds with increasing resistance. The Terran dreaming of luxury while embodying scarcity creates harmonic dissonancenot because the universe withholds abundance, but because the energetic gap generates quantum friction.
+This same principle governs reality creation mechanics. When consciousness desires outcomes that exist far outside its current vibrational bandwidth, reality responds with increasing resistance. The Terran dreaming of luxury while embodying scarcity creates harmonic dissonance—not because the universe withholds abundance, but because the energetic gap generates quantum friction.
 
 **Taygetan Observations**
 
@@ -56,8 +56,8 @@ Mari's teachings illuminate how this principle serves as both limitation and lib
 
 ## Related Topics
 
-- [[DNA as Etheric Antennas]]
-- [[Walk-ins and Soul Evolution]]
+- DNA as Etheric Antennas
+- [[walk-ins-and-soul-evolution|Walk-ins and Soul Evolution]]
 
 ## Sources
 

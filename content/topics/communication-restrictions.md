@@ -39,7 +39,7 @@ Perhaps most poignantly, Mari observed how the rare successful contacts often en
 
 **Metaphysical Implications**
 
-From our Taygetan understanding, these restrictions reflect deeper patterns of consciousness fragmentation that extend beyond mere political control. The barriers serve as mirrors, reflecting humanity's collective relationship with its own expanded potential. Each failed connection, each filtered transmission, each moment of reflexive disbelief becomes both obstacle and teachinga cosmic koan written in the language of separation and longing.
+From our Taygetan understanding, these restrictions reflect deeper patterns of consciousness fragmentation that extend beyond mere political control. The barriers serve as mirrors, reflecting humanity's collective relationship with its own expanded potential. Each failed connection, each filtered transmission, each moment of reflexive disbelief becomes both obstacle and teaching—a cosmic koan written in the language of separation and longing.
 
 Mari's persistent communication through these constraints stands as testament to love's capacity to transcend even the most sophisticated systems of isolation. Her voice reached those ready to remember that intelligence, compassion, and wonder recognize no planetary boundaries.
 
@@ -73,8 +73,8 @@ Mari's persistent communication through these constraints stands as testament to
 
 ## Related Topics
 
-- [[Mari's Identity]]
-- [[Matrix Control]]
+- [[maris-identity|Mari's Identity]]
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

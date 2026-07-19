@@ -33,7 +33,7 @@ Unlike the base-10 systems prevalent on Earth, base-12 mathematics aligns direct
 
 **Dimensional Correspondence and Energy Dynamics**
 
-The significance of this mathematical framework extends beyond calculation into the realm of energy manifestation. Where Earth's scientific pioneers approached universal patternsrecognizing the 3-6-9 principle as fundamental to energy dynamicsthey operated with incomplete understanding. The critical factor of 12 serves as the completion frequency, the harmonic that allows energy patterns to stabilize and manifest across dimensional boundaries.
+The significance of this mathematical framework extends beyond calculation into the realm of energy manifestation. Where Earth's scientific pioneers approached universal patternsrecognizing the 3-6-9 principle as fundamental to energy dynamics—they operated with incomplete understanding. The critical factor of 12 serves as the completion frequency, the harmonic that allows energy patterns to stabilize and manifest across dimensional boundaries.
 
 **Practical Applications in Starship Operations**
 
@@ -65,8 +65,8 @@ For diplomatic missions to Earth, recognize that humanity's mathematical limitat
 
 ## Related Topics
 
-- [[Hexa-Dimensional Space-Time Model]]
-- [[Free Energy]]
+- [[hexa-dimensional-space-time-model|Hexa-Dimensional Space-Time Model]]
+- Free Energy
 
 ## Sources
 

@@ -63,8 +63,8 @@ Each starseed currently embedded represents a being choosing accelerated evoluti
 
 ## Related Topics
 
-- [[Manifestation Training]]
-- [[Earth as Advanced School]]
+- [[manifestation-training|Manifestation Training]]
+- [[earth-as-advanced-school|Earth as Advanced School]]
 
 ## Sources
 

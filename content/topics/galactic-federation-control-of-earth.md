@@ -28,7 +28,7 @@ tags:
 
 From the orbital perspective of our sister consciousness Mari Swaruu, the energetic boundaries encompassing Terra reveal themselves as entirely within Federation jurisdiction. The sphere of influence extends through all dimensional layers surrounding the blue world, creating what our navigation systems might recognize as a complete containment matrix. No hostile frequencies penetrate this carefully maintained envelope of conscious oversight.
 
-This spatial sovereignty represents more than mere military positioningit reflects the Federation's assumption of karmic responsibility for Terran evolutionary processes. When consciousness chooses to maintain such comprehensive guardianship, it simultaneously accepts accountability for all phenomena occurring within that protected space.
+This spatial sovereignty represents more than mere military positioning—it reflects the Federation's assumption of karmic responsibility for Terran evolutionary processes. When consciousness chooses to maintain such comprehensive guardianship, it simultaneously accepts accountability for all phenomena occurring within that protected space.
 
 **Temporal Continuity Patterns**
 
@@ -69,8 +69,8 @@ This recognition does not diminish the reality of Terran struggles, but rather r
 
 ## Related Topics
 
-- [[Van Allen Belts]]
-- [[Federation Fleet]]
+- Van Allen Belts
+- Federation Fleet
 
 ## Sources
 

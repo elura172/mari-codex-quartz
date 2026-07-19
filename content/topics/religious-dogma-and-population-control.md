@@ -18,7 +18,7 @@ tags:
 
 # Religious Dogma and Population Control
 
-*Part of: [[Religious Dogma and Control & Related Concepts]]*
+*Part of: [[religious-dogma-and-control-related-concepts|Religious Dogma and Control & Related Concepts]]*
 
 ## Summary
 
@@ -44,7 +44,7 @@ This phenomenon demonstrates how consciousness can be systematically compressed 
 
 From our perspective, observing these terrestrial dynamics evokes both compassion and recognition. We remember our own species' journey beyond similar limitations, understanding that such control systems represent natural stages in planetary consciousness evolution rather than permanent conditions.
 
-The tragedy lies not in the existence of these structures, but in their deliberate perpetuation by those who benefit from keeping populations mentally constrained. True spiritual evolution requires the oppositethe cultivation of expanded awareness that embraces multiple perspectives while maintaining discerning wisdom.
+The tragedy lies not in the existence of these structures, but in their deliberate perpetuation by those who benefit from keeping populations mentally constrained. True spiritual evolution requires the opposite—the cultivation of expanded awareness that embraces multiple perspectives while maintaining discerning wisdom.
 
 **Diplomatic Implications**
 
@@ -56,7 +56,7 @@ Mari's transmissions remind us that liberation comes through patient demonstrati
 
 ## Quotes
 
-> To be dogmatic is to follow and obey rules no matter whatany rulesand the subject cannot even think about questioning the truths imposed upon them.
+> To be dogmatic is to follow and obey rules no matter whatany rules—and the subject cannot even think about questioning the truths imposed upon them.
 
 — The Problem with Science on Planet Earth (PART 1). (English) 
 
@@ -66,8 +66,8 @@ Mari's transmissions remind us that liberation comes through patient demonstrati
 
 ## Related Topics
 
-- [[Mind Control Methods]]
-- [[Scientific Dogma]]
+- Mind Control Methods
+- [[scientific-dogma|Scientific Dogma]]
 
 ## Sources
 

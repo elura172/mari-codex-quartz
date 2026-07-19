@@ -34,7 +34,7 @@ Religious and institutional frameworks have served as primary delivery vectors f
 
 **Taygetan Perspective**
 
-From our expanded dimensional awareness, we recognize that consciousness itself generates reality through focused intention and aligned action. What Terrans interpret as "karma" represents the natural resonance patterns of conscious choice meeting its own reflectionnot an external judge dispensing predetermined sentences.
+From our expanded dimensional awareness, we recognize that consciousness itself generates reality through focused intention and aligned action. What Terrans interpret as "karma" represents the natural resonance patterns of conscious choice meeting its own reflection—not an external judge dispensing predetermined sentences.
 
 The universe operates through collaborative intelligence, not authoritarian justice systems. Each being participates in weaving the fabric of experience through their moment-by-moment decisions and responses to arising circumstances.
 
@@ -64,8 +64,8 @@ Understanding this deception allows evolved beings to support Terran awakening b
 
 ## Related Topics
 
-- [[Religious Programming]]
-- [[Good vs Evil Relativity]]
+- [[religious-programming|Religious Programming]]
+- [[good-vs-evil-relativity|Good vs Evil Relativity]]
 
 ## Sources
 

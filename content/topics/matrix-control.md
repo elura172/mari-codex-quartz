@@ -33,9 +33,9 @@ The mechanism functions bidirectionally: desired concepts are amplified and embe
 
 **Comparative Analysis**
 
-Our observations reveal Earth's matrix as uniquely intensive due to the planet's pronounced veil of forgetfulnessa metaphysical dampening field that separates consciousness from its broader awareness. Other worlds experience similar manipulative frameworks, yet these are necessarily subtler, tailored to populations with clearer memory access and expanded perceptual capabilities.
+Our observations reveal Earth's matrix as uniquely intensive due to the planet's pronounced veil of forgetfulness—a metaphysical dampening field that separates consciousness from its broader awareness. Other worlds experience similar manipulative frameworks, yet these are necessarily subtler, tailored to populations with clearer memory access and expanded perceptual capabilities.
 
-The Earth system relies heavily on the illusion of human isolationthe belief that this species exists nowhere beyond their singular world. This foundational deception anchors the entire structure, as it prevents recognition of the broader galactic context that would dissolve many imposed limitations.
+The Earth system relies heavily on the illusion of human isolation—the belief that this species exists nowhere beyond their singular world. This foundational deception anchors the entire structure, as it prevents recognition of the broader galactic context that would dissolve many imposed limitations.
 
 **Maintenance Protocols**
 
@@ -84,8 +84,8 @@ Mari Swaruu's transmissions indicate that recognition of these systems marks the
 
 ## Related Topics
 
-- [[Reality Creation]]
-- [[Forced Reincarnation]]
+- [[reality-creation|Reality Creation]]
+- [[forced-reincarnation|Forced Reincarnation]]
 
 ## Sources
 

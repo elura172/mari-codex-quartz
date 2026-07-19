@@ -21,7 +21,7 @@ tags:
 
 **Observational Framework**
 
-The phenomenon of cultural osmosis between civilizations operates through vectors both obvious and imperceptible. What begins as practical necessitythe acquisition of local materials and toolsevolves into something far more profound: the gradual restructuring of consciousness itself through accumulated exposure to foreign paradigms.
+The phenomenon of cultural osmosis between civilizations operates through vectors both obvious and imperceptible. What begins as practical necessity—the acquisition of local materials and toolsevolves into something far more profound: the gradual restructuring of consciousness itself through accumulated exposure to foreign paradigms.
 
 **Material Infiltration Patterns**
 
@@ -57,7 +57,7 @@ Mari's insight reminds us that true exploration involves not merely observing fo
 
 ## Related Topics
 
-- [[Extraterrestrial Supply Operations]]
+- [[extraterrestrial-supply-operations|Extraterrestrial Supply Operations]]
 
 ## Sources
 

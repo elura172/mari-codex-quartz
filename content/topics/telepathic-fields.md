@@ -82,8 +82,8 @@ Understanding these dynamics allows for more skillful navigation of inter-specie
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Spirit Communication]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- Spirit Communication
 
 ## Sources
 

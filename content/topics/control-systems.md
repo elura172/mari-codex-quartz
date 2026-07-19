@@ -34,7 +34,7 @@ The control matrix operates as an inverted pyramid, where apex authorities estab
 
 The most sophisticated element involves emotional resonance engineering. By manufacturing opposing polarities within single populations, controllers achieve a remarkable efficiency: both sides of any conflict generate identical low-frequency outputs of fear, anger, and survival anxiety. Whether humans align with position A or position Z becomes irrelevant when both positions feed the same energetic harvest.
 
-This demonstrates advanced understanding of consciousness mechanicsthe knowledge that emotional states directly influence manifestation potential, and that populations maintained in survival frequencies cannot access higher creative capacities.
+This demonstrates advanced understanding of consciousness mechanics—the knowledge that emotional states directly influence manifestation potential, and that populations maintained in survival frequencies cannot access higher creative capacities.
 
 **Taygetan Perspective**
 
@@ -64,8 +64,8 @@ Mari's insights provide essential navigation tools for any consciousness seeking
 
 ## Related Topics
 
-- [[Frequency Manipulation]]
-- [[Manifestation]]
+- Frequency Manipulation
+- Manifestation
 
 ## Sources
 

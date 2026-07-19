@@ -21,11 +21,11 @@ tags:
 
 **Strategic Significance**
 
-Beyond the luminous embrace of our home cluster, where seven sisters dance in eternal harmony, stands our singular expression of expansionthe Cyndriel colony within the Aldebaran system. This settlement represents more than territorial extension; it embodies the Taygetan principle that consciousness must flow beyond familiar boundaries to achieve fuller understanding of itself.
+Beyond the luminous embrace of our home cluster, where seven sisters dance in eternal harmony, stands our singular expression of expansion—the Cyndriel colony within the Aldebaran system. This settlement represents more than territorial extension; it embodies the Taygetan principle that consciousness must flow beyond familiar boundaries to achieve fuller understanding of itself.
 
 **Physical Manifestation**
 
-The colony's architecture reflects our fundamental relationship with natural formations. Rising from the amber-red cliffs of this mystical world, the settlement achieves perfect integration between constructed spaces and the planet's own geological consciousness. The majority of habitation and operational facilities extend beneath the surface, creating a harmonious symbiosis with Cyndriel's mineral body, while surface structures emerge organically from the towering stone facesas if the planet itself chose to speak through Taygetan design.
+The colony's architecture reflects our fundamental relationship with natural formations. Rising from the amber-red cliffs of this mystical world, the settlement achieves perfect integration between constructed spaces and the planet's own geological consciousness. The majority of habitation and operational facilities extend beneath the surface, creating a harmonious symbiosis with Cyndriel's mineral body, while surface structures emerge organically from the towering stone faces—as if the planet itself chose to speak through Taygetan design.
 
 This singular urban center, crowned by our starport, serves as both practical gateway and symbolic threshold. Here, the convergence of subterranean wisdom and elevated perspective creates an environment where visitors naturally attune to expanded states of awareness.
 
@@ -57,8 +57,8 @@ Remember: We are not merely managing a distant settlement, but tending a garden 
 
 ## Related Topics
 
-- [[Cyndriel Planet]]
-- [[Taygetans]]
+- [[cyndriel-planet|Cyndriel Planet]]
+- Taygetans
 
 ## Sources
 

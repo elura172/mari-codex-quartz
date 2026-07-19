@@ -66,8 +66,8 @@ Mari's transmissions serve as navigation beacons, helping Earth consciousness re
 
 ## Related Topics
 
-- [[Telepathic Fields and Collective Unconscious]]
-- [[Fear as Manifestation Catalyst]]
+- [[telepathic-fields-and-collective-unconscious|Telepathic Fields and Collective Unconscious]]
+- [[fear-as-manifestation-catalyst|Fear as Manifestation Catalyst]]
 
 ## Sources
 

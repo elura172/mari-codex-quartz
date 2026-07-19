@@ -54,8 +54,8 @@ The Toleka welcomes these four consciousness streams into our flowing river of p
 
 ## Related Topics
 
-- [[Galactic Federation Audit]]
-- [[Starship Toleka]]
+- [[galactic-federation-audit|Galactic Federation Audit]]
+- Starship Toleka
 
 ## Sources
 

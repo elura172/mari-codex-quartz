@@ -62,8 +62,8 @@ All crew members must approach these procedures with both scientific precision a
 
 ## Related Topics
 
-- [[Starship Operations]]
-- [[Biological Security]]
+- [[starship-operations|Starship Operations]]
+- Biological Security
 
 ## Sources
 

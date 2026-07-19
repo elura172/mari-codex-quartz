@@ -59,8 +59,8 @@ Each space skip requires recalculation of subsequent jumps based on current stel
 
 ## Related Topics
 
-- [[Hyperspace Travel]]
-- [[Stellar Navigation Principles]]
+- [[hyperspace-travel|Hyperspace Travel]]
+- Stellar Navigation Principles
 
 ## Sources
 

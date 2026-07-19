@@ -66,8 +66,8 @@ Medical and diplomatic personnel should recognize that individuals undergoing na
 
 ## Related Topics
 
-- [[Near-Death Experience]]
-- [[Dark Night of the Soul]]
+- [[near-death-experiences|Near-Death Experience]]
+- Dark Night of the Soul
 
 ## Sources
 

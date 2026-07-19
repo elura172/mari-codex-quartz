@@ -44,7 +44,7 @@ The sophistication of this system reveals the oligarchy's acute awareness of con
 
 As Mari Swaruu observed through her transmissions, this represents a fundamental perversion of how advanced civilizations typically develop. Rather than secret societies hoarding wisdom, evolved worlds create transparent networks where knowledge amplifies collective potential. Earth's trajectory remains artificially constrained by these mechanisms of selective enlightenment.
 
-The irony resonates across dimensional frequenciesthose who most need liberating knowledge are systematically prevented from accessing it, while those who already possess material dominance accumulate ever more tools for maintaining their advantage.
+The irony resonates across dimensional frequencies—those who most need liberating knowledge are systematically prevented from accessing it, while those who already possess material dominance accumulate ever more tools for maintaining their advantage.
 
 **Status: Ongoing Monitoring Required**
 
@@ -60,8 +60,8 @@ The irony resonates across dimensional frequenciesthose who most need liberating
 
 ## Related Topics
 
-- [[Matrix Formation]]
-- [[Dual Science Systems]]
+- [[matrix-formation|Matrix Formation]]
+- [[dual-science-systems|Dual Science Systems]]
 
 ## Sources
 

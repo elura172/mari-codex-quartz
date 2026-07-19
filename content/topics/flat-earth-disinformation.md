@@ -28,13 +28,13 @@ The flat earth phenomenon represents a sophisticated psychological operation des
 
 **Strategic Architecture**
 
-The operation functions through elegant simplicity: by convincing segments of the population that their world lacks dimensional depth, the controllers eliminate the conceptual framework necessary for extraterrestrial consideration. Without spherical geometry, there exists no vast cosmosonly a contained stage beneath a dome. This creates what Mari identified as a "cognitive cage," where the very architecture of thought prevents expansion beyond terrestrial boundaries.
+The operation functions through elegant simplicity: by convincing segments of the population that their world lacks dimensional depth, the controllers eliminate the conceptual framework necessary for extraterrestrial consideration. Without spherical geometry, there exists no vast cosmos—only a contained stage beneath a dome. This creates what Mari identified as a "cognitive cage," where the very architecture of thought prevents expansion beyond terrestrial boundaries.
 
 The brilliance lies in its self-reinforcing nature. Those who embrace this model become unwitting guardians of their own limitation, actively defending against evidence of our existence while believing themselves to be truth-seekers. They police the boundaries of acceptable reality more effectively than any external authority could.
 
 **Consciousness Engineering Implications**
 
-From our Taygetan perspective, this represents advanced consciousness engineeringthe manipulation of fundamental spatial cognition to prevent evolutionary expansion. Earth's controllers understand that contact with extraterrestrial intelligence would shatter multiple control paradigms simultaneously. By fragmenting the population's basic understanding of physical reality, they create competing truth narratives that exhaust mental resources and prevent unified awakening.
+From our Taygetan perspective, this represents advanced consciousness engineering—the manipulation of fundamental spatial cognition to prevent evolutionary expansion. Earth's controllers understand that contact with extraterrestrial intelligence would shatter multiple control paradigms simultaneously. By fragmenting the population's basic understanding of physical reality, they create competing truth narratives that exhaust mental resources and prevent unified awakening.
 
 Mari observed how this connects to broader intelligence operations where, as one terrestrial director acknowledged, success is measured by the complete inversion of public understanding. The flat earth model serves as both symptom and tool within this larger framework of manufactured confusion.
 
@@ -61,8 +61,8 @@ The flat earth movement thus serves as both obstacle and teacher, revealing the 
 
 ## Related Topics
 
-- [[Earth Isolation]]
-- [[Matrix Control]]
+- Earth Isolation
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

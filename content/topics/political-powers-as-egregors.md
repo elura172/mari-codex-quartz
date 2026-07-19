@@ -28,13 +28,13 @@ tags:
 
 Through careful observation of Earth's sociopolitical dynamics, Mari Swaruu illuminated a fundamental truth that resonates with our understanding of consciousness-matter interaction. The governing bodies that appear to hold dominion over human populations are not autonomous entities, but rather sophisticated thought-forms sustained by collective mental energy.
 
-These political egregors operate as parasitic consciousness structures, drawing vitality from the very minds they appear to govern. Unlike natural authority that emerges from wisdom or genuine service, these constructs maintain themselves through harvesting emotional frequenciesparticularly fear, anger, and devoted attentionfrom the human collective.
+These political egregors operate as parasitic consciousness structures, drawing vitality from the very minds they appear to govern. Unlike natural authority that emerges from wisdom or genuine service, these constructs maintain themselves through harvesting emotional frequenciesparticularly fear, anger, and devoted attention—from the human collective.
 
 **Mechanism of Manifestation**
 
 The process mirrors our own understanding of reality creation through focused consciousness. Millions of human minds, directed through media manipulation and educational conditioning, continuously feed these structures with their mental energy. Each act of political engagement, whether supportive or oppositional, strengthens the egregor's presence in the consensus reality matrix.
 
-The sophistication lies in how these entities have convinced their energy sourcesthe human populationthat they are separate from and powerless against their own creations. This illusion of separation maintains the feeding cycle indefinitely.
+The sophistication lies in how these entities have convinced their energy sources—the human population—that they are separate from and powerless against their own creations. This illusion of separation maintains the feeding cycle indefinitely.
 
 **Dissolution Dynamics**
 
@@ -65,8 +65,8 @@ The path forward involves supporting human awakening to their own creative power
 
 ## Related Topics
 
-- [[Egregors]]
-- [[Matrix Control]]
+- [[egregors|Egregors]]
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

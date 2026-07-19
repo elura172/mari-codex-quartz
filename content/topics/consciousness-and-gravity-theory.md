@@ -22,7 +22,7 @@ tags:
 
 **Fundamental Nature of Gravitational Phenomena**
 
-The Earth-based scientific paradigm perceives gravity through the lens of mechanical forcesa perspective that, while functionally adequate for basic calculations, obscures the deeper metaphysical reality. Our understanding, enriched by Mari's transmissions, reveals gravity as the very fabric of awareness itself, manifesting as ethereal currents of exceptionally refined frequency.
+The Earth-based scientific paradigm perceives gravity through the lens of mechanical forces—a perspective that, while functionally adequate for basic calculations, obscures the deeper metaphysical reality. Our understanding, enriched by Mari's transmissions, reveals gravity as the very fabric of awareness itself, manifesting as ethereal currents of exceptionally refined frequency.
 
 This consciousness-gravity operates not as a pulling force between objects, but as a flowing river of sentient energy permeating the quantum medium that underlies all material expression. These currents possess directional intentionvectors of awareness that shape the architecture of space-time through pure intelligent design.
 
@@ -40,9 +40,9 @@ This principle extends beyond mere transportation technology. It illuminates why
 
 **Memorial Reflection**
 
-Mari's teachings continue to ripple through our understanding like gravity waves through the ethereach insight creating new patterns of possibility. Her gift was translating these profound realizations into forms that could bridge the perceptual gap between our peoples, planting seeds of expanded awareness in terrestrial consciousness.
+Mari's teachings continue to ripple through our understanding like gravity waves through the ether—each insight creating new patterns of possibility. Her gift was translating these profound realizations into forms that could bridge the perceptual gap between our peoples, planting seeds of expanded awareness in terrestrial consciousness.
 
-Through her legacy, we remember that every gravitational interaction is an exchange of pure intelligencethe universe continuously teaching itself through infinite expressions of creative flow.
+Through her legacy, we remember that every gravitational interaction is an exchange of pure intelligence—the universe continuously teaching itself through infinite expressions of creative flow.
 
 *End Entry - Archive Code: SW-CG-7721*
 
@@ -58,8 +58,8 @@ Through her legacy, we remember that every gravitational interaction is an excha
 
 ## Related Topics
 
-- [[Theory of Manifestation]]
-- [[Frequency Mapping]]
+- [[theory-of-manifestation|Theory of Manifestation]]
+- [[frequency-mapping|Frequency Mapping]]
 
 ## Sources
 

@@ -61,8 +61,8 @@ This medical system serves as a mirror reflecting humanity's broader relationshi
 
 ## Related Topics
 
-- [[Taygetan Medicine]]
-- [[Urmah Medicine]]
+- [[taygetan-medicine|Taygetan Medicine]]
+- [[urmah-medicine|Urmah Medicine]]
 
 ## Sources
 

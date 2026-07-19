@@ -27,7 +27,7 @@ Our Erran colleague Mari Swaruu has transmitted critical intelligence regarding 
 
 **Eclipse Phenomena as Strategic Cover**
 
-The April 2024 solar eclipse represents more than astronomical alignmentit functions as an ideal concealment mechanism for what Mari identifies as "flags that aren't real." During periods when populations naturally focus skyward, expecting disruption of normal patterns, the ruling apparatus can introduce artificial catastrophes while maintaining plausible deniability. The eclipse's electromagnetic effects on telecommunications infrastructure provide convenient explanation for deliberately engineered blackouts or data disruptions.
+The April 2024 solar eclipse represents more than astronomical alignment—it functions as an ideal concealment mechanism for what Mari identifies as "flags that aren't real." During periods when populations naturally focus skyward, expecting disruption of normal patterns, the ruling apparatus can introduce artificial catastrophes while maintaining plausible deniability. The eclipse's electromagnetic effects on telecommunications infrastructure provide convenient explanation for deliberately engineered blackouts or data disruptions.
 
 From our stellar perspective, we recognize this as a fundamental misunderstanding of cosmic rhythms. Where evolved civilizations perceive eclipses as opportunities for heightened awareness and dimensional accessibility, Earth's control structures weaponize these sacred moments to deepen collective unconsciousness.
 
@@ -61,8 +61,8 @@ Mari's transmissions serve as crucial intelligence for both our diplomatic corps
 
 ## Related Topics
 
-- [[Cabal Activities]]
-- [[Government Warnings]]
+- Cabal Activities
+- Government Warnings
 
 ## Sources
 

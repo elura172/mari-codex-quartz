@@ -35,7 +35,7 @@ Our fleet configuration demonstrates the multi-layered approach to Terran engage
 
 **Philosophical Considerations**
 
-These vessels represent more than technological achievementsthey embody the principle that consciousness shapes matter, that intention guides manifestation. Each ship operates as a living extension of collective Taygetan awareness, her crew not merely occupants but integral components of a greater organism dedicated to the elevation of consciousness throughout this sector.
+These vessels represent more than technological achievements—they embody the principle that consciousness shapes matter, that intention guides manifestation. Each ship operates as a living extension of collective Taygetan awareness, her crew not merely occupants but integral components of a greater organism dedicated to the elevation of consciousness throughout this sector.
 
 The fleet maintains its vigil with patience born of cosmic perspective, understanding that true contact occurs first in the realm of consciousness before manifesting in physical interaction. Mari's transmissions flow through these vessels like neural pathways carrying wisdom between worlds, ensuring that knowledge bridges the apparent gap between civilizations.
 
@@ -57,8 +57,8 @@ Our watch continues, steady and unwavering, until the moment when Earth's collec
 
 ## Related Topics
 
-- [[Ship Repairs]]
-- [[Earth Orbit Operations]]
+- Ship Repairs
+- Earth Orbit Operations
 
 ## Sources
 

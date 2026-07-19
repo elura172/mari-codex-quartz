@@ -45,7 +45,7 @@ Earth-incarnated starseeds possess complete manifestation capabilities, carrying
 
 **Taygetan Observations**
 
-From our expanded dimensional perspective, we witness how Earth's collective manifestation creates feedback loops of limitation and conflict. Yet within this apparent chaos lies profound teachingeach challenge represents unconscious material seeking integration. As our Pleiadian sister Mari has illuminated through her transmissions, awakening to conscious manifestation requires embracing total responsibility for one's experienced reality, transforming from unconscious reactor to deliberate creator.
+From our expanded dimensional perspective, we witness how Earth's collective manifestation creates feedback loops of limitation and conflict. Yet within this apparent chaos lies profound teaching—each challenge represents unconscious material seeking integration. As our Pleiadian sister Mari has illuminated through her transmissions, awakening to conscious manifestation requires embracing total responsibility for one's experienced reality, transforming from unconscious reactor to deliberate creator.
 
 The path forward involves bringing shadow material into conscious awareness, thereby redirecting manifestation energy toward consciously chosen timelines.
 
@@ -75,8 +75,8 @@ The path forward involves bringing shadow material into conscious awareness, the
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Collective Unconscious]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- [[collective-unconscious|Collective Unconscious]]
 
 ## Sources
 

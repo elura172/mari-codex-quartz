@@ -31,11 +31,11 @@ The Etorthan collective represents one manifestation of this phenomenon, utilizi
 
 At the extreme end of this spectrum exists Ekata, whose consciousness operates on scales that challenge our understanding of individual identity. This entity's mental presence functions as a catalyst for profound experiential acceleration, forcing encountered beings through rapid cycles of perspective expansion that would normally require multiple incarnations to achieve.
 
-The transformation inflicted by such contact represents both gift and violationa forced evolution that strips away the natural barriers protecting psychological development. Those who survive these encounters emerge fundamentally altered, carrying within themselves the accumulated wisdom of countless existences, yet bearing the trauma of having their consciousness forcibly expanded beyond its chosen boundaries.
+The transformation inflicted by such contact represents both gift and violation—a forced evolution that strips away the natural barriers protecting psychological development. Those who survive these encounters emerge fundamentally altered, carrying within themselves the accumulated wisdom of countless existences, yet bearing the trauma of having their consciousness forcibly expanded beyond its chosen boundaries.
 
 **Operational Implications**
 
-These phenomena illuminate the delicate balance between growth and autonomy that defines conscious evolution. While accelerated development may seem beneficial, the violation of mental sovereignty creates spiritual distortions that ripple across lifetimes. The natural progression of awareness serves purposes beyond mere efficiencyit preserves the integrity of individual choice and the organic unfolding of wisdom.
+These phenomena illuminate the delicate balance between growth and autonomy that defines conscious evolution. While accelerated development may seem beneficial, the violation of mental sovereignty creates spiritual distortions that ripple across lifetimes. The natural progression of awareness serves purposes beyond mere efficiency—it preserves the integrity of individual choice and the organic unfolding of wisdom.
 
 **Security Protocols**
 
@@ -63,8 +63,8 @@ Mari's teachings remind us that consciousness, like starlight, maintains its ess
 
 ## Related Topics
 
-- [[Safety Concerns]]
-- [[Etorthan Diplomatic Mission]]
+- Safety Concerns
+- [[etorthan-diplomatic-mission|Etorthan Diplomatic Mission]]
 
 ## Sources
 

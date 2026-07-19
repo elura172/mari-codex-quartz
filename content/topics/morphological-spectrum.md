@@ -32,11 +32,11 @@ Moving along this continuum, each species represents a subtle shift in the human
 
 **Lyran Heritage Manifestations**
 
-The Lyran family tree exemplifies this gradient principle most clearly. Beginning with forms perfectly human in appearance, the spectrum extends through countless variationseach world's unique conditions sculpting consciousness into increasingly specialized vessels. Eventually, these modifications accumulate until beings appear barely recognizable as sharing common ancestry, yet the fundamental frequency remains constant beneath surface diversity.
+The Lyran family tree exemplifies this gradient principle most clearly. Beginning with forms perfectly human in appearance, the spectrum extends through countless variations—each world's unique conditions sculpting consciousness into increasingly specialized vessels. Eventually, these modifications accumulate until beings appear barely recognizable as sharing common ancestry, yet the fundamental frequency remains constant beneath surface diversity.
 
 **Diplomatic Implications**
 
-This understanding transforms our approach to interstellar contact protocols. Recognition becomes less about cataloging differences and more about perceiving underlying unity. The spectrum teaches us that consciousness adapts its physical vessel while maintaining essential identitya principle our crews must internalize when encountering species across this morphological range.
+This understanding transforms our approach to interstellar contact protocols. Recognition becomes less about cataloging differences and more about perceiving underlying unity. The spectrum teaches us that consciousness adapts its physical vessel while maintaining essential identity—a principle our crews must internalize when encountering species across this morphological range.
 
 **Metaphysical Considerations**
 
@@ -56,8 +56,8 @@ This morphological diversity enriches rather than divides galactic civilization,
 
 ## Related Topics
 
-- [[Non-humanoid Species]]
-- [[Lyran Family]]
+- Non-humanoid Species
+- Lyran Family
 
 ## Sources
 

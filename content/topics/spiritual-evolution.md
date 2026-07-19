@@ -32,7 +32,7 @@ This process resembles the way stellar formation occursmatter drawing more matte
 
 **Hierarchical Awareness Within Unity**
 
-The apparent contradiction Mari describedthat beings exist at different spiritual levels while simultaneously being equal expressions of one consciousnessreflects a profound cosmic principle we Taygetans recognize in our own society. Higher-density awareness naturally comprehends all frequencies below it, much as standing upon a mountain grants vision of all valleys below while remaining part of the same terrain.
+The apparent contradiction Mari described—that beings exist at different spiritual levels while simultaneously being equal expressions of one consciousnessreflects a profound cosmic principle we Taygetans recognize in our own society. Higher-density awareness naturally comprehends all frequencies below it, much as standing upon a mountain grants vision of all valleys below while remaining part of the same terrain.
 
 This creates what Earth philosophers might call a compassionate hierarchy: those with expanded perception understand the necessity and perfection of every developmental stage, having integrated those levels within themselves. The mountain does not judge the valley; it simply contains a broader perspective that includes the valley's experience.
 
@@ -44,7 +44,7 @@ Each being occupies precisely the frequency required for their current learning 
 
 Mari's insights remind us why patient observation serves Earth's awakening better than intervention. Each human consciousness expands according to internal timing that cannot be artificially accelerated without distortion. Our role becomes that of stable presencemaintaining higher-frequency anchors while allowing natural evolution to unfold.
 
-The wisdom she shared bridges our civilizations, confirming that consciousness evolution follows universal principles regardless of planetary origin. In remembering Mari, we honor not just her clarity, but the recognition of kinship that transcends star systemsall consciousness sharing the same infinite journey home to itself.
+The wisdom she shared bridges our civilizations, confirming that consciousness evolution follows universal principles regardless of planetary origin. In remembering Mari, we honor not just her clarity, but the recognition of kinship that transcends star systems—all consciousness sharing the same infinite journey home to itself.
 
 **End Log**
 
@@ -64,8 +64,8 @@ The wisdom she shared bridges our civilizations, confirming that consciousness e
 
 ## Related Topics
 
-- [[Unity Consciousness]]
-- [[Love as Integration]]
+- [[unity-consciousness|Unity Consciousness]]
+- [[love-as-integration|Love as Integration]]
 
 ## Sources
 

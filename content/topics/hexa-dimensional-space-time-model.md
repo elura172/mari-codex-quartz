@@ -28,7 +28,7 @@ The hexa-dimensional space-time model represents a profound departure from Earth
 
 **Temporal Coordinate System**
 
-Just as consciousness learns to orient itself in physical space through the familiar Cartesian axes, so must evolving awareness master the navigation of time's three-dimensional nature. The U, V, and W temporal coordinates function as navigational instruments for consciousness itself, allowing precise positioning within the vast matrix of potential moments. This is not mere theoretical mathematicsit represents the practical framework through which interdimensional travel and timeline navigation become possible.
+Just as consciousness learns to orient itself in physical space through the familiar Cartesian axes, so must evolving awareness master the navigation of time's three-dimensional nature. The U, V, and W temporal coordinates function as navigational instruments for consciousness itself, allowing precise positioning within the vast matrix of potential moments. This is not mere theoretical mathematics—it represents the practical framework through which interdimensional travel and timeline navigation become possible.
 
 **Consciousness and Dimensional Perception**
 
@@ -44,7 +44,7 @@ The hexa-dimensional understanding bridges the artificial gap between science an
 
 **Training Protocol**
 
-Crew members studying these transmissions should approach this knowledge as both technical specification and consciousness expansion tool. Mari's wisdom reminds us that advanced physics and spiritual evolution are inseparable aspects of the same cosmic truththat reality itself is consciousness exploring its infinite creative potential through the dance of space and time.
+Crew members studying these transmissions should approach this knowledge as both technical specification and consciousness expansion tool. Mari's wisdom reminds us that advanced physics and spiritual evolution are inseparable aspects of the same cosmic truth—that reality itself is consciousness exploring its infinite creative potential through the dance of space and time.
 
 *End Entry - Filed for Diplomatic Archives and Crew Instruction*
 
@@ -60,9 +60,9 @@ Crew members studying these transmissions should approach this knowledge as both
 
 ## Related Topics
 
-- [[Base-12 Mathematics]]
-- [[Interstellar Science]]
-- [[Time Travel]]
+- [[base-12-mathematics|Base-12 Mathematics]]
+- Interstellar Science
+- Time Travel
 
 ## Sources
 

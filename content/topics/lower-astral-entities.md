@@ -43,7 +43,7 @@ Their fundamental characteristic is an extremely weak or severed connection to S
 
 **Operational Mechanics**
 
-These entities sustain themselves through a sophisticated energy harvesting system centered on emotional manipulation. They actively work to maintain their hosts in low vibrational statesfear, suffering, anger, despairas these emotional frequencies generate the dense creative energy they require for continued existence. The process creates a feedback loop: as they feed on suffering, they manipulate circumstances to generate more suffering, strengthening their hold while weakening their host's natural defenses.
+These entities sustain themselves through a sophisticated energy harvesting system centered on emotional manipulation. They actively work to maintain their hosts in low vibrational statesfear, suffering, anger, despair—as these emotional frequencies generate the dense creative energy they require for continued existence. The process creates a feedback loop: as they feed on suffering, they manipulate circumstances to generate more suffering, strengthening their hold while weakening their host's natural defenses.
 
 Of particular note is their targeting of high-vibrational individuals, especially starseeds and consciousness workers. These beings represent both the greatest threat to astral entity dominance and the richest energy source, as their strong Source connections provide more potent creative force when corrupted toward lower frequencies.
 
@@ -144,9 +144,9 @@ The most elegant defense remains frequency sovereignty: maintaining vibrational 
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Spiritual Protection]]
-- [[Energy Exploitation]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- [[spiritual-protection|Spiritual Protection]]
+- [[energy-exploitation|Energy Exploitation]]
 
 ## Sources
 

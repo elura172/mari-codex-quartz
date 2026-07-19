@@ -46,7 +46,7 @@ Many residents are former incarnates who became trapped through intense attachme
 
 **Perceptual Mechanics**
 
-Understanding the lower astral requires recognizing that each consciousness shapes its perceived reality according to its own vibrational signature. As Mari Swaruu noted, souls do not encounter fixed, objective environmentsthey experience reflections of their inner states. This principle becomes especially pronounced in astral realms where malleable consciousness directly sculpts experiential reality.
+Understanding the lower astral requires recognizing that each consciousness shapes its perceived reality according to its own vibrational signature. As Mari Swaruu noted, souls do not encounter fixed, objective environments—they experience reflections of their inner states. This principle becomes especially pronounced in astral realms where malleable consciousness directly sculpts experiential reality.
 
 **Taygetan Perspective**
 
@@ -98,8 +98,8 @@ Crew members conducting Earth-adjacent operations should maintain elevated frequ
 
 ## Related Topics
 
-- [[Religious Exorcism]]
-- [[Lower Astral Entities]]
+- [[religious-exorcism|Religious Exorcism]]
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

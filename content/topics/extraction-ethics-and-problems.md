@@ -58,8 +58,8 @@ For stellar personnel considering extraction requests, these principles demand c
 
 ## Related Topics
 
-- [[Federation Rules]]
-- [[Soul Life Plans]]
+- [[federation-rules|Federation Rules]]
+- Soul Life Plans
 
 ## Sources
 

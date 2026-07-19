@@ -47,7 +47,7 @@ Recognition of this greater human family dissolves Earth's perceived isolation a
 
 For diplomatic missions, this genetic kinship facilitates natural resonance between Taygetan and Earth human consciousness. The shared biological template creates intuitive bridges for communication and understanding, though cultural matrices may vary significantly between worlds.
 
-Mari Swaruu's teachings illuminate humanity's true scalenot as singular planetary experiment, but as universal expression of consciousness exploring infinite possibilities through familiar biological architecture. In this recognition, Earth awakens to its rightful place within the greater cosmic family.
+Mari Swaruu's teachings illuminate humanity's true scale—not as singular planetary experiment, but as universal expression of consciousness exploring infinite possibilities through familiar biological architecture. In this recognition, Earth awakens to its rightful place within the greater cosmic family.
 
 *End Archive Entry*
 
@@ -63,8 +63,8 @@ Mari Swaruu's teachings illuminate humanity's true scalenot as singular planetar
 
 ## Related Topics
 
-- [[Genetic Origins]]
-- [[Matrix Control]]
+- Genetic Origins
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

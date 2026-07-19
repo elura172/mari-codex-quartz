@@ -66,8 +66,8 @@ Mari's wisdom continues illuminating the shadows of Terra's hidden sciences.
 
 ## Related Topics
 
-- [[Satellite Monitoring]]
-- [[Vibration Control]]
+- Satellite Monitoring
+- Vibration Control
 
 ## Sources
 

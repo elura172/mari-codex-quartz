@@ -60,8 +60,8 @@ The phenomenon ultimately reflects the universe's perfect justicebeings choosing
 
 ## Related Topics
 
-- [[Frequency and Perception]]
-- [[Demon Nature]]
+- [[frequency-and-perception|Frequency and Perception]]
+- [[demon-nature|Demon Nature]]
 
 ## Sources
 

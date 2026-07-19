@@ -44,7 +44,7 @@ From our understanding of consciousness mechanics, forced adaptation to incompat
 
 Their employment challenges represent labor pains of social evolution. As more awakened beings reject soul-draining work models, they collectively birth alternative systems aligned with conscious values: creativity-based economics, purpose-driven collaboration, and abundance flowing from authentic expression rather than time-for-money exchange.
 
-**Crew Training Note:** When interfacing with Earth starseeds experiencing employment distress, recognize their suffering as evolutionary necessitythe natural friction between ascending consciousness and dissolving limitations.
+**Crew Training Note:** When interfacing with Earth starseeds experiencing employment distress, recognize their suffering as evolutionary necessity—the natural friction between ascending consciousness and dissolving limitations.
 
 *End Entry*
 
@@ -67,8 +67,8 @@ Their employment challenges represent labor pains of social evolution. As more a
 
 ## Related Topics
 
-- [[Spiritual Mission]]
-- [[Money as Energy]]
+- [[spiritual-mission|Spiritual Mission]]
+- [[money-as-energy|Money as Energy]]
 
 ## Sources
 

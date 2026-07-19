@@ -65,8 +65,8 @@ Mari's courage in transmitting this intelligence exemplifies the warrior-scholar
 
 ## Related Topics
 
-- [[Urmah Knowledge of Ekata]]
-- [[Ekata the Giant Slug Entity]]
+- [[urmah-knowledge-of-ekata|Urmah Knowledge of Ekata]]
+- [[ekata-the-giant-slug-entity|Ekata the Giant Slug Entity]]
 
 ## Sources
 

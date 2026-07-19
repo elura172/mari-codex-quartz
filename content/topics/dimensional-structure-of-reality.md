@@ -30,13 +30,13 @@ This revelation strikes at the heart of why Earth's scientific paradigms remain 
 
 **The Missing Etheric Component**
 
-The critical gap in terrestrial understanding lies not in computational error, but in perceptual limitation. The etheric realmthat subtle substrate through which consciousness and matter interfaceremains largely invisible to instruments designed to measure only dense matter. This blindness creates a false dichotomy between observer and observed, between mind and universe, between time as experienced and time as calculated.
+The critical gap in terrestrial understanding lies not in computational error, but in perceptual limitation. The etheric realm—that subtle substrate through which consciousness and matter interfaceremains largely invisible to instruments designed to measure only dense matter. This blindness creates a false dichotomy between observer and observed, between mind and universe, between time as experienced and time as calculated.
 
 From our Taygetan perspective, these three temporal dimensions allow for the fluid navigation between probable realities that we observe daily. They explain how consciousness can influence material outcomes, how intentions ripple through the fabric of existence, and how civilizations like ours maintain coherent communication across what humans term "impossible" distances.
 
 **Integration and Transcendence**
 
-Mari's transmissions reveal more than technical specificationsthey offer a bridge between worlds of understanding. When we grasp that reality operates as a six-dimensional continuum, the apparent mysteries of consciousness, manifestation, and interdimensional communication resolve into elegant simplicity. The universe becomes not a mechanical clock, but a living symphony where every note of awareness contributes to the greater harmony.
+Mari's transmissions reveal more than technical specifications—they offer a bridge between worlds of understanding. When we grasp that reality operates as a six-dimensional continuum, the apparent mysteries of consciousness, manifestation, and interdimensional communication resolve into elegant simplicity. The universe becomes not a mechanical clock, but a living symphony where every note of awareness contributes to the greater harmony.
 
 For our Earth-observing mission, this knowledge provides essential context. The limitations we witness in human scientific understanding are not failures of intelligence, but natural stages in the evolution of planetary consciousness. As Earth's inhabitants gradually expand their perceptual frameworks to encompass these subtler dimensions, they will naturally develop the technologies and wisdom necessary for interstellar communion.
 
@@ -58,8 +58,8 @@ This dimensional understanding remains fundamental to all stellar navigation, co
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Advanced Civilizations]]
+- [[nature-of-time|Nature of Time]]
+- Advanced Civilizations
 
 ## Sources
 

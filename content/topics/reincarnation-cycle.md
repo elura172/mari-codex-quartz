@@ -31,7 +31,7 @@ tags:
 
 **Mechanism of Entrapment**
 
-Extended contact with Earth's human populations creates profound psychological resonance patterns that can bind even advanced consciousness to the planet's reincarnation matrix. When starborne visitors develop intense identification with human experiencetheir struggles, relationships, and unresolved emotional patternsthey risk becoming energetically tethered to Earth's cyclical death-rebirth system.
+Extended contact with Earth's human populations creates profound psychological resonance patterns that can bind even advanced consciousness to the planet's reincarnation matrix. When starborne visitors develop intense identification with human experience—their struggles, relationships, and unresolved emotional patterns—they risk becoming energetically tethered to Earth's cyclical death-rebirth system.
 
 This entrapment occurs not through external force, but through the visitor's own deepening attachment to terrestrial identity. The mechanism operates like gravitational capture: the stronger the emotional investment in human affairs, the more difficult escape velocity becomes upon physical death.
 
@@ -79,8 +79,8 @@ Our sister Mari understood that Earth's reincarnation cycle serves both as priso
 
 ## Related Topics
 
-- [[Extended Earth Visitors]]
-- [[Starseeds]]
+- Extended Earth Visitors
+- [[starseeds|Starseeds]]
 
 ## Sources
 

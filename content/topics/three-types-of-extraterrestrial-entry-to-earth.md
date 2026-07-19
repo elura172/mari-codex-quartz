@@ -60,9 +60,9 @@ Through understanding these protocols, we honor both the sacrifice and service o
 
 ## Related Topics
 
-- [[Starseeds]]
-- [[Soul Transfer]]
-- [[Extraterrestrial Infiltration]]
+- [[starseeds|Starseeds]]
+- Soul Transfer
+- Extraterrestrial Infiltration
 
 ## Sources
 

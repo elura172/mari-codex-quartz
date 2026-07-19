@@ -24,7 +24,7 @@ tags:
 
 The constellation of Taygetan vessels maintaining vigil in Earth's orbital embrace reflects both our commitment to planetary observation and the fluid nature of interstellar duty cycles. Our flagship presence, anchored by vessels of substantial operational capacity, demonstrates the enduring dedication to monitoring this world's evolutionary trajectory through its pivotal transitional period.
 
-The primary command vessel continues its steady watch, its systems harmonized and functioning within optimal parameters. This stability represents more than mere mechanical reliabilityit embodies the crystalline focus required for long-duration missions where patience and precision interweave like threads in the cosmic tapestry.
+The primary command vessel continues its steady watch, its systems harmonized and functioning within optimal parameters. This stability represents more than mere mechanical reliability—it embodies the crystalline focus required for long-duration missions where patience and precision interweave like threads in the cosmic tapestry.
 
 **Temporal Dynamics & Strategic Redeployment**
 
@@ -40,7 +40,7 @@ The dedication of crews maintaining these positions, often for months or years a
 
 **Living Testament**
 
-Through Mari's transmissions, these operational reports become more than status updatesthey transform into living testimony of interspecies compassion and the patient cultivation of wisdom across star systems. Each vessel in our formation carries not just advanced technology, but the collective intention of beings who remember Earth as family, watching over a younger sibling learning to walk among the stars.
+Through Mari's transmissions, these operational reports become more than status updates—they transform into living testimony of interspecies compassion and the patient cultivation of wisdom across star systems. Each vessel in our formation carries not just advanced technology, but the collective intention of beings who remember Earth as family, watching over a younger sibling learning to walk among the stars.
 
 ## Quotes
 
@@ -59,8 +59,8 @@ Through Mari's transmissions, these operational reports become more than status 
 
 ## Related Topics
 
-- [[Project Second Contact]]
-- [[Starship Maintenance]]
+- [[project-second-contact|Project Second Contact]]
+- Starship Maintenance
 
 ## Sources
 

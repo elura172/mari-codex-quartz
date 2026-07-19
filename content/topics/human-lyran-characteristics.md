@@ -66,8 +66,8 @@ Human Lyrans represent consciousness in transitioncarrying the gifts of advanced
 
 ## Related Topics
 
-- [[Organic Portals]]
-- [[Empathy as Weapon]]
+- [[organic-portals|Organic Portals]]
+- [[empathy-as-weapon|Empathy as Weapon]]
 
 ## Sources
 

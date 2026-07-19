@@ -24,7 +24,7 @@ tags:
 
 **Context of Resource Transition**
 
-The withdrawal of Federation monetary support has created a profound shift in operational parameters for Taygetan ground missions. This transition represents more than mere budgetary constraintsit signals an evolutionary moment where direct intervention transforms into sustainable, self-generating assistance models. The cessation of external funding compels our crews to develop Earth-compatible resource streams while maintaining mission integrity.
+The withdrawal of Federation monetary support has created a profound shift in operational parameters for Taygetan ground missions. This transition represents more than mere budgetary constraints—it signals an evolutionary moment where direct intervention transforms into sustainable, self-generating assistance models. The cessation of external funding compels our crews to develop Earth-compatible resource streams while maintaining mission integrity.
 
 **Individual Responsibility Matrix**
 
@@ -61,8 +61,8 @@ Current operational sustainability indicates successful transition from dependen
 
 ## Related Topics
 
-- [[Federation Support]]
-- [[Earth Dependency]]
+- Federation Support
+- [[earth-dependency|Earth Dependency]]
 
 ## Sources
 

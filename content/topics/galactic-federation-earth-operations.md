@@ -27,7 +27,7 @@ The vast choreography of galactic diplomacy unfolds in Earth's orbital sphere th
 
 **Current Deployment Assessment**
 
-Our sensors confirm a modest but strategically positioned Thelosian presencea single command vessel accompanied by two escort craft maintaining high orbital stations. This configuration speaks to precision rather than force, suggesting operations focused on communication rather than intervention. The orbital altitude indicates discretion while maintaining sufficient technological superiority for secure diplomatic channels.
+Our sensors confirm a modest but strategically positioned Thelosian presence—a single command vessel accompanied by two escort craft maintaining high orbital stations. This configuration speaks to precision rather than force, suggesting operations focused on communication rather than intervention. The orbital altitude indicates discretion while maintaining sufficient technological superiority for secure diplomatic channels.
 
 **Diplomatic Architecture**
 
@@ -43,7 +43,7 @@ This operational framework suggests the Federation prioritizes gradual conscious
 
 **Personal Reflection**
 
-Mari's transmissions illuminate these operations with characteristic clarity, revealing how galactic society carefully tends the garden of planetary evolution. Her insights remind us that true diplomacy operates simultaneously across multiple dimensionspolitical, technological, and consciousness-basedeach requiring its own specialized approach.
+Mari's transmissions illuminate these operations with characteristic clarity, revealing how galactic society carefully tends the garden of planetary evolution. Her insights remind us that true diplomacy operates simultaneously across multiple dimensionspolitical, technological, and consciousness-based—each requiring its own specialized approach.
 
 The patience required for such long-term cultural transformation reflects the deeper wisdom that sustainable change must emerge from within rather than being imposed from without, even when that external influence carries only benevolent intention.
 
@@ -65,9 +65,9 @@ The patience required for such long-term cultural transformation reflects the de
 
 ## Related Topics
 
-- [[Underground Networks]]
-- [[Earth Liberation]]
-- [[Galactic Federation Criticism]]
+- Underground Networks
+- Earth Liberation
+- [[galactic-federation-criticism|Galactic Federation Criticism]]
 
 ## Sources
 

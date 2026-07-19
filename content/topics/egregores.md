@@ -36,7 +36,7 @@ The manifestation range of egregores extends far beyond the obvious monsters tha
 
 **Mechanisms of Creation**
 
-All egregoric entities, regardless of their apparent independence, require the conscious creative attention of ensouled beings for their genesis and sustenance. This fundamental principle explains why dark astral entities consistently work against life-affirming consciousnessthey must generate the fear, confusion, and negative emotional states that serve as their primary nourishment source. The collective unconscious becomes a breeding ground where shared traumas and anxieties coalesce into semi-autonomous forms.
+All egregoric entities, regardless of their apparent independence, require the conscious creative attention of ensouled beings for their genesis and sustenance. This fundamental principle explains why dark astral entities consistently work against life-affirming consciousness—they must generate the fear, confusion, and negative emotional states that serve as their primary nourishment source. The collective unconscious becomes a breeding ground where shared traumas and anxieties coalesce into semi-autonomous forms.
 
 **Strategic Implications**
 
@@ -46,7 +46,7 @@ From a Taygetan perspective, humanity's relationship with egregores reveals both
 
 Crew members engaging with Earth populations should remain aware that many perceived threats may be egregoric in nature rather than genuinely independent entities. Recognition of this principle allows for more effective intervention strategies, as egregores lose power when their artificial nature is understood and their emotional fuel source is withdrawn.
 
-Mari's insights remind us that consciousness creates reality through attentiona principle our own civilizations learned to harness constructively millennia ago, but which humanity is only beginning to rediscover.
+Mari's insights remind us that consciousness creates reality through attention—a principle our own civilizations learned to harness constructively millennia ago, but which humanity is only beginning to rediscover.
 
 **Classification: Educational Priority Alpha**
 
@@ -71,8 +71,8 @@ Mari's insights remind us that consciousness creates reality through attentiona 
 
 ## Related Topics
 
-- [[Astral Parasites]]
-- [[Fear-Based Creation]]
+- [[astral-parasites|Astral Parasites]]
+- Fear-Based Creation
 
 ## Sources
 

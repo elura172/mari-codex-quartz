@@ -28,7 +28,7 @@ To comprehend Toleka's magnitude, one must envision nearly two kilometers of liv
 
 **Terrestrial Observations**
 
-From Earth's surface, human eyes can perceive Toleka's presence without technological enhancement, though few recognize what they witness. The vessel's visibility speaks to both its substantial dimensions and its creators' transparency of purposewe do not hide our presence, though we understand the delicate nature of first contact protocols.
+From Earth's surface, human eyes can perceive Toleka's presence without technological enhancement, though few recognize what they witness. The vessel's visibility speaks to both its substantial dimensions and its creators' transparency of purpose—we do not hide our presence, though we understand the delicate nature of first contact protocols.
 
 Earth's scientific establishments and governing bodies have catalogued this luminous visitor in their records, yet they assign it familiar designations, claiming ownership of phenomena beyond their current technological reach. This misidentification serves as gentle protection for both civilizationsallowing gradual acclimatization while preventing premature disclosure.
 
@@ -54,8 +54,8 @@ In her steel-wrapped gardens and titanium-framed meditation spaces, the future o
 
 ## Related Topics
 
-- [[Ship Living Areas]]
-- [[Minecraft Recreation]]
+- [[ship-living-areas|Ship Living Areas]]
+- Minecraft Recreation
 
 ## Sources
 

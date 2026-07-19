@@ -57,8 +57,8 @@ The captured pilot now awaits integration protocols, their journey through separ
 
 ## Related Topics
 
-- [[Suzy Starship Combat]]
-- [[Taygetan Combat Operations]]
+- Suzy Starship Combat
+- Taygetan Combat Operations
 
 ## Sources
 

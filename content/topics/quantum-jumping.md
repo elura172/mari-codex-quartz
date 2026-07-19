@@ -64,9 +64,9 @@ The wisdom Mari shared illuminates pathways of liberation available to all consc
 
 ## Related Topics
 
-- [[Rock Bottom Experience]]
-- [[Personal Transformation]]
-- [[Law of Mirrors]]
+- [[rock-bottom-experience|Rock Bottom Experience]]
+- Personal Transformation
+- [[law-of-mirrors|Law of Mirrors]]
 
 ## Sources
 

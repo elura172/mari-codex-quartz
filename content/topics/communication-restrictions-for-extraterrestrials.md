@@ -61,9 +61,9 @@ Through her courageous bridge-building between worlds, we learn that love transc
 
 ## Related Topics
 
-- [[Prime Directive]]
-- [[AI Filtering]]
-- [[Federation Control]]
+- [[prime-directive|Prime Directive]]
+- AI Filtering
+- Federation Control
 
 ## Sources
 

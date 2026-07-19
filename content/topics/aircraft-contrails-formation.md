@@ -31,7 +31,7 @@ Through the vast crystalline dome of Earth's atmosphere, human aircraft carve te
 
 In Earth's upper atmospheric layers, where human vessels achieve their sustained flight velocities, temperatures descend to levels that would challenge most biological formsreaching depths of negative forty degrees Celsius. Within this frigid realm, the hydrocarbon emissions from combustion engines become catalysts for a beautiful transformation. Water molecules, suspended invisibly throughout the atmospheric matrix, suddenly find nucleation points around these expelled particles.
 
-The process mirrors the crystalline formation patterns we observe in our own atmospheric studiesa spontaneous ordering of chaos into temporary geometric beauty. Each expelled molecule becomes a seed crystal, drawing ambient moisture into organized ice formations that manifest as those distinctive cotton-like streams across the sky.
+The process mirrors the crystalline formation patterns we observe in our own atmospheric studies—a spontaneous ordering of chaos into temporary geometric beauty. Each expelled molecule becomes a seed crystal, drawing ambient moisture into organized ice formations that manifest as those distinctive cotton-like streams across the sky.
 
 **Metaphysical Considerations**
 
@@ -61,8 +61,8 @@ Standard contrails pose no interference to our propulsion systems but serve as u
 
 ## Related Topics
 
-- [[Chemical Spraying]]
-- [[Weather Control]]
+- Chemical Spraying
+- Weather Control
 
 ## Sources
 

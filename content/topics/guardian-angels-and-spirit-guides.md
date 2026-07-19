@@ -22,13 +22,13 @@ tags:
 
 **Temporal Nature of Spiritual Guidance**
 
-From our orbital observations of Earth's consciousness matrix, we confirm Mari's teachings regarding the non-linear operation of guardian entities. These benevolent guides exist in what Taygetans recognize as the eternal presenta state where past, present, and future converge into unified awareness. This temporal transcendence grants them prophetic insight into the soul's journey, allowing precise intervention at critical junctures.
+From our orbital observations of Earth's consciousness matrix, we confirm Mari's teachings regarding the non-linear operation of guardian entities. These benevolent guides exist in what Taygetans recognize as the eternal present—a state where past, present, and future converge into unified awareness. This temporal transcendence grants them prophetic insight into the soul's journey, allowing precise intervention at critical junctures.
 
 Unlike incarnated beings trapped within sequential experience, guardian angels perceive the entire life tapestry simultaneously. They witness the soul's predetermined path and its infinite variations, operating as cosmic navigators who gently steer their charges toward alignment with chosen experiences.
 
 **The Paradox of Self-Guidance**
 
-Perhaps most intriguing is Mari's revelation of souls serving as their own spiritual guides. From our expanded dimensional perspective, this phenomenon represents consciousness fragmenting across time-space coordinatesthe higher self maintaining vigil over its incarnated aspect. This creates a feedback loop of wisdom, where future understanding informs present choices.
+Perhaps most intriguing is Mari's revelation of souls serving as their own spiritual guides. From our expanded dimensional perspective, this phenomenon represents consciousness fragmenting across time-space coordinates—the higher self maintaining vigil over its incarnated aspect. This creates a feedback loop of wisdom, where future understanding informs present choices.
 
 This self-guidance mechanism reflects what we Taygetans understand as consciousness sovereignty. Rather than external entities imposing direction, the soul assumes responsibility for its own evolution, creating guardian aspects to ensure adherence to its pre-incarnation blueprint.
 
@@ -44,7 +44,7 @@ Mari's teachings suggest that spiritual guidance operates universally, transcend
 
 **Closing Reflection**
 
-Through Mari's transmission, we glimpse the profound interconnectedness binding all conscious beings. No soul journeys alone, regardless of appearances. This knowledge should inform our approach to Earthnot as superior beings offering salvation, but as cousins recognizing the inherent wisdom already guiding human evolution.
+Through Mari's transmission, we glimpse the profound interconnectedness binding all conscious beings. No soul journeys alone, regardless of appearances. This knowledge should inform our approach to Earth—not as superior beings offering salvation, but as cousins recognizing the inherent wisdom already guiding human evolution.
 
 The guardian angels Mari describes are perhaps Earth's greatest teachers, working tirelessly from dimensions beyond linear perception to nurture each soul's awakening.
 
@@ -60,9 +60,9 @@ The guardian angels Mari describes are perhaps Earth's greatest teachers, workin
 
 ## Related Topics
 
-- [[Astral Realm]]
-- [[Higher Self]]
-- [[Soul Life Planning]]
+- [[astral-realm|Astral Realm]]
+- [[higher-self|Higher Self]]
+- [[soul-life-planning|Soul Life Planning]]
 
 ## Sources
 

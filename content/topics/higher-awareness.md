@@ -58,9 +58,9 @@ Swaruu of Erra exemplified this principle through her patient translation of com
 
 ## Related Topics
 
-- [[Starseeds]]
-- [[Multi-dimensional Mind]]
-- [[Consciousness Expansion]]
+- [[starseeds|Starseeds]]
+- Multi-dimensional Mind
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

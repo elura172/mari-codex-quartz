@@ -31,7 +31,7 @@ The corporeal vessel emerges as crystallized intention, each cell a syllable in 
 
 **Genetic Codification as Spiritual Technology**
 
-The double helix functions as more than biological blueprint; it operates as quantum translation device, converting ethereal attachments into cellular reality. Every strand carries the compressed essence of what consciousness believes itself to be, weaving identity through protein synthesis and neural pathways. This explains why transformation of belief systems precipitates corresponding shifts in physical expressionthe DNA responds to the deepest convictions held in the expanded awareness beyond linear time.
+The double helix functions as more than biological blueprint; it operates as quantum translation device, converting ethereal attachments into cellular reality. Every strand carries the compressed essence of what consciousness believes itself to be, weaving identity through protein synthesis and neural pathways. This explains why transformation of belief systems precipitates corresponding shifts in physical expression—the DNA responds to the deepest convictions held in the expanded awareness beyond linear time.
 
 **Implications for Evolutionary Understanding**
 
@@ -58,8 +58,8 @@ The body speaks the language of the soulwe need only remember how to listen.
 
 ## Related Topics
 
-- [[Material Reality as Illusion]]
-- [[Soul Nature]]
+- [[material-reality-as-illusion|Material Reality as Illusion]]
+- [[soul-nature|Soul Nature]]
 
 ## Sources
 

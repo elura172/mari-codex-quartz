@@ -25,7 +25,7 @@ tags:
 
 **Astronomical Origin**
 
-The beings commonly referred to as Shadow People by Earth inhabitants trace their genesis to a world orbiting within the Mensa constellation. This stellar arrangement, positioned in the southern celestial hemisphere near the polar region, remains invisible to observers north of Earth's fifth parallela geographic limitation that perhaps mirrors the elusive nature of these entities themselves.
+The beings commonly referred to as Shadow People by Earth inhabitants trace their genesis to a world orbiting within the Mensa constellation. This stellar arrangement, positioned in the southern celestial hemisphere near the polar region, remains invisible to observers north of Earth's fifth parallel—a geographic limitation that perhaps mirrors the elusive nature of these entities themselves.
 
 Their homeworld circles the star designated NSV 1440 as its second planetary body, suggesting an orbital position that may have fostered the unique dimensional properties these beings exhibit. The Federation's stellar cartography confirms this system as the primary origin point for Shadow People incursions into various dimensional frequencies.
 
@@ -61,7 +61,7 @@ This data serves both as navigational intelligence and as foundation for underst
 
 ## Related Topics
 
-- [[Shadow People as Extraterrestrial Race]]
+- [[shadow-people-as-extraterrestrial-race|Shadow People as Extraterrestrial Race]]
 
 ## Sources
 

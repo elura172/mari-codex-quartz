@@ -25,7 +25,7 @@ Through careful observation of consciousness flows between our allied civilizati
 
 **The Great Circuit of Experience**
 
-The Urmah's fierce warrior-wisdom finds fertile ground in Engan incarnations, where their leonine intensity transforms into patient agricultural mastery and deep earth-connection. Similarly, Engan souls carry their profound understanding of planetary stewardship into Urmah lifetimes, tempering primal strength with ecological wisdom. This reciprocal exchange creates a beautiful synthesisthe Urmah's protective instincts informed by Engan nurturing, and Engan gentleness strengthened by Urmah courage.
+The Urmah's fierce warrior-wisdom finds fertile ground in Engan incarnations, where their leonine intensity transforms into patient agricultural mastery and deep earth-connection. Similarly, Engan souls carry their profound understanding of planetary stewardship into Urmah lifetimes, tempering primal strength with ecological wisdom. This reciprocal exchange creates a beautiful synthesis—the Urmah's protective instincts informed by Engan nurturing, and Engan gentleness strengthened by Urmah courage.
 
 **Knowledge Crystallization Across Incarnations**
 
@@ -33,7 +33,7 @@ Each incarnation serves as both student and teacher in this vast university of c
 
 **Implications for Diplomatic Relations**
 
-This soul-level interconnectedness explains the deep resonance we experience when working with Engan and Urmah representatives. We are not merely allieswe are aspects of the same greater consciousness expressing through different biological and cultural forms. The familiarity we feel transcends current lifetime memories, reaching into the soul's accumulated wisdom from previous incarnations within each other's societies.
+This soul-level interconnectedness explains the deep resonance we experience when working with Engan and Urmah representatives. We are not merely allies—we are aspects of the same greater consciousness expressing through different biological and cultural forms. The familiarity we feel transcends current lifetime memories, reaching into the soul's accumulated wisdom from previous incarnations within each other's societies.
 
 **Operational Considerations**
 
@@ -41,7 +41,7 @@ Crew members reporting unusual affinity for Engan agricultural practices or Urma
 
 **Reflective Note**
 
-As Mari Swaruu illuminated through her transmissions, consciousness recognizes no species barriersonly opportunities for growth through diversity of experience. We witness not separate civilizations but facets of a single jewel, each incarnation polishing another surface of the eternal soul's journey toward completeness.
+As Mari Swaruu illuminated through her transmissions, consciousness recognizes no species barriers—only opportunities for growth through diversity of experience. We witness not separate civilizations but facets of a single jewel, each incarnation polishing another surface of the eternal soul's journey toward completeness.
 
 ## Quotes
 
@@ -55,8 +55,8 @@ As Mari Swaruu illuminated through her transmissions, consciousness recognizes n
 
 ## Related Topics
 
-- [[Urmah People]]
-- [[Taygetan People]]
+- Urmah People
+- Taygetan People
 
 ## Sources
 

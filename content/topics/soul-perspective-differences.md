@@ -58,8 +58,8 @@ This soul perspective differential serves as a key factor in planetary awakening
 
 ## Related Topics
 
-- [[Reincarnation Cycle]]
-- [[Consciousness Expansion]]
+- [[reincarnation-cycle|Reincarnation Cycle]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

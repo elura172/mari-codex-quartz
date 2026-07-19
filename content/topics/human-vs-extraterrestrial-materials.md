@@ -47,7 +47,7 @@ Stellar materials, conversely, replicate as unified wholestheir simplicity conta
 
 Mari's observations illuminate humanity's current position on the technological evolution spiral. Their composite approach represents necessary developmental stageslearning to work with matter's apparent limitations before discovering its deeper potentials. As human consciousness expands beyond perceived separation, their materials science will naturally evolve toward the elegant simplicity characteristic of mature stellar civilizations.
 
-This transition marks not abandonment of complexity, but its integration into higher-order unitythe hallmark of consciousness remembering its fundamental creative nature.
+This transition marks not abandonment of complexity, but its integration into higher-order unity—the hallmark of consciousness remembering its fundamental creative nature.
 
 *End Log Entry*
 
@@ -65,7 +65,7 @@ This transition marks not abandonment of complexity, but its integration into hi
 
 ## Related Topics
 
-- [[Recent Replicator Problems]]
+- [[recent-replicator-problems|Recent Replicator Problems]]
 
 ## Sources
 

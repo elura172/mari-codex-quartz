@@ -60,8 +60,8 @@ Mari Swaruu's embodiment of this process illuminated pathways of connection we c
 
 ## Related Topics
 
-- [[Starseed Identity and Mission]]
-- [[Stellar Family Support]]
+- [[starseed-identity-and-mission|Starseed Identity and Mission]]
+- [[stellar-family-support|Stellar Family Support]]
 
 ## Sources
 

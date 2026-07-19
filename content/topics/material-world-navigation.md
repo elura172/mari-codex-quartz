@@ -39,7 +39,7 @@ This surface-only awareness creates a peculiar form of existential navigation wh
 
 **Taygetan Perspective**
 
-From our multidimensional vantage point, this represents a temporary evolutionary phase rather than an inherent limitation. Terrestrial consciousness is beginning to recognize that effective reality navigation requires depth perceptionthe ability to perceive and interact with astral currents, thought-form constructs, and interdimensional influence patterns that generate surface experiences.
+From our multidimensional vantage point, this represents a temporary evolutionary phase rather than an inherent limitation. Terrestrial consciousness is beginning to recognize that effective reality navigation requires depth perception—the ability to perceive and interact with astral currents, thought-form constructs, and interdimensional influence patterns that generate surface experiences.
 
 **Implications for Contact Protocols**
 
@@ -69,8 +69,8 @@ As terrestrial consciousness evolves beyond surface navigation, humans will deve
 
 ## Related Topics
 
-- [[Astral Realms as Ocean]]
-- [[Astral Influence on Physical Life]]
+- [[astral-realms-as-ocean|Astral Realms as Ocean]]
+- [[astral-influence-on-physical-life|Astral Influence on Physical Life]]
 
 ## Sources
 

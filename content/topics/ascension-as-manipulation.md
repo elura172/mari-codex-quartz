@@ -26,7 +26,7 @@ From our orbital observations and Mari Swaruu's transmissions, a concerning patt
 
 **Mechanism of Manipulation**
 
-This psychological operation mirrors ancient religious control systems, substituting ethereal promises of dimensional elevation for traditional afterlife rewards. The framework deliberately targets individuals experiencing consciousness expansion, precisely when they begin questioning imposed reality constructs. Rather than encouraging active transformation, these teachings promote passive waitinga spiritual anesthesia that neutralizes the revolutionary potential of awakening minds.
+This psychological operation mirrors ancient religious control systems, substituting ethereal promises of dimensional elevation for traditional afterlife rewards. The framework deliberately targets individuals experiencing consciousness expansion, precisely when they begin questioning imposed reality constructs. Rather than encouraging active transformation, these teachings promote passive waiting—a spiritual anesthesia that neutralizes the revolutionary potential of awakening minds.
 
 **Strategic Implementation**
 
@@ -64,8 +64,8 @@ When interfacing with Earth humans discussing ascension concepts, discern betwee
 
 ## Related Topics
 
-- [[New Age Movement Control]]
-- [[Consciousness States]]
+- [[new-age-movement-control|New Age Movement Control]]
+- Consciousness States
 
 ## Sources
 

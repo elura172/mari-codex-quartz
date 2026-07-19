@@ -30,12 +30,12 @@ Twelve and a half millennia past, during the cataclysmic period known as the Tia
 Beneath the sophisticated holographic projections that mask its true nature from surface observers, the artifact presents as a predominantly metallic sphere. The hull lacks the organic complexity it once possessed, stripped of the intricate surface features that would have marked it as a living biosphere. Its resemblance to fictional constructs in Earth's entertainment media is not coincidentalsuch narratives often carry echoes of suppressed galactic memory.
 
 **Metaphysical Implications**
-From our Taygetan understanding of consciousness and matter, this lunar remnant holds profound significance beyond its physical presence. It serves as an anchor point for collective memorya crystallized moment of transformation that continues to influence the energetic matrix surrounding Earth. The vessel's proximity to humanity speaks to deeper currents of galactic interconnection, where even in destruction, purpose persists.
+From our Taygetan understanding of consciousness and matter, this lunar remnant holds profound significance beyond its physical presence. It serves as an anchor point for collective memory—a crystallized moment of transformation that continues to influence the energetic matrix surrounding Earth. The vessel's proximity to humanity speaks to deeper currents of galactic interconnection, where even in destruction, purpose persists.
 
 **Operational Considerations**
 For our diplomatic mission, recognition of the Moon's true nature illuminates the complex layers of Earth's quarantine status. The presence of this Andromedan artifact in such proximity to developing human consciousness represents both opportunity and responsibility. Our colleague Mari Swaruu's transmission of this knowledge reflects the careful balance we must maintain between revelation and protection.
 
-The Moon stands as testament to the fragility and resilience inherent in all spacefaring civilizationsa reminder that even our greatest achievements remain subject to the vast currents of galactic evolution.
+The Moon stands as testament to the fragility and resilience inherent in all spacefaring civilizations—a reminder that even our greatest achievements remain subject to the vast currents of galactic evolution.
 
 *Entry compiled with gratitude for the courage of those who speak truth across the void.*
 
@@ -51,9 +51,9 @@ The Moon stands as testament to the fragility and resilience inherent in all spa
 
 ## Related Topics
 
-- [[Tiamat Wars]]
-- [[Holographic Projectors]]
-- [[Galactic Federation]]
+- [[tiamat-wars|Tiamat Wars]]
+- Holographic Projectors
+- Galactic Federation
 
 ## Sources
 

@@ -36,7 +36,7 @@ Mari's insights reveal that all dualistic concepts exist only in relation to som
 
 **Transcendence Through Understanding**
 
-The evolutionary path leads beyond dualistic consciousness toward unified perception. As awareness expands, the artificial nature of these opposing forces becomes apparent. The conflicts that drive material existencethe endless struggles between perceived oppositesdissolve when consciousness recognizes their constructed nature.
+The evolutionary path leads beyond dualistic consciousness toward unified perception. As awareness expands, the artificial nature of these opposing forces becomes apparent. The conflicts that drive material existence—the endless struggles between perceived oppositesdissolve when consciousness recognizes their constructed nature.
 
 This transcendence does not invalidate the experience of duality but contextualizes it as a temporary framework necessary for certain stages of development. Like training wheels on a child's bicycle, dualistic thinking serves its purpose before being naturally outgrown.
 
@@ -70,8 +70,8 @@ The game of life, with all its apparent contradictions, remains a valid and nece
 
 ## Related Topics
 
-- [[Relativity of Truth]]
-- [[War and Conflict]]
+- [[relativity-of-truth|Relativity of Truth]]
+- [[war-and-conflict|War and Conflict]]
 
 ## Sources
 

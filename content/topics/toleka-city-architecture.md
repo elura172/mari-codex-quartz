@@ -21,7 +21,7 @@ tags:
 
 **Structural Philosophy**
 
-The architectural consciousness of Toleka City embodies a profound understanding that buildings are not mere containers for life, but living extensions of planetary harmony. Each towering structure emerges from the earth like crystallized intent, shaped by the same forces that spiral through seashells and unfurl in forest canopies. The twisted ascension of these spires reflects more than aesthetic choiceit reveals a civilization that has learned to dance with elemental powers rather than resist them.
+The architectural consciousness of Toleka City embodies a profound understanding that buildings are not mere containers for life, but living extensions of planetary harmony. Each towering structure emerges from the earth like crystallized intent, shaped by the same forces that spiral through seashells and unfurl in forest canopies. The twisted ascension of these spires reflects more than aesthetic choice—it reveals a civilization that has learned to dance with elemental powers rather than resist them.
 
 **Biomimetic Engineering**
 
@@ -31,7 +31,7 @@ Each building rises like a fossilized leaf caught in eternal motion, its pointed
 
 **Living Integration**
 
-Perhaps most remarkable is the symbiotic relationship between constructed form and botanical life. The ivy that embraces each building's foundation represents more than decorative choiceit embodies a living covenant between artificial and natural intelligence. These climbing plants serve as the city's breathing apparatus, processing atmospheric elements while creating microenvironments that support both structural integrity and biological diversity.
+Perhaps most remarkable is the symbiotic relationship between constructed form and botanical life. The ivy that embraces each building's foundation represents more than decorative choice—it embodies a living covenant between artificial and natural intelligence. These climbing plants serve as the city's breathing apparatus, processing atmospheric elements while creating microenvironments that support both structural integrity and biological diversity.
 
 This verdant embrace suggests a civilization that has transcended the artificial separation between built and grown environments. The ivy's upward reach mirrors humanity's own aspirational nature, while simultaneously demonstrating how patient, persistent life force can transform even the most imposing structures into collaborative ecosystems.
 
@@ -55,8 +55,8 @@ Through Mari's observations, we witness architecture as conscious expressionbuil
 
 ## Related Topics
 
-- [[Taygetan Culture]]
-- [[Temmer]]
+- Taygetan Culture
+- Temmer
 
 ## Sources
 

@@ -28,7 +28,7 @@ Cyndriel exists as a profound paradox within the Aldebaran systema world that ap
 
 The planet operates on principles that align with our deeper comprehension of reality's malleable nature. Where most worlds host life within familiar biological matrices, Cyndriel presents existence in forms that challenge perception itself. The very sand grains appear to vibrate with intentionality, creating an environment where the observer's consciousness becomes the primary tool of exploration and discovery.
 
-This world exemplifies what Mari Swaruu conveyed through her transmissionsthat enlightenment flourishes not through accumulated knowledge, but through direct interface with reality's underlying frequency patterns. Cyndriel strips away the veils of expectation, revealing how consciousness itself shapes what we perceive as "living" or "lifeless."
+This world exemplifies what Mari Swaruu conveyed through her transmissions—that enlightenment flourishes not through accumulated knowledge, but through direct interface with reality's underlying frequency patterns. Cyndriel strips away the veils of expectation, revealing how consciousness itself shapes what we perceive as "living" or "lifeless."
 
 **Metaphysical Architecture**
 
@@ -58,9 +58,9 @@ Consciousness calibration recommended before orbital approach. Standard life det
 
 ## Related Topics
 
-- [[Aldebaran Star]]
-- [[High Frequency]]
-- [[Taygetan Colony]]
+- [[aldebaran-star|Aldebaran Star]]
+- High Frequency
+- [[taygetan-colony|Taygetan Colony]]
 
 ## Sources
 

@@ -62,8 +62,8 @@ This synthesis of biology, technology, and consciousness offers profound lessons
 
 ## Related Topics
 
-- [[Ethical Concerns]]
-- [[Technological Advancement]]
+- Ethical Concerns
+- Technological Advancement
 
 ## Sources
 

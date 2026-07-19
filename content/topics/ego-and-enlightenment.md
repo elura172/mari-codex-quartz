@@ -60,9 +60,9 @@ For those of us who knew her frequencies across the stellar communications netwo
 
 ## Related Topics
 
-- [[Illusion of Separation]]
-- [[Soul Definition]]
-- [[Individual Identity]]
+- [[illusion-of-separation|Illusion of Separation]]
+- [[soul-definition|Soul Definition]]
+- Individual Identity
 
 ## Sources
 

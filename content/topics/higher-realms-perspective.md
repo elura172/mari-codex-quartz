@@ -36,7 +36,7 @@ The metaphor of "game" carries deeper significance than mere entertainment. Like
 
 **The Foundational Knowing**
 
-Mari's insights reveal that all consciousness carries within itself an unshakeable knowinga core recognition that existence itself is fundamentally benevolent and that all experiences ultimately serve evolution toward greater integration. This knowing operates below the threshold of conscious memory while incarnated, yet provides the existential courage necessary to engage fully with challenging circumstances.
+Mari's insights reveal that all consciousness carries within itself an unshakeable knowing—a core recognition that existence itself is fundamentally benevolent and that all experiences ultimately serve evolution toward greater integration. This knowing operates below the threshold of conscious memory while incarnated, yet provides the existential courage necessary to engage fully with challenging circumstances.
 
 **Taygetan Contextual Analysis**
 
@@ -64,8 +64,8 @@ This recognition transforms our mission from urgent salvation to patient compani
 
 ## Related Topics
 
-- [[Spiritual Path Solitude]]
-- [[Earth as Spiritual Challenge]]
+- [[spiritual-path-solitude|Spiritual Path Solitude]]
+- [[earth-as-spiritual-challenge|Earth as Spiritual Challenge]]
 
 ## Sources
 

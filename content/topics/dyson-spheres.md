@@ -64,7 +64,7 @@ Mari's observations remind us that true galactic citizenship begins with recogni
 
 ## Related Topics
 
-- [[Zero-Point Energy]]
+- [[zero-point-energy|Zero-Point Energy]]
 
 ## Sources
 

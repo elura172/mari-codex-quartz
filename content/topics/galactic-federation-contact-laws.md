@@ -53,8 +53,8 @@ In honoring Mari's dedication to threading this needle with precision and care, 
 
 ## Related Topics
 
-- [[Earth Observation Mission]]
-- [[Channel Information Policy]]
+- [[earth-observation-mission|Earth Observation Mission]]
+- [[channel-information-policy|Channel Information Policy]]
 
 ## Sources
 

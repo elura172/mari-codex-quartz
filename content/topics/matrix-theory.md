@@ -63,8 +63,8 @@ The matrix creates false people, but consciousness creates the matrix. Therein l
 
 ## Related Topics
 
-- [[NPC Behavior Patterns]]
-- [[False People Concept]]
+- [[npc-behavior-patterns|NPC Behavior Patterns]]
+- [[false-people-concept|False People Concept]]
 
 ## Sources
 

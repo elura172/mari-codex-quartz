@@ -62,8 +62,8 @@ For crew members experiencing existential uncertainty during extended missions, 
 
 ## Related Topics
 
-- [[Soul Nature]]
-- [[Vibrational Manifestation]]
+- [[soul-nature|Soul Nature]]
+- [[vibrational-manifestation|Vibrational Manifestation]]
 
 ## Sources
 

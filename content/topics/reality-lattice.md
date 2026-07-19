@@ -45,7 +45,7 @@ For our starship operations, understanding the Reality Lattice provides crucial 
 
 **Consciousness Integration**
 
-Mari's transmissions reveal that conscious entities serve as active variables within the lattice equations. Our thoughts, intentions, and awareness patterns contribute to the mathematical solutions that reality continuously generates. This understanding bridges the apparent gap between objective physics and subjective experienceboth represent different aspects of the same underlying mathematical truth.
+Mari's transmissions reveal that conscious entities serve as active variables within the lattice equations. Our thoughts, intentions, and awareness patterns contribute to the mathematical solutions that reality continuously generates. This understanding bridges the apparent gap between objective physics and subjective experience—both represent different aspects of the same underlying mathematical truth.
 
 The Reality Lattice thus emerges not as a constraint upon existence, but as the creative framework through which infinite possibility crystallizes into experienced reality.
 
@@ -65,9 +65,9 @@ The Reality Lattice thus emerges not as a constraint upon existence, but as the 
 
 ## Related Topics
 
-- [[Portal Technology]]
-- [[Consciousness]]
-- [[Particle Physics]]
+- [[portal-technology|Portal Technology]]
+- Consciousness
+- Particle Physics
 
 ## Sources
 

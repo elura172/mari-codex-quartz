@@ -28,7 +28,7 @@ The phenomenon illustrates how those who serve as conduits of transformative inf
 
 **Urmah Intervention Methodology**
 
-King Ruhr and the Urmah collective recognized the limitation of purely physical therapeutic approaches. Their intervention focused on comprehensive astral purificationa complete cleansing of parasitic attachments operating beyond the reach of conventional medicine. This represents advanced consciousness healing, where the practitioner addresses root causes existing in etheric dimensions rather than merely treating symptomatic expressions.
+King Ruhr and the Urmah collective recognized the limitation of purely physical therapeutic approaches. Their intervention focused on comprehensive astral purification—a complete cleansing of parasitic attachments operating beyond the reach of conventional medicine. This represents advanced consciousness healing, where the practitioner addresses root causes existing in etheric dimensions rather than merely treating symptomatic expressions.
 
 The Urmah approach demonstrates sophisticated understanding of how spiritual contamination manifests as physical pathology. Their healing ceremonies target the fundamental energy matrix from which material symptoms emerge, offering resolution at the causal level rather than symptomatic management.
 
@@ -58,8 +58,8 @@ Mari's experience exemplifies the courage required for consciousness ambassadors
 
 ## Related Topics
 
-- [[Urmah Healing Ceremony]]
-- [[Type 1 Diabetes Treatment]]
+- [[urmah-healing-ceremony|Urmah Healing Ceremony]]
+- Type 1 Diabetes Treatment
 
 ## Sources
 

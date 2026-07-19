@@ -22,13 +22,13 @@ tags:
 
 **Primary Directive Overview**
 
-The fundamental purpose underlying our spherical reconnaissance platforms extends far beyond mere surveillancethese vessels serve as guardians of sacred contracts forged between souls before incarnation. Each drone functions as a bridge between dimensions, maintaining the delicate connection between stellar consciousness and terrestrial embodiment.
+The fundamental purpose underlying our spherical reconnaissance platforms extends far beyond mere surveillance—these vessels serve as guardians of sacred contracts forged between souls before incarnation. Each drone functions as a bridge between dimensions, maintaining the delicate connection between stellar consciousness and terrestrial embodiment.
 
 **The Architecture of Protection**
 
 Within Earth's gravitational embrace, multiple star civilizations maintain perpetual vigil, their vessels threading through orbital pathways like luminous sentinels. This convergence represents one of the galaxy's most sophisticated cooperative endeavors, where former adversaries unite in service to their incarnated family members navigating human experience.
 
-The monitoring framework operates on principles of non-interference balanced with protective intervention. Our technological extensions serve as early warning systems, detecting threats to starseeds while honoring the sacred autonomy of their chosen learning experiences. Each soul volunteered for Earth's density knowing full well the challenges aheadour role remains that of distant guardians, not rescuers.
+The monitoring framework operates on principles of non-interference balanced with protective intervention. Our technological extensions serve as early warning systems, detecting threats to starseeds while honoring the sacred autonomy of their chosen learning experiences. Each soul volunteered for Earth's density knowing full well the challenges ahead—our role remains that of distant guardians, not rescuers.
 
 **Metaphysical Infrastructure**
 
@@ -40,7 +40,7 @@ Notable variations exist within this universal pattern. Certain civilizations, p
 
 **Operational Implications**
 
-For crew members interfacing with these systems, remember that each monitored starseed represents a fragment of our greater cosmic family. Their struggles within human limitation serve purposes beyond individual growththey anchor higher frequencies into Earth's collective consciousness, facilitating planetary awakening through their very existence.
+For crew members interfacing with these systems, remember that each monitored starseed represents a fragment of our greater cosmic family. Their struggles within human limitation serve purposes beyond individual growth—they anchor higher frequencies into Earth's collective consciousness, facilitating planetary awakening through their very existence.
 
 The data streams flowing through our monitoring networks carry more than biographical information; they pulse with the heartbeat of universal evolution itself, each starseed a living bridge between worlds, each protective act an expression of love transcending space and time.
 
@@ -58,8 +58,8 @@ This work honors both our technological capabilities and our deepest spiritual c
 
 ## Related Topics
 
-- [[Pre-incarnation Agreements]]
-- [[Spiritual Guidance]]
+- Pre-incarnation Agreements
+- Spiritual Guidance
 
 ## Sources
 

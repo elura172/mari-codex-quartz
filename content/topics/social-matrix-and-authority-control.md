@@ -61,8 +61,8 @@ Understanding this matrix structure allows us to work with Earth's awakening pop
 
 ## Related Topics
 
-- [[Matrix Escape]]
-- [[Manipulation of Truth]]
+- [[matrix-escape|Matrix Escape]]
+- [[manipulation-of-truth|Manipulation of Truth]]
 
 ## Sources
 

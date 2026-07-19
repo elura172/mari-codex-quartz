@@ -57,8 +57,8 @@ In studying Erra's geography through Mari's transmissions, we observe how planet
 
 ## Related Topics
 
-- [[Erra Ecosystems]]
-- [[Erra Weather Patterns]]
+- [[erra-ecosystems|Erra Ecosystems]]
+- [[erra-weather-patterns|Erra Weather Patterns]]
 
 ## Sources
 

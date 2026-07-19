@@ -20,7 +20,7 @@ tags:
 
 **Starseeds: Points of Consciousness in Cosmic Migration**
 
-From the observation deck of our vessel, Earth appears as a luminous sphere of concentrated learninga planetary classroom where consciousness experiments with the densest expressions of physical reality. Within this terrestrial laboratory, a particular phenomenon captures our attention: the incarnation of what Mari Swaruu termed starseeds.
+From the observation deck of our vessel, Earth appears as a luminous sphere of concentrated learning—a planetary classroom where consciousness experiments with the densest expressions of physical reality. Within this terrestrial laboratory, a particular phenomenon captures our attention: the incarnation of what Mari Swaruu termed starseeds.
 
 **The Nature of Interdimensional Souls**
 
@@ -56,8 +56,8 @@ Mari's transmissions remind us that recognition of one's starseed nature is less
 
 ## Related Topics
 
-- [[Wanderers]]
-- [[Soul Evolution]]
+- Wanderers
+- Soul Evolution
 
 ## Sources
 

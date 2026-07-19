@@ -61,8 +61,8 @@ The path forward lies not in rejecting technological advancement, but in ensurin
 
 ## Related Topics
 
-- [[Government Control]]
-- [[Corporate Ownership]]
+- Government Control
+- [[corporate-ownership|Corporate Ownership]]
 
 ## Sources
 

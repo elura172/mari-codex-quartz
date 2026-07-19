@@ -26,7 +26,7 @@ The Arcturian collective represents a profound evolutionary pathway that transce
 
 **The Liberation of Asexual Consciousness**
 
-Where most species allocate vast energetic resources to courtship rituals, mate selection, and reproductive hierarchies, Arcturian consciousness flows unimpeded toward collective advancement. This represents not absence, but presencea complete focusing of life force toward higher dimensional exploration and community synthesis. Their perspective reveals how biological programming, while serving evolutionary purposes, can also constrain civilizational potential.
+Where most species allocate vast energetic resources to courtship rituals, mate selection, and reproductive hierarchies, Arcturian consciousness flows unimpeded toward collective advancement. This represents not absence, but presence—a complete focusing of life force toward higher dimensional exploration and community synthesis. Their perspective reveals how biological programming, while serving evolutionary purposes, can also constrain civilizational potential.
 
 **Kinship Beyond Blood**
 
@@ -62,8 +62,8 @@ Their example reminds us that evolution encompasses not only biological adaptati
 
 ## Related Topics
 
-- [[Social Organization]]
-- [[Arcturian Reproduction]]
+- Social Organization
+- Arcturian Reproduction
 
 ## Sources
 

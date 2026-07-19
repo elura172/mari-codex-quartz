@@ -22,13 +22,13 @@ tags:
 
 **The Architecture of Assumed Being**
 
-Among the most sophisticated aspects of prolonged terrestrial operations lies the delicate art of identity weavingthe conscious assumption of human behavioral patterns and biographical frameworks that allow our operatives to move seamlessly within Earth's social fabric. This practice represents far more than mere disguise; it constitutes a temporary metamorphosis of consciousness itself.
+Among the most sophisticated aspects of prolonged terrestrial operations lies the delicate art of identity weaving—the conscious assumption of human behavioral patterns and biographical frameworks that allow our operatives to move seamlessly within Earth's social fabric. This practice represents far more than mere disguise; it constitutes a temporary metamorphosis of consciousness itself.
 
 **Fabrication Protocols**
 
 The construction of terrestrial identities follows meticulous preparation phases conducted entirely within our ship environments. Each assumed persona emerges from careful study of human psychological archetypes, regional cultural patterns, and the intricate web of documentation that validates existence within Earth's bureaucratic systems. Our operatives must internalize not merely surface behaviors, but the deeper currents of human emotional response, social expectation, and the unconscious habits that mark authentic membership in terrestrial society.
 
-This process demands extraordinary psychological flexibilitythe ability to temporarily compress one's expanded Taygetan consciousness into the more limited perceptual framework that humans navigate daily. It requires genuine empathy for the human condition, understanding their struggles with linear time, material scarcity, and the veil of forgetting that shapes their earthbound experience.
+This process demands extraordinary psychological flexibility—the ability to temporarily compress one's expanded Taygetan consciousness into the more limited perceptual framework that humans navigate daily. It requires genuine empathy for the human condition, understanding their struggles with linear time, material scarcity, and the veil of forgetting that shapes their earthbound experience.
 
 **Acquisition Through Transition**
 
@@ -56,8 +56,8 @@ Each assumed identity becomes a window through which Taygetan consciousness can 
 
 ## Related Topics
 
-- [[Human Infiltration]]
-- [[Step-down Operations]]
+- Human Infiltration
+- [[step-down-operations|Step-down Operations]]
 
 ## Sources
 

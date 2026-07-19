@@ -29,7 +29,7 @@ The navigation system generates an immersive, high-energy toroidal field that mi
 
 **Frequency Harmonization Protocol**
 
-Navigation occurs through precise frequency matching with the destination's unique vibrational signature. Every location in space-time maintains its own energetic fingerprinta harmonic frequency that defines its existence within the quantum field. By analyzing and replicating these frequencies, the starship essentially becomes the destination itself, collapsing the apparent distance between origin and target coordinates.
+Navigation occurs through precise frequency matching with the destination's unique vibrational signature. Every location in space-time maintains its own energetic fingerprint—a harmonic frequency that defines its existence within the quantum field. By analyzing and replicating these frequencies, the starship essentially becomes the destination itself, collapsing the apparent distance between origin and target coordinates.
 
 **Metaphysical Framework**
 
@@ -43,7 +43,7 @@ The consciousness-field navigation system enables instantaneous travel across va
 
 Crew members must develop heightened awareness of their own consciousness patterns, as individual thought-forms can influence navigational precision. Mental clarity and emotional coherence among the crew enhance system effectiveness, while chaotic mental states may introduce navigational anomalies.
 
-This technology represents more than advanced engineeringit demonstrates the practical application of consciousness as a fundamental force capable of reshaping reality through focused intention and precise energetic alignment.
+This technology represents more than advanced engineering—it demonstrates the practical application of consciousness as a fundamental force capable of reshaping reality through focused intention and precise energetic alignment.
 
 **End Entry**
 
@@ -61,8 +61,8 @@ This technology represents more than advanced engineeringit demonstrates the pra
 
 ## Related Topics
 
-- [[Hyperspace Travel]]
-- [[Time Travel Technology]]
+- [[hyperspace-travel|Hyperspace Travel]]
+- [[time-travel-technology|Time Travel Technology]]
 
 ## Sources
 

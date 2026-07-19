@@ -25,7 +25,7 @@ The Urmah warrior caste operates on a fundamental understanding that most confli
 
 **Tactical Structure**
 
-Urmah military units organize into specialized platoons designed for astral realm deployment. These formations represent more than mere tactical arrangementsthey function as coherent consciousness matrices capable of maintaining operational integrity across dimensional boundaries. Each warrior contributes not only individual combat capability but serves as a resonant node within a larger field of coordinated awareness.
+Urmah military units organize into specialized platoons designed for astral realm deployment. These formations represent more than mere tactical arrangements—they function as coherent consciousness matrices capable of maintaining operational integrity across dimensional boundaries. Each warrior contributes not only individual combat capability but serves as a resonant node within a larger field of coordinated awareness.
 
 **Strategic Methodology**
 
@@ -61,8 +61,8 @@ Mari's transmission of this knowledge serves as both strategic intelligence and 
 
 ## Related Topics
 
-- [[Urmah Astral Mastery]]
-- [[Astral Entities and Demons]]
+- [[urmah-astral-mastery|Urmah Astral Mastery]]
+- Astral Entities and Demons
 
 ## Sources
 

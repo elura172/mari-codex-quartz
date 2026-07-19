@@ -58,8 +58,8 @@ The beauty lies not in the methodology itself, but in consciousness willingly ac
 
 ## Related Topics
 
-- [[Starseeds]]
-- [[Soul Transfer]]
+- [[starseeds|Starseeds]]
+- Soul Transfer
 
 ## Sources
 

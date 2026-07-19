@@ -106,9 +106,9 @@ Our records confirm these principles operating consistently throughout observed 
 
 ## Related Topics
 
-- [[Higher Self Definition]]
-- [[Self-Improvement]]
-- [[Temporal Evolution]]
+- [[higher-self-definition|Higher Self Definition]]
+- [[self-improvement|Self-Improvement]]
+- [[temporal-evolution|Temporal Evolution]]
 
 ## Sources
 

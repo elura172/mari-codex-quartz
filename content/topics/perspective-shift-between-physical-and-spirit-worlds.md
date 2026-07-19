@@ -2084,7 +2084,7 @@ tags:
 
 — Is there an ultimate Truth ? (English)  
 
-> And these can lead to conflictthe conflicts of mere ideas in the mind of Source itself, a conflict of ideas that souls have an unhealthy attachment to, the idea that they are the correct ones, and the others are not.
+> And these can lead to conflict—the conflicts of mere ideas in the mind of Source itself, a conflict of ideas that souls have an unhealthy attachment to, the idea that they are the correct ones, and the others are not.
 
 — Is there an ultimate Truth ? (English)  
 

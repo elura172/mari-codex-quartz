@@ -30,13 +30,13 @@ The calculation of birth dates requires stellar cartographic precision, as Earth
 
 **Sacred Space and Community**
 
-The designation of the red piano room as the ceremonial venue reveals deeper layers of meaning. Located in the vessel's most forward and lowest position, this space occupies a unique gravitational and energetic zone within the ship's architecture. The bow keel area represents both foundation and directionthe structural heart that supports forward movement through space.
+The designation of the red piano room as the ceremonial venue reveals deeper layers of meaning. Located in the vessel's most forward and lowest position, this space occupies a unique gravitational and energetic zone within the ship's architecture. The bow keel area represents both foundation and direction—the structural heart that supports forward movement through space.
 
 The presence of a piano suggests the integration of terrestrial musical traditions alongside celebratory customs, indicating that cultural adoption extends beyond isolated practices into comprehensive artistic appreciation. This fusion creates hybrid expressions of joy that belong neither fully to Earth nor Taygeta, but to the emerging interstellar consciousness.
 
 **Metaphysical Implications**
 
-The selective adoption of birthday celebrations illuminates the Taygetan understanding that consciousness evolution involves recognizing and integrating the highest expressions from encountered civilizations. Rather than cultural appropriation, this represents conscious appreciationthe ability to perceive universal truths embedded within specific cultural forms.
+The selective adoption of birthday celebrations illuminates the Taygetan understanding that consciousness evolution involves recognizing and integrating the highest expressions from encountered civilizations. Rather than cultural appropriation, this represents conscious appreciation—the ability to perceive universal truths embedded within specific cultural forms.
 
 **Operational Protocol**
 
@@ -60,7 +60,7 @@ The tradition continues aboard Taygetan vessels as testament to the universal la
 
 ## Related Topics
 
-- [[Human-Taygetan Relations]]
+- Human-Taygetan Relations
 
 ## Sources
 

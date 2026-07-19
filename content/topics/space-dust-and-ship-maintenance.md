@@ -35,7 +35,7 @@ Extended orbital operations invariably transform vessel appearance from the clea
 
 **Metaphysical Implications**
 
-From a deeper perspective, this accumulation process mirrors the soul's journey through density. Just as our vessels gather the dust of worlds they serve, consciousness itself accumulates experience through interaction with various dimensional frequencies. The apparent "soiling" of pristine surfaces represents not degradation but integrationthe ship literally becoming one with the system it protects and observes.
+From a deeper perspective, this accumulation process mirrors the soul's journey through density. Just as our vessels gather the dust of worlds they serve, consciousness itself accumulates experience through interaction with various dimensional frequencies. The apparent "soiling" of pristine surfaces represents not degradation but integration—the ship literally becoming one with the system it protects and observes.
 
 **Maintenance Protocols and Reflection**
 
@@ -59,7 +59,7 @@ Each weathered hull tells the story of bridges built between worlds, of patient 
 
 ## Related Topics
 
-- [[Starship Technology]]
+- [[starship-technology|Starship Technology]]
 
 ## Sources
 

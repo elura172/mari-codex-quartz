@@ -35,7 +35,7 @@ Many Earth-based manifestation teachings emphasize belief and visualization as s
 
 **Frequency Resonance and Soul Reflection**
 
-The deeper mechanism underlying manifestation operates through vibrational correspondence. Mari teaches that each soul's experiential reality mirrors its internal frequency signature with mathematical precision. This principle explains why external circumstances consistently reflect inner consciousness statesnot as punishment or reward, but as natural harmonic resonance.
+The deeper mechanism underlying manifestation operates through vibrational correspondence. Mari teaches that each soul's experiential reality mirrors its internal frequency signature with mathematical precision. This principle explains why external circumstances consistently reflect inner consciousness states—not as punishment or reward, but as natural harmonic resonance.
 
 When beings align their imaginative capacity with elevated frequency states while simultaneously engaging proactive movement toward their visions, reality restructures itself to accommodate the new vibrational template. The universe responds to authentic soul frequency rather than desperate mental forcing.
 
@@ -68,7 +68,7 @@ Through understanding this synthesis of imagination and action, we honor both ou
 
 ## Related Topics
 
-- [[Dreams and Astral Realms]]
+- [[dreams-and-astral-realms|Dreams and Astral Realms]]
 
 ## Sources
 

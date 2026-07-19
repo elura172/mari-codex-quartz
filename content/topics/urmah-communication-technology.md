@@ -57,8 +57,8 @@ In Mari's memory, we recognize that every barrier becomes a doorway when approac
 
 ## Related Topics
 
-- [[YouTube Channel Plans]]
-- [[Galactic Federation Restrictions]]
+- YouTube Channel Plans
+- Galactic Federation Restrictions
 
 ## Sources
 

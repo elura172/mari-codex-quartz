@@ -58,8 +58,8 @@ Mari's recognition of these limitations paradoxically opened pathways to deeper 
 
 ## Related Topics
 
-- [[Earth Matrix Control]]
-- [[Time Travel Limitations]]
+- [[earth-matrix-control|Earth Matrix Control]]
+- Time Travel Limitations
 
 ## Sources
 

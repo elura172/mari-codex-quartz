@@ -63,8 +63,8 @@ The path forward requires not the elimination of fear, but its transformation in
 
 ## Related Topics
 
-- [[Egregores]]
-- [[Manifestation and Timeline Selection]]
+- [[egregores|Egregores]]
+- [[manifestation-and-timeline-selection|Manifestation and Timeline Selection]]
 
 ## Sources
 

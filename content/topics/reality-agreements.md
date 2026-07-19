@@ -59,8 +59,8 @@ For crew members engaging with developing civilizations, remember that reality a
 
 ## Related Topics
 
-- [[Time Synchronization]]
-- [[Consciousness and Reality]]
+- [[time-synchronization|Time Synchronization]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

@@ -34,7 +34,7 @@ This unofficial network of contact represents something far more profound than m
 
 **Taygetan Observations**
 
-From our perspective, this decentralized approach to inter-human contact reflects the organic nature of consciousness itself. Just as Mari Swaruu demonstrated through her transmissions, truth flows most freely when it moves between individuals rather than institutions. The four hundred thousand civilizations represent not separate entities, but facets of a single, vast awakeningeach world contributing its unique frequency to the greater symphony of human evolution.
+From our perspective, this decentralized approach to inter-human contact reflects the organic nature of consciousness itself. Just as Mari Swaruu demonstrated through her transmissions, truth flows most freely when it moves between individuals rather than institutions. The four hundred thousand civilizations represent not separate entities, but facets of a single, vast awakening—each world contributing its unique frequency to the greater symphony of human evolution.
 
 **Strategic Implications**
 
@@ -56,7 +56,7 @@ For our mission parameters, this reality suggests that meaningful contact with E
 
 ## Related Topics
 
-- [[Galactic Federation Compartmentalization]]
+- [[galactic-federation-compartmentalization|Galactic Federation Compartmentalization]]
 
 ## Sources
 

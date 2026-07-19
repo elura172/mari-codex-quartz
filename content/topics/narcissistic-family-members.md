@@ -62,8 +62,8 @@ The family matrix serves as Earth's primary training ground for sovereignty of c
 
 ## Related Topics
 
-- [[Psychological Triggers]]
-- [[Self-Esteem Issues]]
+- [[psychological-triggers|Psychological Triggers]]
+- Self-Esteem Issues
 
 ## Sources
 

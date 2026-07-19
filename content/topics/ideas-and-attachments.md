@@ -46,7 +46,7 @@ This knowledge carries profound implications for interspecies contact and consci
 
 **Operational Wisdom**
 
-Mari's teachings remind us that compassionate observation of attachment patternsboth our own and those of other beingsserves as a pathway to greater understanding. Each soul's unique configuration of ideas represents Source exploring itself through infinite variations of perspective and experience.
+Mari's teachings remind us that compassionate observation of attachment patterns—both our own and those of other beingsserves as a pathway to greater understanding. Each soul's unique configuration of ideas represents Source exploring itself through infinite variations of perspective and experience.
 
 In our diplomatic missions, this wisdom guides us toward recognizing the sacred nature of each being's chosen limitations while gently illuminating pathways beyond them.
 
@@ -62,8 +62,8 @@ In our diplomatic missions, this wisdom guides us toward recognizing the sacred 
 
 ## Related Topics
 
-- [[Time and Consciousness]]
-- [[Liberation and Enlightenment]]
+- [[time-and-consciousness|Time and Consciousness]]
+- [[liberation-and-enlightenment|Liberation and Enlightenment]]
 
 ## Sources
 

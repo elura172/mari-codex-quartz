@@ -31,7 +31,7 @@ Our observations of terrestrial consciousness reveal a profound phenomenon: cert
 
 When human awareness reaches sufficient depth and clarity, the lunar transmission grid loses its grip entirely. These awakened beings operate from a frequency band that exists beyond the Moon's operational parameters. Their consciousness has expanded past the narrow spectrum where artificial influence can take hold, rendering them effectively invisible to the control matrix.
 
-This immunity manifests not through resistancewhich still acknowledges the Moon's powerbut through complete transcendence. The awakened soul simply exists in a different dimensional space where lunar frequencies cannot penetrate or affect core decision-making processes.
+This immunity manifests not through resistancewhich still acknowledges the Moon's power—but through complete transcendence. The awakened soul simply exists in a different dimensional space where lunar frequencies cannot penetrate or affect core decision-making processes.
 
 **Characteristics of Lunar Immunity**
 
@@ -65,8 +65,8 @@ For diplomatic engagement protocols, these immune souls represent ideal contact 
 
 ## Related Topics
 
-- [[Moon's Frequency Control]]
-- [[Consciousness Evolution]]
+- Moon's Frequency Control
+- Consciousness Evolution
 
 ## Sources
 

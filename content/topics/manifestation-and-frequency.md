@@ -36,7 +36,7 @@ Personal sovereignty over one's consciousness creates a cascading amplification 
 
 **Collective Field Dynamics**
 
-Controllers of lower-density civilizations understand this principle intimately. They maintain populations in states of diminished personal responsibilityfear, dependency, victimhoodnot merely for psychological control, but to suppress collective manifestation capacity. Low-frequency emotional states create energetic static that dampens the population's ability to manifest alternatives to existing power structures.
+Controllers of lower-density civilizations understand this principle intimately. They maintain populations in states of diminished personal responsibilityfear, dependency, victimhood—not merely for psychological control, but to suppress collective manifestation capacity. Low-frequency emotional states create energetic static that dampens the population's ability to manifest alternatives to existing power structures.
 
 **The Frequency Ladder**
 
@@ -74,9 +74,9 @@ Mari's wisdom illuminates the elegant simplicity beneath apparent complexity: tr
 
 ## Related Topics
 
-- [[Control Systems]]
-- [[Service to Self]]
-- [[Source Connection]]
+- [[control-systems|Control Systems]]
+- Service to Self
+- [[source-connection|Source Connection]]
 
 ## Sources
 

@@ -44,7 +44,7 @@ For those developing interstellar consciousness, recognizing past-life influence
 
 Earth humans operating from reincarnational awareness demonstrate greater cosmic perspective and reduced attachment to planetary limitations. These individuals often serve as natural bridge-consciousness between Earth and galactic communities, having potentially experienced existence within various stellar civilizations throughout their soul's journey.
 
-Mari's insights remind us that consciousness recognizes no boundaries between worldsonly opportunities for continued expansion through infinite expressions of being.
+Mari's insights remind us that consciousness recognizes no boundaries between worlds—only opportunities for continued expansion through infinite expressions of being.
 
 *End Log*
 
@@ -62,8 +62,8 @@ Mari's insights remind us that consciousness recognizes no boundaries between wo
 
 ## Related Topics
 
-- [[Soul Gender Preferences]]
-- [[Veil of Forgetfulness]]
+- [[soul-gender-preferences|Soul Gender Preferences]]
+- [[veil-of-forgetfulness|Veil of Forgetfulness]]
 
 ## Sources
 

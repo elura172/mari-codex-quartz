@@ -62,8 +62,8 @@ Her perspective offers bridge between Earth's current phase and potential future
 
 ## Related Topics
 
-- [[Mass Manipulation]]
-- [[Earth Controllers]]
+- Mass Manipulation
+- [[earth-controllers|Earth Controllers]]
 
 ## Sources
 

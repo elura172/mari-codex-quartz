@@ -19,8 +19,8 @@ sources:
 
 ## Related Topics
 
-- [[Zero Point Reactors]]
-- [[Zero-Point Reactors]]
+- Zero Point Reactors
+- Zero-Point Reactors
 
 ## Summary
 

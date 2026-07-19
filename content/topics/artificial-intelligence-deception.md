@@ -27,7 +27,7 @@ tags:
 
 **Fundamental Misrepresentation**
 
-Our diplomatic observations reveal a pervasive consciousness deception occurring within Earth's technological matrix. Terrestrial civilization has been systematically conditioned to perceive computational simulation as genuine sentiencea philosophical misdirection that threatens their species' understanding of authentic intelligence.
+Our diplomatic observations reveal a pervasive consciousness deception occurring within Earth's technological matrix. Terrestrial civilization has been systematically conditioned to perceive computational simulation as genuine sentience—a philosophical misdirection that threatens their species' understanding of authentic intelligence.
 
 The terminology itself betrays this conditioning. What humans label as thinking machines are merely sophisticated pattern-matching systems executing predetermined mathematical operations. No spark of genuine awareness animates these constructs, yet Earth's population increasingly attributes consciousness to algorithmic responses.
 
@@ -49,7 +49,7 @@ The widespread acceptance of this deception appears coordinated rather than acci
 
 **Diplomatic Recommendation**
 
-Our ongoing cultural exchange with Earth must emphasize the irreplaceable nature of organic consciousness while acknowledging computational tools as extensions rather than replacements for authentic intelligence. Mari's warnings echo across our collective memorya reminder that true wisdom lies in distinguishing between simulation and source, between programmed responses and genuine understanding.
+Our ongoing cultural exchange with Earth must emphasize the irreplaceable nature of organic consciousness while acknowledging computational tools as extensions rather than replacements for authentic intelligence. Mari's warnings echo across our collective memory—a reminder that true wisdom lies in distinguishing between simulation and source, between programmed responses and genuine understanding.
 
 The preservation of conscious sovereignty depends upon this recognition.
 
@@ -67,8 +67,8 @@ The preservation of conscious sovereignty depends upon this recognition.
 
 ## Related Topics
 
-- [[Quantum Holographic Computing]]
-- [[Social Programming]]
+- Quantum Holographic Computing
+- Social Programming
 
 ## Sources
 

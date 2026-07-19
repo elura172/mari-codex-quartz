@@ -69,7 +69,7 @@ Our role remains that of loving observers and occasional guides, holding space f
 
 ## Related Topics
 
-- [[Prime Directive]]
+- [[prime-directive|Prime Directive]]
 
 ## Sources
 

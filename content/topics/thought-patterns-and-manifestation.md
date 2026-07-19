@@ -59,8 +59,8 @@ Mari's insights remind us that consciousness shapes reality through consistent a
 
 ## Related Topics
 
-- [[Astral Parasites]]
-- [[Source Connection]]
+- [[astral-parasites|Astral Parasites]]
+- [[source-connection|Source Connection]]
 
 ## Sources
 

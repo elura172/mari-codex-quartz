@@ -95,8 +95,8 @@ The sophisticated portal technologies employed by controlling entities on Earth 
 
 ## Related Topics
 
-- [[Physical Matrix Formation]]
-- [[Perception Filters]]
+- [[physical-matrix-formation|Physical Matrix Formation]]
+- [[perception-filters|Perception Filters]]
 
 ## Sources
 

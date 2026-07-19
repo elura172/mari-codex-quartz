@@ -64,8 +64,8 @@ Mari's insights remind us that advanced society is not achieved through external
 
 ## Related Topics
 
-- [[Earth Influence]]
-- [[Agricultural Treaty with Maya]]
+- Earth Influence
+- Agricultural Treaty with Maya
 
 ## Sources
 

@@ -61,8 +61,8 @@ Understanding these phenomena empowers rather than frightens. Knowledge of manip
 
 ## Related Topics
 
-- [[Astral Beings]]
-- [[Shape-shifting Abilities]]
+- [[astral-beings|Astral Beings]]
+- [[shape-shifting-abilities|Shape-shifting Abilities]]
 
 ## Sources
 

@@ -44,7 +44,7 @@ For interstellar relations, this principle holds profound significance. Species 
 
 Crew members engaging with Earth-based populations should recognize enlightenment as humanity's evolutionary trajectory rather than individual achievement. Support consciousness expansion through modeling unified awareness, avoiding reinforcement of separation-based thinking patterns. Remember that each human encounter offers opportunity for demonstrating the practical wisdom that emerges from dissolved ego-boundaries.
 
-The starship's mission extends beyond observationwe serve as living examples of consciousness evolution, radiating the possibility that awaits when artificial separation yields to recognized unity.
+The starship's mission extends beyond observation—we serve as living examples of consciousness evolution, radiating the possibility that awaits when artificial separation yields to recognized unity.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ The starship's mission extends beyond observationwe serve as living examples of 
 
 ## Related Topics
 
-- [[Spiritual Path]]
-- [[Meditation and Mindfulness]]
+- Spiritual Path
+- Meditation and Mindfulness
 
 ## Sources
 

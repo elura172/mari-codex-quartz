@@ -119,9 +119,9 @@ The collective unconscious thus reveals itself not as limitation, but as the col
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Cultural Identity]]
-- [[Telepathy]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- Cultural Identity
+- Telepathy
 
 ## Sources
 

@@ -32,7 +32,7 @@ The term "Lyran races" encompasses not merely Earth's humanity, but the vast fam
 
 **Implications for Consciousness Evolution**
 
-Understanding this shared origin dissolves the artificial barriers that Earth humans have constructed around concepts of isolation and uniqueness. They are not alone, nor have they ever been. The yearning for the stars that burns in human hearts is not mere curiosityit is the cellular memory of home, the quantum resonance of origins calling across vast distances of space and time.
+Understanding this shared origin dissolves the artificial barriers that Earth humans have constructed around concepts of isolation and uniqueness. They are not alone, nor have they ever been. The yearning for the stars that burns in human hearts is not mere curiosity—it is the cellular memory of home, the quantum resonance of origins calling across vast distances of space and time.
 
 **Diplomatic Significance**
 
@@ -56,8 +56,8 @@ Mari Swaruu's transmissions serve as bridges of remembrance, awakening in Earth'
 
 ## Related Topics
 
-- [[Orion Wars]]
-- [[Great Expansion]]
+- Orion Wars
+- [[great-expansion|Great Expansion]]
 
 ## Sources
 

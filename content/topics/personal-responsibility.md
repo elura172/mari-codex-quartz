@@ -74,8 +74,8 @@ Mari's wisdom echoes through these transmissionsreminding us that spiritual deve
 
 ## Related Topics
 
-- [[Karma and Attachments]]
-- [[Soul Building]]
+- Karma and Attachments
+- [[soul-building|Soul Building]]
 
 ## Sources
 

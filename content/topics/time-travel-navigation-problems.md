@@ -56,8 +56,8 @@ Mari's insights remind us that time travel serves consciousness evolution rather
 
 ## Related Topics
 
-- [[False Past and Historical Manipulation]]
-- [[Stellar Technology]]
+- [[false-past-and-historical-manipulation|False Past and Historical Manipulation]]
+- Stellar Technology
 
 ## Sources
 

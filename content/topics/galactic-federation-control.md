@@ -39,7 +39,7 @@ The Federation's influence permeates Earth through multiple nested layers of con
 
 **Technological Integration**
 
-This control manifests through what Mari describes as a super-informational networkan interstellar internet connecting Federation member civilizations. This technological umbilical cord enables real-time coordination of planetary management protocols while maintaining the illusion of local autonomy. Earth exists as a quarantined node within this network, its isolation serving both containment and control functions.
+This control manifests through what Mari describes as a super-informational network—an interstellar internet connecting Federation member civilizations. This technological umbilical cord enables real-time coordination of planetary management protocols while maintaining the illusion of local autonomy. Earth exists as a quarantined node within this network, its isolation serving both containment and control functions.
 
 **Resistance Dynamics**
 
@@ -111,8 +111,8 @@ Mari's documentation suggests we witness not merely political control but consci
 
 ## Related Topics
 
-- [[Historical Manipulation by Victors]]
-- [[Civilization Resets]]
+- Historical Manipulation by Victors
+- Civilization Resets
 
 ## Sources
 

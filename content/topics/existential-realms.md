@@ -38,7 +38,7 @@ From our Taygetan perspective, understanding this principle proves essential for
 
 **Consciousness as Reality Generator**
 
-Mari's most profound insight transcends traditional subject-object relationships: consciousness does not merely inhabit an existential realmit actively becomes the realm it experiences. This recognition dissolves the illusion that awareness passively observes external realities. Instead, each consciousness serves as both creator and creation, simultaneously generating and experiencing its chosen vibrational environment.
+Mari's most profound insight transcends traditional subject-object relationships: consciousness does not merely inhabit an existential realm—it actively becomes the realm it experiences. This recognition dissolves the illusion that awareness passively observes external realities. Instead, each consciousness serves as both creator and creation, simultaneously generating and experiencing its chosen vibrational environment.
 
 This understanding carries practical implications for our diplomatic missions. When engaging with planetary civilizations, we encounter not merely different beings within similar realities, but entirely different reality-generating systems. Each species literally inhabits the existential realm their collective consciousness produces.
 
@@ -64,8 +64,8 @@ Mari's wisdom reminds us that expansion of awareness naturally dissolves artific
 
 ## Related Topics
 
-- [[Lower Astral Entities]]
-- [[Material World]]
+- [[lower-astral-entities|Lower Astral Entities]]
+- Material World
 
 ## Sources
 

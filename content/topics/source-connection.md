@@ -75,8 +75,8 @@ Mari Swaruu's transmissions illuminate these principles with characteristic prec
 
 ## Related Topics
 
-- [[Thought Patterns and Manifestation]]
-- [[Spiritual Awakening]]
+- [[thought-patterns-and-manifestation|Thought Patterns and Manifestation]]
+- [[spiritual-awakening|Spiritual Awakening]]
 
 ## Sources
 

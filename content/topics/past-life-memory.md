@@ -69,8 +69,8 @@ Our sister Mari's insights illuminate why truth disclosure must proceed carefull
 
 ## Related Topics
 
-- [[Mari's Identity]]
-- [[Matrix Control]]
+- [[maris-identity|Mari's Identity]]
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

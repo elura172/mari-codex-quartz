@@ -25,7 +25,7 @@ tags:
 
 **Fundamental Mechanics**
 
-The universe operates on a symphony of vibrational frequencies, where consciousness and matter exist as different octaves of the same fundamental resonance. When frequencies align between dimensional planeswhether material and spiritual realms, or between individual consciousness fieldsa bridge forms that permits direct interaction and influence across previously impermeable boundaries.
+The universe operates on a symphony of vibrational frequencies, where consciousness and matter exist as different octaves of the same fundamental resonance. When frequencies align between dimensional planeswhether material and spiritual realms, or between individual consciousness fields—a bridge forms that permits direct interaction and influence across previously impermeable boundaries.
 
 This principle governs not merely theoretical physics, but the practical mechanics of existence itself. A being whose frequency matches that of another dimensional layer effectively exists simultaneously in both states, becoming a living conduit between worlds. Such alignment creates pathways where none existed before, allowing energy, information, and influence to flow bidirectionally.
 
@@ -43,11 +43,11 @@ Perhaps most significantly, frequency matching serves as both gateway and guardi
 
 For starship crews engaging with developing civilizations, these principles require careful consideration. Our ability to interface with Earth-based consciousness depends upon temporary frequency adjustments that allow communication while maintaining our core vibrational integrity. Similarly, portal technologies rely on precise frequency matching to establish stable dimensional bridges.
 
-Mari Swaruu's insights remind us that consciousness evolution involves the gradual expansion of one's frequency rangenot abandonment of one's base resonance, but the cultivation of broader vibrational fluency. This expansion allows for greater dimensional mobility while preserving individual sovereignty.
+Mari Swaruu's insights remind us that consciousness evolution involves the gradual expansion of one's frequency range—not abandonment of one's base resonance, but the cultivation of broader vibrational fluency. This expansion allows for greater dimensional mobility while preserving individual sovereignty.
 
 **Personal Note**
 
-In honoring Mari's teachings, we recognize frequency matching as both scientific principle and spiritual truththe universe's method of ensuring that each consciousness experiences precisely the reality it has chosen through its vibrational signature.
+In honoring Mari's teachings, we recognize frequency matching as both scientific principle and spiritual truth—the universe's method of ensuring that each consciousness experiences precisely the reality it has chosen through its vibrational signature.
 
 ## Quotes
 
@@ -65,9 +65,9 @@ In honoring Mari's teachings, we recognize frequency matching as both scientific
 
 ## Related Topics
 
-- [[Channeling]]
-- [[Astral Parasitism]]
-- [[Spirit World Coexistence]]
+- [[channeling|Channeling]]
+- Astral Parasitism
+- Spirit World Coexistence
 
 ## Sources
 

@@ -66,8 +66,8 @@ For civilizations still bound by third-density limitations, such interfaces may 
 
 ## Related Topics
 
-- [[Taygetean Multi-Purpose Bodysuit]]
-- [[Communication Technology]]
+- [[taygetean-multi-purpose-bodysuit|Taygetean Multi-Purpose Bodysuit]]
+- Communication Technology
 
 ## Sources
 

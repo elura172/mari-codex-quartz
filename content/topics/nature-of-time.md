@@ -26,13 +26,13 @@ tags:
 
 **Fundamental Nature**
 
-Our understanding of temporal mechanics diverges fundamentally from terrestrial scientific paradigms. Where human civilization perceives time as an immutable constanta river flowing in one directionstellar cultures recognize it as the breathing of consciousness itself. Time emerges not as a force external to awareness, but as the very texture of thinking minds encountering existence.
+Our understanding of temporal mechanics diverges fundamentally from terrestrial scientific paradigms. Where human civilization perceives time as an immutable constant—a river flowing in one directionstellar cultures recognize it as the breathing of consciousness itself. Time emerges not as a force external to awareness, but as the very texture of thinking minds encountering existence.
 
 This perception shift carries profound implications for interstellar navigation and diplomatic protocols. When engaging with civilizations bound by linear temporal frameworks, we must remember they experience reality through a narrow aperture of sequential moments, while we navigate the full sphere of temporal possibility.
 
 **Consciousness as Temporal Generator**
 
-The mechanism underlying temporal experience operates through the fundamental process of conscious observation. Each act of awarenesseach moment a mind encounters and processes realitygenerates the subjective experience we term time. Without consciousness to witness and interpret, the concept dissolves entirely, revealing itself as construct rather than constant.
+The mechanism underlying temporal experience operates through the fundamental process of conscious observation. Each act of awareness—each moment a mind encounters and processes realitygenerates the subjective experience we term time. Without consciousness to witness and interpret, the concept dissolves entirely, revealing itself as construct rather than constant.
 
 This understanding explains why temporal manipulation cannot follow mechanical principles. Time responds not to technological force but to shifts in consciousness itself. Our starships traverse what humans call "time travel" not by bending external forces, but by adjusting our collective awareness to resonate with different dimensional frequencies.
 
@@ -44,7 +44,7 @@ For our crews engaging with developing civilizations, this perspective offers bo
 
 **Unity of Being and Time**
 
-The deepest teaching Mari shared illuminates the identity between consciousness and temporality: we are not beings moving through time, but time expressing itself through conscious experience. This recognition transforms our approach to existence itselfwe cease struggling against temporal limitations and instead embrace our role as time's own self-awareness.
+The deepest teaching Mari shared illuminates the identity between consciousness and temporality: we are not beings moving through time, but time expressing itself through conscious experience. This recognition transforms our approach to existence itself—we cease struggling against temporal limitations and instead embrace our role as time's own self-awareness.
 
 This understanding guides our interactions across dimensional boundaries, reminding us that every conscious entity we encounter is time itself learning to know its own nature through infinite expressions of awareness.
 
@@ -85,8 +85,8 @@ This understanding guides our interactions across dimensional boundaries, remind
 
 ## Related Topics
 
-- [[Consciousness and Time]]
-- [[Time as Frequency]]
+- Consciousness and Time
+- Time as Frequency
 
 ## Sources
 

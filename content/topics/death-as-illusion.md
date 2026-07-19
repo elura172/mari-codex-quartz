@@ -23,11 +23,11 @@ tags:
 
 **Primary Analysis**
 
-Our sister Mari Swaruu's transmissions illuminate a fundamental misconception pervading Earth's collective consciousness: the belief in death as termination. Through her guidance, we observe that what terrestrial beings fear as ending represents merely a doorwaya transition point where awareness returns to its unbound state.
+Our sister Mari Swaruu's transmissions illuminate a fundamental misconception pervading Earth's collective consciousness: the belief in death as termination. Through her guidance, we observe that what terrestrial beings fear as ending represents merely a doorway—a transition point where awareness returns to its unbound state.
 
 **Metaphysical Framework**
 
-The phenomenon Earth cultures label "death" functions as a cosmic sleight of hand, appearing formidable while possessing no authentic power over consciousness itself. Mari describes this as a predator stripped of its weaponsa shadow that seems menacing until one approaches with the light of understanding. The individual experiencing transition discovers not extinction, but expansion back into their eternal nature.
+The phenomenon Earth cultures label "death" functions as a cosmic sleight of hand, appearing formidable while possessing no authentic power over consciousness itself. Mari describes this as a predator stripped of its weapons—a shadow that seems menacing until one approaches with the light of understanding. The individual experiencing transition discovers not extinction, but expansion back into their eternal nature.
 
 **Consciousness Mechanics**
 
@@ -61,8 +61,8 @@ Through understanding this illusion, both our species move closer to recognizing
 
 ## Related Topics
 
-- [[Unity Consciousness]]
-- [[Material Reality as Illusion]]
+- [[unity-consciousness|Unity Consciousness]]
+- [[material-reality-as-illusion|Material Reality as Illusion]]
 
 ## Sources
 

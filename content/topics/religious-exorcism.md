@@ -64,8 +64,8 @@ Understanding this dynamic enhances our appreciation for humanity's intuitive de
 
 ## Related Topics
 
-- [[Lower Astral Entities]]
-- [[Religious Truth Distortion]]
+- [[lower-astral-entities|Lower Astral Entities]]
+- Religious Truth Distortion
 
 ## Sources
 

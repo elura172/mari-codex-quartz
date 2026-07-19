@@ -61,7 +61,7 @@ The Arcturian presence reminds us that evolution unfolds through infinite expres
 
 ## Related Topics
 
-- [[Arcturian Physical Appearance]]
+- [[arcturian-physical-appearance|Arcturian Physical Appearance]]
 
 ## Sources
 

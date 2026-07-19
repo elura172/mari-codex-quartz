@@ -60,8 +60,8 @@ Through her voice, we remember that all exploration, whether through physical li
 
 ## Related Topics
 
-- [[Perception Filters]]
-- [[Consciousness and Reality]]
+- [[perception-filters|Perception Filters]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

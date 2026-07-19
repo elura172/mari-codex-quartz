@@ -63,8 +63,8 @@ This manipulation technique reveals the entities' fundamental weakness: they can
 
 ## Related Topics
 
-- [[Substance Abuse and Spirit Attachment]]
-- [[Astral Entity Attachments]]
+- [[substance-abuse-and-spirit-attachment|Substance Abuse and Spirit Attachment]]
+- [[astral-entity-attachments|Astral Entity Attachments]]
 
 ## Sources
 

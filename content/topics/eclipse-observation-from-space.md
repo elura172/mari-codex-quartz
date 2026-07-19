@@ -25,7 +25,7 @@ During the Earth solar eclipse event of April 10, 2024, starship Toleka maintain
 
 **Observational Experience and Technical Challenges**
 
-The eclipse presented an extraordinary spectacle from our elevated perspective, offering a three-dimensional understanding impossible from planetary surface observation. The lunar shadow's progression across Earth's surface created a moving tapestry of darknessa cosmic dance visible in its entirety from our vantage point. This dynamic shadow demonstrated the intricate mechanics of celestial bodies in motion, each following their predetermined paths through space-time.
+The eclipse presented an extraordinary spectacle from our elevated perspective, offering a three-dimensional understanding impossible from planetary surface observation. The lunar shadow's progression across Earth's surface created a moving tapestry of darkness—a cosmic dance visible in its entirety from our vantage point. This dynamic shadow demonstrated the intricate mechanics of celestial bodies in motion, each following their predetermined paths through space-time.
 
 However, the observation session revealed operational limitations within Toleka's viewing facilities. Technical difficulties with the observation room systems reminded our crew that even advanced technology requires careful maintenance and calibration, particularly when documenting events of scientific significance.
 
@@ -57,8 +57,8 @@ These moments of cosmic alignment serve as reminders of our interconnectedness a
 
 ## Related Topics
 
-- [[Starship Operations]]
-- [[Astral Realms]]
+- [[starship-operations|Starship Operations]]
+- [[astral-realms|Astral Realms]]
 
 ## Sources
 

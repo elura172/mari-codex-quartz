@@ -38,7 +38,7 @@ The manipulation architecture operates through a trinity of influence: intellige
 
 **Infiltration Methodology**
 
-Rather than suppressing spiritual inquirywhich historically generates resistancethe controlling interests have adopted a parasitic approach. They embed within existing movements, guide the formation of new organizations, and in some cases architect entire spiritual communities from inception. This creates the illusion of grassroots awakening while maintaining directional control over the narrative trajectory.
+Rather than suppressing spiritual inquirywhich historically generates resistance—the controlling interests have adopted a parasitic approach. They embed within existing movements, guide the formation of new organizations, and in some cases architect entire spiritual communities from inception. This creates the illusion of grassroots awakening while maintaining directional control over the narrative trajectory.
 
 **The Corner-Promise Phenomenon**
 
@@ -78,7 +78,7 @@ Mari's observations remind us that consciousness liberation cannot be commodifie
 
 ## Related Topics
 
-- [[Ascension as Manipulation]]
+- [[ascension-as-manipulation|Ascension as Manipulation]]
 
 ## Sources
 

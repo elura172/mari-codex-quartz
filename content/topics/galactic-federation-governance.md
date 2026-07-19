@@ -60,8 +60,8 @@ Mari Swaruu's transmissions illuminate these dynamics with crystalline clarity, 
 
 ## Related Topics
 
-- [[Earth Matrix]]
-- [[Soul Contracts]]
+- [[earth-matrix|Earth Matrix]]
+- [[soul-contracts|Soul Contracts]]
 
 ## Sources
 

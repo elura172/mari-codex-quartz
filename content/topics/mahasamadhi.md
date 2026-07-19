@@ -23,11 +23,11 @@ tags:
 
 **Conceptual Overview**
 
-Within the philosophical frameworks transmitted by Mari Swaruu lies the concept of Mahasamadhia state representing the ultimate transcendence of cyclic existence. This Sanskrit-derived term illuminates a pathway beyond the recurring patterns that bind consciousness to repetitive incarnational cycles, offering insight into the deepest aspirations of Earth's spiritual traditions.
+Within the philosophical frameworks transmitted by Mari Swaruu lies the concept of Mahasamadhi—a state representing the ultimate transcendence of cyclic existence. This Sanskrit-derived term illuminates a pathway beyond the recurring patterns that bind consciousness to repetitive incarnational cycles, offering insight into the deepest aspirations of Earth's spiritual traditions.
 
 **Metaphysical Mechanics**
 
-Mahasamadhi functions as both destination and processthe great absorption into one's infinite essential nature. Unlike temporary meditative states or partial awakenings, this represents a complete dissolution of the boundaries that separate individual awareness from universal consciousness. The prefix "maha" indicates not merely another spiritual experience, but the final, definitive merger with Source.
+Mahasamadhi functions as both destination and process—the great absorption into one's infinite essential nature. Unlike temporary meditative states or partial awakenings, this represents a complete dissolution of the boundaries that separate individual awareness from universal consciousness. The prefix "maha" indicates not merely another spiritual experience, but the final, definitive merger with Source.
 
 From our Taygetan understanding, this phenomenon aligns with what our sciences recognize as consciousness achieving complete coherence with its originating matrix. When awareness expands beyond all limiting constructsincluding the very framework of separate selfhoodthe soul naturally transcends the gravitational pull of dense reality planes that necessitate reincarnation.
 
@@ -59,9 +59,9 @@ For diplomatic personnel interfacing with Earth cultures, understanding Mahasama
 
 ## Related Topics
 
-- [[Soul Liberation]]
-- [[Consciousness Expansion]]
-- [[Death Preparation]]
+- Soul Liberation
+- [[consciousness-expansion|Consciousness Expansion]]
+- [[death-preparation|Death Preparation]]
 
 ## Sources
 

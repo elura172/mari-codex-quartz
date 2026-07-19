@@ -68,8 +68,8 @@ Mari's observations remind us that authentic progress emerges not from forced un
 
 ## Related Topics
 
-- [[Alfratan Spacecraft Incidents]]
-- [[Andromedan Biosphere Viera]]
+- [[alfratan-spacecraft-incidents|Alfratan Spacecraft Incidents]]
+- Andromedan Biosphere Viera
 
 ## Sources
 

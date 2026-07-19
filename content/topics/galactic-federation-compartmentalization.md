@@ -58,8 +58,8 @@ Our diplomatic protocols should prioritize direct civilization-to-civilization c
 
 ## Related Topics
 
-- [[Human-Lyran Civilizations]]
-- [[Yahyel Society Analysis]]
+- [[human-lyran-civilizations|Human-Lyran Civilizations]]
+- [[yahyel-society-analysis|Yahyel Society Analysis]]
 
 ## Sources
 

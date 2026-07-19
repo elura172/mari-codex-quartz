@@ -42,7 +42,7 @@ For diplomatic protocols, this understanding suggests that our role involves pri
 
 **Synthesis Observation**
 
-Mari's teachings illuminate the paradox of empowerment: true assistance comes through helping others recognize their own inherent capability rather than creating new dependencies. The cavalry metaphor dissolves into self-recognitioneach person discovering they already possess everything necessary for the changes they seek.
+Mari's teachings illuminate the paradox of empowerment: true assistance comes through helping others recognize their own inherent capability rather than creating new dependencies. The cavalry metaphor dissolves into self-recognition—each person discovering they already possess everything necessary for the changes they seek.
 
 This principle extends beyond Earth's current transition, representing a universal pattern observable across all worlds experiencing consciousness evolution. The path forward requires courage to accept complete responsibility for one's experienced reality, transforming from passive recipient to active creator of planetary conditions.
 
@@ -62,8 +62,8 @@ This principle extends beyond Earth's current transition, representing a univers
 
 ## Related Topics
 
-- [[Star Seed Identity]]
-- [[Matrix Non-Compliance]]
+- [[starseed-identity|Star Seed Identity]]
+- [[matrix-non-compliance|Matrix Non-Compliance]]
 
 ## Sources
 

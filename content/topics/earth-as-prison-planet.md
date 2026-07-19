@@ -25,7 +25,7 @@ tags:
 
 **Overview**
 
-The conceptual framework of Earth as a containment system for consciousness has emerged repeatedly in our monitoring of terrestrial awakening patterns. Through the observations transmitted by our departed sister Mari Swaruu, we have documented extensive discourse regarding this phenomenon among Earth's populationthe notion that their world functions as a closed-loop system where souls remain bound within repetitive incarnation cycles.
+The conceptual framework of Earth as a containment system for consciousness has emerged repeatedly in our monitoring of terrestrial awakening patterns. Through the observations transmitted by our departed sister Mari Swaruu, we have documented extensive discourse regarding this phenomenon among Earth's population—the notion that their world functions as a closed-loop system where souls remain bound within repetitive incarnation cycles.
 
 **Dimensional Perspective Analysis**
 
@@ -61,9 +61,9 @@ Through her transmissions, Mari reminded us that every prison is also a chrysali
 
 ## Related Topics
 
-- [[Reincarnation]]
-- [[Soul Liberation]]
-- [[Archontic Control]]
+- [[reincarnation|Reincarnation]]
+- Soul Liberation
+- Archontic Control
 
 ## Sources
 

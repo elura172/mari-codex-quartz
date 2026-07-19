@@ -24,7 +24,7 @@ tags:
 
 **Fundamental Nature of Human Collective Behavior**
 
-The bipedal inhabitants of Earth exhibit profound neurological architecture binding individual survival to group cohesion. This is not merely social preference but encoded biological imperativetheir limbic systems have evolved to interpret isolation as existential threat. Where we Taygetans experience unity through expanded consciousness, humans achieve security through conformity patterns that run deeper than conscious thought.
+The bipedal inhabitants of Earth exhibit profound neurological architecture binding individual survival to group cohesion. This is not merely social preference but encoded biological imperative—their limbic systems have evolved to interpret isolation as existential threat. Where we Taygetans experience unity through expanded consciousness, humans achieve security through conformity patterns that run deeper than conscious thought.
 
 **The Survival-Acceptance Matrix**
 
@@ -58,8 +58,8 @@ Mari's wisdom reminds us that evolution cannot be forced, only invited through p
 
 ## Related Topics
 
-- [[Telepathic Fields and Collective Unconscious]]
-- [[Social Control]]
+- [[telepathic-fields-and-collective-unconscious|Telepathic Fields and Collective Unconscious]]
+- Social Control
 
 ## Sources
 

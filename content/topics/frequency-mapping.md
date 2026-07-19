@@ -67,8 +67,8 @@ Through Mari's wisdom, we recognize frequency mapping as both practical necessit
 
 ## Related Topics
 
-- [[Advanced Computer Systems]]
-- [[Consciousness and Gravity Theory]]
+- Advanced Computer Systems
+- [[consciousness-and-gravity-theory|Consciousness and Gravity Theory]]
 
 ## Sources
 

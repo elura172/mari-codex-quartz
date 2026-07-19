@@ -64,8 +64,8 @@ Mari's insights illuminate how recognition of this dynamic transforms victimhood
 
 ## Related Topics
 
-- [[Astral Warriors]]
-- [[Government Astral Warfare Programs]]
+- [[astral-warriors|Astral Warriors]]
+- [[government-astral-warfare-programs|Government Astral Warfare Programs]]
 
 ## Sources
 

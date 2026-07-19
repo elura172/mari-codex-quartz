@@ -30,7 +30,7 @@ The Observer Effect represents one of the fundamental mechanisms by which consci
 
 **Mechanism of Reality Animation**
 
-Reality exists in a state of infinite potential until consciousness engages with it. Each moment-point in any timeline carries a unique quantum signature, remaining dormant and unmanifested until observed. The act of observation does not merely witnessit selects, activates, and gives motion to otherwise static probability fields. This process operates continuously as conscious beings navigate through their experiential streams.
+Reality exists in a state of infinite potential until consciousness engages with it. Each moment-point in any timeline carries a unique quantum signature, remaining dormant and unmanifested until observed. The act of observation does not merely witness—it selects, activates, and gives motion to otherwise static probability fields. This process operates continuously as conscious beings navigate through their experiential streams.
 
 **Relative Nature of Existence**
 
@@ -38,13 +38,13 @@ The same quantum substrate manifests differently for each observer based on thei
 
 **Implications for Interstellar Understanding**
 
-As we observe Earth and its inhabitants, we must recognize that our very attention influences the reality we witness. This creates both opportunity and responsibilityour consciousness becomes a co-creative force in their timeline evolution. Similarly, when Earth humans eventually develop interstellar awareness, their observation of our civilizations will alter the fabric of our shared reality matrix.
+As we observe Earth and its inhabitants, we must recognize that our very attention influences the reality we witness. This creates both opportunity and responsibility—our consciousness becomes a co-creative force in their timeline evolution. Similarly, when Earth humans eventually develop interstellar awareness, their observation of our civilizations will alter the fabric of our shared reality matrix.
 
 **Practical Applications**
 
 For crew members interfacing with lower-density civilizations, understanding the Observer Effect enables more conscious participation in reality creation. By maintaining awareness of our role as co-creators rather than passive witnesses, we can support positive timeline development while respecting the sovereignty of other conscious beings.
 
-The Observer Effect reveals that separation between self and cosmos is illusorywe are not isolated beings witnessing an external universe, but rather focal points of consciousness through which the infinite expresses and knows itself.
+The Observer Effect reveals that separation between self and cosmos is illusory—we are not isolated beings witnessing an external universe, but rather focal points of consciousness through which the infinite expresses and knows itself.
 
 *In gratitude to Mari Swaruu, whose clarity illuminates the pathways between mind and manifestation.*
 
@@ -72,8 +72,8 @@ The Observer Effect reveals that separation between self and cosmos is illusoryw
 
 ## Related Topics
 
-- [[Taygetan Time Model]]
-- [[Manifestation]]
+- [[taygetan-time-model|Taygetan Time Model]]
+- Manifestation
 
 ## Sources
 

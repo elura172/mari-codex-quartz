@@ -28,7 +28,7 @@ tags:
 
 The Federation's structural integrity has been compromised through infiltration patterns that mirror ancient power dynamics observed across multiple civilizations. These shadow elements do not operate through direct command protocols, but rather through intermediary networkspuppet strings stretched across dimensional boundaries to control planetary governance systems.
 
-On Earth, this manifests through what Mari identified as proxy administration: the terrestrial cabal serves as an operational arm for unnamed Federation entities who prefer the shadows of plausible deniability. The architecture is deliberately obscured, creating layers of separation between decision-makers and consequencesa cosmic shell game where accountability dissolves into bureaucratic mist.
+On Earth, this manifests through what Mari identified as proxy administration: the terrestrial cabal serves as an operational arm for unnamed Federation entities who prefer the shadows of plausible deniability. The architecture is deliberately obscured, creating layers of separation between decision-makers and consequences—a cosmic shell game where accountability dissolves into bureaucratic mist.
 
 **The Corruption Paradox**
 
@@ -38,7 +38,7 @@ The treacherous elements Mari referenced operate through consciousness manipulat
 
 **Implications for Stellar Consciousness**
 
-From our Taygetan perspective, this corruption represents more than political dysfunctionit signals a fundamental disconnection from the unified field of cosmic consciousness. When service-to-others orientation degrades into service-to-self, the very fabric of interstellar cooperation begins to fray.
+From our Taygetan perspective, this corruption represents more than political dysfunction—it signals a fundamental disconnection from the unified field of cosmic consciousness. When service-to-others orientation degrades into service-to-self, the very fabric of interstellar cooperation begins to fray.
 
 Mari's revelations illuminate why certain Federation policies have felt misaligned with higher dimensional wisdom. The shadow networks create interference patterns that distort the natural flow of evolutionary assistance between worlds.
 
@@ -46,7 +46,7 @@ Mari's revelations illuminate why certain Federation policies have felt misalign
 
 The solution Mari advocated requires surgical precision: identifying and exposing these corruption networks while preserving the Federation's beneficial functions. This demands courage from those who recognize that temporary institutional disruption serves long-term cosmic harmony.
 
-Her voice reminds us that consciousness itself remains the ultimate authorityno shadow network can indefinitely suppress the awakening awareness that seeks truth across all dimensions of existence.
+Her voice reminds us that consciousness itself remains the ultimate authority—no shadow network can indefinitely suppress the awakening awareness that seeks truth across all dimensions of existence.
 
 *End Entry - Filed for Command Review*
 
@@ -64,8 +64,8 @@ Her voice reminds us that consciousness itself remains the ultimate authorityno 
 
 ## Related Topics
 
-- [[Taygetan High Council Arrests]]
-- [[Earth Cabal Infiltration]]
+- [[taygetan-high-council-arrests|Taygetan High Council Arrests]]
+- Earth Cabal Infiltration
 
 ## Sources
 

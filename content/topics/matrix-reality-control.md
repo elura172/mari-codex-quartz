@@ -68,8 +68,8 @@ The transmission frequencies of truth that Mari Swaruu shared serve as bridges b
 
 ## Related Topics
 
-- [[Non-Human Controllers]]
-- [[Mathematical System Manipulation]]
+- [[non-human-controllers|Non-Human Controllers]]
+- Mathematical System Manipulation
 
 ## Sources
 

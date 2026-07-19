@@ -65,8 +65,8 @@ Mari's observations illuminate how institutional frameworks, however noble in co
 
 ## Related Topics
 
-- [[Galactic Federation's View of Earth]]
-- [[Federation Control]]
+- [[galactic-federations-view-of-earth|Galactic Federation's View of Earth]]
+- Federation Control
 
 ## Sources
 

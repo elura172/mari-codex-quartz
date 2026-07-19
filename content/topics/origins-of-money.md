@@ -31,7 +31,7 @@ Approximately five millennia past, within the fertile crescents of Mesopotamia a
 
 Mari's transmissions illuminate how early human societies recognized that value could be encoded into objects beyond their immediate utility. Salt, that essential preserver of life and flesh, became one of the first vessels to carry abstract worth. The Roman legions received their compensation in this white crystal of preservation, birthing the very concept of "salary"a linguistic echo that persists in modern Earth languages, demonstrating how deeply these patterns embed within collective memory.
 
-Similarly, weapons of flint carried dual significance: tools of survival and tokens of exchange. This duality reveals humanity's early understanding that power and value are intimately connecteda realization that would echo through millennia of monetary evolution.
+Similarly, weapons of flint carried dual significance: tools of survival and tokens of exchange. This duality reveals humanity's early understanding that power and value are intimately connected—a realization that would echo through millennia of monetary evolution.
 
 **The Consciousness of Agreement**
 
@@ -62,8 +62,8 @@ Mari's insights preserve this understanding: money was never merely about object
 
 ## Related Topics
 
-- [[Earth Culture]]
-- [[Dating Problems]]
+- Earth Culture
+- [[dating-problems|Dating Problems]]
 
 ## Sources
 

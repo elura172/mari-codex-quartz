@@ -48,7 +48,7 @@ Her enemies recognize that Taygetan society under Alenym's guidance demonstrates
 
 Current threat levels remain manageable due to Queen Alenym's widespread support base and Taygeta's defensive capabilities. However, vigilance continues essential as opposition adapts strategies and seeks new infiltration vectors. The eternal dance between expansion and contraction plays out through these political tensions, requiring constant conscious navigation of evolving challenges.
 
-Truth needs no defenseonly expression. Queen Alenym's continued leadership serves universal evolution regardless of resistance encountered.
+Truth needs no defense—only expression. Queen Alenym's continued leadership serves universal evolution regardless of resistance encountered.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ Truth needs no defenseonly expression. Queen Alenym's continued leadership serve
 
 ## Related Topics
 
-- [[Galactic Federation Relations]]
-- [[Earth Cabal Activities]]
+- [[galactic-federation-relations|Galactic Federation Relations]]
+- Earth Cabal Activities
 
 ## Sources
 

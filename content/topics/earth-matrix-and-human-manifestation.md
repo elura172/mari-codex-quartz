@@ -65,8 +65,8 @@ Diplomatic protocols suggest gentle introduction of consciousness principles rat
 
 ## Related Topics
 
-- [[Federation Non-Intervention Policy]]
-- [[Soul Expansion and Suffering]]
+- [[federation-non-intervention-policy|Federation Non-Intervention Policy]]
+- [[soul-expansion-and-suffering|Soul Expansion and Suffering]]
 
 ## Sources
 

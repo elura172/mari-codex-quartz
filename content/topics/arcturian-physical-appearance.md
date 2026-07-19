@@ -70,8 +70,8 @@ These beings embody the principle that true nobility emerges not from physical f
 
 ## Related Topics
 
-- [[Species Comparison]]
-- [[Arcturian Biology]]
+- Species Comparison
+- Arcturian Biology
 
 ## Sources
 

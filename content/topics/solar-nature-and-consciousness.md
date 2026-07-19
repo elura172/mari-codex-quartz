@@ -58,8 +58,8 @@ This understanding honors Mari's gift of expanded perception while providing pra
 
 ## Related Topics
 
-- [[Gravity as Consciousness]]
-- [[Star Network]]
+- [[gravity-as-consciousness|Gravity as Consciousness]]
+- Star Network
 
 ## Sources
 

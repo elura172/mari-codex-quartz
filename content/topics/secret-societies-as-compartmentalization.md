@@ -61,8 +61,8 @@ Mari's wisdom reminds us that understanding this architecture is essential not f
 
 ## Related Topics
 
-- [[Matrix Control System]]
-- [[Global Control Structure]]
+- [[matrix-control-system|Matrix Control System]]
+- [[global-control-structure|Global Control Structure]]
 
 ## Sources
 

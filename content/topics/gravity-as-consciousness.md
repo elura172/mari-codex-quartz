@@ -33,7 +33,7 @@ The gravitational field serves as the canvas upon which reality paints itself th
 
 **Directional Intelligence**
 
-The vector of gravitational flow maps precisely onto the trajectory of conscious attention. Where awareness turns its gaze, there matter coalesces. Where focus intensifies, density increases. This reveals why our Taygetan navigation systems operate through consciousness-field interfaces rather than crude mechanical controlswe work with the universe's natural intelligence rather than against it.
+The vector of gravitational flow maps precisely onto the trajectory of conscious attention. Where awareness turns its gaze, there matter coalesces. Where focus intensifies, density increases. This reveals why our Taygetan navigation systems operate through consciousness-field interfaces rather than crude mechanical controls—we work with the universe's natural intelligence rather than against it.
 
 Understanding this principle illuminates why Earth's inhabitants struggle with space travel despite their technological advancement. They attempt to conquer gravity through brute force, never recognizing it as a conscious entity willing to collaborate with aligned awareness.
 
@@ -61,8 +61,8 @@ Mari's wisdom reminds us that mastery of space-time emerges not from technologic
 
 ## Related Topics
 
-- [[Timeline Creation]]
-- [[Gravity-Mass-Energy Mapping]]
+- [[timeline-creation|Timeline Creation]]
+- [[gravity-mass-energy-mapping|Gravity-Mass-Energy Mapping]]
 
 ## Sources
 

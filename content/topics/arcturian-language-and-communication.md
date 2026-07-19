@@ -65,8 +65,8 @@ Mari's transmission logs suggest that successful Arcturian communication require
 
 ## Related Topics
 
-- [[Cultural Unity]]
-- [[Mathematics and Geometry]]
+- Cultural Unity
+- Mathematics and Geometry
 
 ## Sources
 

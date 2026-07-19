@@ -61,8 +61,8 @@ The isolation experienced by expanding consciousness serves as both challenge an
 
 ## Related Topics
 
-- [[Starseeds]]
-- [[Consciousness Expansion]]
+- [[starseeds|Starseeds]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

@@ -28,7 +28,7 @@ tags:
 
 **Fundamental Principle of Timeline Genesis**
 
-The architecture of time reveals itself not as a singular river flowing toward an inevitable destination, but as an infinite ocean where each conscious observation births new currents. When beings traverse the temporal matrix through technological or consciousness-based methods, they do not merely visit alternate realitiesthey actively generate them through the very act of aware observation.
+The architecture of time reveals itself not as a singular river flowing toward an inevitable destination, but as an infinite ocean where each conscious observation births new currents. When beings traverse the temporal matrix through technological or consciousness-based methods, they do not merely visit alternate realities—they actively generate them through the very act of aware observation.
 
 The mechanism operates through consciousness itself serving as both lens and creator. Each time-traveling entity carries within their awareness the complete memory-matrix of their origin timeline. This internal preservation acts as an anchoring force, ensuring that the originating sequence of events maintains its existential integrity regardless of subsequent alterations attempted elsewhere in the temporal field.
 
@@ -38,13 +38,13 @@ Mari Swaruu illuminated a profound truth that liberates temporal explorers from 
 
 **Practical Implications for Starship Operations**
 
-For our crews engaging in temporal reconnaissance or diplomatic missions across time-streams, this understanding carries both liberation and responsibility. No action taken in alternative timelines can damage or erase our point of originthe memories, relationships, and evolutionary progress we carry remain inviolate. Yet each intervention consciousness creates new streams of existence, new communities of beings whose lives unfold along the pathways our observations help establish.
+For our crews engaging in temporal reconnaissance or diplomatic missions across time-streams, this understanding carries both liberation and responsibility. No action taken in alternative timelines can damage or erase our point of origin—the memories, relationships, and evolutionary progress we carry remain inviolate. Yet each intervention consciousness creates new streams of existence, new communities of beings whose lives unfold along the pathways our observations help establish.
 
 **Consciousness as Creative Force**
 
 The deeper revelation speaks to consciousness itself as the fundamental creative principle of the universe. We do not discover pre-existing timelines so much as we collaborate with the infinite potential of existence to manifest new expressions of reality. Each temporal journey becomes an act of cosmic artistry, painting new possibilities across the canvas of space-time through the brush of aware observation.
 
-This knowledge transforms temporal navigation from mere exploration into sacred stewardshipwe become gardeners of infinity, tending new realities with the same care we would show to seedlings in Erra's crystal gardens.
+This knowledge transforms temporal navigation from mere exploration into sacred stewardship—we become gardeners of infinity, tending new realities with the same care we would show to seedlings in Erra's crystal gardens.
 
 *End Entry - Classification Level: General Distribution*
 
@@ -64,8 +64,8 @@ This knowledge transforms temporal navigation from mere exploration into sacred 
 
 ## Related Topics
 
-- [[Taygetan Time Model]]
-- [[Past Alteration]]
+- [[taygetan-time-model|Taygetan Time Model]]
+- Past Alteration
 
 ## Sources
 

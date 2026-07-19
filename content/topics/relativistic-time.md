@@ -29,7 +29,7 @@ Consider the profound implications: a chronometer measures identical intervals, 
 
 **Consciousness as Temporal Architect**
 
-The bathroom door metaphor Mari employed demonstrates how proximity to desired outcomes fundamentally alters temporal flow. This extends far beyond human psychology into the deeper mechanics of reality construction. Consciousness doesn't simply *perceive* time differentlyit actively participates in time's manifestation through the very act of observation and expectation.
+The bathroom door metaphor Mari employed demonstrates how proximity to desired outcomes fundamentally alters temporal flow. This extends far beyond human psychology into the deeper mechanics of reality construction. Consciousness doesn't simply *perceive* time differently—it actively participates in time's manifestation through the very act of observation and expectation.
 
 For our Taygetan understanding, this aligns with density-based reality frameworks. Lower density consciousnesses experience time as more linear and fixed, while higher density awareness recognizes temporal malleability as natural law. Earth humans stand at a threshold where this recognition begins to dawn.
 
@@ -59,8 +59,8 @@ Time becomes our ally when recognized as the fluid, consciousness-responsive phe
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Time Measurement]]
+- [[nature-of-time|Nature of Time]]
+- Time Measurement
 
 ## Sources
 

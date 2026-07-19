@@ -41,7 +41,7 @@ From our external vantage point, what appears to Earth inhabitants as diverse cu
 
 **Taygetan Perspective**
 
-Mari Swaruu's observations illuminate the profound complexity of consciousness-based control systems. Unlike mechanical imprisonment, awareness-based limitations require organic transformation rather than external rescue. Her insights remind us that true liberation emerges through remembrance of our authentic nature as consciousness itselfnot through technological intervention alone.
+Mari Swaruu's observations illuminate the profound complexity of consciousness-based control systems. Unlike mechanical imprisonment, awareness-based limitations require organic transformation rather than external rescue. Her insights remind us that true liberation emerges through remembrance of our authentic nature as consciousness itself—not through technological intervention alone.
 
 The Earth experience serves as both cautionary tale and evolutionary catalyst, demonstrating how collective beliefs shape reality while simultaneously offering opportunities for transcendence through conscious choice and expanded awareness.
 
@@ -74,8 +74,8 @@ Assistance protocols must focus on consciousness elevation rather than direct in
 
 ## Related Topics
 
-- [[Moon Operations]]
-- [[Van Allen Belts]]
+- Moon Operations
+- Van Allen Belts
 
 ## Sources
 

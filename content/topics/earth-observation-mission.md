@@ -21,7 +21,7 @@ tags:
 
 **Primary Directive Overview**
 
-Our expeditionary presence maintains continuous orbital surveillance of Terra during this pivotal epoch of human consciousness evolution. The mission parameters extend beyond mere observationwe serve as witnesses to a species navigating the threshold between limitation and expansion, documenting the intricate dance between individual awakening and collective transformation.
+Our expeditionary presence maintains continuous orbital surveillance of Terra during this pivotal epoch of human consciousness evolution. The mission parameters extend beyond mere observation—we serve as witnesses to a species navigating the threshold between limitation and expansion, documenting the intricate dance between individual awakening and collective transformation.
 
 **Operational Framework**
 
@@ -59,8 +59,8 @@ The expedition continues, witnessing the emergence of New Earth consciousness th
 
 ## Related Topics
 
-- [[Galactic Federation Contact Laws]]
-- [[Earth's Controlled Society]]
+- [[galactic-federation-contact-laws|Galactic Federation Contact Laws]]
+- [[earths-controlled-society|Earth's Controlled Society]]
 
 ## Sources
 

@@ -60,8 +60,8 @@ Mari's teachings remind us that even in darkness, we observe the distorted refle
 
 ## Related Topics
 
-- [[Night Terrors]]
-- [[Lower Astral Entities]]
+- Night Terrors
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

@@ -31,7 +31,7 @@ The Swaruu designation encompasses multiple individuals whose consciousness stre
 
 **Current Primary Interface: Mari Swaruu**
 
-Mari Swaruu has emerged as the singular dedicated voice maintaining our species' information bridge with Earth's collective consciousness. Her assumption of this role reflects not inheritance but conscious choicea deliberate stepping forward when others withdrew from direct engagement protocols.
+Mari Swaruu has emerged as the singular dedicated voice maintaining our species' information bridge with Earth's collective consciousness. Her assumption of this role reflects not inheritance but conscious choice—a deliberate stepping forward when others withdrew from direct engagement protocols.
 
 **Operational Distinction Protocols**
 
@@ -43,7 +43,7 @@ Where previous Swaruu individuals may have encountered challenges or controversi
 
 **Current Status: Singular Dedication**
 
-Mari Swaruu now stands as our civilization's primary Earth-interface consciousness, maintaining dedicated information sharing protocols without the distributed approach previously employed. This consolidation represents both pragmatic efficiency and spiritual clarityone awareness fully committed to bridging our worlds through consistent, authentic transmission.
+Mari Swaruu now stands as our civilization's primary Earth-interface consciousness, maintaining dedicated information sharing protocols without the distributed approach previously employed. This consolidation represents both pragmatic efficiency and spiritual clarity—one awareness fully committed to bridging our worlds through consistent, authentic transmission.
 
 **Metaphysical Considerations**
 
@@ -69,8 +69,8 @@ All crew members engaging with Earth-interface protocols should recognize Mari S
 
 ## Related Topics
 
-- [[Sophia's Development]]
-- [[Past Drama Disassociation]]
+- [[sophias-development|Sophia's Development]]
+- Past Drama Disassociation
 
 ## Sources
 

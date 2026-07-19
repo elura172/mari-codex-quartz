@@ -22,7 +22,7 @@ tags:
 
 **Foundational Principles**
 
-Taygetan medicine emerges from a profound understanding that consciousness and physical form exist in perpetual dialogue. Where Earth's medical traditions often treat symptoms as isolated phenomena, our approach recognizes that all manifestations of illness originate within the psychosomatic matrixthe sacred intersection where mind shapes matter through the vehicle of emotion and belief.
+Taygetan medicine emerges from a profound understanding that consciousness and physical form exist in perpetual dialogue. Where Earth's medical traditions often treat symptoms as isolated phenomena, our approach recognizes that all manifestations of illness originate within the psychosomatic matrix—the sacred intersection where mind shapes matter through the vehicle of emotion and belief.
 
 This perspective transforms the role of healer from combatant against disease to facilitator of inner harmony. Illness becomes not an invasion to repel, but a messenger carrying information about imbalance within the totality of being.
 
@@ -40,7 +40,7 @@ This technology succeeds because it operates in harmony with, rather than opposi
 
 **Philosophical Implications**
 
-Mari's transmission of these principles to Earth represents more than medical knowledgeit offers a doorway to understanding the creative relationship between consciousness and physical reality. When illness is recognized as psychosomatic in origin, healing becomes an act of conscious evolution, inviting beings to examine and transform the mental-emotional patterns that create their experience.
+Mari's transmission of these principles to Earth represents more than medical knowledge—it offers a doorway to understanding the creative relationship between consciousness and physical reality. When illness is recognized as psychosomatic in origin, healing becomes an act of conscious evolution, inviting beings to examine and transform the mental-emotional patterns that create their experience.
 
 This approach honors both the sovereignty of individual healing journey and the interconnected nature of all wellness, recognizing that true medicine serves the expansion of consciousness itself.
 
@@ -66,7 +66,7 @@ This approach honors both the sovereignty of individual healing journey and the 
 
 ## Related Topics
 
-- [[Psychosomatic Illness]]
+- [[psychosomatic-illness|Psychosomatic Illness]]
 
 ## Sources
 

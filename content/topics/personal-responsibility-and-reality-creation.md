@@ -26,7 +26,7 @@ From our orbital position above the third planet, we observe a species caught be
 
 **Core Principle: The Mirror Universe**
 
-The external environment functions as a crystalline reflection of internal statesnot metaphorically, but as an active mechanism of consciousness-reality interface. What terrestrial humans perceive as separate, objective circumstances are actually responsive projections of their deepest beliefs, frequencies, and energetic signatures. This understanding dissolves the artificial separation between observer and observed, revealing the unified field that our Taygetan science has long recognized.
+The external environment functions as a crystalline reflection of internal states—not metaphorically, but as an active mechanism of consciousness-reality interface. What terrestrial humans perceive as separate, objective circumstances are actually responsive projections of their deepest beliefs, frequencies, and energetic signatures. This understanding dissolves the artificial separation between observer and observed, revealing the unified field that our Taygetan science has long recognized.
 
 **Mastery Through Recognition**
 
@@ -62,8 +62,8 @@ Mari's wisdom echoes across our shared cosmic heritage: consciousness requires n
 
 ## Related Topics
 
-- [[Life Outside Earth Reality]]
-- [[Quantum Jumping]]
+- [[life-outside-earth-reality|Life Outside Earth Reality]]
+- [[quantum-jumping|Quantum Jumping]]
 
 ## Sources
 

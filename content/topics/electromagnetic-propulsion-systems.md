@@ -32,7 +32,7 @@ Within the crystalline hull of each propulsion matrix, multiple spherical chambe
 
 High-voltage energies flow through this spherical symphony, transforming the nested chambers into generators of profound electromagnetic fields. This is not mere electrical engineering, but a technological meditation on the nature of reality itself. The counter-rotating spheres become focal points where the fabric of space-time bends to conscious intention, creating what surface observers term "anti-gravity effects."
 
-The electromagnetic cascade produces more than propulsionit births a protective plasma cocoon around the vessel, a luminous membrane that serves as both shield and beacon. This radiant envelope speaks to witnesses below of possibilities beyond their current technological paradigm.
+The electromagnetic cascade produces more than propulsion—it births a protective plasma cocoon around the vessel, a luminous membrane that serves as both shield and beacon. This radiant envelope speaks to witnesses below of possibilities beyond their current technological paradigm.
 
 **Mercury Enhancement Protocols**
 
@@ -60,8 +60,8 @@ This synthesis represents our commitment to technologies that elevate rather tha
 
 ## Related Topics
 
-- [[Jump Drive Technology]]
-- [[Plasma Formation]]
+- [[jump-drive-technology|Jump Drive Technology]]
+- Plasma Formation
 
 ## Sources
 

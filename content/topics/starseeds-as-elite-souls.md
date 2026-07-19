@@ -59,8 +59,8 @@ The recognition of their elite nature should inspire both gratitude and responsi
 
 ## Related Topics
 
-- [[Soul Mission on Earth]]
-- [[Earth as Advanced School]]
+- [[soul-mission-on-earth|Soul Mission on Earth]]
+- [[earth-as-advanced-school|Earth as Advanced School]]
 
 ## Sources
 

@@ -57,8 +57,8 @@ All crew members should understand these units operate under enhanced security p
 
 ## Related Topics
 
-- [[Security Protocols]]
-- [[Taygetan Supply Missions]]
+- Security Protocols
+- [[taygetan-supply-missions|Taygetan Supply Missions]]
 
 ## Sources
 

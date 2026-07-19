@@ -22,7 +22,7 @@ tags:
 
 **Conflict Overview**
 
-A fundamental jurisdictional crisis has emerged between ascending and established Federation hierarchies, crystallizing around the Antarctic continent's contested sovereignty. This dispute represents more than territorial boundariesit embodies the tension between evolutionary governance transitions and entrenched administrative structures.
+A fundamental jurisdictional crisis has emerged between ascending and established Federation hierarchies, crystallizing around the Antarctic continent's contested sovereignty. This dispute represents more than territorial boundaries—it embodies the tension between evolutionary governance transitions and entrenched administrative structures.
 
 **The Jurisdictional Challenge**
 
@@ -30,7 +30,7 @@ The Saturn-level Galactic Federation has issued formal prohibitions against inte
 
 **The Sovereignty Declaration** 
 
-The ascending Triad administration has asserted inherent rights to Antarctic territories, claiming these lands as foundational to their Earth-based Federation operations. Their position transcends mere territorial acquisitionit represents a fundamental restructuring of how planetary stewardship is conceptualized and administered. Surface installations and subterranean facilities are viewed as integral infrastructure for their expanding consciousness network.
+The ascending Triad administration has asserted inherent rights to Antarctic territories, claiming these lands as foundational to their Earth-based Federation operations. Their position transcends mere territorial acquisition—it represents a fundamental restructuring of how planetary stewardship is conceptualized and administered. Surface installations and subterranean facilities are viewed as integral infrastructure for their expanding consciousness network.
 
 **Metaphysical Dimensions**
 
@@ -65,8 +65,8 @@ The delicate balance between honoring established agreements and facilitating co
 
 ## Related Topics
 
-- [[The Triad]]
-- [[Saturn-Level Galactic Federation]]
+- The Triad
+- Saturn-Level Galactic Federation
 
 ## Sources
 

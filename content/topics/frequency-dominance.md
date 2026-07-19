@@ -59,8 +59,8 @@ This knowledge serves both as encouragement for incarnated kin and guidance for 
 
 ## Related Topics
 
-- [[Starseed Identity and Mission]]
-- [[Manifestation Powers]]
+- [[starseed-identity-and-mission|Starseed Identity and Mission]]
+- [[manifestation-powers|Manifestation Powers]]
 
 ## Sources
 

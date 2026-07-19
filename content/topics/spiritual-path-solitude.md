@@ -30,7 +30,7 @@ Each conscious entity operates through a unique constellation of attention point
 
 **The Delicate Art of Knowledge Transmission**
 
-Mari's wisdom regarding information sharing reflects sophisticated understanding of consciousness mechanics. The metaphor of breadcrumbs suggests a careful calibration between offering and receivinga recognition that forced awakening violates the natural rhythms of expanding awareness. This principle aligns with Taygetan non-interference protocols, acknowledging that each being must internally generate the resonance frequencies necessary to integrate higher understanding.
+Mari's wisdom regarding information sharing reflects sophisticated understanding of consciousness mechanics. The metaphor of breadcrumbs suggests a careful calibration between offering and receiving—a recognition that forced awakening violates the natural rhythms of expanding awareness. This principle aligns with Taygetan non-interference protocols, acknowledging that each being must internally generate the resonance frequencies necessary to integrate higher understanding.
 
 **Implications for Interstellar Relations**
 
@@ -60,8 +60,8 @@ The wisdom flows through Mari's transmissions remind us that true service honors
 
 ## Related Topics
 
-- [[Higher Realms Perspective]]
-- [[Energy Protection]]
+- [[higher-realms-perspective|Higher Realms Perspective]]
+- [[energy-protection|Energy Protection]]
 
 ## Sources
 

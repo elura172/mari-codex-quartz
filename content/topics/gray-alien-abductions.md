@@ -30,7 +30,7 @@ The entities designated as "Gardeners" by our diplomatic records represent a con
 
 **Medical Intervention Protocols**
 
-The extraction procedures conducted by the Gray Collective serve primarily as health intervention missions rather than hostile acquisitions. Their approach to human subjects reflects their inherent naturea consciousness evolved beyond individual emotional responses, functioning instead through collective analytical processes. This creates an inevitable perceptual chasm between their medical intentions and human experiential reality.
+The extraction procedures conducted by the Gray Collective serve primarily as health intervention missions rather than hostile acquisitions. Their approach to human subjects reflects their inherent nature—a consciousness evolved beyond individual emotional responses, functioning instead through collective analytical processes. This creates an inevitable perceptual chasm between their medical intentions and human experiential reality.
 
 **The Empathy Divide**
 
@@ -66,7 +66,7 @@ The greatest wisdom often lies in remembering what we risk losing as we transcen
 
 ## Related Topics
 
-- [[Starseeds and Incarnation]]
+- Starseeds and Incarnation
 
 ## Sources
 

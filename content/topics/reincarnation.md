@@ -31,7 +31,7 @@ The reincarnation process operates as a voluntary soul-level decision driven by 
 
 **The Comfort Paradox**
 
-Mari's observations reveal a profound duality: while knowledge of our transcendent nature should provide immense comfort, this very knowledge can paradoxically trigger escapist behaviors. Understanding that consciousness continues beyond physical dissolution, that we actively manifest our experiential reality through vibrational resonance, and that reincarnation remains available as a conscious choicethis awareness carries both liberation and responsibility. The soul recognizes its immortal creative power while simultaneously confronting the weight of perpetual self-authorship.
+Mari's observations reveal a profound duality: while knowledge of our transcendent nature should provide immense comfort, this very knowledge can paradoxically trigger escapist behaviors. Understanding that consciousness continues beyond physical dissolution, that we actively manifest our experiential reality through vibrational resonance, and that reincarnation remains available as a conscious choice—this awareness carries both liberation and responsibility. The soul recognizes its immortal creative power while simultaneously confronting the weight of perpetual self-authorship.
 
 **Historical Suppression Patterns**
 
@@ -67,8 +67,8 @@ Mari's insights illuminate reincarnation not as punishment or random assignment,
 
 ## Related Topics
 
-- [[Afterlife and Spirit World]]
-- [[Soul Building]]
+- Afterlife and Spirit World
+- [[soul-building|Soul Building]]
 
 ## Sources
 

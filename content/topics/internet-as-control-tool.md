@@ -58,8 +58,8 @@ The path forward requires remembering that authentic knowledge emerges from with
 
 ## Related Topics
 
-- [[Information Monopolization]]
-- [[Reality Manipulation]]
+- Information Monopolization
+- Reality Manipulation
 
 ## Sources
 

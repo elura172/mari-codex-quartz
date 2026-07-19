@@ -45,7 +45,7 @@ Understanding manifestation theory proves crucial when engaging with developing 
 
 For crew members working with Earth-based contacts, remember that sustainable change requires identity-level shifts rather than surface-level desire modification. Guide them toward recognizing their current self-concept as the primary manifestation mechanism. When individuals understand they are not seeking to obtain something foreign, but rather to become more authentically themselves, the resistance dissolves and natural expression flows forth.
 
-Mari's wisdom reminds us that we are not separate from our creationswe are the conscious field experiencing itself through infinite expressions of being.
+Mari's wisdom reminds us that we are not separate from our creations—we are the conscious field experiencing itself through infinite expressions of being.
 
 *End Entry*
 
@@ -69,8 +69,8 @@ Mari's wisdom reminds us that we are not separate from our creationswe are the c
 
 ## Related Topics
 
-- [[Mind Programming]]
-- [[Fear and Manifestation]]
+- [[mind-programming|Mind Programming]]
+- [[fear-and-manifestation|Fear and Manifestation]]
 
 ## Sources
 

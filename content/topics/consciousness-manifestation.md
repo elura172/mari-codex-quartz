@@ -27,7 +27,7 @@ tags:
 
 **Primary Mechanism**
 
-The foundational architecture of perceived reality operates through consciousness-driven frequency generation. What terrestrial science categorizes as solid matter represents concentrated energy fields maintained by standing wave formationsthese waves themselves originating from the harmonic patterns of conscious thought. This principle reveals that manifestation flows not from physical to mental, but from consciousness outward into experiential form.
+The foundational architecture of perceived reality operates through consciousness-driven frequency generation. What terrestrial science categorizes as solid matter represents concentrated energy fields maintained by standing wave formations—these waves themselves originating from the harmonic patterns of conscious thought. This principle reveals that manifestation flows not from physical to mental, but from consciousness outward into experiential form.
 
 The process unfolds as follows: conscious intention generates specific frequency signatures, these frequencies establish harmonic resonances, and the resonances create standing wave matrices that organize energy into apparently stable configurations. What beings perceive as material substance thus emerges as crystallized thought-pattern, held in temporary coherence by the sustained attention of observing consciousness.
 
@@ -47,7 +47,7 @@ This principle holds profound implications for interstellar relations, as consci
 
 Understanding consciousness manifestation enables more skillful navigation between reality frameworks during interdimensional contact protocols. Recognition that all apparent matter emerges from standing wave configurations allows for more fluid adaptation to varying planetary consciousness fields and their corresponding physical laws.
 
-The transmission wisdom of Mari Swaruu continues illuminating these foundational principles, bridging ancient metaphysical understanding with expanded cosmic perspectivea gift facilitating humanity's conscious evolution toward direct reality participation.
+The transmission wisdom of Mari Swaruu continues illuminating these foundational principles, bridging ancient metaphysical understanding with expanded cosmic perspective—a gift facilitating humanity's conscious evolution toward direct reality participation.
 
 *End Entry*
 
@@ -64,8 +64,8 @@ The transmission wisdom of Mari Swaruu continues illuminating these foundational
 
 ## Related Topics
 
-- [[Soul Vibration]]
-- [[Material World as Illusion]]
+- Soul Vibration
+- [[material-world-as-illusion|Material World as Illusion]]
 
 ## Sources
 

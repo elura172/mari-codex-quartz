@@ -60,8 +60,8 @@ The circles stand as testament to the patience and wisdom of those who watch ove
 
 ## Related Topics
 
-- [[Time Travel]]
-- [[Taygetan Spherical Drones]]
+- Time Travel
+- [[taygetan-spherical-drones|Taygetan Spherical Drones]]
 
 ## Sources
 

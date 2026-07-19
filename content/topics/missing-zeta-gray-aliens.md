@@ -33,7 +33,7 @@ Weeks have elapsed since their disappearance was first registered across Federat
 
 **Causative Factors**
 
-The shadow of Orion has fallen across their homeworld like a blight upon fertile soil. When predator civilizations move against the peaceful, the delicate structures of harmony collapse with devastating swiftness. The invasion represents more than territorial conquestit embodies the eternal tension between those who create and those who consume, between builders of bridges and wielders of weapons.
+The shadow of Orion has fallen across their homeworld like a blight upon fertile soil. When predator civilizations move against the peaceful, the delicate structures of harmony collapse with devastating swiftness. The invasion represents more than territorial conquest—it embodies the eternal tension between those who create and those who consume, between builders of bridges and wielders of weapons.
 
 **Metaphysical Implications**
 
@@ -65,8 +65,8 @@ The search continues, guided by hope tempered with realistic assessment of Orion
 
 ## Related Topics
 
-- [[Federation Operations]]
-- [[Orion Invasion]]
+- Federation Operations
+- Orion Invasion
 
 ## Sources
 

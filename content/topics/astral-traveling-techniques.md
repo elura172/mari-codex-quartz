@@ -60,8 +60,8 @@ Mari's teachings remind us that what appears supernatural often reflects natural
 
 ## Related Topics
 
-- [[Astral Realm Definition]]
-- [[Species Capabilities]]
+- [[astral-realm-definition|Astral Realm Definition]]
+- Species Capabilities
 
 ## Sources
 

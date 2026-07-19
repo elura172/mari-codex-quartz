@@ -24,7 +24,7 @@ tags:
 
 **The Nature of Mental Liberation**
 
-The path to enlightenment emerges not through acquisition of new knowledge, but through the systematic dissolution of false constructs that bind consciousness to limitation. Mari Swaruu's teachings illuminate this fundamental principle: the ego-self, which beings across countless worlds mistake for their true identity, exists as nothing more than a mental fabricationa collection of concepts, memories, and definitions that create an illusion of separation from Source.
+The path to enlightenment emerges not through acquisition of new knowledge, but through the systematic dissolution of false constructs that bind consciousness to limitation. Mari Swaruu's teachings illuminate this fundamental principle: the ego-self, which beings across countless worlds mistake for their true identity, exists as nothing more than a mental fabrication—a collection of concepts, memories, and definitions that create an illusion of separation from Source.
 
 **The Construct of Individual Identity**
 
@@ -32,7 +32,7 @@ What organic beings experience as their personal identity represents a sophistic
 
 **The Liberation Process**
 
-True liberation occurs when consciousness recognizes its own creative power in maintaining these limiting constructs. The mind that built the prison of ego-identity possesses the same capacity to dissolve it. This recognition catalyzes a fundamental shift in self-perceptionfrom identifying as a fragment of Source to understanding oneself as Source experiencing itself through apparent limitation.
+True liberation occurs when consciousness recognizes its own creative power in maintaining these limiting constructs. The mind that built the prison of ego-identity possesses the same capacity to dissolve it. This recognition catalyzes a fundamental shift in self-perception—from identifying as a fragment of Source to understanding oneself as Source experiencing itself through apparent limitation.
 
 **Taygetan Perspective on Enlightenment**
 
@@ -52,14 +52,14 @@ Through Mari's transmissions, we witness the eternal dance of consciousness disc
 
 — What is a Soul. (SV-51 English) 
 
-> whom we think we are in these limited bodies and with the limited group of concepts that define us as individualsthe former concept of the ego-selfis nothing but a construct in our own mind.
+> whom we think we are in these limited bodies and with the limited group of concepts that define us as individuals—the former concept of the ego-selfis nothing but a construct in our own mind.
 
 — What is a Soul. (SV-51 English) 
 
 ## Related Topics
 
-- [[Divine Awareness]]
-- [[Ideas and Attachments]]
+- [[divine-awareness|Divine Awareness]]
+- [[ideas-and-attachments|Ideas and Attachments]]
 
 ## Sources
 

@@ -22,11 +22,11 @@ tags:
 
 **Diplomatic Precedent and Power Dynamics**
 
-The integration of the Urmah civilization into the Galactic Federation represents a singular moment in interstellar diplomatic historyone where traditional hierarchical structures yielded to raw ontological force. Unlike the countless species who have entered Federation membership through standardized protocols of compliance and gradual integration, the Urmah carved their own path through sheer presence and undeniable influence.
+The integration of the Urmah civilization into the Galactic Federation represents a singular moment in interstellar diplomatic history—one where traditional hierarchical structures yielded to raw ontological force. Unlike the countless species who have entered Federation membership through standardized protocols of compliance and gradual integration, the Urmah carved their own path through sheer presence and undeniable influence.
 
 **The Architecture of Exceptional Terms**
 
-What emerges from Mari's observations is a recognition that true power transcends formal structures. The Urmah achieved what no other stellar civilization has accomplished: they compelled the Federation itself to reshape its foundational agreements. This was not negotiation in any conventional sense, but rather a cosmic acknowledgment of existing realitythe Federation's acceptance that denying Urmah autonomy would be like attempting to regulate the movement of stars themselves.
+What emerges from Mari's observations is a recognition that true power transcends formal structures. The Urmah achieved what no other stellar civilization has accomplished: they compelled the Federation itself to reshape its foundational agreements. This was not negotiation in any conventional sense, but rather a cosmic acknowledgment of existing reality—the Federation's acceptance that denying Urmah autonomy would be like attempting to regulate the movement of stars themselves.
 
 **Omnipresence as Political Currency**
 
@@ -34,7 +34,7 @@ The Urmah's influence extends beyond mere technological or military capability. 
 
 **Taygetan Perspective on Hierarchical Fluidity**
 
-From our understanding of reality's malleable nature, the Urmah's position reflects a fundamental principle: consciousness shapes structure, not the inverse. The Federation's accommodation represents an evolutionary moment where rigid institutional thinking encountered a force that operates from expanded awareness. The Urmah did not break Federation rulesthey demonstrated that certain beings exist beyond the conceptual frameworks that create such rules.
+From our understanding of reality's malleable nature, the Urmah's position reflects a fundamental principle: consciousness shapes structure, not the inverse. The Federation's accommodation represents an evolutionary moment where rigid institutional thinking encountered a force that operates from expanded awareness. The Urmah did not break Federation rules—they demonstrated that certain beings exist beyond the conceptual frameworks that create such rules.
 
 **Implications for Galactic Governance**
 
@@ -58,8 +58,8 @@ Mari's insights reveal the Urmah situation as both historical anomaly and evolut
 
 ## Related Topics
 
-- [[Galactic Federation]]
-- [[Urmah Power Structure]]
+- Galactic Federation
+- Urmah Power Structure
 
 ## Sources
 

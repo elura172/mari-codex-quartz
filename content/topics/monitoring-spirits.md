@@ -72,8 +72,8 @@ Mari's documentation of these phenomena serves as invaluable intelligence for un
 
 ## Related Topics
 
-- [[Starseeds and Lightworkers]]
-- [[Lower Astral Entities]]
+- Starseeds and Lightworkers
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

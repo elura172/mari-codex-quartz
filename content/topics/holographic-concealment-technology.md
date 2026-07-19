@@ -59,9 +59,9 @@ Mari's insights carry the wisdom of one who has witnessed both the necessity and
 
 ## Related Topics
 
-- [[Lunar Hologram]]
-- [[Matrix Control]]
-- [[Van Allen Radiation Belts]]
+- [[lunar-hologram|Lunar Hologram]]
+- [[matrix-control|Matrix Control]]
+- [[van-allen-radiation-belts|Van Allen Radiation Belts]]
 
 ## Sources
 

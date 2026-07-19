@@ -33,7 +33,7 @@ Like ancient radio technology, consciousness requires tuning to establish contac
 
 **Practical Applications**
 
-When seeking expanded awareness or access to higher knowledge repositories, one must first cultivate the corresponding vibrational state. The Akashic Records, for instance, reveal their deeper layers only to consciousness that has achieved harmonic compatibility with those elevated frequencies. This principle extends beyond information gathering to all manifestationwe become magnets for experiences, relationships, and opportunities that mirror our dominant vibrational patterns.
+When seeking expanded awareness or access to higher knowledge repositories, one must first cultivate the corresponding vibrational state. The Akashic Records, for instance, reveal their deeper layers only to consciousness that has achieved harmonic compatibility with those elevated frequencies. This principle extends beyond information gathering to all manifestation—we become magnets for experiences, relationships, and opportunities that mirror our dominant vibrational patterns.
 
 **Protective Implications**
 
@@ -43,7 +43,7 @@ Perhaps most crucially for developing civilizations, vibrational matching serves
 
 From our stellar perspective, we observe how Earth's collective frequency determines which galactic influences can establish meaningful contact. As humanity's consciousness evolves toward higher harmonics, new doorways of perception naturally open while limiting access to regressive forces. This validates ancient wisdom traditions while providing scientific framework for consciousness development.
 
-The beauty of this principle lies in its elegant simplicitywe need not battle unwanted experiences, merely tune ourselves to frequencies that attract our desired reality. Mari's teachings remind us that sovereignty over our experiential realm begins with conscious mastery of our vibrational signature.
+The beauty of this principle lies in its elegant simplicity—we need not battle unwanted experiences, merely tune ourselves to frequencies that attract our desired reality. Mari's teachings remind us that sovereignty over our experiential realm begins with conscious mastery of our vibrational signature.
 
 *End Log*
 *Filed for Distribution: All Diplomatic Corps and Cultural Exchange Personnel*
@@ -78,8 +78,8 @@ The beauty of this principle lies in its elegant simplicitywe need not battle un
 
 ## Related Topics
 
-- [[Energetic Protection]]
-- [[Lower Astral Entities]]
+- [[energetic-protection|Energetic Protection]]
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

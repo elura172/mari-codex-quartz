@@ -58,8 +58,8 @@ For successful integration protocols, we must acknowledge that Earth's challenge
 
 ## Related Topics
 
-- [[Consciousness Expansion]]
-- [[Veil of Forgetfulness]]
+- [[consciousness-expansion|Consciousness Expansion]]
+- [[veil-of-forgetfulness|Veil of Forgetfulness]]
 
 ## Sources
 

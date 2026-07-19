@@ -61,8 +61,8 @@ This knowledge serves not merely as philosophical framework but as operational r
 
 ## Related Topics
 
-- [[Time and Consciousness]]
-- [[Holographic Fragments]]
+- [[time-and-consciousness|Time and Consciousness]]
+- [[holographic-fragments|Holographic Fragments]]
 
 ## Sources
 

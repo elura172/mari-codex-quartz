@@ -62,8 +62,8 @@ The event serves as a reminder that even the most advanced consciousness may fin
 
 ## Related Topics
 
-- [[Political Enemies]]
-- [[Starship Security]]
+- Political Enemies
+- Starship Security
 
 ## Sources
 

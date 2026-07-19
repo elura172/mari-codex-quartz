@@ -61,8 +61,8 @@ The Urmah remind us that mastery lies not in conquering realms, but in rememberi
 
 ## Related Topics
 
-- [[Material vs Astral Realms]]
-- [[Urmah Military Operations]]
+- Material vs Astral Realms
+- [[urmah-military-operations|Urmah Military Operations]]
 
 ## Sources
 

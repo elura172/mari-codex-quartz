@@ -22,7 +22,7 @@ tags:
 
 **The Architecture of Attention**
 
-Through the quantum lens of consciousness studies, we observe a fundamental inefficiency plaguing developing civilizations: the systematic hemorrhaging of vital life force through misallocated attention streams. Mari Swaruu's transmissions illuminate a critical oversight in human emotional economicsthe vast expenditure of psychic energy upon entities who exist as mere phantoms in one's personal reality matrix.
+Through the quantum lens of consciousness studies, we observe a fundamental inefficiency plaguing developing civilizations: the systematic hemorrhaging of vital life force through misallocated attention streams. Mari Swaruu's transmissions illuminate a critical oversight in human emotional economics—the vast expenditure of psychic energy upon entities who exist as mere phantoms in one's personal reality matrix.
 
 **The Indifference Principle**
 
@@ -42,7 +42,7 @@ The Taygetan understanding of consciousness as an interconnected web supports th
 
 For ascending civilizations, this represents a critical evolutionary checkpoint. Those who master the art of conscious energy allocation experience rapid expansion of their creative potential. Resources previously scattered across meaningless social anxieties become available for authentic co-creation with genuinely aligned beings.
 
-The path forward requires neither withdrawal nor judgment, but rather the cultivation of discernmentthe ability to distinguish between authentic connection opportunities and energetic mirages that consume without nourishing.
+The path forward requires neither withdrawal nor judgment, but rather the cultivation of discernment—the ability to distinguish between authentic connection opportunities and energetic mirages that consume without nourishing.
 
 *End Transmission Archive*
 
@@ -58,7 +58,7 @@ The path forward requires neither withdrawal nor judgment, but rather the cultiv
 
 ## Related Topics
 
-- [[False People Concept]]
+- [[false-people-concept|False People Concept]]
 
 ## Sources
 

@@ -24,7 +24,7 @@ The essence of temporal displacement lies not in the manipulation of external ch
 
 **Methodological Framework**
 
-The technique operates through environmental reconstruction that perfectly mirrors a target temporal period. When consciousness encounters a completely authentic reproduction of a past momentevery object, texture, atmospheric condition, and sensory input precisely replicatedthe mind naturally synchronizes with that temporal frequency. The absence of contradictory temporal markers allows consciousness to seamlessly inhabit the reconstructed timeframe.
+The technique operates through environmental reconstruction that perfectly mirrors a target temporal period. When consciousness encounters a completely authentic reproduction of a past momentevery object, texture, atmospheric condition, and sensory input precisely replicated—the mind naturally synchronizes with that temporal frequency. The absence of contradictory temporal markers allows consciousness to seamlessly inhabit the reconstructed timeframe.
 
 This approach transcends mechanical time manipulation. Rather than attempting to bend the fabric of spacetime through brute technological force, practitioners create islands of temporal authenticity that invite consciousness to naturally inhabit different chronological states. The mind, presented with complete environmental consistency, accepts the new temporal context as present reality.
 
@@ -56,8 +56,8 @@ Mari Swaruu's transmission illuminates time travel as an act of conscious artist
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Consciousness as Reality Creator]]
+- [[nature-of-time|Nature of Time]]
+- [[consciousness-as-reality-creator|Consciousness as Reality Creator]]
 
 ## Sources
 

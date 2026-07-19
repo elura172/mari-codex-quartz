@@ -72,8 +72,8 @@ Our continued observation serves not merely as intelligence gathering, but as wi
 
 ## Related Topics
 
-- [[Cabal Operations]]
-- [[Population Control]]
+- [[cabal-operations|Cabal Operations]]
+- [[population-control|Population Control]]
 
 ## Sources
 

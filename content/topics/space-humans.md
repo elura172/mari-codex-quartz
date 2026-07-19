@@ -60,8 +60,8 @@ Mari's observations remind us that truth withheld creates energetic distortions 
 
 ## Related Topics
 
-- [[Controlled Disclosure]]
-- [[Matrix Collapse]]
+- Controlled Disclosure
+- [[matrix-collapse|Matrix Collapse]]
 
 ## Sources
 

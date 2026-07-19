@@ -59,8 +59,8 @@ Mari's guidance reminds us that true compassion sometimes manifests as restraint
 
 ## Related Topics
 
-- [[Spiritual Isolation]]
-- [[Spiritual Awakening Process]]
+- [[spiritual-isolation|Spiritual Isolation]]
+- [[spiritual-awakening-process|Spiritual Awakening Process]]
 
 ## Sources
 

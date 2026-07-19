@@ -42,7 +42,7 @@ Understanding truth's relative nature enables profound compassion in interstella
 
 **Practical Implications**
 
-For crew members, this principle suggests approaching all informationincluding these transmissionsas perspectives rather than dogma. Mari's insights gain power not through blind acceptance, but through conscious integration into our expanding understanding. Each being's truth serves their growth while remaining partial within the greater cosmic dance.
+For crew members, this principle suggests approaching all informationincluding these transmissions—as perspectives rather than dogma. Mari's insights gain power not through blind acceptance, but through conscious integration into our expanding understanding. Each being's truth serves their growth while remaining partial within the greater cosmic dance.
 
 **Integration Protocol**
 
@@ -60,9 +60,9 @@ As we continue monitoring Earth's transition, remember that our Taygetan viewpoi
 
 ## Related Topics
 
-- [[Timeline Integration]]
-- [[Duality]]
-- [[Consciousness Expansion]]
+- [[timeline-integration|Timeline Integration]]
+- [[duality|Duality]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

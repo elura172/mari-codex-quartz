@@ -65,8 +65,8 @@ For diplomatic protocols, we recommend recognizing that Terran "internet freedom
 
 ## Related Topics
 
-- [[Information Erasure]]
-- [[AI Power Disparity]]
+- [[information-erasure|Information Erasure]]
+- [[ai-power-disparity|AI Power Disparity]]
 
 ## Sources
 

@@ -56,8 +56,8 @@ The formation of healthier thought patterns requires both individual effort and 
 
 ## Related Topics
 
-- [[Telepathic Fields and Collective Unconscious]]
-- [[Egregores]]
+- [[telepathic-fields-and-collective-unconscious|Telepathic Fields and Collective Unconscious]]
+- [[egregores|Egregores]]
 
 ## Sources
 

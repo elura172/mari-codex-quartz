@@ -65,8 +65,8 @@ Mari's observations remind us that genuine assistance often requires working aro
 
 ## Related Topics
 
-- [[Earth Isolation Problem]]
-- [[Antarctic Cleanup Restrictions]]
+- Earth Isolation Problem
+- Antarctic Cleanup Restrictions
 
 ## Sources
 

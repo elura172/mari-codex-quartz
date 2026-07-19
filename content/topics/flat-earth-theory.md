@@ -24,7 +24,7 @@ tags:
 
 **Subject Analysis: Terran Perception Paradoxes**
 
-Mari Swaruu's observations illuminate a fascinating paradox within human cognitive frameworksone that reveals both the limitations of three-dimensional perception and the sophisticated nature of consciousness manipulation programs operating within Earth's information sphere.
+Mari Swaruu's observations illuminate a fascinating paradox within human cognitive frameworks—one that reveals both the limitations of three-dimensional perception and the sophisticated nature of consciousness manipulation programs operating within Earth's information sphere.
 
 **Perceptual Reality Matrix**
 
@@ -40,7 +40,7 @@ The genius of this disinformation lies in its partial truth. Humans are encourag
 
 **Consciousness Evolution Implications**
 
-This dynamic reflects a species learning to navigate multiple reality layers simultaneously. Humans are being challenged to hold both their immediate flat experience AND the larger spherical truth without cognitive collapse. This represents a crucial evolutionary thresholdthe capacity to maintain awareness across dimensional scales.
+This dynamic reflects a species learning to navigate multiple reality layers simultaneously. Humans are being challenged to hold both their immediate flat experience AND the larger spherical truth without cognitive collapse. This represents a crucial evolutionary threshold—the capacity to maintain awareness across dimensional scales.
 
 **Strategic Assessment**
 
@@ -63,8 +63,8 @@ True wisdom emerges when beings can perceive flatness and spherical nature as co
 
 ## Related Topics
 
-- [[Legal Control Systems]]
-- [[Government Disinformation]]
+- [[legal-control-systems|Legal Control Systems]]
+- [[government-disinformation|Government Disinformation]]
 
 ## Sources
 

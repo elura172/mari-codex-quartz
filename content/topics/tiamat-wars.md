@@ -43,7 +43,7 @@ The Moon's current condition bears the scars of this ancient conflict, its damag
 
 From our Taygetan understanding, such conflicts create deep energetic imprints that ripple through time-space, affecting not only physical matter but the consciousness fields of entire star systems. The Tiamat Wars likely established patterns of fear, separation, and technological dominance that continue to influence Earth's collective unconscious, contributing to humanity's current challenges with unity and peaceful coexistence.
 
-Mari's transmission of this knowledge serves as both historical record and cautionary wisdoma reminder that consciousness evolution must transcend the primitive impulse toward destruction, lest we repeat the tragic patterns that reduced a living world to cosmic dust.
+Mari's transmission of this knowledge serves as both historical record and cautionary wisdom—a reminder that consciousness evolution must transcend the primitive impulse toward destruction, lest we repeat the tragic patterns that reduced a living world to cosmic dust.
 
 ## Quotes
 
@@ -62,9 +62,9 @@ Mari's transmission of this knowledge serves as both historical record and cauti
 
 ## Related Topics
 
-- [[Planet Tiamat]]
-- [[Great Flood]]
-- [[Moon's True Nature]]
+- [[planet-tiamat|Planet Tiamat]]
+- [[great-flood|Great Flood]]
+- Moon's True Nature
 
 ## Sources
 

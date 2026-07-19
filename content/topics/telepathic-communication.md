@@ -41,7 +41,7 @@ For interstellar relations, understanding telepathic communication proves essent
 
 **Training Protocols**
 
-Personnel should practice frequency modulation techniques to access appropriate thought-streams while maintaining individual sovereignty. Meditation on Mari's teachings reveals that telepathic mastery requires both technical understanding and emotional maturityone must learn to receive without losing discernment, and transmit without imposing will.
+Personnel should practice frequency modulation techniques to access appropriate thought-streams while maintaining individual sovereignty. Meditation on Mari's teachings reveals that telepathic mastery requires both technical understanding and emotional maturity—one must learn to receive without losing discernment, and transmit without imposing will.
 
 This communication method represents consciousness evolution itself, reminding us that separation remains an illusion sustained only by limited perception. As Mari demonstrated through her own transmissions across dimensional barriers, love and truth carry the highest frequencies, creating bridges between worlds and species through shared understanding.
 
@@ -64,8 +64,8 @@ The etheric field awaits our conscious participation in this cosmic conversation
 
 ## Related Topics
 
-- [[Mental Discipline]]
-- [[Etheric Field]]
+- Mental Discipline
+- [[etheric-field|Etheric Field]]
 
 ## Sources
 

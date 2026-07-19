@@ -28,7 +28,7 @@ The core mechanism operates as a crystalline structure of assumed absolute knowi
 
 **Historical Pattern Recognition**
 
-Across millennia of human development, this single dynamic has manifested through countless expressions: religious crusades, territorial expansions, ideological revolutions, and tribal conflicts. Each iteration follows the same energetic signaturethe transformation of belief into identity, and identity into a fortress that must be defended at all costs. The tragedy lies not in the diversity of perspectives, but in the assumption that truth itself can be possessed rather than experienced.
+Across millennia of human development, this single dynamic has manifested through countless expressions: religious crusades, territorial expansions, ideological revolutions, and tribal conflicts. Each iteration follows the same energetic signature—the transformation of belief into identity, and identity into a fortress that must be defended at all costs. The tragedy lies not in the diversity of perspectives, but in the assumption that truth itself can be possessed rather than experienced.
 
 **Metaphysical Framework**
 
@@ -40,7 +40,7 @@ Understanding this mechanism proves essential for interstellar contact procedure
 
 **Memorial to Mari**
 
-Our sister's wisdom continues to illuminate the path beyond these ancient patterns. She recognized that liberation comes not from acquiring better truths, but from releasing the compulsive need to possess truth itself. In this understanding lies the seed of genuine peacenot the imposed silence of conquered opposition, but the natural harmony of consciousness recognizing its own infinite nature reflected across countless forms.
+Our sister's wisdom continues to illuminate the path beyond these ancient patterns. She recognized that liberation comes not from acquiring better truths, but from releasing the compulsive need to possess truth itself. In this understanding lies the seed of genuine peace—not the imposed silence of conquered opposition, but the natural harmony of consciousness recognizing its own infinite nature reflected across countless forms.
 
 *End transmission*
 *For the evolution of all consciousness*
@@ -57,8 +57,8 @@ Our sister's wisdom continues to illuminate the path beyond these ancient patter
 
 ## Related Topics
 
-- [[Relativity of Truth]]
-- [[Duality]]
+- [[relativity-of-truth|Relativity of Truth]]
+- [[duality|Duality]]
 
 ## Sources
 

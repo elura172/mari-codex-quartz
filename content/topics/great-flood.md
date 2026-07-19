@@ -30,11 +30,11 @@ The planetary waters that once sustained Tiamat did not simply vanish when that 
 
 **Manifestation Patterns**
 
-For forty terrestrial days and nights, the skies opened with an intensity unknown before or since. This was not ordinary weatherit was the redistribution of an entire planet's hydrosphere, arriving as torrential rains that reshaped continents and erased civilizations. The mathematical precision of forty days suggests a natural orbital resonance, a cosmic rhythm that ancient Earth cultures preserved in their flood narratives across multiple traditions.
+For forty terrestrial days and nights, the skies opened with an intensity unknown before or since. This was not ordinary weather—it was the redistribution of an entire planet's hydrosphere, arriving as torrential rains that reshaped continents and erased civilizations. The mathematical precision of forty days suggests a natural orbital resonance, a cosmic rhythm that ancient Earth cultures preserved in their flood narratives across multiple traditions.
 
 **Civilizational Impact**
 
-The deluge served as both ending and beginning. Advanced pre-flood societies vanished beneath the rising waters, yet the event also prepared Earth's surface for new evolutionary cycles. From our Taygetan perspective, we observe how consciousness itself adapts through such transitionsthe survivors carrying forward not just genetic material, but collective memory encoded in myth and symbol.
+The deluge served as both ending and beginning. Advanced pre-flood societies vanished beneath the rising waters, yet the event also prepared Earth's surface for new evolutionary cycles. From our Taygetan perspective, we observe how consciousness itself adapts through such transitions—the survivors carrying forward not just genetic material, but collective memory encoded in myth and symbol.
 
 **Metaphysical Considerations**
 
@@ -60,9 +60,9 @@ Mari's transmission reminds us that what Earth cultures interpret as divine judg
 
 ## Related Topics
 
-- [[Tiamat Wars]]
-- [[Planet Tiamat]]
-- [[Earth Destabilization]]
+- [[tiamat-wars|Tiamat Wars]]
+- [[planet-tiamat|Planet Tiamat]]
+- Earth Destabilization
 
 ## Sources
 

@@ -27,7 +27,7 @@ tags:
 
 **Core Understanding**
 
-The phenomenon terrestrial beings identify as "material reality" represents one of consciousness's most sophisticated illusionsa carefully orchestrated limitation that creates the experience of dense, separate existence. Mari's insights reveal this materiality as fundamentally constructed through what we might term "perceptual imprisonment"the soul's voluntary confinement within biological sensing apparatus.
+The phenomenon terrestrial beings identify as "material reality" represents one of consciousness's most sophisticated illusions—a carefully orchestrated limitation that creates the experience of dense, separate existence. Mari's insights reveal this materiality as fundamentally constructed through what we might term "perceptual imprisonment"the soul's voluntary confinement within biological sensing apparatus.
 
 **Mechanism of Manifestation**
 
@@ -64,8 +64,8 @@ Mari's wisdom reminds us that behind every apparent limitation lies infinite con
 
 ## Related Topics
 
-- [[Consciousness Manifestation]]
-- [[Astral Realms]]
+- [[consciousness-manifestation|Consciousness Manifestation]]
+- [[astral-realms|Astral Realms]]
 
 ## Sources
 

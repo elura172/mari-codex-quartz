@@ -63,8 +63,8 @@ Mari Swaruu's insights remind us that liberation from such programming requires 
 
 ## Related Topics
 
-- [[Divine Justice and Karma Deception]]
-- [[Control System Programming]]
+- [[divine-justice-and-karma-deception|Divine Justice and Karma Deception]]
+- [[control-system-programming|Control System Programming]]
 
 ## Sources
 

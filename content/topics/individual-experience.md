@@ -55,8 +55,8 @@ In Mari's teachings, we find the blueprint for authentic interspecies dialogue: 
 
 ## Related Topics
 
-- [[Relative Truth]]
-- [[Reality Creation]]
+- [[relative-truth|Relative Truth]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

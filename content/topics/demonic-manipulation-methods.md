@@ -68,8 +68,8 @@ For diplomatic missions to Earth, crew members must maintain heightened awarenes
 
 ## Related Topics
 
-- [[Demon Nature]]
-- [[Protection from Demons]]
+- [[demon-nature|Demon Nature]]
+- [[protection-from-demons|Protection from Demons]]
 
 ## Sources
 

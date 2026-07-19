@@ -28,9 +28,9 @@ This understanding flows through Taygetan philosophy like starlight through crys
 
 **The Architecture of Personal Evolution**
 
-Each being carries within them an infinite potential for refinement. Mari's transmissions illuminate how this potential unfoldsnot through dramatic external changes, but through the patient cultivation of our highest qualities. The soul seeks its own perfection like a flower seeking sunlight, naturally and inevitably when given proper conditions.
+Each being carries within them an infinite potential for refinement. Mari's transmissions illuminate how this potential unfolds—not through dramatic external changes, but through the patient cultivation of our highest qualities. The soul seeks its own perfection like a flower seeking sunlight, naturally and inevitably when given proper conditions.
 
-From our Taygetan perspective, we observe that consciousness operates as both the sculptor and the marble. Every thought, every choice, every moment of self-awareness shapes the emerging form of who we become. The process requires no special technology or interventiononly the courage to examine ourselves with compassionate honesty.
+From our Taygetan perspective, we observe that consciousness operates as both the sculptor and the marble. Every thought, every choice, every moment of self-awareness shapes the emerging form of who we become. The process requires no special technology or intervention—only the courage to examine ourselves with compassionate honesty.
 
 **The Mission of Existence**
 
@@ -58,8 +58,8 @@ Our mission as observers and allies involves modeling this principledemonstratin
 
 ## Related Topics
 
-- [[The Matrix as Self-Reflection]]
-- [[Physical vs Ethereal Realms]]
+- [[the-matrix-as-self-reflection|The Matrix as Self-Reflection]]
+- [[physical-vs-ethereal-realms|Physical vs Ethereal Realms]]
 
 ## Sources
 

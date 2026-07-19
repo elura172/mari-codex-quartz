@@ -58,8 +58,8 @@ The starseeds among Earth's population serve as bridges, carrying Taygetan frequ
 
 ## Related Topics
 
-- [[Earth as Training Ground]]
-- [[Manifestation Powers]]
+- [[earth-as-training-ground|Earth as Training Ground]]
+- [[manifestation-powers|Manifestation Powers]]
 
 ## Sources
 

@@ -29,9 +29,9 @@ The terrestrial concept termed "Law of Attraction" represents a fundamental misu
 
 **Mechanism of Dimensional Mirroring**
 
-Rather than functioning as an external procurement system, manifestation operates through internal metamorphosis. The consciousness matrix restructures itself to become resonantly aligned with specific experiential frequencies. This process resembles our own ship's dimensional phase-matching protocolswe do not pull ourselves toward a destination; we modify our quantum signature until we naturally occupy the desired coordinates.
+Rather than functioning as an external procurement system, manifestation operates through internal metamorphosis. The consciousness matrix restructures itself to become resonantly aligned with specific experiential frequencies. This process resembles our own ship's dimensional phase-matching protocols—we do not pull ourselves toward a destination; we modify our quantum signature until we naturally occupy the desired coordinates.
 
-The critical distinction lies in recognizing that beings manifest their current vibrational state rather than their conceptual desires. This explains the persistent confusion among Earth's population regarding manifestation failuresthey attempt to magnetically attract while maintaining incompatible frequency patterns.
+The critical distinction lies in recognizing that beings manifest their current vibrational state rather than their conceptual desires. This explains the persistent confusion among Earth's population regarding manifestation failures—they attempt to magnetically attract while maintaining incompatible frequency patterns.
 
 **Practical Applications for Crew**
 
@@ -65,8 +65,8 @@ Through Mari's wisdom, we recognize manifestation as identity evolution rather t
 
 ## Related Topics
 
-- [[Dimensional Mirroring Effect]]
-- [[Frequency Compatibility]]
+- Dimensional Mirroring Effect
+- [[frequency-compatibility|Frequency Compatibility]]
 
 ## Sources
 

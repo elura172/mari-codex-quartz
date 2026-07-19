@@ -61,7 +61,7 @@ As we continue our observation and assistance protocols, Mari's teachings remind
 
 ## Related Topics
 
-- [[High Frequency Protection]]
+- [[high-frequency-protection|High Frequency Protection]]
 
 ## Sources
 

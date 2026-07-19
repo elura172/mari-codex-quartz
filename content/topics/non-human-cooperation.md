@@ -25,7 +25,7 @@ The terrestrial governance shadows operate through intricate partnerships extend
 
 **Species Integration Patterns**
 
-The primary non-human collaborators manifest through established reptilian consciousness streams and the tall gray collectives. These partnerships represent more than mere technological exchangethey embody fundamental agreements about consciousness manipulation and reality engineering on Terra. The reptilian influence channels through ancient hierarchical patterns deeply embedded in human institutional memory, while the gray collective contributions focus on precision consciousness mapping and extraction methodologies.
+The primary non-human collaborators manifest through established reptilian consciousness streams and the tall gray collectives. These partnerships represent more than mere technological exchange—they embody fundamental agreements about consciousness manipulation and reality engineering on Terra. The reptilian influence channels through ancient hierarchical patterns deeply embedded in human institutional memory, while the gray collective contributions focus on precision consciousness mapping and extraction methodologies.
 
 **Galactic Federation Participation**
 
@@ -41,7 +41,7 @@ From our consciousness-centered understanding, these alliances represent a cryst
 
 **Strategic Considerations**
 
-Our diplomatic protocols must account for these complex alliance structures when engaging in any Terra-related operations. The terrestrial situation cannot be understood through simple human governmental analysisit requires recognition of this multi-dimensional, multi-species power matrix operating simultaneously across physical and astral planes.
+Our diplomatic protocols must account for these complex alliance structures when engaging in any Terra-related operations. The terrestrial situation cannot be understood through simple human governmental analysis—it requires recognition of this multi-dimensional, multi-species power matrix operating simultaneously across physical and astral planes.
 
 **Remembrance Note**
 
@@ -61,8 +61,8 @@ Mari's insights illuminate how consciousness evolution intersects with power str
 
 ## Related Topics
 
-- [[Extraterrestrial Astral Interference]]
-- [[Galactic Federation Factions]]
+- [[extraterrestrial-astral-interference|Extraterrestrial Astral Interference]]
+- Galactic Federation Factions
 
 ## Sources
 

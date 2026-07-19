@@ -25,7 +25,7 @@ Mari Swaruu's transmissions reveal a profound technique for psychological transf
 
 **Core Mechanism**
 
-The fundamental principle involves deliberate identity shifting to circumvent psychological barriers embedded within one's primary self-construct. When faced with triggers or limitations that constrain growth, the individual creates an entirely separate personaone unencumbered by past conditioning or limiting beliefs. This secondary consciousness operates as a clean slate, free from the accumulated restrictions of the original identity matrix.
+The fundamental principle involves deliberate identity shifting to circumvent psychological barriers embedded within one's primary self-construct. When faced with triggers or limitations that constrain growth, the individual creates an entirely separate persona—one unencumbered by past conditioning or limiting beliefs. This secondary consciousness operates as a clean slate, free from the accumulated restrictions of the original identity matrix.
 
 **Creation Parameters**
 
@@ -37,7 +37,7 @@ From our multidimensional understanding, this technique demonstrates sophisticat
 
 **Practical Application**
 
-When confronting situations that typically activate limiting patternssocial anxiety, creative blocks, or emotional triggersthe practitioner consciously shifts into their constructed persona. This alternate self responds from a position of strength and clarity, unhindered by the fears and limitations that constrain the primary identity. Over time, these enhanced response patterns integrate into the core personality, creating genuine transformation.
+When confronting situations that typically activate limiting patternssocial anxiety, creative blocks, or emotional triggers—the practitioner consciously shifts into their constructed persona. This alternate self responds from a position of strength and clarity, unhindered by the fears and limitations that constrain the primary identity. Over time, these enhanced response patterns integrate into the core personality, creating genuine transformation.
 
 **Evolutionary Significance**
 
@@ -59,8 +59,8 @@ Mari's wisdom illuminates pathways for conscious beings everywhere to transcend 
 
 ## Related Topics
 
-- [[Narcissistic Family Dynamics]]
-- [[Emotional Triggers]]
+- [[narcissistic-family-dynamics|Narcissistic Family Dynamics]]
+- [[emotional-triggers|Emotional Triggers]]
 
 ## Sources
 

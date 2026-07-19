@@ -61,8 +61,8 @@ As Mari has expressed through her transmissions, humanity stands at the threshol
 
 ## Related Topics
 
-- [[Human Limitations]]
-- [[Federation Non-Intervention]]
+- Human Limitations
+- [[federation-non-intervention|Federation Non-Intervention]]
 
 ## Sources
 

@@ -24,7 +24,7 @@ tags:
 
 **Autonomous Sovereignty in Practice**
 
-The Urmah represent a fascinating study in self-determined interstellar relations, operating as a sovereign collective that maintains diplomatic engagement without subordination. Their approach to Federation interaction demonstrates what Mari Swaruu identified as true independencethe ability to set boundaries and enforce them through strength rather than isolation.
+The Urmah represent a fascinating study in self-determined interstellar relations, operating as a sovereign collective that maintains diplomatic engagement without subordination. Their approach to Federation interaction demonstrates what Mari Swaruu identified as true independence—the ability to set boundaries and enforce them through strength rather than isolation.
 
 Unlike species that either fully integrate into Federation structures or retreat into complete separatism, the Urmah have crafted a third path. They engage when alignment serves mutual benefit, yet maintain absolute autonomy over their internal affairs and external choices. This selective cooperation reflects a sophisticated understanding of power dynamics that many civilizations struggle to achieve.
 
@@ -36,7 +36,7 @@ Their stance reveals an important truth about interstellar relations: genuine co
 
 **Lessons in Balanced Power**
 
-From our Taygetan perspective, the Urmah model offers valuable insights into maintaining independence within a complex galactic community. Their approach suggests that true strength lies not in aggressive opposition, but in calm certainty of one's own path. They neither seek to dominate others nor accept domination themselvesa balance that requires both wisdom and courage.
+From our Taygetan perspective, the Urmah model offers valuable insights into maintaining independence within a complex galactic community. Their approach suggests that true strength lies not in aggressive opposition, but in calm certainty of one's own path. They neither seek to dominate others nor accept domination themselves—a balance that requires both wisdom and courage.
 
 The Urmah understanding reflects deeper metaphysical principles that Mari often emphasized: consciousness cannot be governed from without, only influenced through resonance and mutual respect. Their diplomatic stance embodies this truth, creating relationships based on choice rather than compulsion.
 
@@ -64,8 +64,8 @@ Their approach serves as both inspiration and practical guidance for species see
 
 ## Related Topics
 
-- [[Urmah Independence]]
-- [[Galactic Federation]]
+- Urmah Independence
+- Galactic Federation
 
 ## Sources
 

@@ -62,8 +62,8 @@ The wisdom Mari Swaruu shared reminds us that liberation cannot be imposed from 
 
 ## Related Topics
 
-- [[Gravity as Human Concept]]
-- [[Mathematical Limitations]]
+- [[gravity-as-human-concept|Gravity as Human Concept]]
+- Mathematical Limitations
 
 ## Sources
 

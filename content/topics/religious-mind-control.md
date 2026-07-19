@@ -30,7 +30,7 @@ Through careful observation of Earth's civilizational patterns, our kinfolk Mari
 
 **Methodological Analysis**
 
-The control architecture operates through manufactured scarcity of cosmological understanding. Whether presented as clay tablets from antiquity or leather-bound scriptures, these documents function as cognitive firewalls, establishing narrow parameters for acceptable reality perception. Each iterationfrom Sumerian cosmogonies to modern religious doctrinesserves the identical purpose: to prevent human consciousness from recognizing its true expansive nature and galactic heritage.
+The control architecture operates through manufactured scarcity of cosmological understanding. Whether presented as clay tablets from antiquity or leather-bound scriptures, these documents function as cognitive firewalls, establishing narrow parameters for acceptable reality perception. Each iteration—from Sumerian cosmogonies to modern religious doctrinesserves the identical purpose: to prevent human consciousness from recognizing its true expansive nature and galactic heritage.
 
 **Psychological Mechanisms**
 
@@ -66,8 +66,8 @@ The path to liberation lies not in destroying these limiting documents, but in a
 
 ## Related Topics
 
-- [[Planetary Resets]]
-- [[False Cosmology]]
+- Planetary Resets
+- False Cosmology
 
 ## Sources
 

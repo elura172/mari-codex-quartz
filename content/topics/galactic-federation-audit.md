@@ -25,7 +25,7 @@ tags:
 
 **Overview**
 
-The cosmic bureaucracy reveals its deeper currents as representatives from the Etorthan collective of Orion prepare their descent into Earth's orbital theater. This December marks another cyclical evaluationa methodical inspection of all Federation-aligned civilizations maintaining presence within Earth's energetic sphere. The auditors arrive not as mere administrators, but as arbiters of compliance within the greater galactic hierarchy.
+The cosmic bureaucracy reveals its deeper currents as representatives from the Etorthan collective of Orion prepare their descent into Earth's orbital theater. This December marks another cyclical evaluation—a methodical inspection of all Federation-aligned civilizations maintaining presence within Earth's energetic sphere. The auditors arrive not as mere administrators, but as arbiters of compliance within the greater galactic hierarchy.
 
 **Operational Implications**
 
@@ -59,8 +59,8 @@ Mari's insights remind us that even advanced galactic civilizations struggle wit
 
 ## Related Topics
 
-- [[New Crew Arrivals]]
-- [[Military Preparedness]]
+- [[new-crew-arrivals|New Crew Arrivals]]
+- [[military-preparedness|Military Preparedness]]
 
 ## Sources
 

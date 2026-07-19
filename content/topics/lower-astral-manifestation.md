@@ -63,8 +63,8 @@ Crew members engaging in consciousness-based assistance operations should mainta
 
 ## Related Topics
 
-- [[Law of Attraction Trap]]
-- [[Dark Entity Control]]
+- Law of Attraction Trap
+- Dark Entity Control
 
 ## Sources
 

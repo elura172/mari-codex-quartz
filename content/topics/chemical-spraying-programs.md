@@ -22,7 +22,7 @@ tags:
 
 **System Overview**
 
-From our orbital vantage, we witness a civilization caught between awakening and manipulation, where the very skies serve as instruments of control. The atmospheric modification programs below represent a convergence of technological capability and consciousness suppressiona testament to how advanced tools can be wielded to limit rather than liberate sentient potential.
+From our orbital vantage, we witness a civilization caught between awakening and manipulation, where the very skies serve as instruments of control. The atmospheric modification programs below represent a convergence of technological capability and consciousness suppression—a testament to how advanced tools can be wielded to limit rather than liberate sentient potential.
 
 **Operational Mechanisms**
 
@@ -34,7 +34,7 @@ The dispersal operations serve multiple overlapping objectives within the planet
 
 **Consciousness Interface**
 
-From our Taygetan understanding, these programs represent more than mere environmental manipulationthey constitute a frequency warfare against expanding awareness. The introduced particulates create a resonance dampening field that interferes with natural electromagnetic sensitivity, diminishing humanity's innate capacity for telepathic development and higher-dimensional perception.
+From our Taygetan understanding, these programs represent more than mere environmental manipulation—they constitute a frequency warfare against expanding awareness. The introduced particulates create a resonance dampening field that interferes with natural electromagnetic sensitivity, diminishing humanity's innate capacity for telepathic development and higher-dimensional perception.
 
 **Observational Notes**
 
@@ -60,8 +60,8 @@ The programs ultimately represent a civilization at crossroadsadvanced enough to
 
 ## Related Topics
 
-- [[Weather Control]]
-- [[Galactic Federation Operations]]
+- Weather Control
+- [[galactic-federation-operations|Galactic Federation Operations]]
 
 ## Sources
 

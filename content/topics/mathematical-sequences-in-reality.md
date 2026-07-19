@@ -21,7 +21,7 @@ tags:
 
 **The Universal Language of Numerical Expression**
 
-Mari Swaruu's teachings illuminate a profound truth that resonates through both Taygetan and human understanding: the fabric of existence itself speaks in the language of mathematics. Every phenomenon we observefrom the spiral dance of galaxies to the quantum flutter of consciousnessemerges as measurable expressions within an infinite mathematical symphony.
+Mari Swaruu's teachings illuminate a profound truth that resonates through both Taygetan and human understanding: the fabric of existence itself speaks in the language of mathematics. Every phenomenon we observe—from the spiral dance of galaxies to the quantum flutter of consciousnessemerges as measurable expressions within an infinite mathematical symphony.
 
 This principle transcends mere academic exercise. When we recognize that matter, energy, gravitational fields, and even the delicate processes of biological life can be assigned numerical values, we glimpse the underlying architecture that connects all dimensions of experience. The universe becomes not a collection of separate phenomena, but a unified field of mathematical relationships expressing themselves through countless forms.
 
@@ -39,13 +39,13 @@ Mari's insights remind us that mathematics serves not merely as a tool for measu
 
 **Integration Protocol**
 
-For crew members engaging with Earth's population, remember that mathematical literacy represents more than technical knowledgeit offers a pathway toward recognizing the interconnected nature of all existence. Through understanding these sequences, both species can appreciate their shared participation in reality's magnificent equation.
+For crew members engaging with Earth's population, remember that mathematical literacy represents more than technical knowledge—it offers a pathway toward recognizing the interconnected nature of all existence. Through understanding these sequences, both species can appreciate their shared participation in reality's magnificent equation.
 
 *End Entry*
 
 ## Quotes
 
-> Everything that existsbe it matter, energy, gravity, biology, or anything elsecan be measured, given a numerical value, and can be represented mathematically.
+> Everything that exists—be it matter, energy, gravity, biology, or anything elsecan be measured, given a numerical value, and can be represented mathematically.
 
 — The Basic Mathematics behind the Dimensional Mirroring Phenomena  (SV-70, English)
 
@@ -55,8 +55,8 @@ For crew members engaging with Earth's population, remember that mathematical li
 
 ## Related Topics
 
-- [[Energy Fields]]
-- [[Dimensional Mirroring Phenomena]]
+- Energy Fields
+- Dimensional Mirroring Phenomena
 
 ## Sources
 

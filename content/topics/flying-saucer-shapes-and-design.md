@@ -34,7 +34,7 @@ This energetic distribution mirrors the ancient understanding that consciousness
 
 The prevalence of disc-shaped craft across multiple civilizations suggests a form of collective technological intuitionspecies independently arriving at configurations that honor both engineering efficiency and cosmic harmony. Unlike the angular constructs that fight against natural flow, the disc works with universal principles of circulation and balance.
 
-The competing popularity of retrofitted asteroids speaks to a different wisdom: that of working with existing forms rather than imposing purely artificial geometries upon space. Both approachesthe crafted disc and the transformed natural bodyrepresent valid expressions of consciousness adapting matter to serve expanded awareness.
+The competing popularity of retrofitted asteroids speaks to a different wisdom: that of working with existing forms rather than imposing purely artificial geometries upon space. Both approaches—the crafted disc and the transformed natural bodyrepresent valid expressions of consciousness adapting matter to serve expanded awareness.
 
 **Observational Context**
 
@@ -58,8 +58,8 @@ The disc speaks to unity, completion, and the eternal returnprinciples Mari unde
 
 ## Related Topics
 
-- [[Electromagnetic Propulsion]]
-- [[Anti-Gravity Technology]]
+- Electromagnetic Propulsion
+- Anti-Gravity Technology
 
 ## Sources
 

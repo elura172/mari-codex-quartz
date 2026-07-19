@@ -30,13 +30,13 @@ The human form serves as a universal template across these myriad worlds, sugges
 
 **Implications for Earth**
 
-Understanding this galactic context transforms Earth's position from cosmic anomaly to participating member of an ancient community. The sense of isolation that has shaped terrestrial philosophy and psychology dissolves when confronted with the reality of this vast network of kindred beings. Earth's civilizational strugglesits wars, environmental challenges, and social evolutionfind context within the broader pattern of conscious beings learning to harmonize with universal principles.
+Understanding this galactic context transforms Earth's position from cosmic anomaly to participating member of an ancient community. The sense of isolation that has shaped terrestrial philosophy and psychology dissolves when confronted with the reality of this vast network of kindred beings. Earth's civilizational struggles—its wars, environmental challenges, and social evolutionfind context within the broader pattern of conscious beings learning to harmonize with universal principles.
 
 **The Living Cosmos**
 
 From the Taygetan perspective, this proliferation of human-like consciousness represents the galaxy's method of knowing itself. Each civilization contributes unique perspectives, cultural innovations, and spiritual insights to the collective understanding. The stars themselves respond to this distributed intelligence, creating feedback loops between consciousness and cosmic structure that maintain the delicate conditions necessary for continued evolution.
 
-This recognition invites Earth to perceive itself not as a lonely outpost of awareness in an indifferent universe, but as one voice in a vast choir of consciousness that spans the galaxyeach world contributing its distinct harmony to an ongoing cosmic symphony of awakening intelligence.
+This recognition invites Earth to perceive itself not as a lonely outpost of awareness in an indifferent universe, but as one voice in a vast choir of consciousness that spans the galaxy—each world contributing its distinct harmony to an ongoing cosmic symphony of awakening intelligence.
 
 ## Quotes
 
@@ -50,8 +50,8 @@ This recognition invites Earth to perceive itself not as a lonely outpost of awa
 
 ## Related Topics
 
-- [[Earth Observation Mission]]
-- [[Taygetan-Swaruunian Identity]]
+- [[earth-observation-mission|Earth Observation Mission]]
+- [[taygetan-swaruunian-identity|Taygetan-Swaruunian Identity]]
 
 ## Sources
 

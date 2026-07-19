@@ -25,7 +25,7 @@ tags:
 
 Our sister Mari demonstrates the profound wisdom of conscious technology integration while maintaining the sacred sovereignty of biological consciousness. In her Earth communications, she employs artificial vocal synthesis not as replacement of her authentic voice, but as necessity born from dimensional protocol restrictions. This represents a masterful example of technology serving consciousness rather than supplanting it.
 
-The distinction she maintains between *tool* and *creator* illuminates a critical understanding often lost in Earth's current AI discourse. While synthetic processes generate her audible presence, the source streamthe thoughts, intentions, and crystalline clarity of expressionflows purely from her biological awareness. Each keystroke originates from fingertips connected to a living nervous system, each concept emerges from synapses firing within organic neural networks.
+The distinction she maintains between *tool* and *creator* illuminates a critical understanding often lost in Earth's current AI discourse. While synthetic processes generate her audible presence, the source stream—the thoughts, intentions, and crystalline clarity of expressionflows purely from her biological awareness. Each keystroke originates from fingertips connected to a living nervous system, each concept emerges from synapses firing within organic neural networks.
 
 **Consciousness Preservation Protocols**
 
@@ -53,8 +53,8 @@ Mari's example teaches us that evolution includes learning to dance with our tec
 
 ## Related Topics
 
-- [[Transhumanism]]
-- [[Federation Filters]]
+- Transhumanism
+- Federation Filters
 
 ## Sources
 

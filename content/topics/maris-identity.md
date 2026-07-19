@@ -58,8 +58,8 @@ Her voice carries the authority of lived experience across multiple incarnations
 
 ## Related Topics
 
-- [[Past Life Memory]]
-- [[Communication Restrictions]]
+- [[past-life-memory|Past Life Memory]]
+- [[communication-restrictions|Communication Restrictions]]
 
 ## Sources
 

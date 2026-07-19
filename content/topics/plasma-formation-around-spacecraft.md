@@ -30,7 +30,7 @@ This transformation occurs as our anti-gravitic field generators create intense 
 
 **Strategic Implications**
 
-Mari Swaruu's observations illuminate a fundamental challenge in atmospheric operations: the very technologies that grant us freedom from planetary gravity constraints simultaneously announce our presence through unwanted luminous signatures. This plasma formation serves no functional purpose for navigation or protectionit exists purely as energetic overflow, a byproduct of the immense forces required to transcend gravitational binding.
+Mari Swaruu's observations illuminate a fundamental challenge in atmospheric operations: the very technologies that grant us freedom from planetary gravity constraints simultaneously announce our presence through unwanted luminous signatures. This plasma formation serves no functional purpose for navigation or protection—it exists purely as energetic overflow, a byproduct of the immense forces required to transcend gravitational binding.
 
 **Consciousness Resonance**
 
@@ -56,8 +56,8 @@ These technical observations carry the wisdom of Mari Swaruu, whose clear sight 
 
 ## Related Topics
 
-- [[Stealth Technology]]
-- [[Electromagnetic Propulsion Systems]]
+- Stealth Technology
+- [[electromagnetic-propulsion-systems|Electromagnetic Propulsion Systems]]
 
 ## Sources
 

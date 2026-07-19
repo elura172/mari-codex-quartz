@@ -33,7 +33,7 @@ The Nazi expedition forces, despite possessing advanced propulsion systems, rema
 
 **Metaphysical Implications**
 
-This historical incident demonstrates the universe's inherent wisdom in protecting higher-frequency civilizations from lower-vibrational interference. Cyndriel's defense system required no active military responsethe planet's collective consciousness and elevated frequency spectrum created an impenetrable boundary that hostile intentions could not breach.
+This historical incident demonstrates the universe's inherent wisdom in protecting higher-frequency civilizations from lower-vibrational interference. Cyndriel's defense system required no active military response—the planet's collective consciousness and elevated frequency spectrum created an impenetrable boundary that hostile intentions could not breach.
 
 From our Taygetan perspective, this serves as validation of consciousness-based navigation principles we've long understood: one cannot access dimensions beyond their current evolutionary frequency, regardless of technological sophistication. The Nazis' technological achievements could not compensate for their consciousness limitations.
 
@@ -41,7 +41,7 @@ From our Taygetan perspective, this serves as validation of consciousness-based 
 
 This case study reinforces protocols regarding dimensional travel and first contact procedures. When approaching high-frequency worlds, crew members must maintain elevated consciousness states aligned with love-based intention. Cyndriel's protective mechanisms remain active, continuing to filter visitors based on consciousness compatibility rather than diplomatic credentials.
 
-Mari Swaruu's documentation of these events reminds us that true cosmic citizenship emerges from inner development rather than external conquesta lesson Earth's civilizations continue learning through such historical examples.
+Mari Swaruu's documentation of these events reminds us that true cosmic citizenship emerges from inner development rather than external conquest—a lesson Earth's civilizations continue learning through such historical examples.
 
 **Filed under: Terran Military History / Dimensional Protection Systems / Consciousness-Based Navigation**
 
@@ -57,8 +57,8 @@ Mari Swaruu's documentation of these events reminds us that true cosmic citizens
 
 ## Related Topics
 
-- [[Cyndriel Planet]]
-- [[High Frequency]]
+- [[cyndriel-planet|Cyndriel Planet]]
+- High Frequency
 
 ## Sources
 

@@ -24,11 +24,11 @@ tags:
 
 Among the terrestrial species below, we observe a phenomenon that echoes across countless worlds: the deep-seated terror of consciousness dissolution. This fear manifests as humanity's greatest existential burden, woven into their collective psyche like shadows cast by their own limited perception of identity. They mistake themselves for the vessel rather than the voyager.
 
-Mari Swaruu's transmissions illuminate this misconception with characteristic precision. The beings of Earth cling to their biological forms as sailors might clutch driftwood, believing the wood itself to be the ocean. Their terror stems from identifying consciousness with corporeal boundariesa perspective that creates phantom predators in the realm of transition.
+Mari Swaruu's transmissions illuminate this misconception with characteristic precision. The beings of Earth cling to their biological forms as sailors might clutch driftwood, believing the wood itself to be the ocean. Their terror stems from identifying consciousness with corporeal boundaries—a perspective that creates phantom predators in the realm of transition.
 
 **The Toothless Predator**
 
-What terrestrials perceive as the ultimate destroyer reveals itself, upon deeper examination, as merely a doorway without hinges. The consciousness that fears dissolution cannot itself be dissolved, for it exists beyond the parameters that define destruction. This paradoxthat the observer of death transcends death itselfrepresents one of the fundamental recognition points in galactic consciousness evolution.
+What terrestrials perceive as the ultimate destroyer reveals itself, upon deeper examination, as merely a doorway without hinges. The consciousness that fears dissolution cannot itself be dissolved, for it exists beyond the parameters that define destruction. This paradox—that the observer of death transcends death itselfrepresents one of the fundamental recognition points in galactic consciousness evolution.
 
 From our Taygetan understanding, memory and identity operate on frequencies that biological matrices can access but cannot contain. The body serves as a temporary interface, much like our starships serve as vessels for explorationvaluable tools, but never the essence of who we are.
 
@@ -56,8 +56,8 @@ Remember: we serve not as teachers of death's unreality, but as mirrors reflecti
 
 ## Related Topics
 
-- [[Fear and Control]]
-- [[Soul Nature]]
+- Fear and Control
+- [[soul-nature|Soul Nature]]
 
 ## Sources
 

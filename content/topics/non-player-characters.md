@@ -62,7 +62,7 @@ Through this teaching, Mari illuminated the compassionate efficiency of existenc
 
 ## Related Topics
 
-- [[Soul Mission on Earth]]
+- [[soul-mission-on-earth|Soul Mission on Earth]]
 
 ## Sources
 

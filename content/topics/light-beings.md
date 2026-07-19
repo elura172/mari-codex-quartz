@@ -63,9 +63,9 @@ Light beings represent natural evolutionary destinations for all consciousness. 
 
 ## Related Topics
 
-- [[Biological Incarnation]]
-- [[Higher Realms]]
-- [[Consciousness Expansion]]
+- [[biological-incarnation|Biological Incarnation]]
+- [[higher-realms|Higher Realms]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

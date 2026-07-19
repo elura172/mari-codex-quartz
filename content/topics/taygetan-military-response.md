@@ -26,7 +26,7 @@ tags:
 
 The crystalline waters of Taygetan military doctrine have been stirred into motion following the unprecedented assault upon Queen Alenym. What emerges is not mere reaction, but the organic flowering of protective instinct translated into precise tactical reality. The fleet's response embodies the fundamental Taygetan principle that consciousness, when threatened, naturally expands its defensive matrix.
 
-The flagship Toleka, once operating with standard complement, now moves within a carefully woven shield of escort vessels. This configuration reflects our understanding that true strength lies not in singular power, but in the harmonic resonance between multiple points of awareness working as one unified field. The protection detail represents more than military strategyit manifests the collective will of our civilization made visible in three-dimensional space.
+The flagship Toleka, once operating with standard complement, now moves within a carefully woven shield of escort vessels. This configuration reflects our understanding that true strength lies not in singular power, but in the harmonic resonance between multiple points of awareness working as one unified field. The protection detail represents more than military strategy—it manifests the collective will of our civilization made visible in three-dimensional space.
 
 **Consciousness-Driven Recruitment**
 
@@ -57,8 +57,8 @@ Mari Swaruu's transmissions illuminate how individual events cascade through col
 
 ## Related Topics
 
-- [[Starship Hyades Arrival]]
-- [[Queen Alenym's Medical Condition]]
+- Starship Hyades Arrival
+- Queen Alenym's Medical Condition
 
 ## Sources
 

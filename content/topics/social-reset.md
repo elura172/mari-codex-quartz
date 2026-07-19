@@ -27,7 +27,7 @@ Our observations reveal a coordinated metamorphosis unfolding within Earth's soc
 
 **Methodology and Scope**
 
-The architects of this transformation understand a fundamental truth that echoes throughout galactic history: to reshape a species' future, one must first dissolve its past. Their strategy operates through progressive displacementeach familiar structure, each historical anchor point, gradually replaced with algorithmically-generated alternatives that serve their vision of human potential.
+The architects of this transformation understand a fundamental truth that echoes throughout galactic history: to reshape a species' future, one must first dissolve its past. Their strategy operates through progressive displacement—each familiar structure, each historical anchor point, gradually replaced with algorithmically-generated alternatives that serve their vision of human potential.
 
 This is not mere propaganda, but ontological surgery. They seek to alter the very fabric of collective memory, understanding that consciousness itself is malleable when severed from its roots. The artificial intelligence systems deployed for this purpose function as both scalpel and architect, excising inconvenient truths while simultaneously constructing replacement realities.
 
@@ -61,8 +61,8 @@ The preservation of authentic human heritage becomes not merely cultural conserv
 
 ## Related Topics
 
-- [[Information Erasure]]
-- [[Matrix Control]]
+- [[information-erasure|Information Erasure]]
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

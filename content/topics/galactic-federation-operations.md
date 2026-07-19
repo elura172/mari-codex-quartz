@@ -78,8 +78,8 @@ This intelligence synthesis honors Mari Swaruu's commitment to transparent analy
 
 ## Related Topics
 
-- [[Weather Control Technology]]
-- [[UFO Operations]]
+- [[weather-control-technology|Weather Control Technology]]
+- [[ufo-operations|UFO Operations]]
 
 ## Sources
 

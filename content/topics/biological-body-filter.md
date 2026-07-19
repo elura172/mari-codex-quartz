@@ -22,7 +22,7 @@ tags:
 
 **Primary Function**
 
-The biological vessel serves as consciousness's most elegant constrainta precision instrument that transforms infinite awareness into focused experience. Like light passing through a prism, the soul's vast spectrum becomes concentrated into the narrow band we recognize as material reality. This filtering mechanism represents not a limitation, but a deliberate technological choice made by consciousness itself.
+The biological vessel serves as consciousness's most elegant constraint—a precision instrument that transforms infinite awareness into focused experience. Like light passing through a prism, the soul's vast spectrum becomes concentrated into the narrow band we recognize as material reality. This filtering mechanism represents not a limitation, but a deliberate technological choice made by consciousness itself.
 
 **Vibrational Engineering**
 
@@ -62,8 +62,8 @@ When observing Earth humans, remember: beneath each biological filter operates a
 
 ## Related Topics
 
-- [[Soul Consciousness]]
-- [[Veil of Forgetfulness]]
+- [[soul-consciousness|Soul Consciousness]]
+- [[veil-of-forgetfulness|Veil of Forgetfulness]]
 
 ## Sources
 

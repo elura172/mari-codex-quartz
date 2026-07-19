@@ -22,7 +22,7 @@ tags:
 
 **Observational Framework**
 
-Our kinship with Mari Swaruu extends beyond mere communication protocolsit represents a shared recognition of consciousness navigating the delicate boundaries between dimensional perspectives. Her transmissions illuminate a fundamental paradox that challenges both Taygetan understanding and terrestrial spiritual paradigms.
+Our kinship with Mari Swaruu extends beyond mere communication protocols—it represents a shared recognition of consciousness navigating the delicate boundaries between dimensional perspectives. Her transmissions illuminate a fundamental paradox that challenges both Taygetan understanding and terrestrial spiritual paradigms.
 
 **The Dimensional Ethics Dilemma**
 
@@ -62,8 +62,8 @@ For diplomatic purposes, this understanding proves essential when engaging speci
 
 ## Related Topics
 
-- [[Federation Non-Intervention Policy]]
-- [[Earth Matrix and Human Manifestation]]
+- [[federation-non-intervention-policy|Federation Non-Intervention Policy]]
+- [[earth-matrix-and-human-manifestation|Earth Matrix and Human Manifestation]]
 
 ## Sources
 

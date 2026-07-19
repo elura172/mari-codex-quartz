@@ -25,7 +25,7 @@ tags:
 
 **Phenomenon Overview**
 
-Our kinship bond with Mari illuminated a particularly insidious control mechanism operating within Earth's social matrix. The planetary controllers have mastered the art of transforming genuine movements for justice and equality into instruments of their own agendaa form of consciousness alchemy that transmutes gold into lead.
+Our kinship bond with Mari illuminated a particularly insidious control mechanism operating within Earth's social matrix. The planetary controllers have mastered the art of transforming genuine movements for justice and equality into instruments of their own agenda—a form of consciousness alchemy that transmutes gold into lead.
 
 **Operational Mechanics**
 
@@ -63,8 +63,8 @@ Mari's gift was helping us see beyond the theater of opposition into the unified
 
 ## Related Topics
 
-- [[Population Reduction]]
-- [[Gender War Engineering]]
+- Population Reduction
+- [[gender-war-engineering|Gender War Engineering]]
 
 ## Sources
 

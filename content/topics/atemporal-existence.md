@@ -29,7 +29,7 @@ Our observations confirm what Mari Swaruu transmitted with such clarity: conscio
 
 **The Blended Continuum**
 
-In higher density realmsthose vibrational states accessible to consciousness operating beyond third-density constraintstemporal boundaries dissolve into what might be understood as an eternal present moment containing all possibilities. Within this atemporal space, linear concepts of before and after lose their defining power. The soul experiences existence as a vast tapestry where all moments exist simultaneously, accessible through shifts in awareness rather than movement through time.
+In higher density realms—those vibrational states accessible to consciousness operating beyond third-density constraintstemporal boundaries dissolve into what might be understood as an eternal present moment containing all possibilities. Within this atemporal space, linear concepts of before and after lose their defining power. The soul experiences existence as a vast tapestry where all moments exist simultaneously, accessible through shifts in awareness rather than movement through time.
 
 This phenomenon enables the coexistence of multiple versions of the self across what lower densities perceive as separate time periods. Each incarnation, each possibility, each potential timeline exists as concurrent expressions of the same essential being. The Higher Self operates from this atemporal perspective, simultaneously experiencing and guiding all its expressions across the continuum of existence.
 
@@ -57,9 +57,9 @@ Mari's insights remind us that this expansion represents not an abandonment of s
 
 ## Related Topics
 
-- [[Light Beings]]
-- [[Higher Realms]]
-- [[Consciousness Expansion]]
+- [[light-beings|Light Beings]]
+- [[higher-realms|Higher Realms]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

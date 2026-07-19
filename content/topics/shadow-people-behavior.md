@@ -63,8 +63,8 @@ Personnel encountering similar phenomena during surface operations should mainta
 
 ## Related Topics
 
-- [[Galactic Federation Classification]]
-- [[Interaction with Humans]]
+- [[galactic-federation-classification|Galactic Federation Classification]]
+- [[interaction-with-humans|Interaction with Humans]]
 
 ## Sources
 

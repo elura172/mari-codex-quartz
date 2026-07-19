@@ -40,7 +40,7 @@ From our Taygetan understanding, consciousness creates reality through focused a
 
 **Strategic Implications**
 
-This terrestrial conflict paradigm reveals that Earth's challenges require internal resolution rather than external salvation. The fractured nature of human civilizationits wars, inequalities, and environmental destructionstems from choices made within their own systems of governance, economics, and social organization. No galactic cavalry rides to their rescue because the healing must emerge from their own conscious evolution.
+This terrestrial conflict paradigm reveals that Earth's challenges require internal resolution rather than external salvation. The fractured nature of human civilization—its wars, inequalities, and environmental destructionstems from choices made within their own systems of governance, economics, and social organization. No galactic cavalry rides to their rescue because the healing must emerge from their own conscious evolution.
 
 **Crew Advisory**
 
@@ -62,8 +62,8 @@ Personnel engaging with Earth-based consciousness should recognize this projecti
 
 ## Related Topics
 
-- [[Earth Matrix and Human Manifestation]]
-- [[New Age Distortion and Religious Control]]
+- [[earth-matrix-and-human-manifestation|Earth Matrix and Human Manifestation]]
+- [[new-age-distortion-and-religious-control|New Age Distortion and Religious Control]]
 
 ## Sources
 

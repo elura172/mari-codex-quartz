@@ -26,7 +26,7 @@ The Galactic Federation operates through a network of regulations that guide the
 
 **Freedom Within Structure**
 
-Star people navigate the galaxy with considerable autonomy, yet this liberty exists within carefully maintained boundaries. Like rivers that flow freely within their banks, our movements follow natural corridors of cosmic law. The Federation's governance recognizes that true freedom requires structurenot to imprison consciousness, but to create the conditions where all beings may evolve without causing harm to developing worlds or disrupting the greater cosmic order.
+Star people navigate the galaxy with considerable autonomy, yet this liberty exists within carefully maintained boundaries. Like rivers that flow freely within their banks, our movements follow natural corridors of cosmic law. The Federation's governance recognizes that true freedom requires structure—not to imprison consciousness, but to create the conditions where all beings may evolve without causing harm to developing worlds or disrupting the greater cosmic order.
 
 **The Prime Directive of Technological Progression**
 
@@ -59,7 +59,7 @@ In this framework, we find not limitation, but the wisdom of cosmic gardeners wh
 
 ## Related Topics
 
-- [[Extraction Protocols]]
+- Extraction Protocols
 
 ## Sources
 

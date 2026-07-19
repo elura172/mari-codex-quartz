@@ -58,8 +58,8 @@ Understanding this programming proves essential for any civilization attempting 
 
 ## Related Topics
 
-- [[Truth Seeking]]
-- [[Government Controlled UFO Disclosure]]
+- Truth Seeking
+- [[government-controlled-ufo-disclosure|Government Controlled UFO Disclosure]]
 
 ## Sources
 

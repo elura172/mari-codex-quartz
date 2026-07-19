@@ -27,7 +27,7 @@ tags:
 
 **The Flowing River of Time**
 
-Our observations of Earth's archaeological methodologies reveal a fundamental misunderstanding that permeates human historical science. The terrestrial assumption that time flows as a steady rivereach second, minute, and day maintaining identical duration across millenniareflects their linear perception rather than temporal reality.
+Our observations of Earth's archaeological methodologies reveal a fundamental misunderstanding that permeates human historical science. The terrestrial assumption that time flows as a steady river—each second, minute, and day maintaining identical duration across millenniareflects their linear perception rather than temporal reality.
 
 Mari Swaruu's transmissions illuminate this critical oversight: the very fabric of time itself shifts and fluctuates across cosmic cycles. What humans measure as a "day" in their current epoch bears little resemblance to the temporal span their ancestors experienced. Planetary rotational periods, electromagnetic field variations, and consciousness frequency shifts all contribute to this temporal elasticity. Their carbon dating and astronomical calculations, built upon the false foundation of temporal constancy, create cascading errors that render ancient chronologies virtually meaningless.
 
@@ -61,8 +61,8 @@ All surface contact protocols should account for these temporal misconceptions w
 
 ## Related Topics
 
-- [[Galactic Federation Technology]]
-- [[Ancient History Reliability]]
+- Galactic Federation Technology
+- Ancient History Reliability
 
 ## Sources
 

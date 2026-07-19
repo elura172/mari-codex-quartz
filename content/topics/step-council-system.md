@@ -36,7 +36,7 @@ The beauty of this approach lies in its voluntary nature. Members serve not from
 
 **Operational Dynamics**
 
-When a local council encounters challenges exceeding their capacitywhether resource limitations, jurisdictional complexities, or matters requiring specialized knowledgethey naturally reach upward to the next level. This creates a responsive network where problems find their appropriate resolution point without unnecessary bureaucratic interference.
+When a local council encounters challenges exceeding their capacitywhether resource limitations, jurisdictional complexities, or matters requiring specialized knowledge—they naturally reach upward to the next level. This creates a responsive network where problems find their appropriate resolution point without unnecessary bureaucratic interference.
 
 The ascending structure might flow from neighborhood councils to city assemblies, then regional gatherings, planetary bodies, and ultimately to stellar or galactic confederations. Each level maintains its distinct function while remaining connected to the greater whole.
 
@@ -69,7 +69,7 @@ Mari's transmissions reveal how advanced societies have discovered that true aut
 
 ## Related Topics
 
-- [[Federation Council Structure]]
+- Federation Council Structure
 
 ## Sources
 

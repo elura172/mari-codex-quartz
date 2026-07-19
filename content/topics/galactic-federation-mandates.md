@@ -59,8 +59,8 @@ The mandate illuminates the complex dance between respecting planetary sovereign
 
 ## Related Topics
 
-- [[Operational Limitations]]
-- [[Human Identity Cards]]
+- Operational Limitations
+- [[human-identity-cards|Human Identity Cards]]
 
 ## Sources
 

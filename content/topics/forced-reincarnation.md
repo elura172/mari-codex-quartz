@@ -45,7 +45,7 @@ Many terrestrial souls unknowingly participate in forced reincarnation through f
 
 **Strategic Assessment**
 
-This intelligence suggests that liberation from involuntary incarnation cycles represents not a battle to be fought, but a state of being to be embodied. The power remains entirely within the individual consciousnessno external force can compel a soul that maintains perfect internal alignment and refuses consent through vibrational incongruence.
+This intelligence suggests that liberation from involuntary incarnation cycles represents not a battle to be fought, but a state of being to be embodied. The power remains entirely within the individual consciousness—no external force can compel a soul that maintains perfect internal alignment and refuses consent through vibrational incongruence.
 
 Mari's transmission illuminates a fundamental truth: the perceived imprisonment exists only where consciousness has forgotten its own authority. Remembrance dissolves the illusion of powerlessness.
 
@@ -65,9 +65,9 @@ Mari's transmission illuminates a fundamental truth: the perceived imprisonment 
 
 ## Related Topics
 
-- [[Soul Definition]]
-- [[Matrix Control]]
-- [[Veil of Forgetfulness]]
+- [[soul-definition|Soul Definition]]
+- [[matrix-control|Matrix Control]]
+- [[veil-of-forgetfulness|Veil of Forgetfulness]]
 
 ## Sources
 

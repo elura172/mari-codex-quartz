@@ -39,7 +39,7 @@ The deeper implication extends beyond mere tracking. Electric systems create ele
 
 **Taygetan Perspective**
 
-From our observation protocols, we recognize this as consciousness compressiona phenomenon where expansive awareness becomes channeled through increasingly narrow technological apertures. In contrast, evolved civilizations develop technology that amplifies rather than constrains conscious potential.
+From our observation protocols, we recognize this as consciousness compression—a phenomenon where expansive awareness becomes channeled through increasingly narrow technological apertures. In contrast, evolved civilizations develop technology that amplifies rather than constrains conscious potential.
 
 **Implications for Intervention Protocols**
 
@@ -64,8 +64,8 @@ Continued monitoring of technological adoption patterns will reveal the trajecto
 
 ## Related Topics
 
-- [[Artificial Intelligence Deception]]
-- [[Attention Span Manipulation]]
+- [[artificial-intelligence-deception|Artificial Intelligence Deception]]
+- [[attention-span-manipulation|Attention Span Manipulation]]
 
 ## Sources
 

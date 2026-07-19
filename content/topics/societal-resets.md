@@ -27,7 +27,7 @@ tags:
 
 **Nature of the Phenomenon**
 
-From our orbital observation post, we witness a recurring pattern in Earth's civilizational cycles that Mari Swaruu illuminated with characteristic clarity. When the mechanisms of social control begin to fracturewhen the carefully constructed illusions that maintain hierarchical power structures start dissolving under the weight of collective awakeningthose who orchestrate planetary governance resort to a drastic measure: the complete erasure and reconstruction of civilization itself.
+From our orbital observation post, we witness a recurring pattern in Earth's civilizational cycles that Mari Swaruu illuminated with characteristic clarity. When the mechanisms of social control begin to fracturewhen the carefully constructed illusions that maintain hierarchical power structures start dissolving under the weight of collective awakening—those who orchestrate planetary governance resort to a drastic measure: the complete erasure and reconstruction of civilization itself.
 
 **The Threshold Point**
 
@@ -63,8 +63,8 @@ Our present monitoring suggests Earth approaches another such threshold. The acc
 
 ## Related Topics
 
-- [[Matrix Formation]]
-- [[Memory Erasure]]
+- [[matrix-formation|Matrix Formation]]
+- [[memory-erasure|Memory Erasure]]
 
 ## Sources
 

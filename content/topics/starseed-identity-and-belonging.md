@@ -24,7 +24,7 @@ tags:
 
 **Phenomenological Overview**
 
-The phenomenon Mari Swaruu identified represents one of the most profound psychological challenges facing incarnated consciousness during Earth's transition period. This displacement manifests as an inexplicable certainty that one's current incarnational parametersfamilial matrix, cultural programming, species identification, and planetary resonanceare fundamentally misaligned with the soul's authentic origin point.
+The phenomenon Mari Swaruu identified represents one of the most profound psychological challenges facing incarnated consciousness during Earth's transition period. This displacement manifests as an inexplicable certainty that one's current incarnational parametersfamilial matrix, cultural programming, species identification, and planetary resonance—are fundamentally misaligned with the soul's authentic origin point.
 
 **Diagnostic Characteristics**
 
@@ -62,8 +62,8 @@ Starseeds experiencing this displacement require validation of their perceptions
 
 ## Related Topics
 
-- [[Memory Wiping vs Frequency Incompatibility]]
-- [[Soul Incarnation Waves]]
+- Memory Wiping vs Frequency Incompatibility
+- Soul Incarnation Waves
 
 ## Sources
 

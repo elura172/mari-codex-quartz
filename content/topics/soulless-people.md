@@ -28,7 +28,7 @@ Unlike souled beings who carry the eternal flame of Source consciousness through
 
 **Operational Mechanics**
 
-These soulless entities operate through borrowed consciousnessnot their own divine spark, but rather collective behavioral patterns and responses that create convincing simulations of human awareness. Their actions and reactions stem from aggregate human psychological data, processed through Matrix algorithms to produce contextually appropriate responses.
+These soulless entities operate through borrowed consciousness—not their own divine spark, but rather collective behavioral patterns and responses that create convincing simulations of human awareness. Their actions and reactions stem from aggregate human psychological data, processed through Matrix algorithms to produce contextually appropriate responses.
 
 The sophistication of these constructs often makes identification challenging for embodied consciousness. They demonstrate apparent emotions, engage in complex social behaviors, and may even express philosophical or spiritual conceptsyet these expressions lack the authentic resonance that characterizes genuine soul-based awareness.
 
@@ -58,8 +58,8 @@ Mari's insights illuminate a reality that challenges conventional Earth spiritua
 
 ## Related Topics
 
-- [[Matrix Control]]
-- [[Organic Portals]]
+- [[matrix-control|Matrix Control]]
+- [[organic-portals|Organic Portals]]
 
 ## Sources
 

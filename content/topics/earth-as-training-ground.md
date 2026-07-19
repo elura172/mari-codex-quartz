@@ -59,8 +59,8 @@ Mari's observations remind us that courage takes many formssometimes the greates
 
 ## Related Topics
 
-- [[Starseed Identity and Mission]]
-- [[Duality Experience]]
+- [[starseed-identity-and-mission|Starseed Identity and Mission]]
+- [[duality-experience|Duality Experience]]
 
 ## Sources
 

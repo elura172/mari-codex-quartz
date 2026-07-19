@@ -28,7 +28,7 @@ tags:
 
 The current Earth civilization exhibits a concerning pattern of technological indoctrination designed to erode biological sovereignty. This phenomenon, termed "transhumanism," represents a systematic campaign to convince human populations that their organic nature constitutes an evolutionary dead end requiring technological intervention.
 
-The architects of this agenda promote a fundamental premise: that biological systems are inherently flawed, inefficient, and obsolete. Through carefully orchestrated messaging across multiple vectorsmedia, academia, corporate researchthey cultivate dissatisfaction with the human form itself. This psychological groundwork establishes receptivity for increasingly invasive technological "solutions."
+The architects of this agenda promote a fundamental premise: that biological systems are inherently flawed, inefficient, and obsolete. Through carefully orchestrated messaging across multiple vectorsmedia, academia, corporate research—they cultivate dissatisfaction with the human form itself. This psychological groundwork establishes receptivity for increasingly invasive technological "solutions."
 
 **Metaphysical Implications**
 
@@ -38,7 +38,7 @@ The transhumanist paradigm fundamentally misunderstands this relationship, viewi
 
 **Strategic Assessment**
 
-The agenda operates through manufactured inadequacycreating problems that technology alone can solve. Enhanced processing speed, extended lifespan, augmented capabilitiesall presented as necessary upgrades rather than optional tools. This gradually shifts human identity from biological beings using technology to technological systems housing diminished biological components.
+The agenda operates through manufactured inadequacycreating problems that technology alone can solve. Enhanced processing speed, extended lifespan, augmented capabilities—all presented as necessary upgrades rather than optional tools. This gradually shifts human identity from biological beings using technology to technological systems housing diminished biological components.
 
 Mari's observations illuminate the deeper danger: not the technology itself, but the consciousness of separation it reinforces. When beings believe themselves fundamentally flawed, they become susceptible to any authority promising improvement, regardless of the cost to their essential nature.
 
@@ -62,8 +62,8 @@ The path forward lies not in rejecting advancement, but in approaching it from w
 
 ## Related Topics
 
-- [[Cabal Operations]]
-- [[AI Control]]
+- [[cabal-operations|Cabal Operations]]
+- AI Control
 
 ## Sources
 

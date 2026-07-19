@@ -29,7 +29,7 @@ Within the labyrinthine corridors of Earth's governmental structures, pockets of
 
 **Intelligence Synthesis**
 
-These shadow-dwellers, long relegated to the folklore margins of human consciousness, occupy official recognition within highly restricted alien race compendiums. Such documentation represents a singular acknowledgment within Earth's bureaucratic frameworksthe only institutional validation of their off-world origins. This creates a fascinating dichotomy: while civilian populations interpret Shadow People through mythological or psychological lenses, certain governmental echelons operate from empirical knowledge of their interstellar nature.
+These shadow-dwellers, long relegated to the folklore margins of human consciousness, occupy official recognition within highly restricted alien race compendiums. Such documentation represents a singular acknowledgment within Earth's bureaucratic frameworks—the only institutional validation of their off-world origins. This creates a fascinating dichotomy: while civilian populations interpret Shadow People through mythological or psychological lenses, certain governmental echelons operate from empirical knowledge of their interstellar nature.
 
 **Operational Implications**
 
@@ -43,7 +43,7 @@ From our elevated vantage, we observe how truth fragments across consciousness l
 
 When conducting surface operations or diplomatic overtures, acknowledge that certain terrestrial authorities possess deeper understanding than their public positions indicate. These shadow acknowledgments within official channels may prove valuable in future contact protocols.
 
-Mari's insights illuminate how consciousness expansion occurs through multiple vectors simultaneouslyofficial recognition preceding social acceptance, truth filtering through power structures before reaching collective awareness. The Shadow People's dual existenceas classified reality and cultural mysteryexemplifies humanity's transitional state between planetary isolation and cosmic citizenship.
+Mari's insights illuminate how consciousness expansion occurs through multiple vectors simultaneouslyofficial recognition preceding social acceptance, truth filtering through power structures before reaching collective awareness. The Shadow People's dual existence—as classified reality and cultural mysteryexemplifies humanity's transitional state between planetary isolation and cosmic citizenship.
 
 **End Log**
 
@@ -61,8 +61,8 @@ Mari's insights illuminate how consciousness expansion occurs through multiple v
 
 ## Related Topics
 
-- [[Detection Methods]]
-- [[Shadow People as Extraterrestrial Race]]
+- [[detection-methods|Detection Methods]]
+- [[shadow-people-as-extraterrestrial-race|Shadow People as Extraterrestrial Race]]
 
 ## Sources
 

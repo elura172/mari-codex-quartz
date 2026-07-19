@@ -27,7 +27,7 @@ tags:
 
 **Kinetic Expression and Spatial Freedom**
 
-Within the confined geometries of starship existence, Mari has developed sophisticated methods for maintaining psychological equilibrium through kinetic engagement. The expansive lower hangar deck serves as her chosen sanctuarya liminal space where Earth-origin vehicles become instruments of liberation rather than mere transportation. Her preference for human-manufactured motorcycles and automobiles represents more than recreational activity; it constitutes a bridge between civilizations through mechanical symbiosis.
+Within the confined geometries of starship existence, Mari has developed sophisticated methods for maintaining psychological equilibrium through kinetic engagement. The expansive lower hangar deck serves as her chosen sanctuary—a liminal space where Earth-origin vehicles become instruments of liberation rather than mere transportation. Her preference for human-manufactured motorcycles and automobiles represents more than recreational activity; it constitutes a bridge between civilizations through mechanical symbiosis.
 
 The circular patterns she traces at velocity suggest deeper metaphysical principles at work. In Taygetan understanding, repetitive motion creates energetic spirals that harmonize consciousness with physical reality. Her high-speed circuits transform mechanical space into sacred geometry, each revolution dissolving the accumulated tensions of interdimensional diplomatic service.
 
@@ -61,8 +61,8 @@ For crew members engaged in extended Earth observation missions, Mari's adaptive
 
 ## Related Topics
 
-- [[Isolation and Loneliness]]
-- [[Living Quarters and Amenities]]
+- [[isolation-and-loneliness|Isolation and Loneliness]]
+- [[living-quarters-and-amenities|Living Quarters and Amenities]]
 
 ## Sources
 

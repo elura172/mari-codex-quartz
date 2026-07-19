@@ -60,9 +60,9 @@ The preservation of innocence represents a cornerstone of evolved civilizations.
 
 ## Related Topics
 
-- [[Alien Abductions]]
-- [[Galactic Federation Response]]
-- [[Security Threats]]
+- Alien Abductions
+- [[galactic-federation-response|Galactic Federation Response]]
+- Security Threats
 
 ## Sources
 

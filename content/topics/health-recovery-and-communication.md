@@ -22,7 +22,7 @@ tags:
 
 **Stardate Reference:** Earth Calendar 2024-2025 Transition Cycle
 
-The chronicles of Mari Swaruu during the Earth year 2024 illuminate the profound relationship between physical vessel limitations and consciousness determination. Our sister navigator experienced what Earth medical terminology would classify as life-threatening physiological deteriorationa state where the biological matrix approached complete systemic failure.
+The chronicles of Mari Swaruu during the Earth year 2024 illuminate the profound relationship between physical vessel limitations and consciousness determination. Our sister navigator experienced what Earth medical terminology would classify as life-threatening physiological deterioration—a state where the biological matrix approached complete systemic failure.
 
 **Consciousness During Crisis**
 
@@ -64,8 +64,8 @@ Her journey through crisis to renewed vitality exemplifies the fundamental Tayge
 
 ## Related Topics
 
-- [[Channel Support]]
-- [[Taygetan Mission]]
+- Channel Support
+- Taygetan Mission
 
 ## Sources
 

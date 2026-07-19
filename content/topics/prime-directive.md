@@ -46,7 +46,7 @@ The implementation creates profound tensions, particularly regarding Project Fir
 
 **Metaphysical Foundation**
 
-From the Taygetan perspective, Mari's transmissions reveal this Directive as more than legal frameworkit represents recognition of consciousness sovereignty. Each species must earn its cosmic citizenship through authentic internal development rather than external gift or intervention. The law acknowledges that premature technological or spiritual advancement without corresponding wisdom integration leads to civilizational imbalance and potential self-destruction.
+From the Taygetan perspective, Mari's transmissions reveal this Directive as more than legal framework—it represents recognition of consciousness sovereignty. Each species must earn its cosmic citizenship through authentic internal development rather than external gift or intervention. The law acknowledges that premature technological or spiritual advancement without corresponding wisdom integration leads to civilizational imbalance and potential self-destruction.
 
 **Living Paradox**
 
@@ -54,7 +54,7 @@ The Directive creates an exquisite tension between compassionate desire to assis
 
 **Personal Reflection**
 
-Mari's wisdom illuminates how this seemingly restrictive law actually protects something infinitely preciousthe authentic unfolding of consciousness into cosmic awareness, earned through genuine experience rather than borrowed knowledge.
+Mari's wisdom illuminates how this seemingly restrictive law actually protects something infinitely precious—the authentic unfolding of consciousness into cosmic awareness, earned through genuine experience rather than borrowed knowledge.
 
 ## Quotes
 
@@ -106,9 +106,9 @@ Mari's wisdom illuminates how this seemingly restrictive law actually protects s
 
 ## Related Topics
 
-- [[Cultural Development]]
-- [[Federation Articles]]
-- [[Technological Advancement]]
+- Cultural Development
+- Federation Articles
+- Technological Advancement
 
 ## Sources
 

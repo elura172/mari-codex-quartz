@@ -58,8 +58,8 @@ True intelligence lies not in analyzing every signal that reaches our awareness,
 
 ## Related Topics
 
-- [[False People Concept]]
-- [[Personal Boundaries]]
+- [[false-people-concept|False People Concept]]
+- [[personal-boundaries|Personal Boundaries]]
 
 ## Sources
 

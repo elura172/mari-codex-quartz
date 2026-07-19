@@ -56,8 +56,8 @@ The Federation stands as living proof that evolution's highest expression lies n
 
 ## Related Topics
 
-- [[Galactic Politics]]
-- [[Space Cats]]
+- Galactic Politics
+- Space Cats
 
 ## Sources
 

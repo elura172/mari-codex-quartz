@@ -26,7 +26,7 @@ A troubling pattern has emerged in our essential communication pathways linking 
 
 **Pattern Analysis**
 
-Four distinct interruptions have manifested, each following similar trajectories of sudden severance followed by prolonged restoration periods. These incidents represent more than mere technical failuresthey illuminate the delicate web of dependencies that govern interstellar communication protocols. When information flows cease, entire diplomatic and observational missions find themselves isolated, cut from the vital pulse of planetary consciousness that guides our understanding of human evolutionary processes.
+Four distinct interruptions have manifested, each following similar trajectories of sudden severance followed by prolonged restoration periods. These incidents represent more than mere technical failures—they illuminate the delicate web of dependencies that govern interstellar communication protocols. When information flows cease, entire diplomatic and observational missions find themselves isolated, cut from the vital pulse of planetary consciousness that guides our understanding of human evolutionary processes.
 
 **Administrative Response Patterns**
 
@@ -58,7 +58,7 @@ Mari's observations illuminate how even advanced civilizations must navigate the
 
 ## Related Topics
 
-- [[Federation Distrust]]
+- [[federation-distrust|Federation Distrust]]
 
 ## Sources
 

@@ -30,13 +30,13 @@ This phenomenon resembles the way a prism fragments white light into distinct co
 
 Mari's insights reveal that what we commonly understand as individual identity stems from these specific perceptual limitations. The soul's range of awareness acts as both filter and lens, determining not only what can be perceived but how that perception is processed and integrated. This creates the fundamental architecture for personality, experience, and growth.
 
-From our Taygetan perspective, we recognize this as the mechanism through which Source explores its infinite potentialeach soul serving as a unique experiment in consciousness, gathering experiential data that enriches the collective understanding of existence. The apparent separation is therefore not a limitation to be overcome, but a necessary tool for expansion.
+From our Taygetan perspective, we recognize this as the mechanism through which Source explores its infinite potential—each soul serving as a unique experiment in consciousness, gathering experiential data that enriches the collective understanding of existence. The apparent separation is therefore not a limitation to be overcome, but a necessary tool for expansion.
 
 **Differentiation Through Attention Points**
 
 The varying points of attention within each soul's perceptual range create the subtle differences that distinguish one consciousness from another. Like instruments in a cosmic orchestra, each soul contributes its unique harmonic signature to the greater symphony of existence.
 
-This understanding carries profound implications for interstellar relations. When we encounter other beingswhether terrestrial humans or fellow galactic civilizationswe are essentially meeting different perceptual experiments of the same Source consciousness. This recognition naturally cultivates both respect for diversity and awareness of fundamental unity.
+This understanding carries profound implications for interstellar relations. When we encounter other beingswhether terrestrial humans or fellow galactic civilizations—we are essentially meeting different perceptual experiments of the same Source consciousness. This recognition naturally cultivates both respect for diversity and awareness of fundamental unity.
 
 **Implications for Consciousness Evolution**
 
@@ -59,9 +59,9 @@ This framework provides crucial context for our mission parameters regarding Ear
 
 ## Related Topics
 
-- [[Biological Body Filter]]
-- [[Consciousness Expansion]]
-- [[Higher Self]]
+- [[biological-body-filter|Biological Body Filter]]
+- [[consciousness-expansion|Consciousness Expansion]]
+- [[higher-self|Higher Self]]
 
 ## Sources
 

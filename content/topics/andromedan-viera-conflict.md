@@ -38,7 +38,7 @@ When the concealed force revealed itself, Taygetan personnel encountered not mer
 
 **Metaphysical Implications**
 
-From our expanded consciousness perspective, this conflict represents more than territorial disputeit embodies the collision between expansive, life-honoring civilizations and contractive, control-based entities. The choice of the Viera as a battleground was itself symbolic: corrupting a vessel dedicated to preservation and growth, turning sanctuary into siege.
+From our expanded consciousness perspective, this conflict represents more than territorial dispute—it embodies the collision between expansive, life-honoring civilizations and contractive, control-based entities. The choice of the Viera as a battleground was itself symbolic: corrupting a vessel dedicated to preservation and growth, turning sanctuary into siege.
 
 **Strategic Assessment**
 
@@ -48,7 +48,7 @@ Mari's accounts reveal how Earth's controlling factions have learned to weaponiz
 
 This incident serves as crucial intelligence for all Federation vessels: the corruption emanating from certain Earth power structures has metastasized beyond planetary boundaries. Their willingness to violate the sanctity of biosphere vessels indicates a level of consciousness degradation that poses existential risk to peaceful galactic communities.
 
-The Viera conflict stands as both warning and awakeninga stark reminder that expansion of awareness must be balanced with discernment and appropriate defensive capabilities.
+The Viera conflict stands as both warning and awakening—a stark reminder that expansion of awareness must be balanced with discernment and appropriate defensive capabilities.
 
 **Status: Active Monitoring Required**
 
@@ -66,8 +66,8 @@ The Viera conflict stands as both warning and awakeninga stark reminder that exp
 
 ## Related Topics
 
-- [[Cabal Operations]]
-- [[Galactic Federation Takeover]]
+- [[cabal-operations|Cabal Operations]]
+- Galactic Federation Takeover
 
 ## Sources
 

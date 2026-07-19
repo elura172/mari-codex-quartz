@@ -19,8 +19,8 @@ sources:
 
 ## Related Topics
 
-- [[Cabal Rituals and Solar Activity]]
-- [[Cabal Rituals]]
+- Cabal Rituals and Solar Activity
+- Cabal Rituals
 
 ## Summary
 

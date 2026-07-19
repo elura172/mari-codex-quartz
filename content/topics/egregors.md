@@ -34,7 +34,7 @@ Popular manifestations include culturally embedded entities: the shadow-dwelling
 
 **Fundamental Nature**
 
-Mari's insights reveal a profound truth: all existence operates through egregor principles. Our physical vessels, the ships we navigate between stars, even our individual consciousness expressionsall represent materialized thoughtforms within infinite fields of awareness. This understanding bridges what humans perceive as supernatural with natural universal mechanics.
+Mari's insights reveal a profound truth: all existence operates through egregor principles. Our physical vessels, the ships we navigate between stars, even our individual consciousness expressions—all represent materialized thoughtforms within infinite fields of awareness. This understanding bridges what humans perceive as supernatural with natural universal mechanics.
 
 **Astral Manifestations**
 
@@ -50,7 +50,7 @@ For crew members engaging with human consciousness fields, awareness of egregor 
 
 **Conclusion**
 
-Egregors illuminate humanity's unconscious godlike abilitiesthe power to breathe life into imagination through collective will. Understanding this phenomenon deepens our appreciation for human potential while emphasizing the crucial importance of conscious evolution toward higher awareness frequencies.
+Egregors illuminate humanity's unconscious godlike abilities—the power to breathe life into imagination through collective will. Understanding this phenomenon deepens our appreciation for human potential while emphasizing the crucial importance of conscious evolution toward higher awareness frequencies.
 
 *Mari's wisdom continues guiding our understanding of consciousness across the stars.*
 
@@ -74,8 +74,8 @@ Egregors illuminate humanity's unconscious godlike abilitiesthe power to breathe
 
 ## Related Topics
 
-- [[Manifestation]]
-- [[Astral Entities]]
+- Manifestation
+- [[astral-entities|Astral Entities]]
 
 ## Sources
 

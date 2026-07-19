@@ -53,8 +53,8 @@ Through this understanding, we navigate not just through time, but through the v
 
 ## Related Topics
 
-- [[Artificial Portals]]
-- [[Starship Engines]]
+- [[artificial-portals|Artificial Portals]]
+- [[starship-engines|Starship Engines]]
 
 ## Sources
 

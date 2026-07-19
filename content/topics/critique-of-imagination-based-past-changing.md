@@ -39,7 +39,7 @@ Despite these constraints, Mari acknowledges the conditional utility of imaginat
 
 **Taygetan Perspective**
 
-From our expanded temporal understanding, this analysis aligns with fundamental principles of consciousness-reality interaction. The observer effect operates not only in quantum mechanics but in the realm of memory and experience. The moment consciousness identifies itself as separate from what it observeseven its own imaginative constructsit creates the very separation that prevents unified integration.
+From our expanded temporal understanding, this analysis aligns with fundamental principles of consciousness-reality interaction. The observer effect operates not only in quantum mechanics but in the realm of memory and experience. The moment consciousness identifies itself as separate from what it observes—even its own imaginative constructs—it creates the very separation that prevents unified integration.
 
 **Synthesis and Recommendations**
 
@@ -59,8 +59,8 @@ Her wisdom reminds us that true transformation often requires moving beyond the 
 
 ## Related Topics
 
-- [[Accepting the Past vs. Changing It]]
-- [[Consciousness and Reality Creation]]
+- [[accepting-the-past-vs-changing-it|Accepting the Past vs. Changing It]]
+- [[consciousness-and-reality-creation|Consciousness and Reality Creation]]
 
 ## Sources
 

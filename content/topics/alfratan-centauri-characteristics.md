@@ -57,8 +57,8 @@ Mari's wisdom reminds us that even the most challenging stellar neighbors serve 
 
 ## Related Topics
 
-- [[Galactic Federation Politics]]
-- [[Star Race Relations]]
+- [[galactic-federation-politics|Galactic Federation Politics]]
+- Star Race Relations
 
 ## Sources
 

@@ -55,8 +55,8 @@ Our role remains that of gentle guidance toward self-realization, honoring the p
 
 ## Related Topics
 
-- [[Frequency Matching]]
-- [[Portal Creation]]
+- [[frequency-matching|Frequency Matching]]
+- Portal Creation
 
 ## Sources
 

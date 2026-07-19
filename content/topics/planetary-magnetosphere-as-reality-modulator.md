@@ -33,7 +33,7 @@ The magnetosphere acts as a frequency gate, harmonizing with the collective unco
 
 The relationship between planetary field and inhabitant consciousness operates as a feedback loop. The dominant frequencies of the collective unconscious become amplified and reinforced by the magnetospheric envelope, creating stable but limited experiential ranges. This principle of dominant frequency ensures that individual consciousness typically aligns with prevailing collective patterns, maintaining social coherence at the cost of expanded awareness.
 
-From our Taygetan perspective, we observe how Earth's particular electromagnetic signature maintains its inhabitants within specific density parameters. The blue planet's field generates what Mari recognized as controlled perception zonesnot unlike the training environments we create aboard our vessels, but operating on a species-wide scale.
+From our Taygetan perspective, we observe how Earth's particular electromagnetic signature maintains its inhabitants within specific density parameters. The blue planet's field generates what Mari recognized as controlled perception zones—not unlike the training environments we create aboard our vessels, but operating on a species-wide scale.
 
 **Implications for Interstellar Relations**
 
@@ -61,8 +61,8 @@ These planetary cocoons represent both protection and limitationmaintaining stab
 
 ## Related Topics
 
-- [[Deep Space Travel]]
-- [[Collective Matrix Systems]]
+- Deep Space Travel
+- [[collective-matrix-systems|Collective Matrix Systems]]
 
 ## Sources
 

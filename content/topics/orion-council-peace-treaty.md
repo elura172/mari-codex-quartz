@@ -62,8 +62,8 @@ Mari's teachings remind us that truth often emerges through synthesis of multipl
 
 ## Related Topics
 
-- [[Galactic Federation]]
-- [[Etorthan History]]
+- Galactic Federation
+- Etorthan History
 
 ## Sources
 

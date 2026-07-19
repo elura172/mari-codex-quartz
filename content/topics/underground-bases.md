@@ -62,8 +62,8 @@ These installations represent significant variables in Earth's transitional dyna
 
 ## Related Topics
 
-- [[Space Pirates Formation]]
-- [[Technology and Construction]]
+- [[space-pirates-formation|Space Pirates Formation]]
+- Technology and Construction
 
 ## Sources
 

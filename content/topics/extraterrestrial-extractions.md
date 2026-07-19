@@ -58,8 +58,8 @@ Mari's wisdom reminds us that true liberation begins in consciousness, manifesti
 
 ## Related Topics
 
-- [[Galactic Federation Governance]]
-- [[Soul Contracts]]
+- [[galactic-federation-governance|Galactic Federation Governance]]
+- [[soul-contracts|Soul Contracts]]
 
 ## Sources
 

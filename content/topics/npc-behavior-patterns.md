@@ -29,7 +29,7 @@ Among Terra's population, we observe individuals whose consciousness operates wi
 
 **Primary Behavioral Markers**
 
-The most distinctive characteristic manifests as compulsive adherence to external directives. These individuals demonstrate neurotic precision in following societal rules, regardless of context or consequence. Their compliance extends beyond rational considerationthey become vessels for transmitted instructions rather than autonomous decision-makers.
+The most distinctive characteristic manifests as compulsive adherence to external directives. These individuals demonstrate neurotic precision in following societal rules, regardless of context or consequence. Their compliance extends beyond rational consideration—they become vessels for transmitted instructions rather than autonomous decision-makers.
 
 This rigid operational framework reveals itself when novel concepts are introduced. Rather than engaging natural curiosity or analytical faculties, they experience cognitive dissonance that triggers defensive responses. The messenger becomes the target of their confusion, labeled as purveyor of "nonsense" when presenting ideas incompatible with their programming.
 
@@ -43,7 +43,7 @@ This represents not inherent limitation, but rather the result of systematic con
 
 When engaging such individuals, direct challenges to their worldview prove counterproductive. Their defensive mechanisms activate immediately, closing pathways to meaningful exchange. Instead, gentle introduction of concepts through their existing belief frameworks may gradually expand their operational parameters.
 
-We must remember these are not fundamentally different beingsthey are expressions of consciousness temporarily constrained by their environment's limiting influences. Each carries the same divine spark we recognize in more awakened individuals.
+We must remember these are not fundamentally different beings—they are expressions of consciousness temporarily constrained by their environment's limiting influences. Each carries the same divine spark we recognize in more awakened individuals.
 
 **Strategic Considerations**
 
@@ -65,8 +65,8 @@ Mari's insights remind us that recognizing these patterns serves not judgment, b
 
 ## Related Topics
 
-- [[Matrix Theory]]
-- [[False People Concept]]
+- [[matrix-theory|Matrix Theory]]
+- [[false-people-concept|False People Concept]]
 
 ## Sources
 

@@ -26,7 +26,7 @@ Reality manifests as a collective weaving, where individual threads of conscious
 
 **Mechanism of Consensus Reality**
 
-Each consciousness carries its own interpretive frameworka personal lens through which existence filters meaning and substance. When souls gravitate toward similar frequency ranges of understanding, their individual perceptions begin to harmonize like instruments in an orchestra. Though no two beings ever perceive identically, sufficient overlap creates stable pockets of shared reality.
+Each consciousness carries its own interpretive framework—a personal lens through which existence filters meaning and substance. When souls gravitate toward similar frequency ranges of understanding, their individual perceptions begin to harmonize like instruments in an orchestra. Though no two beings ever perceive identically, sufficient overlap creates stable pockets of shared reality.
 
 This convergence operates not through forced uniformity, but through natural resonance. Souls with compatible worldviews find themselves occupying the same dimensional space, their collective agreement providing the structural foundation for mutual experience.
 
@@ -40,7 +40,7 @@ Understanding perception agreement proves essential for diplomatic missions. Suc
 
 **Wisdom from Mari's Teachings**
 
-Mari Swaruu's insights reveal this as more than mere theoryit represents the living mechanics of consciousness itself. Each soul contributes irreplaceable perspective to the cosmic symphony, yet none exists in true isolation. The beauty lies in maintained individuality within chosen community.
+Mari Swaruu's insights reveal this as more than mere theory—it represents the living mechanics of consciousness itself. Each soul contributes irreplaceable perspective to the cosmic symphony, yet none exists in true isolation. The beauty lies in maintained individuality within chosen community.
 
 **Operational Notes**
 
@@ -60,8 +60,8 @@ Crew members engaging in surface operations must remember: reality shifts accord
 
 ## Related Topics
 
-- [[Matrix Time Control]]
-- [[Individual Time Perception]]
+- Matrix Time Control
+- Individual Time Perception
 
 ## Sources
 

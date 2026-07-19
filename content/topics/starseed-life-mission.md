@@ -63,8 +63,8 @@ This recognition prevents dependency on external validation or direction while e
 
 ## Related Topics
 
-- [[Earth as Experience Realm]]
-- [[Double Life Navigation]]
+- Earth as Experience Realm
+- Double Life Navigation
 
 ## Sources
 

@@ -39,7 +39,7 @@ Mari Swaruu's documentation of this transition serves multiple functionspractica
 
 **Operational Continuity**
 
-The fleet's mission parameters remain unaltered during this transition. Sadicleya's enhanced systems ensure improved operational reliability while honoring the legacy of service established by her predecessor. This changing of vessels represents expansion rather than mere replacementthe natural growth of capability matching the evolving needs of interstellar diplomacy.
+The fleet's mission parameters remain unaltered during this transition. Sadicleya's enhanced systems ensure improved operational reliability while honoring the legacy of service established by her predecessor. This changing of vessels represents expansion rather than mere replacement—the natural growth of capability matching the evolving needs of interstellar diplomacy.
 
 Through such transitions, the Taygetan fleet maintains both continuity of purpose and adaptive flexibility, embodying the balance between stability and change that characterizes mature civilizations.
 
@@ -55,8 +55,8 @@ Through such transitions, the Taygetan fleet maintains both continuity of purpos
 
 ## Related Topics
 
-- [[Taygetan Technology]]
-- [[Fleet Operations]]
+- [[taygetan-technology|Taygetan Technology]]
+- [[fleet-operations|Fleet Operations]]
 
 ## Sources
 

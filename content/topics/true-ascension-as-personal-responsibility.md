@@ -65,8 +65,8 @@ Mari's wisdom echoes through dimensions: consciousness is the vehicle, not the p
 
 ## Related Topics
 
-- [[Reality Manifestation]]
-- [[Consciousness States]]
+- [[reality-manifestation|Reality Manifestation]]
+- Consciousness States
 
 ## Sources
 

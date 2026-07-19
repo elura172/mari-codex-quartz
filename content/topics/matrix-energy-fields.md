@@ -58,8 +58,8 @@ Mari's transmissions illuminate how beings within restrictive matrix fields may 
 
 ## Related Topics
 
-- [[Earth Realm]]
-- [[Dimensional Mirroring Phenomena]]
+- Earth Realm
+- Dimensional Mirroring Phenomena
 
 ## Sources
 

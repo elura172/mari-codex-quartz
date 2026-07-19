@@ -60,8 +60,8 @@ Mari's transmissions illuminate this process with remarkable clarity, bridging h
 
 ## Related Topics
 
-- [[Timelines as Mental Constructs]]
-- [[Consciousness and Reality]]
+- [[timelines-as-mental-constructs|Timelines as Mental Constructs]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

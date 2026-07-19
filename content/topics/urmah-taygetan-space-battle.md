@@ -26,7 +26,7 @@ The seventh hour confrontation between Urmah and Taygetan forces represents a cr
 ## **Combat Dynamics**
 
 **Initial Contact Phase**
-The Urmah forces deployed coordinated drone swarm tactics, directing concentrated fire toward the Alcyone's propulsion systemsa calculated strike intended to disable rather than destroy. This tactical choice suggests either restraint or a desire to capture rather than eliminate our vessel, revealing strategic thinking that extends beyond mere territorial aggression.
+The Urmah forces deployed coordinated drone swarm tactics, directing concentrated fire toward the Alcyone's propulsion systems—a calculated strike intended to disable rather than destroy. This tactical choice suggests either restraint or a desire to capture rather than eliminate our vessel, revealing strategic thinking that extends beyond mere territorial aggression.
 
 **Escalation Response**
 Captain Goriel's decision to engage the primary plasma cannon array marked the transition from defensive maneuvering to active combat posture. The deployment of our most potent offensive capability against the Urmah battleship indicates the gravity of the threat assessment and the necessity of decisive action when diplomatic solutions collapse into violence.
@@ -62,9 +62,9 @@ We honor all consciousness extinguished during this engagement, recognizing that
 
 ## Related Topics
 
-- [[Taygetan Military]]
-- [[Urmah Threat]]
-- [[Galactic Federation]]
+- Taygetan Military
+- Urmah Threat
+- Galactic Federation
 
 ## Sources
 

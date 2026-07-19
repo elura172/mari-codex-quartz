@@ -187,7 +187,7 @@ tags:
 
 — Time Travel and why Timelines dont really exist. (English) 
 
-> From the practical point of view of someone that has the capability and technology, there is no difference between the two. A place you want to travel to and the timethe when in that place you want to arriveare just frequency and energy factors to feed into the navigation computer of our starship.
+> From the practical point of view of someone that has the capability and technology, there is no difference between the two. A place you want to travel to and the timethe when in that place you want to arrive—are just frequency and energy factors to feed into the navigation computer of our starship.
 
 — Time Travel and why Timelines dont really exist. (SV-67 English)
 

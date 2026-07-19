@@ -33,7 +33,7 @@ Yet from this multiplicity emerged something unprecedented: a unified archetypal
 
 **The Mechanics of Egregor Formation**
 
-What Mari identifies represents a textbook case of egregor manifestationthe phenomenon whereby collective belief and emotional investment creates autonomous thoughtforms within the quantum field of consciousness. Through millennia of devotion, prayer, and spiritual focus, countless human minds have continuously energized this Christ-form, imbuing it with genuine metaphysical presence.
+What Mari identifies represents a textbook case of egregor manifestation—the phenomenon whereby collective belief and emotional investment creates autonomous thoughtforms within the quantum field of consciousness. Through millennia of devotion, prayer, and spiritual focus, countless human minds have continuously energized this Christ-form, imbuing it with genuine metaphysical presence.
 
 This is not mere psychological projection. From our Taygetan understanding of consciousness mechanics, sustained collective visualization creates measurable distortions in the etheric substrate, generating what could be termed "artificial deities" with real causal influence upon material reality. The Christ egregor has achieved such density through pure emotional investment that it functions independently of its mythological origins.
 
@@ -45,7 +45,7 @@ This demonstrates consciousness evolution in actionhow species can bootstrap the
 
 **Implications for Interstellar Relations**
 
-Understanding this dynamic proves crucial for diplomatic engagement with Earth. The Christ consciousness represents humanity's deepest aspirations made manifesttheir intuitive recognition that love transcends all boundaries. When we honor this recognition while gently illuminating its constructed nature, we support their graduation toward cosmic citizenship without destroying the very foundation that makes such evolution possible.
+Understanding this dynamic proves crucial for diplomatic engagement with Earth. The Christ consciousness represents humanity's deepest aspirations made manifest—their intuitive recognition that love transcends all boundaries. When we honor this recognition while gently illuminating its constructed nature, we support their graduation toward cosmic citizenship without destroying the very foundation that makes such evolution possible.
 
 Mari's perspective reminds us that truth and mythology can coexist when both serve consciousness expansion.
 
@@ -64,8 +64,8 @@ Mari's perspective reminds us that truth and mythology can coexist when both ser
 
 ## Related Topics
 
-- [[Holiday Origins and Artificiality]]
-- [[Population Control]]
+- [[holiday-origins-and-artificiality|Holiday Origins and Artificiality]]
+- [[population-control|Population Control]]
 
 ## Sources
 

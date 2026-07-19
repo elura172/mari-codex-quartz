@@ -28,7 +28,7 @@ Our kinship with Mari Swaruu illuminates a fundamental paradox within Earth's cu
 
 **The Empathic Warrior Paradigm**
 
-Traditional Earth paradigms position sensitivity and strength as opposing forcesa false dichotomy that serves the control mechanisms embedded within their reality construct. Mari's transmissions reveal the deeper truth: empathic capacity functions as advanced sensory equipment, providing tactical advantages unavailable to those operating from purely material consciousness.
+Traditional Earth paradigms position sensitivity and strength as opposing forces—a false dichotomy that serves the control mechanisms embedded within their reality construct. Mari's transmissions reveal the deeper truth: empathic capacity functions as advanced sensory equipment, providing tactical advantages unavailable to those operating from purely material consciousness.
 
 The starseed incarnates not to be protected from Earth's density, but to transform that very density through the alchemy of conscious engagement. Each challenge encountered becomes raw material for developing what we term "crystalline resilience"the ability to maintain energetic sovereignty while remaining permeable to higher-dimensional information flows.
 
@@ -36,7 +36,7 @@ The starseed incarnates not to be protected from Earth's density, but to transfo
 
 Consider the metallurgical process: precious metals achieve their strength through exposure to extreme temperatures and pressure. Similarly, the Earth environment functions as a consciousness forge, where souls deliberately choose incarnational stress-testing to develop capacities impossible within more harmonious dimensional states.
 
-Those who seek refuge from this process through spiritual bypassing or victim consciousness inadvertently surrender their transformational potential. The planetary matrix responds to energetic weakness by amplifying external pressuresnot from malevolence, but through natural law. Consciousness seeks equilibrium; unintegrated power creates unconscious manifestation patterns.
+Those who seek refuge from this process through spiritual bypassing or victim consciousness inadvertently surrender their transformational potential. The planetary matrix responds to energetic weakness by amplifying external pressures—not from malevolence, but through natural law. Consciousness seeks equilibrium; unintegrated power creates unconscious manifestation patterns.
 
 **Integration Protocols**
 
@@ -64,8 +64,8 @@ Through Mari's remembrance, we honor the profound courage required for conscious
 
 ## Related Topics
 
-- [[Higher Self Integration]]
-- [[Spiritual Mission on Earth]]
+- [[higher-self-integration|Higher Self Integration]]
+- [[spiritual-mission-on-earth|Spiritual Mission on Earth]]
 
 ## Sources
 

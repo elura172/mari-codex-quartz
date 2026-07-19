@@ -44,7 +44,7 @@ From our Taygetan perspective, Solatian architecture demonstrates remarkable sop
 
 **Observational Notes**
 
-The island-based city model suggests either careful environmental stewardship or adaptation to specific planetary conditions. The radial spire arrangement creates natural gathering points for community consciousness while maintaining individual sovereigntya balance that reflects deep wisdom about social dynamics and collective evolution.
+The island-based city model suggests either careful environmental stewardship or adaptation to specific planetary conditions. The radial spire arrangement creates natural gathering points for community consciousness while maintaining individual sovereignty—a balance that reflects deep wisdom about social dynamics and collective evolution.
 
 These architectural choices reveal a civilization that has moved beyond mere functional building toward conscious space creation, where every structure serves as both shelter and spiritual technology.
 
@@ -62,8 +62,8 @@ These architectural choices reveal a civilization that has moved beyond mere fun
 
 ## Related Topics
 
-- [[Environmental Protection]]
-- [[Solatian Technology]]
+- Environmental Protection
+- Solatian Technology
 
 ## Sources
 

@@ -60,8 +60,8 @@ Mari's transmission of this knowledge serves not merely as information transfer,
 
 ## Related Topics
 
-- [[Soap Opera Explanation]]
-- [[Identity Clarification]]
+- Soap Opera Explanation
+- Identity Clarification
 
 ## Sources
 

@@ -30,7 +30,7 @@ This understanding transcends the human tendency to categorize experiences as fo
 
 **The Mirror Mechanism**
 
-Reality functions as an precise reflective system, translating internal energetic patterns into external circumstances with mathematical accuracy. Beings do not randomly encounter experiencesthey magnetically attract situations that match their dominant frequency signatures. This creates what humans often misinterpret as coincidence or fate, when in fact they are witnessing the predictable results of consciousness mathematics in action.
+Reality functions as an precise reflective system, translating internal energetic patterns into external circumstances with mathematical accuracy. Beings do not randomly encounter experiences—they magnetically attract situations that match their dominant frequency signatures. This creates what humans often misinterpret as coincidence or fate, when in fact they are witnessing the predictable results of consciousness mathematics in action.
 
 The crucial insight Mari emphasized involves the distinction between wanting and being. Consciousness manifests experiences aligned with its true vibrational identity, not its surface-level wishes. An individual operating from frequencies of limitation will mathematically encounter limiting circumstances, regardless of conscious desires for abundance or freedom.
 
@@ -66,8 +66,8 @@ Mari's transmissions serve as consciousness recalibration tools, helping Earth h
 
 ## Related Topics
 
-- [[Consciousness Mechanics]]
-- [[Timeline Navigation]]
+- Consciousness Mechanics
+- Timeline Navigation
 
 ## Sources
 

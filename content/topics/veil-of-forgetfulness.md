@@ -35,7 +35,7 @@ The veil of forgetfulness represents a fundamental mechanism governing memory re
 
 **Vibrational Mechanics**
 
-Our Taygetan understanding identifies this memory barrier as arising from frequency incompatibility between consciousness states. When awareness transitions from higher astral realms into dense biological embodiment, the vibrational disparity creates natural interference patterns. The phenomenon mirrors the difficulty many beings experience retaining dream memoriesboth represent consciousness attempting to bridge vastly different existential frequencies.
+Our Taygetan understanding identifies this memory barrier as arising from frequency incompatibility between consciousness states. When awareness transitions from higher astral realms into dense biological embodiment, the vibrational disparity creates natural interference patterns. The phenomenon mirrors the difficulty many beings experience retaining dream memories—both represent consciousness attempting to bridge vastly different existential frequencies.
 
 **Galactic Variations**
 
@@ -121,8 +121,8 @@ Understanding Earth's exceptional memory barriers proves crucial for diplomatic 
 
 ## Related Topics
 
-- [[Soul Mechanics]]
-- [[Forced Reincarnation]]
+- Soul Mechanics
+- [[forced-reincarnation|Forced Reincarnation]]
 
 ## Sources
 

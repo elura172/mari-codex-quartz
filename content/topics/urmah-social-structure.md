@@ -29,7 +29,7 @@ The Urmah civilization operates through a monarchic holistic paradigm that trans
 
 Within this framework, distinct subspecies have evolved into complementary roles that serve the greater whole. The leonine bloodlines naturally gravitate toward governance, their solar nobility manifesting as wisdom-keepers and decision-makers who guide through example rather than decree. The tiger lineages channel their fierce intensity into military excellence, becoming the protective force that shields their civilization while embodying controlled power in service to harmony.
 
-Other subspecies within the Urmah constellation find their own specialized niches, each contributing unique gifts to the collective tapestry. This arrangement reflects what our Taygetan observers recognize as a mature stellar civilizationone where individual expression serves unified purpose without suppression of essential nature.
+Other subspecies within the Urmah constellation find their own specialized niches, each contributing unique gifts to the collective tapestry. This arrangement reflects what our Taygetan observers recognize as a mature stellar civilization—one where individual expression serves unified purpose without suppression of essential nature.
 
 **Consciousness-Based Leadership**
 
@@ -43,7 +43,7 @@ The term "holistic society" carries profound meaning within Urmah culture. Their
 
 For interstellar relations, understanding Urmah social structure proves crucial. They respond to authenticity and demonstrated wisdom rather than technological superiority or aggressive negotiation. Their military might, while formidable, serves protective rather than expansionist purposes. Successful diplomatic engagement requires recognizing their monarchs as genuine wisdom-holders deserving of respect, not merely political figureheads.
 
-Mari's insights illuminate how the Urmah have achieved what many civilizations aspire towarda social order that honors both individual excellence and collective evolution, where power flows from consciousness rather than coercion.
+Mari's insights illuminate how the Urmah have achieved what many civilizations aspire toward—a social order that honors both individual excellence and collective evolution, where power flows from consciousness rather than coercion.
 
 *End transmission*
 
@@ -59,8 +59,8 @@ Mari's insights illuminate how the Urmah have achieved what many civilizations a
 
 ## Related Topics
 
-- [[Galactic Federation Politics]]
-- [[Taygetan Society]]
+- [[galactic-federation-politics|Galactic Federation Politics]]
+- Taygetan Society
 
 ## Sources
 

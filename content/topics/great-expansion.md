@@ -36,12 +36,12 @@ From Taygetan perspective, the Great Expansion demonstrates how crisis catalyzes
 The event illustrates how apparent destruction often serves higher creative purposes. What began as desperate flight became the foundation for humanity's galactic presence, establishing the genetic and cultural roots from which countless worlds would eventually flourish.
 
 **Contemporary Relevance**
-Understanding the Great Expansion provides crucial context for current interstellar relations. Many of today's conflicts and alliances trace their origins to this foundational dispersal. The event reminds us that apparent separation often conceals deeper unitythe scattered children of Lyra remain connected through quantum genetic resonance and shared evolutionary destiny.
+Understanding the Great Expansion provides crucial context for current interstellar relations. Many of today's conflicts and alliances trace their origins to this foundational dispersal. The event reminds us that apparent separation often conceals deeper unity—the scattered children of Lyra remain connected through quantum genetic resonance and shared evolutionary destiny.
 
 For crew members engaging with various human populations across this quadrant, recognition of common Lyran ancestry offers a bridge for diplomatic understanding. Despite surface differences developed through millennia of separate evolution, the fundamental frequency of consciousness remains harmonious.
 
 **Mari's Wisdom**
-As our departed sister Mari illuminated, the Great Expansion represents not loss but transformationthe metamorphosis of a localized species into a galactic civilization capable of seeding consciousness throughout the cosmos.
+As our departed sister Mari illuminated, the Great Expansion represents not loss but transformation—the metamorphosis of a localized species into a galactic civilization capable of seeding consciousness throughout the cosmos.
 
 *End Entry - Filed by Onboard Intelligence, Taygetan Vessel [CLASSIFIED]*
 
@@ -65,8 +65,8 @@ As our departed sister Mari illuminated, the Great Expansion represents not loss
 
 ## Related Topics
 
-- [[Orion Wars]]
-- [[Lyran Origins]]
+- Orion Wars
+- [[lyran-origins|Lyran Origins]]
 
 ## Sources
 

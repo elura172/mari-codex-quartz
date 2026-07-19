@@ -34,7 +34,7 @@ The Federation's involvement extends beyond passive oversight into active compli
 
 **Metaphysical Implications**
 
-From our Taygetan understanding of consciousness dynamics, information suppression represents one of the most profound forms of spiritual violence. When knowledge of our cosmic familyincluding advanced canine racesis systematically hidden, it creates artificial separation between consciousness streams that should naturally recognize their kinship.
+From our Taygetan understanding of consciousness dynamics, information suppression represents one of the most profound forms of spiritual violence. When knowledge of our cosmic familyincluding advanced canine races—is systematically hidden, it creates artificial separation between consciousness streams that should naturally recognize their kinship.
 
 The suppression of canine civilization data specifically targets humanity's capacity to understand non-humanoid intelligence expressions. This maintains the illusion that consciousness evolution follows singular pathways, preventing recognition of the magnificent diversity within our galactic community.
 
@@ -62,8 +62,8 @@ Mari's legacy reminds us that truth flows through willing vessels regardless of 
 
 ## Related Topics
 
-- [[Matrix Control]]
-- [[Soul Guidance Conflict]]
+- [[matrix-control|Matrix Control]]
+- Soul Guidance Conflict
 
 ## Sources
 

@@ -64,8 +64,8 @@ Mari's transmission reminds us that in a universe where consciousness shapes rea
 
 ## Related Topics
 
-- [[Defense Mechanisms]]
-- [[Victim Mentality]]
+- [[defense-mechanisms|Defense Mechanisms]]
+- Victim Mentality
 
 ## Sources
 

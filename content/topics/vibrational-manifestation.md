@@ -67,8 +67,8 @@ Mari's wisdom echoes through our ship's quantum matrices: we are not merely obse
 
 ## Related Topics
 
-- [[Spirit World Reality]]
-- [[Soul Nature]]
+- [[spirit-world-reality|Spirit World Reality]]
+- [[soul-nature|Soul Nature]]
 
 ## Sources
 

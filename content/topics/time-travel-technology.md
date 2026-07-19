@@ -25,7 +25,7 @@ tags:
 
 **Fundamental Mechanics**
 
-The backbone of interstellar civilization rests not upon the conquest of distance, but upon the transcendence of linear causality itself. Our vessels accomplish what lesser technologies attempt through brute forcethe traversal of vast cosmic distancesthrough elegant manipulation of spacetime's fundamental architecture. Rather than laboring across the void between stars, consciousness-guided craft dissolve the illusion of separation entirely, materializing instantaneously at their intended coordinates.
+The backbone of interstellar civilization rests not upon the conquest of distance, but upon the transcendence of linear causality itself. Our vessels accomplish what lesser technologies attempt through brute force—the traversal of vast cosmic distancesthrough elegant manipulation of spacetime's fundamental architecture. Rather than laboring across the void between stars, consciousness-guided craft dissolve the illusion of separation entirely, materializing instantaneously at their intended coordinates.
 
 This dissolution occurs through hyperspace navigation, where temporal displacement becomes as natural as changing one's physical location within three-dimensional space. The energy expenditure remains constant whether consciousness directs the vessel backward one solar day or across millennia of linear time. Distance and duration reveal themselves as arbitrary constructs when viewed through the lens of unified field dynamics.
 
@@ -66,8 +66,8 @@ Our diplomatic missions operate under strict temporal non-interference guideline
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Interstellar Civilizations]]
+- [[nature-of-time|Nature of Time]]
+- Interstellar Civilizations
 
 ## Sources
 

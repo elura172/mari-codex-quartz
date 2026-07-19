@@ -85,8 +85,8 @@ Mari's warnings illuminate how even our deepest compassion for Earth's predicame
 
 ## Related Topics
 
-- [[Exopolitical Complications]]
-- [[Non-Interference Principle]]
+- Exopolitical Complications
+- Non-Interference Principle
 
 ## Sources
 

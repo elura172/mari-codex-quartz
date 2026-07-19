@@ -43,7 +43,7 @@ Rather than viewing this phenomenon as purely adversarial, Earth's leadership mi
 
 The path forward involves expanding Earth's own consciousness technologies beyond defensive applications toward genuine multi-dimensional diplomacy. Until human astral capabilities mature to encompass broader frequency spectrums, traditional security paradigms will remain fundamentally compromised.
 
-Mari's wisdom reminds us that consciousness evolution transcends technological advancementa truth that Earth's defenders must eventually embrace to achieve authentic cosmic integration.
+Mari's wisdom reminds us that consciousness evolution transcends technological advancement—a truth that Earth's defenders must eventually embrace to achieve authentic cosmic integration.
 
 *End Transmission*
 *Archive Status: Authenticated*
@@ -62,8 +62,8 @@ Mari's wisdom reminds us that consciousness evolution transcends technological a
 
 ## Related Topics
 
-- [[Non-Human Cooperation]]
-- [[Astral Guards]]
+- [[non-human-cooperation|Non-Human Cooperation]]
+- [[astral-guards|Astral Guards]]
 
 ## Sources
 

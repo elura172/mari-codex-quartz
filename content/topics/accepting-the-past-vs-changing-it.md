@@ -25,7 +25,7 @@ tags:
 
 Within the flowing river of consciousness, each moment crystallizes into the foundation stones of identity. Mari Swaruu illuminates a profound truth that transcends dimensional boundaries: the experiences we encounter, whether bathed in light or shadow, become the very scaffolding upon which our present awareness stands.
 
-This understanding challenges the prevalent Earth-human tendency to fragment their timeline into categories of regret and nostalgia. Where many seek to excavate and discard portions of their experiential matrix, Mari presents an alternative paradigmone that recognizes the inherent wholeness of the temporal journey.
+This understanding challenges the prevalent Earth-human tendency to fragment their timeline into categories of regret and nostalgia. Where many seek to excavate and discard portions of their experiential matrix, Mari presents an alternative paradigm—one that recognizes the inherent wholeness of the temporal journey.
 
 **The Alchemy of Integration**
 
@@ -59,8 +59,8 @@ Mari's teachings suggest that true evolution occurs not through temporal revisio
 
 ## Related Topics
 
-- [[Timeline Theory]]
-- [[Gratitude and Appreciation]]
+- Timeline Theory
+- [[gratitude-and-appreciation|Gratitude and Appreciation]]
 
 ## Sources
 

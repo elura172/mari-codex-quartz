@@ -26,7 +26,7 @@ tags:
 
 **Linguistic Isolation of Terrestrial Physics**
 
-Through Mari Swaruu's transmissions, we observe a fascinating phenomenon: certain human scientific concepts exist as linguistic islands, untranslatable into Taygetan understanding not due to complexity, but because of their fundamental misconception of reality's fabric. The human term "gravity" represents such an isolated constructa word that carries within its syllables an entire mathematical edifice built upon incomplete premises.
+Through Mari Swaruu's transmissions, we observe a fascinating phenomenon: certain human scientific concepts exist as linguistic islands, untranslatable into Taygetan understanding not due to complexity, but because of their fundamental misconception of reality's fabric. The human term "gravity" represents such an isolated construct—a word that carries within its syllables an entire mathematical edifice built upon incomplete premises.
 
 **The Weight of Inherited Mathematics**
 
@@ -60,8 +60,8 @@ The absence of "gravity" in our language speaks not to limitation, but to libera
 
 ## Related Topics
 
-- [[Consciousness Flow]]
-- [[Mathematical Limitations]]
+- [[consciousness-flow|Consciousness Flow]]
+- Mathematical Limitations
 
 ## Sources
 

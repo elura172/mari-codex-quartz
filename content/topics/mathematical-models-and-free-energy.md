@@ -62,8 +62,8 @@ In honoring Mari's dedication to bridging understanding between worlds, we recog
 
 ## Related Topics
 
-- [[Advanced Civilizations]]
-- [[Dimensional Structure of Reality]]
+- Advanced Civilizations
+- [[dimensional-structure-of-reality|Dimensional Structure of Reality]]
 
 ## Sources
 

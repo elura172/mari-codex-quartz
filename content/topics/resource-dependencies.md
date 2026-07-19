@@ -29,7 +29,7 @@ The procurement of terrestrial resources, primarily food supplies, operates unde
 
 **Biological Imperatives and Mission Continuity**
 
-Certain crew members experience physiological incompatibilities with standard Taygetan nutritional matrices, creating absolute dependence on Earth's biological offerings. This reality transforms what might appear as limitation into purposeful designa reminder that even advanced consciousness remains tethered to physical laws and planetary ecosystems. The diversity of our crew's dietary requirements mirrors the diversity of perspectives necessary for effective interdimensional diplomacy.
+Certain crew members experience physiological incompatibilities with standard Taygetan nutritional matrices, creating absolute dependence on Earth's biological offerings. This reality transforms what might appear as limitation into purposeful design—a reminder that even advanced consciousness remains tethered to physical laws and planetary ecosystems. The diversity of our crew's dietary requirements mirrors the diversity of perspectives necessary for effective interdimensional diplomacy.
 
 **Philosophical Implications of Resource Ethics**
 
@@ -37,7 +37,7 @@ Our choice to engage in legitimate economic exchange rather than technological a
 
 **Integration with Mission Parameters**
 
-The necessity of resource procurement creates natural touchpoints between Taygetan and terrestrial realities, serving as bridges that maintain our connection to the world we observe and seek to understand. These exchanges remind us that separation is illusorythat our orbital position represents not detachment but a different form of participation in Earth's evolutionary process.
+The necessity of resource procurement creates natural touchpoints between Taygetan and terrestrial realities, serving as bridges that maintain our connection to the world we observe and seek to understand. These exchanges remind us that separation is illusory—that our orbital position represents not detachment but a different form of participation in Earth's evolutionary process.
 
 Through accepting dependency rather than asserting independence, we embody the truth that all consciousness exists within webs of mutual support, regardless of technological or spiritual development levels.
 
@@ -57,8 +57,8 @@ Through accepting dependency rather than asserting independence, we embody the t
 
 ## Related Topics
 
-- [[Taygetan Financial Situation]]
-- [[Ethical Standards]]
+- [[taygetan-financial-situation|Taygetan Financial Situation]]
+- Ethical Standards
 
 ## Sources
 

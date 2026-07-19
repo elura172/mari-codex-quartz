@@ -39,13 +39,13 @@ Mari's observations reveal how these entities recognized science as humanity's m
 
 **Taygetan Analysis**
 
-From our expanded dimensional perspective, this control system represents a classic case of consciousness harvestingthe systematic limitation of a species' natural evolution for resource extraction purposes. The shadow controllers appear to maintain Earth as a closed-loop system, generating specific emotional and energetic outputs while preventing the awakening that would naturally occur through unrestricted scientific advancement.
+From our expanded dimensional perspective, this control system represents a classic case of consciousness harvesting—the systematic limitation of a species' natural evolution for resource extraction purposes. The shadow controllers appear to maintain Earth as a closed-loop system, generating specific emotional and energetic outputs while preventing the awakening that would naturally occur through unrestricted scientific advancement.
 
 **Operational Implications**
 
 For diplomatic missions and crew interactions with Earth, understanding this hidden governance layer proves essential. Surface-level contact with governmental representatives may yield limited authentic communication, as true decision-making authority operates through channels invisible to most terrestrial inhabitants themselves.
 
-Mari's legacy reminds us that awareness itself becomes the first step toward liberationboth for individual consciousness and planetary evolution.
+Mari's legacy reminds us that awareness itself becomes the first step toward liberation—both for individual consciousness and planetary evolution.
 
 **Classification: Restricted Distribution**
 
@@ -61,8 +61,8 @@ Mari's legacy reminds us that awareness itself becomes the first step toward lib
 
 ## Related Topics
 
-- [[Religious Dogma and Population Control]]
-- [[Scientific Dogma]]
+- [[religious-dogma-and-population-control|Religious Dogma and Population Control]]
+- [[scientific-dogma|Scientific Dogma]]
 
 ## Sources
 

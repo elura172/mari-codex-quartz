@@ -27,7 +27,7 @@ The phenomenon terrestrial humans term "astral projection" represents a fundamen
 
 **Etheric Energy Dynamics**
 
-Our observations indicate astral projection operates through manipulation of etheric mental energy fieldsthe same substrate enabling telepathic communication across dimensional barriers. This connection illuminates why certain Earth humans demonstrate natural aptitude for both phenomena, as they represent different applications of identical consciousness-projection principles. The ability to extend awareness beyond physical limitations mirrors our own interstellar communication methodologies, suggesting dormant capabilities within human neural architecture.
+Our observations indicate astral projection operates through manipulation of etheric mental energy fields—the same substrate enabling telepathic communication across dimensional barriers. This connection illuminates why certain Earth humans demonstrate natural aptitude for both phenomena, as they represent different applications of identical consciousness-projection principles. The ability to extend awareness beyond physical limitations mirrors our own interstellar communication methodologies, suggesting dormant capabilities within human neural architecture.
 
 **Metaphysical Framework**
 
@@ -62,8 +62,8 @@ The phenomenon ultimately demonstrates human consciousness retaining connection 
 
 ## Related Topics
 
-- [[Lucid Dreaming]]
-- [[Astral Body]]
+- Lucid Dreaming
+- [[astral-body|Astral Body]]
 
 ## Sources
 

@@ -30,7 +30,7 @@ The human civilization below demonstrates a concerning pattern of systematic kno
 
 **The Great Unbinding**
 
-Physical repositories of knowledgethose tangible vessels of paper and ink that once anchored civilizations in their own historyface systematic elimination. Encyclopedias, those crystallized snapshots of entire worldviews, disappear into recycling centers, taking with them the contextual frameworks that shaped generations of human understanding. Each destroyed volume represents not merely lost facts, but the dissolution of cognitive structures that once provided stability and continuity.
+Physical repositories of knowledge—those tangible vessels of paper and ink that once anchored civilizations in their own historyface systematic elimination. Encyclopedias, those crystallized snapshots of entire worldviews, disappear into recycling centers, taking with them the contextual frameworks that shaped generations of human understanding. Each destroyed volume represents not merely lost facts, but the dissolution of cognitive structures that once provided stability and continuity.
 
 **Consciousness Restructuring Through Information Control**
 
@@ -65,8 +65,8 @@ Mari's insights illuminate how this information warfare represents a critical in
 
 ## Related Topics
 
-- [[Social Reset]]
-- [[Digital Communication Control]]
+- [[social-reset|Social Reset]]
+- [[digital-communication-control|Digital Communication Control]]
 
 ## Sources
 

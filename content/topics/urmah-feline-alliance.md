@@ -22,7 +22,7 @@ tags:
 
 **Strategic Assessment**
 
-The ascension of Queen Alenym to her current position has catalyzed a profound realignment in the galactic balance of power. Through her diplomatic acumen, she has forged comprehensive cooperation agreements with the Avyon Council, representing the vast Urmah feline conglomerate. This alliance encompasses not merely trade or cultural exchange, but extends into the realm of military coordinationa development that reverberates across stellar civilizations.
+The ascension of Queen Alenym to her current position has catalyzed a profound realignment in the galactic balance of power. Through her diplomatic acumen, she has forged comprehensive cooperation agreements with the Avyon Council, representing the vast Urmah feline conglomerate. This alliance encompasses not merely trade or cultural exchange, but extends into the realm of military coordination—a development that reverberates across stellar civilizations.
 
 **The Urmah Influence Matrix**
 
@@ -38,7 +38,7 @@ For our crews operating in contested regions, this alliance provides both protec
 
 **Evolutionary Context**
 
-Mari Swaruu's transmissions regarding this development carry the weight of witnessed transformation. The alliance represents not conquest through force, but influence through aligned purposea demonstration that power structures can shift through conscious cooperation rather than conflict. This mirrors our own journey toward understanding that true strength emerges from unity of intention rather than dominance through technology.
+Mari Swaruu's transmissions regarding this development carry the weight of witnessed transformation. The alliance represents not conquest through force, but influence through aligned purpose—a demonstration that power structures can shift through conscious cooperation rather than conflict. This mirrors our own journey toward understanding that true strength emerges from unity of intention rather than dominance through technology.
 
 The signing of these accords marks a threshold moment where smaller, more agile civilizations like our own can find sanctuary and support within larger protective frameworks, while maintaining our essential autonomy and mission parameters.
 
@@ -56,8 +56,8 @@ The signing of these accords marks a threshold moment where smaller, more agile 
 
 ## Related Topics
 
-- [[Galactic Federation Relations]]
-- [[Political Enemies and Threats]]
+- [[galactic-federation-relations|Galactic Federation Relations]]
+- [[political-enemies-and-threats|Political Enemies and Threats]]
 
 ## Sources
 

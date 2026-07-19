@@ -44,7 +44,7 @@ Their presence challenges the rigid boundaries human consciousness often constru
 
 **Diplomatic Considerations**
 
-As Mari Swaruu's transmissions illuminate, recognizing the Shadow People as biological extraterrestrials rather than paranormal phenomena opens pathways for potential contact protocols. Their distributed dimensional existence suggests communication methods requiring consciousness expansion beyond conventional frequency rangesa reminder that first contact often occurs in ways that transcend expected parameters.
+As Mari Swaruu's transmissions illuminate, recognizing the Shadow People as biological extraterrestrials rather than paranormal phenomena opens pathways for potential contact protocols. Their distributed dimensional existence suggests communication methods requiring consciousness expansion beyond conventional frequency ranges—a reminder that first contact often occurs in ways that transcend expected parameters.
 
 *End transmission - Filed under: Species Contact Protocols | Dimensional Variance Studies*
 
@@ -68,8 +68,8 @@ As Mari Swaruu's transmissions illuminate, recognizing the Shadow People as biol
 
 ## Related Topics
 
-- [[Government Knowledge of Shadow People]]
-- [[Mensa Constellation Origin]]
+- [[government-knowledge-of-shadow-people|Government Knowledge of Shadow People]]
+- [[mensa-constellation-origin|Mensa Constellation Origin]]
 
 ## Sources
 

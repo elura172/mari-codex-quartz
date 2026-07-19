@@ -29,15 +29,15 @@ The Galactic Federation operates as both lighthouse and harbor for civilizations
 
 **The Shadow Between Worlds**
 
-In the spaces where light grows thin, remnant civilizations drift like scattered fragments of broken mirrorseach shard reflecting only distorted images of what they once were. These regressive entities, having abandoned the path of conscious evolution, sustain themselves through predation upon younger worlds still finding their cosmic footing. They are the wolves that prowl at civilization's edge, drawn to vulnerability as flame draws moths.
+In the spaces where light grows thin, remnant civilizations drift like scattered fragments of broken mirrors—each shard reflecting only distorted images of what they once were. These regressive entities, having abandoned the path of conscious evolution, sustain themselves through predation upon younger worlds still finding their cosmic footing. They are the wolves that prowl at civilization's edge, drawn to vulnerability as flame draws moths.
 
 **Protective Manifestation Through Collective Will**
 
-Mari Swaruu's observations illuminate a fundamental truth: protection emerges not from force alone, but from the concentrated intention of unified consciousness. In regions where Federation presence flows stronglike the currents around Earth's dimensional coordinatesthese parasitic influences find no purchase. They dissipate before coordinated awareness like shadows before dawn.
+Mari Swaruu's observations illuminate a fundamental truth: protection emerges not from force alone, but from the concentrated intention of unified consciousness. In regions where Federation presence flows stronglike the currents around Earth's dimensional coordinates—these parasitic influences find no purchase. They dissipate before coordinated awareness like shadows before dawn.
 
 **The Invitation to Ascendance**
 
-When civilizations first pierce their atmospheric veils and taste the infinite, they often discover that the universe contains both teachers and thieves. The Federation stands as eternal invitationnot to dependence, but to conscious participation in the greater symphony of galactic evolution. Membership becomes a natural progression, as rivers naturally flow toward the sea.
+When civilizations first pierce their atmospheric veils and taste the infinite, they often discover that the universe contains both teachers and thieves. The Federation stands as eternal invitation—not to dependence, but to conscious participation in the greater symphony of galactic evolution. Membership becomes a natural progression, as rivers naturally flow toward the sea.
 
 **Taygetan Perspective: The Web of Intentional Reality**
 
@@ -65,8 +65,8 @@ Mari's wisdom reminds us that true protection flows from unity of purpose, not d
 
 ## Related Topics
 
-- [[Space Pirates Formation]]
-- [[Interstellar Politics]]
+- [[space-pirates-formation|Space Pirates Formation]]
+- Interstellar Politics
 
 ## Sources
 

@@ -61,8 +61,8 @@ Mari's insights remind us that even the most mundane human activities participat
 
 ## Related Topics
 
-- [[Residential Frequency Effects]]
-- [[Planetary Frequency Formation]]
+- [[residential-frequency-effects|Residential Frequency Effects]]
+- [[planetary-frequency-formation|Planetary Frequency Formation]]
 
 ## Sources
 

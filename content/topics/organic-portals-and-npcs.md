@@ -61,8 +61,8 @@ This knowledge, shared through Mari's wisdom, illuminates the true nature of Ear
 
 ## Related Topics
 
-- [[Soul Types]]
-- [[Entity Possession]]
+- Soul Types
+- Entity Possession
 
 ## Sources
 

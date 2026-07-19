@@ -59,8 +59,8 @@ When working with young consciousness expressions showing signs of premature exp
 
 ## Related Topics
 
-- [[Finding Meaning in Adversity]]
-- [[Swaruu Family Dynamics]]
+- [[finding-meaning-in-adversity|Finding Meaning in Adversity]]
+- Swaruu Family Dynamics
 
 ## Sources
 

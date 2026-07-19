@@ -65,8 +65,8 @@ When engaging with human populations, recognize that their dream narratives ofte
 
 ## Related Topics
 
-- [[Meditation]]
-- [[Astral Entities]]
+- [[meditation|Meditation]]
+- [[astral-entities|Astral Entities]]
 
 ## Sources
 

@@ -61,7 +61,7 @@ Mari's transmissions remind us that artificial intelligence represents neither s
 
 ## Related Topics
 
-- [[Quantum Holographic Computer Technology]]
+- [[quantum-holographic-computer-technology|Quantum Holographic Computer Technology]]
 
 ## Sources
 

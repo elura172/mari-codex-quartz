@@ -32,7 +32,7 @@ Mari's insights illuminate how this conditioning creates a false binary: either 
 
 **The Inverted Logic**
 
-This programming reveals a profound inversion of natural law. In healthy galactic societies, those who facilitate healing, spiritual evolution, and cosmic awareness are naturally supported by their communitiesnot despite their gifts, but because of them. The Earth matrix has convinced beings that their most valuable contributions should flow freely while their life force energy depletes from lack of material foundation.
+This programming reveals a profound inversion of natural law. In healthy galactic societies, those who facilitate healing, spiritual evolution, and cosmic awareness are naturally supported by their communities—not despite their gifts, but because of them. The Earth matrix has convinced beings that their most valuable contributions should flow freely while their life force energy depletes from lack of material foundation.
 
 The cruel irony emerges: those channeling genuine healing and extraterrestrial contact often struggle with basic survival needs, while those propagating materialism and separation thrive financially. This systematic inversion serves to weaken humanity's bridge-builders and wisdom-keepers.
 
@@ -60,8 +60,8 @@ Mari's transmission reminds us that abundance flows naturally when consciousness
 
 ## Related Topics
 
-- [[Matrix Control Systems]]
-- [[Three-Letter Agencies]]
+- [[matrix-control-systems|Matrix Control Systems]]
+- Three-Letter Agencies
 
 ## Sources
 

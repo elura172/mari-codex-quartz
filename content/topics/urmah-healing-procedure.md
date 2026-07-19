@@ -35,7 +35,7 @@ The procedure begins with ceremonial invitation, emphasizing consent and safety 
 
 **Harmonic Resonance Mechanics**
 
-Central to Urmah healing lies their extraordinary capacity for therapeutic purringa deep, resonant humming that generates measurable vibrational fields. This sonic phenomenon operates as a living instrument of transformation, each Urmah participant contributing to a collective harmonic matrix that envelops the recipient in waves of healing frequency.
+Central to Urmah healing lies their extraordinary capacity for therapeutic purring—a deep, resonant humming that generates measurable vibrational fields. This sonic phenomenon operates as a living instrument of transformation, each Urmah participant contributing to a collective harmonic matrix that envelops the recipient in waves of healing frequency.
 
 The purring transcends mere vocalization, functioning as conscious projection of healing intent through sound. Multiple Urmah healers synchronize their vibrational output, creating interference patterns that target specific energetic blockages and spiritual attachments requiring dissolution.
 
@@ -67,9 +67,9 @@ Mari's experience serves as bridge between worlds, translating Urmah wisdom into
 
 ## Related Topics
 
-- [[Type 1 Diabetes]]
-- [[Urmah Culture]]
-- [[Astral Attacks]]
+- Type 1 Diabetes
+- [[urmah-culture|Urmah Culture]]
+- [[astral-attacks|Astral Attacks]]
 
 ## Sources
 

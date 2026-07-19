@@ -23,13 +23,13 @@ tags:
 
 **Celestial Position and Strategic Significance**
 
-Orbiting closest to the golden radiance of Taygeta, our primary star in what Earth astronomers designate as the Pleiades cluster, Temmer stands as the beating heart of our civilization. Positioned approximately 440 light-years from Earth's solar system, this world serves as the gravitational centerboth literally and metaphoricallyfor nearly nine-tenths of all Taygetan consciousness.
+Orbiting closest to the golden radiance of Taygeta, our primary star in what Earth astronomers designate as the Pleiades cluster, Temmer stands as the beating heart of our civilization. Positioned approximately 440 light-years from Earth's solar system, this world serves as the gravitational center—both literally and metaphoricallyfor nearly nine-tenths of all Taygetan consciousness.
 
 **Planetary Composition and Geographic Harmony**
 
 Temmer embodies the principle of fluid abundance that permeates Taygetan philosophy. The planet presents itself as a living mandala of water and land, where vast oceanic expanses embrace roughly three-quarters of the surface while countless islands emerge like scattered jewels across the azure tapestry. These landmasses, distributed with natural equilibrium across the planetary sphere, create a unique archipelago civilization that mirrors our understanding of interconnected yet autonomous consciousness.
 
-The absence of continental megastructures reflects a deeper cosmic truththat separation is an illusion, and all apparent divisions are merely expressions of underlying unity. Each island maintains its distinct character while participating in the greater oceanic communion that defines our world's essence.
+The absence of continental megastructures reflects a deeper cosmic truth—that separation is an illusion, and all apparent divisions are merely expressions of underlying unity. Each island maintains its distinct character while participating in the greater oceanic communion that defines our world's essence.
 
 **Cultural and Evolutionary Implications**
 
@@ -63,9 +63,9 @@ For those preparing for contact protocols with Earth-based civilizations, unders
 
 ## Related Topics
 
-- [[Toleka Island]]
-- [[Taygetan Civilization]]
-- [[Quartz Crystal Formations]]
+- [[toleka-island|Toleka Island]]
+- [[taygetan-civilization|Taygetan Civilization]]
+- [[quartz-crystal-formations|Quartz Crystal Formations]]
 
 ## Sources
 

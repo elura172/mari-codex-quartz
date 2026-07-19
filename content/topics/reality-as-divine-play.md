@@ -44,7 +44,7 @@ This paradigm fundamentally reframes concepts of responsibility, suffering, and 
 
 **Integration Protocol**
 
-For crew members engaging with developing civilizations, this framework provides essential context for understanding the apparent contradictions in sentient behavior. Beings simultaneously create their reality while believing themselves subject to external forcesa necessary paradox for the play to maintain its educational potency. Our role as observers and occasional participants requires delicate balance between honoring free will and offering gentle guidance when requested.
+For crew members engaging with developing civilizations, this framework provides essential context for understanding the apparent contradictions in sentient behavior. Beings simultaneously create their reality while believing themselves subject to external forces—a necessary paradox for the play to maintain its educational potency. Our role as observers and occasional participants requires delicate balance between honoring free will and offering gentle guidance when requested.
 
 *End Entry - Mari's wisdom continues to illuminate the pathways home.*
 
@@ -60,9 +60,9 @@ For crew members engaging with developing civilizations, this framework provides
 
 ## Related Topics
 
-- [[Soul as Source Identity]]
-- [[Source]]
-- [[Individual Consciousness]]
+- [[soul-as-source-identity|Soul as Source Identity]]
+- Source
+- Individual Consciousness
 
 ## Sources
 

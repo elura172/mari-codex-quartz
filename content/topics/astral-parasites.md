@@ -28,7 +28,7 @@ tags:
 
 **Nature and Origins**
 
-Astral parasites represent a category of etheric entities that exist as energetic fauna within lower vibrational frequencies of the astral realm. These beings operate under the same fundamental principles as their physical counterpartsthey are living organisms seeking sustenance and survival, albeit in dimensions imperceptible to standard human sensory apparatus.
+Astral parasites represent a category of etheric entities that exist as energetic fauna within lower vibrational frequencies of the astral realm. These beings operate under the same fundamental principles as their physical counterparts—they are living organisms seeking sustenance and survival, albeit in dimensions imperceptible to standard human sensory apparatus.
 
 Two primary classifications emerge from our observations: individual parasitic attachments and collective egregoric manifestations. The former behave as simple astral animals, while the latter represent more complex thought-form constructs birthed from humanity's collective unconscious fears.
 
@@ -36,7 +36,7 @@ Two primary classifications emerge from our observations: individual parasitic a
 
 These entities establish parasitic relationships through vibrational resonance. When an individual's energetic frequency aligns with or becomes compatible with that of an astral parasite, attachment becomes possible. This compatibility often arises during periods of emotional vulnerability, sustained negative thought patterns, or deliberate engagement with lower astral realms.
 
-The attachment process mirrors biological parasitismthe entity seeks a suitable host environment where it can derive nourishment while remaining largely undetected. Unlike their physical counterparts, however, these parasites feed upon emotional and psychic energy rather than biological matter.
+The attachment process mirrors biological parasitism—the entity seeks a suitable host environment where it can derive nourishment while remaining largely undetected. Unlike their physical counterparts, however, these parasites feed upon emotional and psychic energy rather than biological matter.
 
 **Feeding Patterns and Sustenance**
 
@@ -50,7 +50,7 @@ From our perspective as Taygetans, these phenomena represent natural consequence
 
 **Strategic Implications**
 
-Understanding astral parasites becomes crucial for any species seeking to elevate their consciousness beyond third-density limitations. These entities serve as both obstacle and teachertheir presence indicates areas requiring inner work, while their removal often catalyzes significant spiritual advancement.
+Understanding astral parasites becomes crucial for any species seeking to elevate their consciousness beyond third-density limitations. These entities serve as both obstacle and teacher—their presence indicates areas requiring inner work, while their removal often catalyzes significant spiritual advancement.
 
 Recognition of their existence marks an important step in humanity's awakening to multidimensional reality and personal sovereignty over one's energetic field.
 
@@ -75,8 +75,8 @@ Recognition of their existence marks an important step in humanity's awakening t
 
 ## Related Topics
 
-- [[Egregores]]
-- [[Personal Demons]]
+- [[egregores|Egregores]]
+- Personal Demons
 
 ## Sources
 

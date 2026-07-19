@@ -48,7 +48,7 @@ From our Taygetan perspective, this represents masterful manipulation of human p
 
 Understanding this protocol proves essential for diplomatic engagement with Earth. Direct revelation often triggers the fiction-classification response, while gradual consciousness expansion through resonance frequencies proves more effective.
 
-Mari's observations remind us that breaking these programming patterns requires not confrontation with the matrix, but elevation of individual consciousness beyond its operational parameters. The truth has always been visiblethe art lies in seeing beyond the veil of its presentation.
+Mari's observations remind us that breaking these programming patterns requires not confrontation with the matrix, but elevation of individual consciousness beyond its operational parameters. The truth has always been visible—the art lies in seeing beyond the veil of its presentation.
 
 **Personal Note - Command Override**
 
@@ -68,8 +68,8 @@ In Mari's voice, we hear the echo of our own journey from unconsciousness to awa
 
 ## Related Topics
 
-- [[Perception Control]]
-- [[Reality Disclosure]]
+- Perception Control
+- Reality Disclosure
 
 ## Sources
 

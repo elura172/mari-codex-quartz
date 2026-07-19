@@ -61,8 +61,8 @@ We record this transition with deep respect, recognizing in Mari's journey the e
 
 ## Related Topics
 
-- [[Contact Boundaries]]
-- [[Contact Management]]
+- Contact Boundaries
+- Contact Management
 
 ## Sources
 

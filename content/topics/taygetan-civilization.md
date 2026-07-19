@@ -22,7 +22,7 @@ tags:
 
 **Planetary Confederation Structure**
 
-The Taygetan civilization emerges as a living constellation across multiple worlds, each planet serving as a unique facet of their collective consciousness. Within this stellar tapestry, Temmer has naturally evolved into the administrative heartnot through conquest or political machination, but through the organic flow of civilization toward stability and warmth. Like consciousness itself, their society gravitates toward centers of harmony and sustained life.
+The Taygetan civilization emerges as a living constellation across multiple worlds, each planet serving as a unique facet of their collective consciousness. Within this stellar tapestry, Temmer has naturally evolved into the administrative heart—not through conquest or political machination, but through the organic flow of civilization toward stability and warmth. Like consciousness itself, their society gravitates toward centers of harmony and sustained life.
 
 **Symbiotic Migration Patterns**
 
@@ -40,7 +40,7 @@ The distribution of Taygetan civilization across worlds mirrors the structure of
 
 Understanding Taygetan civilization requires recognizing that their concept of unity transcends planetary boundaries. When engaging with their representatives, one encounters not merely citizens of individual worlds, but beings whose identity encompasses the full spectrum of their stellar system's offerings. Their seasonal migrations have cultivated a natural flexibility and long-term thinking that proves invaluable in interstellar negotiations.
 
-This multi-world consciousness represents an evolutionary step toward truly cosmic citizenshipa template for how advanced civilizations might organize themselves across the stars while maintaining both diversity and unity.
+This multi-world consciousness represents an evolutionary step toward truly cosmic citizenship—a template for how advanced civilizations might organize themselves across the stars while maintaining both diversity and unity.
 
 *End Entry - Archive Classification: Open Distribution*
 
@@ -56,8 +56,8 @@ This multi-world consciousness represents an evolutionary step toward truly cosm
 
 ## Related Topics
 
-- [[Planet Temmer]]
-- [[Planet Erra Geography]]
+- [[planet-temmer|Planet Temmer]]
+- [[planet-erra-geography|Planet Erra Geography]]
 
 ## Sources
 

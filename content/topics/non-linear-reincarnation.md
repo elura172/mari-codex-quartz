@@ -47,7 +47,7 @@ For our crew members interfacing with Earth consciousness, this knowledge provid
 
 **Mari's Gift to Evolution**
 
-Through her transmissions, Mari offered Earth a bridge toward this expanded understandinga preparation for the consciousness shifts that accompany dimensional evolution.
+Through her transmissions, Mari offered Earth a bridge toward this expanded understanding—a preparation for the consciousness shifts that accompany dimensional evolution.
 
 ## Quotes
 
@@ -65,8 +65,8 @@ Through her transmissions, Mari offered Earth a bridge toward this expanded unde
 
 ## Related Topics
 
-- [[Advanced Soul Hive Mind Mechanics]]
-- [[Soul Group Dynamics]]
+- Advanced Soul Hive Mind Mechanics
+- Soul Group Dynamics
 
 ## Sources
 

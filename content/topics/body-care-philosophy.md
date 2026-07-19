@@ -30,7 +30,7 @@ The physical vessel is neither mere machinery to be exploited nor prison to be t
 
 **The Mirror of Materialization**
 
-What humans perceive as solid flesh represents consciousness rendered visible through dimensional frequency reduction. The body serves as both canvas and sculptor, simultaneously displaying past mental constructs while responding to present awareness shifts. This dynamic relationship dissolves the artificial barrier between "spiritual" and "physical" developmentthey are facets of unified experiential expansion.
+What humans perceive as solid flesh represents consciousness rendered visible through dimensional frequency reduction. The body serves as both canvas and sculptor, simultaneously displaying past mental constructs while responding to present awareness shifts. This dynamic relationship dissolves the artificial barrier between "spiritual" and "physical" development—they are facets of unified experiential expansion.
 
 **Service Through Self-Sovereignty**
 
@@ -68,7 +68,7 @@ The path forward requires neither body worship nor body denial, but conscious pa
 
 ## Related Topics
 
-- [[Body as Spiritual Expression]]
+- [[body-as-spiritual-expression|Body as Spiritual Expression]]
 
 ## Sources
 

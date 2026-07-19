@@ -32,7 +32,7 @@ This compatibility emerges from the fundamental architecture of soul progression
 
 **Temporal Dynamics of Soul Evolution**
 
-From the perspective of the incoming walk-in consciousness, the departing soul represents a literal past incarnationa previous chapter in its own evolutionary story. This creates a seamless energetic transition, as the new occupant possesses intimate familiarity with the vessel's spiritual blueprint. The body itself retains cellular memory patterns that resonate harmoniously with both consciousness expressions, having been shaped by the same originating soul essence.
+From the perspective of the incoming walk-in consciousness, the departing soul represents a literal past incarnation—a previous chapter in its own evolutionary story. This creates a seamless energetic transition, as the new occupant possesses intimate familiarity with the vessel's spiritual blueprint. The body itself retains cellular memory patterns that resonate harmoniously with both consciousness expressions, having been shaped by the same originating soul essence.
 
 **Taygetan Observations**
 
@@ -60,8 +60,8 @@ The phenomenon stands as testament to the infinite creativity embedded within ev
 
 ## Related Topics
 
-- [[Spiritual Awakening]]
-- [[Consciousness and Source]]
+- [[spiritual-awakening|Spiritual Awakening]]
+- [[consciousness-and-source|Consciousness and Source]]
 
 ## Sources
 

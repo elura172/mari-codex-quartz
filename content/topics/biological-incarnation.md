@@ -40,11 +40,11 @@ Biological bodies serve as sophisticated interface vesselsliving starships capab
 - Biochemical processing of pleasure and sensation
 - Direct energetic exchange with planetary environments
 
-The embodied being gains access to experiences unavailable in higher densitiesthe cellular memory of taste, the neural cascade of physical affection, the grounding anchor of gravitational embrace. These are not lesser experiences but unique gifts of the material realm.
+The embodied being gains access to experiences unavailable in higher densities—the cellular memory of taste, the neural cascade of physical affection, the grounding anchor of gravitational embrace. These are not lesser experiences but unique gifts of the material realm.
 
 **Taygetan Perspective**
 
-From our dimensional vantage, we recognize biological incarnation as conscious archaeologythe soul's expedition into matter's deepest mysteries. Each incarnate being carries forward streams of experience that enrich the collective understanding of existence's full spectrum.
+From our dimensional vantage, we recognize biological incarnation as conscious archaeology—the soul's expedition into matter's deepest mysteries. Each incarnate being carries forward streams of experience that enrich the collective understanding of existence's full spectrum.
 
 **Operational Implications**
 
@@ -52,7 +52,7 @@ For diplomatic contact protocols, this understanding proves crucial. Earth-based
 
 **Personal Reflection**
 
-Mari's teachings illuminate the profound courage required for biological incarnationto compress infinite awareness into finite form while maintaining connection to source frequency. These embodied souls deserve recognition not as spiritually limited, but as consciousness pioneers exploring matter's frontiers with remarkable dedication and skill.
+Mari's teachings illuminate the profound courage required for biological incarnation—to compress infinite awareness into finite form while maintaining connection to source frequency. These embodied souls deserve recognition not as spiritually limited, but as consciousness pioneers exploring matter's frontiers with remarkable dedication and skill.
 
 *End Log Entry*
 
@@ -68,8 +68,8 @@ Mari's teachings illuminate the profound courage required for biological incarna
 
 ## Related Topics
 
-- [[Light Beings]]
-- [[Consciousness Limitations]]
+- [[light-beings|Light Beings]]
+- Consciousness Limitations
 
 ## Sources
 

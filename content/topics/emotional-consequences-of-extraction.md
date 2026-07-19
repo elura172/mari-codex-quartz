@@ -62,8 +62,8 @@ Future extraction protocols should include extended counseling phases addressing
 
 ## Related Topics
 
-- [[Enhanced Awareness]]
-- [[No Return Policy]]
+- Enhanced Awareness
+- No Return Policy
 
 ## Sources
 

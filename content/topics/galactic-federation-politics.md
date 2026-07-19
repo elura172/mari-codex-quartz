@@ -25,7 +25,7 @@ tags:
 
 Our analysis reveals a troubling pattern within current galactic diplomatic structures. The liberation initiatives undertaken by our Taygetan contingent have exposed fundamental weaknesses in inter-species solidarity. When decisive action was required to address the terrestrial situation, the overwhelming majority of both Federation-aligned and independent star races maintained strategic silence.
 
-This non-engagement represents more than mere political cautionit suggests a deep fracturing within the supposed unity of galactic governance. Only a minimal number of civilizations extended diplomatic support, revealing the isolation faced by those willing to take principled stands against established power structures.
+This non-engagement represents more than mere political caution—it suggests a deep fracturing within the supposed unity of galactic governance. Only a minimal number of civilizations extended diplomatic support, revealing the isolation faced by those willing to take principled stands against established power structures.
 
 **Infiltration Hypothesis and Systemic Compromise**
 
@@ -41,7 +41,7 @@ From our Taygetan understanding of consciousness dynamics, such political fragme
 
 These revelations necessitate enhanced independent operational protocols. Our mission parameters must account for minimal external support and potential active opposition from previously trusted entities. The crew should prepare for extended periods of autonomous decision-making without conventional diplomatic backing.
 
-Mari's observations illuminate the stark reality that principled action often requires accepting profound isolation. Yet within this apparent abandonment lies opportunityto demonstrate that genuine service to consciousness evolution transcends political convenience and species-based self-interest. Our mission continues not despite this isolation, but perhaps because of the clarity it provides regarding authentic versus performative commitment to universal liberation.
+Mari's observations illuminate the stark reality that principled action often requires accepting profound isolation. Yet within this apparent abandonment lies opportunity—to demonstrate that genuine service to consciousness evolution transcends political convenience and species-based self-interest. Our mission continues not despite this isolation, but perhaps because of the clarity it provides regarding authentic versus performative commitment to universal liberation.
 
 **Classification: Crew Awareness Level Alpha**
 
@@ -58,8 +58,8 @@ Mari's observations illuminate the stark reality that principled action often re
 
 ## Related Topics
 
-- [[Andromedan Cooperation]]
-- [[Star Race Relations]]
+- Andromedan Cooperation
+- Star Race Relations
 
 ## Sources
 

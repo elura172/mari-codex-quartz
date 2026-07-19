@@ -26,7 +26,7 @@ The Andromedan biosphere vessel designated "Viera" presented a formidable challe
 
 **Strategic Approach: The Path of Minimal Resistance**
 
-When confronted with the necessity of accessing this vast repository of life, Taygetan command faced a fundamental choice between force and finesse. The decision to employ strategic misdirection rather than direct assault reflected our deeper understanding of consciousness dynamicsthat perception shapes reality, and reality can be guided through carefully orchestrated expectation.
+When confronted with the necessity of accessing this vast repository of life, Taygetan command faced a fundamental choice between force and finesse. The decision to employ strategic misdirection rather than direct assault reflected our deeper understanding of consciousness dynamics—that perception shapes reality, and reality can be guided through carefully orchestrated expectation.
 
 The infiltration succeeded not through technological superiority or overwhelming firepower, but through the elegant application of psychological architecture. By allowing the Andromedan defenders to believe our intentions aligned with their expectations, we transformed resistance into invitation. This approach honored the principle that true strength lies not in breaking barriers, but in dissolving them through understanding.
 
@@ -58,8 +58,8 @@ This mission established precedent for future operations requiring access to hea
 
 ## Related Topics
 
-- [[Space Military Operations]]
-- [[Andromedan Relations]]
+- Space Military Operations
+- Andromedan Relations
 
 ## Sources
 

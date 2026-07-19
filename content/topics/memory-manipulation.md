@@ -63,8 +63,8 @@ Mari's observations illuminate the profound respect these beings deserve for mai
 
 ## Related Topics
 
-- [[Afterlife Manipulation]]
-- [[Reincarnation Control]]
+- Afterlife Manipulation
+- Reincarnation Control
 
 ## Sources
 

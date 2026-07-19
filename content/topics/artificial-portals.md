@@ -61,8 +61,8 @@ Mari's insights illuminate how different species naturally evolve distinct appro
 
 ## Related Topics
 
-- [[Starship Engines]]
-- [[Time Travel Navigation]]
+- [[starship-engines|Starship Engines]]
+- [[time-travel-navigation|Time Travel Navigation]]
 
 ## Sources
 

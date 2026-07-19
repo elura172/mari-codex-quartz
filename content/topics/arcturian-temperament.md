@@ -58,7 +58,7 @@ Mari's witness reminds us that truth transcends comfortable illusions, even rega
 
 ## Related Topics
 
-- [[New Age Movement Depictions]]
+- [[new-age-movement-depictions|New Age Movement Depictions]]
 
 ## Sources
 

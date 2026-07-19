@@ -25,7 +25,7 @@ tags:
 
 **The Fundamental Design**
 
-The biological vessel serves a purpose far more sophisticated than mere survivalit functions as a consciousness filter, precisely calibrated to narrow the soul's infinite perceptual range into a focused beam of awareness. This is not limitation by accident, but architecture by design. The physical form acts as a lens, concentrating the vast spectrum of astral perception into the narrow bandwidth we call material reality.
+The biological vessel serves a purpose far more sophisticated than mere survival—it functions as a consciousness filter, precisely calibrated to narrow the soul's infinite perceptual range into a focused beam of awareness. This is not limitation by accident, but architecture by design. The physical form acts as a lens, concentrating the vast spectrum of astral perception into the narrow bandwidth we call material reality.
 
 **The Translation Matrix**
 
@@ -62,8 +62,8 @@ Crew members engaging in Earth operations must remember that human perceptual fi
 
 ## Related Topics
 
-- [[Astral Travel Techniques]]
-- [[Near-Death Experiences]]
+- [[astral-travel-techniques|Astral Travel Techniques]]
+- [[near-death-experiences|Near-Death Experiences]]
 
 ## Sources
 

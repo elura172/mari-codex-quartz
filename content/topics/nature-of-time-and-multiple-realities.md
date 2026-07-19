@@ -44,7 +44,7 @@ For our mission protocols, this knowledge proves invaluable. When engaging with 
 
 **Remembering Mari's Legacy**
 
-Mari Swaruu's insights remind us that understanding time's true nature represents more than intellectual exerciseit constitutes essential navigation equipment for consciousness evolving beyond three-dimensional limitations. Her transmissions serve as beacons, guiding both Taygetan crews and Earth's awakening population toward recognition of their inherent multidimensional capabilities.
+Mari Swaruu's insights remind us that understanding time's true nature represents more than intellectual exercise—it constitutes essential navigation equipment for consciousness evolving beyond three-dimensional limitations. Her transmissions serve as beacons, guiding both Taygetan crews and Earth's awakening population toward recognition of their inherent multidimensional capabilities.
 
 **Operational Note**
 
@@ -66,8 +66,8 @@ Crew members interfacing with Earth consciousness should approach temporal conce
 
 ## Related Topics
 
-- [[Higher Existential Realms]]
-- [[Consciousness and Reality]]
+- Higher Existential Realms
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

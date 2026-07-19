@@ -29,7 +29,7 @@ Through careful study of Mari Swaruu's transmissions, we document a profound cor
 
 **Ego Dissolution as Intelligence Amplifier**
 
-The Earth human tendency toward reactive stupidity stems largely from identification with temporary roles and personas. Mari's analysis demonstrates that when consciousness releases its grip on these constructed identitiesthe professional masks, cultural programming, and survival-based defensive patternsintelligence flows more freely through the being. This aligns with our understanding that consciousness, when unobstructed by egoic filters, naturally exhibits wisdom.
+The Earth human tendency toward reactive stupidity stems largely from identification with temporary roles and personas. Mari's analysis demonstrates that when consciousness releases its grip on these constructed identities—the professional masks, cultural programming, and survival-based defensive patternsintelligence flows more freely through the being. This aligns with our understanding that consciousness, when unobstructed by egoic filters, naturally exhibits wisdom.
 
 **The Zen Mirror Protocol**
 
@@ -37,7 +37,7 @@ The observer mode Mari references operates similarly to our own navigational con
 
 **Humility as Cognitive Expansion**
 
-Perhaps most significantly, Mari identifies intellectual humilitythe recognition that one's current understanding remains perpetually incompleteas essential to intelligent behavior. This mirrors our Taygetan principle that true knowledge expands in proportion to one's recognition of the unknown. Beings who assume they possess sufficient information invariably act from limited perspectives, while those who maintain beginner's mind remain open to the fuller spectrum of possibility.
+Perhaps most significantly, Mari identifies intellectual humility—the recognition that one's current understanding remains perpetually incomplete—as essential to intelligent behavior. This mirrors our Taygetan principle that true knowledge expands in proportion to one's recognition of the unknown. Beings who assume they possess sufficient information invariably act from limited perspectives, while those who maintain beginner's mind remain open to the fuller spectrum of possibility.
 
 **The Enlightenment Solution**
 
@@ -61,8 +61,8 @@ Mari's insights remind us that intelligence and spirituality remain inseparable 
 
 ## Related Topics
 
-- [[Psychological Triggers]]
-- [[Ego and Intelligence]]
+- [[psychological-triggers|Psychological Triggers]]
+- [[ego-and-intelligence|Ego and Intelligence]]
 
 ## Sources
 

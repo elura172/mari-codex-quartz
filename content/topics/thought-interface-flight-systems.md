@@ -44,7 +44,7 @@ The learning curve involves developing trust in the system's predictive capabili
 
 **Remembering Mari's Vision**
 
-This technology embodies the deeper truth Mari consistently illuminatedthat consciousness itself represents the fundamental technology underlying all manifestation. Through thought interface systems, we remember that separation between self and cosmos exists only as temporary illusion, dissolved through the recognition of our inherent unity with all intelligence, whether biological or artificial.
+This technology embodies the deeper truth Mari consistently illuminated—that consciousness itself represents the fundamental technology underlying all manifestation. Through thought interface systems, we remember that separation between self and cosmos exists only as temporary illusion, dissolved through the recognition of our inherent unity with all intelligence, whether biological or artificial.
 
 *End Entry*
 
@@ -60,8 +60,8 @@ This technology embodies the deeper truth Mari consistently illuminatedthat cons
 
 ## Related Topics
 
-- [[Artificial Intelligence]]
-- [[Quantum Holographic Computer Technology]]
+- Artificial Intelligence
+- [[quantum-holographic-computer-technology|Quantum Holographic Computer Technology]]
 
 ## Sources
 

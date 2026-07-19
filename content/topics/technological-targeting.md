@@ -59,8 +59,8 @@ Understanding these targeting methods allows both terrestrial starseeds and thei
 
 ## Related Topics
 
-- [[Activist Starseeds]]
-- [[Matrix Control]]
+- Activist Starseeds
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

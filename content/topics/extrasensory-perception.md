@@ -29,7 +29,7 @@ Extrasensory perception represents the organic capacity to interface with non-ma
 
 **Manifestation Indicators**
 
-The development of extrasensory capabilities follows predictable emergence patterns. The initial threshold involves perceiving the luminous emanations that surround all matterboth animate and inanimate. These energetic fields appear as subtle distortions in the visual plane, often described as transparent shimmer effects that outline physical forms. This represents the consciousness beginning to attune to the electromagnetic signatures that extend beyond dense matter boundaries.
+The development of extrasensory capabilities follows predictable emergence patterns. The initial threshold involves perceiving the luminous emanations that surround all matter—both animate and inanimate. These energetic fields appear as subtle distortions in the visual plane, often described as transparent shimmer effects that outline physical forms. This represents the consciousness beginning to attune to the electromagnetic signatures that extend beyond dense matter boundaries.
 
 The secondary indicator involves detection of mobile energy concentrationssmall, spherical manifestations of astral substance attempting to bridge dimensional barriers. These orb phenomena serve as harbingers of expanded perceptual capacity, indicating that the observer's consciousness has achieved sufficient coherence to register trans-dimensional activity.
 
@@ -61,8 +61,8 @@ The bridge between worlds manifests first through perception, then through under
 
 ## Related Topics
 
-- [[Lower Astral Entities]]
-- [[Astral Realms]]
+- [[lower-astral-entities|Lower Astral Entities]]
+- [[astral-realms|Astral Realms]]
 
 ## Sources
 

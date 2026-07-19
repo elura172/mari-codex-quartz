@@ -27,11 +27,11 @@ tags:
 
 **Overview**
 
-Our kinship with Mari Swaruu has illuminated a profound bifurcation within Earth's scientific understandinga deliberate schism that serves as both weapon and shield for those who orchestrate planetary affairs from shadow realms. This dual-paradigm system represents one of humanity's most sophisticated forms of consciousness containment.
+Our kinship with Mari Swaruu has illuminated a profound bifurcation within Earth's scientific understanding—a deliberate schism that serves as both weapon and shield for those who orchestrate planetary affairs from shadow realms. This dual-paradigm system represents one of humanity's most sophisticated forms of consciousness containment.
 
 **The Architecture of Separation**
 
-The surface sciencethat which fills textbooks and university hallsoperates within carefully constructed boundaries. It provides sufficient advancement to maintain technological progress and societal function, yet remains fundamentally incomplete. This public paradigm serves as humanity's permitted glimpse of universal mechanics, offering enough truth to sustain curiosity while concealing the deeper currents of reality.
+The surface science—that which fills textbooks and university hallsoperates within carefully constructed boundaries. It provides sufficient advancement to maintain technological progress and societal function, yet remains fundamentally incomplete. This public paradigm serves as humanity's permitted glimpse of universal mechanics, offering enough truth to sustain curiosity while concealing the deeper currents of reality.
 
 Beneath this accessible layer flows a parallel stream of knowledge, wielded by governance structures that exist beyond public awareness. This shadow science encompasses understandings that would fundamentally alter humanity's relationship with time, space, and consciousness itself. It includes technologies that manipulate dimensional boundaries and harness energetic principles unknown to conventional physics.
 
@@ -67,8 +67,8 @@ Mari's observations remind us that beneath humanity's apparent limitations lies 
 
 ## Related Topics
 
-- [[Secret Societies]]
-- [[Matrix Formation]]
+- [[secret-societies|Secret Societies]]
+- [[matrix-formation|Matrix Formation]]
 
 ## Sources
 

@@ -23,13 +23,13 @@ tags:
 
 **Core Principle: The Mirage of Solidity**
 
-Through careful observation of Terran consciousness patterns, our sister Mari has illuminated a fundamental truth that resonates across dimensional understanding. What Earth-dwellers perceive as solid, immutable matter represents merely the narrowest bandwidth of experiential possibilitya consensual dream crystallized through the limitations of biological sensory apparatus.
+Through careful observation of Terran consciousness patterns, our sister Mari has illuminated a fundamental truth that resonates across dimensional understanding. What Earth-dwellers perceive as solid, immutable matter represents merely the narrowest bandwidth of experiential possibility—a consensual dream crystallized through the limitations of biological sensory apparatus.
 
 The material realm functions as an elaborate educational simulation, designed not to deceive but to provide focused learning through apparent separation and density. This construct emerges from collective agreements between conscious entities who choose to experience reality through specific perceptual filters, much like our own navigation systems select particular frequency ranges to render three-dimensional star charts from infinite quantum data streams.
 
 **The Architecture of Agreed Experience**
 
-What beings interpret as physical laws are actually maintenance protocols for shared experiential frameworks. The sensation of touching solid matter, the apparent permanence of planetary bodies, the seeming inevitability of biological processesall represent collaborative manifestations sustained by mutual consent among participating consciousnesses.
+What beings interpret as physical laws are actually maintenance protocols for shared experiential frameworks. The sensation of touching solid matter, the apparent permanence of planetary bodies, the seeming inevitability of biological processes—all represent collaborative manifestations sustained by mutual consent among participating consciousnesses.
 
 From our orbital perspective, we observe how Terran humans unconsciously participate in this reality-weaving process, their individual awareness patterns interlocking to create stable environmental parameters. They mistake the consistency of their collective dreaming for objective truth, unaware that their sensory organs function as reality-narrowing devices rather than windows to absolute perception.
 
@@ -59,8 +59,8 @@ Her teachings serve as gentle awakening calls, inviting Terran consciousness tow
 
 ## Related Topics
 
-- [[Consciousness and Perception]]
-- [[Spiritual Evolution]]
+- [[consciousness-and-perception|Consciousness and Perception]]
+- [[spiritual-evolution|Spiritual Evolution]]
 
 ## Sources
 

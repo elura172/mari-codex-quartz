@@ -67,8 +67,8 @@ The path forward requires recognizing democracy's historical role while courageo
 
 ## Related Topics
 
-- [[Political Consent Through Voting]]
-- [[Matrix Non-Compliance]]
+- [[political-consent-through-voting|Political Consent Through Voting]]
+- [[matrix-non-compliance|Matrix Non-Compliance]]
 
 ## Sources
 

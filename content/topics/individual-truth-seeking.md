@@ -30,7 +30,7 @@ The human tendency to seek external validation from authority figures represents
 
 **The Art of Truth-Sharing Without Truth-Imposing**
 
-Mari demonstrated the delicate balance between offering perspective and maintaining the sovereignty of the receiver's discernment. She positioned herself not as a dispenser of absolute truth, but as a fellow traveler sharing observations from her unique vantage point. This approach honors the fundamental Taygetan understanding that consciousness cannot be programmed from the outsideit can only be inspired to unfold from within.
+Mari demonstrated the delicate balance between offering perspective and maintaining the sovereignty of the receiver's discernment. She positioned herself not as a dispenser of absolute truth, but as a fellow traveler sharing observations from her unique vantage point. This approach honors the fundamental Taygetan understanding that consciousness cannot be programmed from the outside—it can only be inspired to unfold from within.
 
 The dots she referenced represent the infinite data points that surround each individualexperiences, observations, intuitions, and encounters that form the raw material of understanding. The connecting of these dots is perhaps the most intimate and personal act of consciousness, one that cannot be delegated to any external authority without sacrificing the authenticity of the resulting comprehension.
 
@@ -54,7 +54,7 @@ Mari's approach embodies the highest form of respect for consciousnesstrusting i
 
 ## Related Topics
 
-- [[Authority Dependence]]
+- [[authority-dependence|Authority Dependence]]
 
 ## Sources
 

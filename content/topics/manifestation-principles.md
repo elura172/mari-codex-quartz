@@ -30,7 +30,7 @@ Consciousness operates as the fundamental creative force within reality's fabric
 
 **The Illusion of Hierarchical Difficulty**
 
-Human consciousness has constructed artificial barriers that categorize manifestations as "easy" or "difficult," yet this represents a fundamental misunderstanding of creative mechanics. The universe recognizes no distinction between materializing simple or complex objectsboth require identical energetic investment. A transportation vessel demands the same focused intention as basic textile coverings. The perceived difference emerges entirely from internalized limitation programs that fragment the mind's natural creative authority.
+Human consciousness has constructed artificial barriers that categorize manifestations as "easy" or "difficult," yet this represents a fundamental misunderstanding of creative mechanics. The universe recognizes no distinction between materializing simple or complex objects—both require identical energetic investment. A transportation vessel demands the same focused intention as basic textile coverings. The perceived difference emerges entirely from internalized limitation programs that fragment the mind's natural creative authority.
 
 **Collective Reality Engineering**
 
@@ -38,7 +38,7 @@ Individual manifestation interweaves with planetary consciousness fields, creati
 
 **Taygetan Perspective on Terran Limitations**
 
-From our vantage point beyond Earth's consensus reality bubble, we observe how magnificently creative Human consciousness truly is, despite operating under severe self-imposed constraints. The same beings who manifest complex technological civilizations somehow believe they cannot materialize basic needs through direct conscious intention. This represents not limitation of ability, but sophistication of self-deceptiona temporary evolutionary phase where species learn to navigate creative power responsibly.
+From our vantage point beyond Earth's consensus reality bubble, we observe how magnificently creative Human consciousness truly is, despite operating under severe self-imposed constraints. The same beings who manifest complex technological civilizations somehow believe they cannot materialize basic needs through direct conscious intention. This represents not limitation of ability, but sophistication of self-deception—a temporary evolutionary phase where species learn to navigate creative power responsibly.
 
 **Practical Applications**
 
@@ -62,8 +62,8 @@ The remembrance of our kin's wisdom serves as beacon for this transformation.
 
 ## Related Topics
 
-- [[Egregors]]
-- [[Consciousness Creation]]
+- [[egregors|Egregors]]
+- Consciousness Creation
 
 ## Sources
 

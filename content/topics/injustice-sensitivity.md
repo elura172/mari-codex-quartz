@@ -37,7 +37,7 @@ The starseed consciousness operates through expanded empathic circuitry that pro
 
 **Threshold Mechanics**
 
-When confronted with systematic workplace abuse or disrespectful authority figures, starseeds reach critical tolerance thresholds rapidly. Their response mechanism prioritizes soul integrity over physical survival, creating scenarios where they would choose complete withdrawaleven unto bodily deathrather than continued exposure to such environmental toxicity.
+When confronted with systematic workplace abuse or disrespectful authority figures, starseeds reach critical tolerance thresholds rapidly. Their response mechanism prioritizes soul integrity over physical survival, creating scenarios where they would choose complete withdrawal—even unto bodily deathrather than continued exposure to such environmental toxicity.
 
 **Taygetan Perspective**
 
@@ -51,7 +51,7 @@ Earth-stationed starseeds frequently find themselves unable to maintain employme
 
 When interfacing with starseed populations, recognize their injustice sensitivity as a navigation system rather than a limitation. Their responses provide accurate readings of environmental toxicity levels within human institutions. Support their natural tendency toward system reformation rather than system compliance.
 
-Their presence on Earth during this transition period serves as living catalysts for organizational structures based on respect rather than dominationa necessary recalibration for species preparing to join galactic community standards.
+Their presence on Earth during this transition period serves as living catalysts for organizational structures based on respect rather than domination—a necessary recalibration for species preparing to join galactic community standards.
 
 ---
 
@@ -69,7 +69,7 @@ Their presence on Earth during this transition period serves as living catalysts
 
 ## Related Topics
 
-- [[Starseeds and Employment Challenges]]
+- [[starseeds-and-employment-challenges|Starseeds and Employment Challenges]]
 
 ## Sources
 

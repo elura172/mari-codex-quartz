@@ -33,7 +33,7 @@ Every corridor and chamber within Sadicleya reflects intentional crafting toward
 
 **Metaphysical Resonance**
 
-In Taygetan understanding, a vessel becomes more than assembled materialsit develops its own consciousness through the intentions woven into its creation. Sadicleya carries within her quantum matrices the aspirations of those who dream of bridging worlds, not through conquest but through communion. Her long-range capabilities serve as metaphor for the extended reach of awakened consciousness itself.
+In Taygetan understanding, a vessel becomes more than assembled materials—it develops its own consciousness through the intentions woven into its creation. Sadicleya carries within her quantum matrices the aspirations of those who dream of bridging worlds, not through conquest but through communion. Her long-range capabilities serve as metaphor for the extended reach of awakened consciousness itself.
 
 **Operational Significance**
 
@@ -55,9 +55,9 @@ The midnight sun burns eternal, neither fully of darkness nor of day, but existi
 
 ## Related Topics
 
-- [[Deep Space Operations]]
-- [[Taygetan Binary System]]
-- [[Starship Toleka]]
+- Deep Space Operations
+- [[taygetan-binary-system|Taygetan Binary System]]
+- Starship Toleka
 
 ## Sources
 

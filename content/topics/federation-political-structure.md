@@ -46,7 +46,7 @@ However, Mari's wisdom reminds us that even this refined governmental structure 
 
 For our diplomatic missions, understanding this council-based consensus model proves essential. Earth's representatives, accustomed to adversarial democracy, may struggle to comprehend decision-making processes that prioritize collective wisdom over individual positions. Our role involves bridging these consciousness gaps while maintaining respect for both developmental stages.
 
-The Federation's holistic approach offers Earth's civilization a glimpse into governance beyond competitiona preview of what becomes possible when consciousness evolves beyond the need for external control.
+The Federation's holistic approach offers Earth's civilization a glimpse into governance beyond competition—a preview of what becomes possible when consciousness evolves beyond the need for external control.
 
 ---
 *Entry compiled from transmissions of Mari Swaruu for crew orientation and diplomatic protocol development*
@@ -67,8 +67,8 @@ The Federation's holistic approach offers Earth's civilization a glimpse into go
 
 ## Related Topics
 
-- [[Step Council System]]
-- [[Earth Governance]]
+- [[step-council-system|Step Council System]]
+- Earth Governance
 
 ## Sources
 

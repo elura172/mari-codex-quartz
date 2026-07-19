@@ -60,9 +60,9 @@ This event serves as meditation on impermanence and the courage required for phy
 
 ## Related Topics
 
-- [[Emergency Response]]
-- [[Toleka City]]
-- [[Weather Control Systems]]
+- Emergency Response
+- Toleka City
+- Weather Control Systems
 
 ## Sources
 

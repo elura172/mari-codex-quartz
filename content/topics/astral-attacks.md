@@ -61,8 +61,8 @@ Mari's documentation serves as both warning and empowerment for those navigating
 
 ## Related Topics
 
-- [[Type 1 Diabetes]]
-- [[Urmah Healing Procedure]]
+- Type 1 Diabetes
+- [[urmah-healing-procedure|Urmah Healing Procedure]]
 
 ## Sources
 

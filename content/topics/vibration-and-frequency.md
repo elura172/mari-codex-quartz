@@ -64,8 +64,8 @@ Mari's teachings remind us that incarnation represents conscious choice within v
 
 ## Related Topics
 
-- [[Soul Creation and Evolution]]
-- [[Earth as Existential Realm]]
+- [[soul-creation-and-evolution|Soul Creation and Evolution]]
+- [[earth-as-existential-realm|Earth as Existential Realm]]
 
 ## Sources
 

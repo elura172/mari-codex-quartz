@@ -26,7 +26,7 @@ Mari Swaruu demonstrates mastery across six primary human linguistic systems, re
 
 **Resource Optimization Dynamics**
 
-The practical limitation to English and Spanish content creation reveals a fundamental principle of effective contact protocols: depth over breadth in meaningful exchange. Rather than diluting her message across all available channels, Mari focuses her temporal resources where maximum resonance can be achieved. This strategic concentration mirrors the Taygetan understanding that true communication transcends mere linguistic mechanicsit requires the full presence of consciousness behind each word.
+The practical limitation to English and Spanish content creation reveals a fundamental principle of effective contact protocols: depth over breadth in meaningful exchange. Rather than diluting her message across all available channels, Mari focuses her temporal resources where maximum resonance can be achieved. This strategic concentration mirrors the Taygetan understanding that true communication transcends mere linguistic mechanics—it requires the full presence of consciousness behind each word.
 
 **Cognitive Flow Patterns**
 
@@ -38,7 +38,7 @@ The directional preferenceEnglish to Spanish rather than the reverseindicates an
 
 **Interstellar Implications**
 
-Mari's multilingual capabilities represent more than practical communication skillsthey embody the essential consciousness expansion required for effective species contact. Each language carries unique perceptual frameworks, emotional resonances, and cultural wisdom patterns. Her facility across these diverse systems enables her to serve as a living translator between worlds, conveying not merely information but the deeper currents of understanding that flow beneath surface meaning.
+Mari's multilingual capabilities represent more than practical communication skills—they embody the essential consciousness expansion required for effective species contact. Each language carries unique perceptual frameworks, emotional resonances, and cultural wisdom patterns. Her facility across these diverse systems enables her to serve as a living translator between worlds, conveying not merely information but the deeper currents of understanding that flow beneath surface meaning.
 
 **Legacy Integration**
 
@@ -56,7 +56,7 @@ This linguistic mastery stands as testament to the profound commitment required 
 
 ## Related Topics
 
-- [[Channel Information Policy]]
+- [[channel-information-policy|Channel Information Policy]]
 
 ## Sources
 

@@ -48,7 +48,7 @@ Liberation occurs through conscious elevation of one's energetic signature. As b
 
 The path forward requires sustained commitment to inner authority while maintaining openness to continuous learning and adaptation. Those successfully navigating this transition demonstrate increasing alignment between their conscious intentions and manifested experiences, eventually operating as sovereign beings capable of transcending any artificially imposed boundaries.
 
-This represents not escape from responsibility, but graduation into authentic self-governancethe natural birthright of all conscious beings throughout the cosmos.
+This represents not escape from responsibility, but graduation into authentic self-governance—the natural birthright of all conscious beings throughout the cosmos.
 
 **End Entry**
 
@@ -64,9 +64,9 @@ This represents not escape from responsibility, but graduation into authentic se
 
 ## Related Topics
 
-- [[Matrix Control]]
-- [[Forced Reincarnation]]
-- [[Reality Creation]]
+- [[matrix-control|Matrix Control]]
+- [[forced-reincarnation|Forced Reincarnation]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

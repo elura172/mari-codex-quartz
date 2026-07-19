@@ -31,7 +31,7 @@ This rapid manifestation occurs through what our Taygetan understanding recogniz
 
 **Operational Implications**
 
-For beings operating within astral frequencies, mental discipline becomes paramount. The accelerated manifestation properties mean that undirected thoughts, fears, or unconscious patterns can rapidly generate unwanted experiential realities. This characteristic explains why many Earth humans report chaotic or symbolically complex dream experiencestheir consciousness navigates astral layers without understanding the manifestation mechanics involved.
+For beings operating within astral frequencies, mental discipline becomes paramount. The accelerated manifestation properties mean that undirected thoughts, fears, or unconscious patterns can rapidly generate unwanted experiential realities. This characteristic explains why many Earth humans report chaotic or symbolically complex dream experiences—their consciousness navigates astral layers without understanding the manifestation mechanics involved.
 
 **Training Considerations**
 
@@ -55,8 +55,8 @@ Understanding astral manifestation provides crucial insight into the malleable n
 
 ## Related Topics
 
-- [[Thought Power]]
-- [[Astral Protection]]
+- Thought Power
+- Astral Protection
 
 ## Sources
 

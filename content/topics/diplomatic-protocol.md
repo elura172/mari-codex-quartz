@@ -27,7 +27,7 @@ tags:
 
 **Security Framework: The Principle of Sovereign Protection**
 
-Within the crystalline architecture of interstellar diplomacy, security protocols emerge not from fear, but from profound respect for consciousness embodied in leadership. The Urmah civilization demonstrates this through their unwavering adherence to sovereign protectiontheir queen must never be isolated from her guardians, regardless of circumstance or personal preference.
+Within the crystalline architecture of interstellar diplomacy, security protocols emerge not from fear, but from profound respect for consciousness embodied in leadership. The Urmah civilization demonstrates this through their unwavering adherence to sovereign protection—their queen must never be isolated from her guardians, regardless of circumstance or personal preference.
 
 This principle transcends mere physical safety, reflecting a deeper understanding that individual consciousness, when elevated to positions of collective responsibility, becomes a focal point for entire civilizations' energetic coherence. The guards' steadfast commitment reveals how advanced species recognize that protecting their leaders means safeguarding the harmonic resonance that maintains societal stability across dimensional boundaries.
 
@@ -63,8 +63,8 @@ The successful diplomatic relationship between our peoples stands as testament t
 
 ## Related Topics
 
-- [[Royal Security]]
-- [[Taygetan-Urmah Alliance]]
+- Royal Security
+- Taygetan-Urmah Alliance
 
 ## Sources
 

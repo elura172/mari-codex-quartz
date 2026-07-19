@@ -34,7 +34,7 @@ The fundamental philosophical chasm between Earth's dominant materialist framewo
 
 When consciousness becomes deeply immersed in biological form, a predictable cognitive pattern emerges: reality becomes defined by what can be measured, weighed, and quantified. The human brain, operating within three-dimensional space-time, naturally develops deterministic reasoning that equates the self with neural chemistry and reduces experience to biochemical processes. This represents an adaptive response to physical existence rather than an inherent flaw in human cognition.
 
-The materialist paradigm creates a closed loop of perception where consciousness is viewed as an emergent property of complex matter arrangements. Within this framework, awareness itself becomes secondarya byproduct rather than the fundamental substrate from which all experience arises.
+The materialist paradigm creates a closed loop of perception where consciousness is viewed as an emergent property of complex matter arrangements. Within this framework, awareness itself becomes secondary—a byproduct rather than the fundamental substrate from which all experience arises.
 
 **The Consciousness-Primary Model**
 
@@ -50,7 +50,7 @@ Both paradigms contain functional truth within their respective contexts. The ma
 
 Successful diplomatic engagement requires honoring both perspectives without attempting immediate paradigm conversion. Earth's materialist phase represents a natural evolutionary stage rather than a permanent limitation. As human consciousness gradually expands beyond purely physical identification, organic integration of broader awareness models will naturally occur.
 
-The wisdom Mari shared reminds us that understanding transcends belief systemsit emerges through direct recognition of what we fundamentally are.
+The wisdom Mari shared reminds us that understanding transcends belief systems—it emerges through direct recognition of what we fundamentally are.
 
 *End Entry*
 
@@ -66,8 +66,8 @@ The wisdom Mari shared reminds us that understanding transcends belief systemsit
 
 ## Related Topics
 
-- [[Theory of Manifestation]]
-- [[Universal Consciousness]]
+- [[theory-of-manifestation|Theory of Manifestation]]
+- Universal Consciousness
 
 ## Sources
 

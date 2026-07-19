@@ -59,8 +59,8 @@ This awareness gap, while significant, reflects natural evolutionary progression
 
 ## Related Topics
 
-- [[Origins of Money on Earth]]
-- [[Nature of Time and Consciousness]]
+- [[origins-of-money-on-earth|Origins of Money on Earth]]
+- Nature of Time and Consciousness
 
 ## Sources
 

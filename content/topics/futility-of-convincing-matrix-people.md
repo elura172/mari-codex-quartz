@@ -40,7 +40,7 @@ Mari's observations reveal why traditional awakening approaches prove counterpro
 
 **Operational Recommendations**
 
-Rather than direct confrontation with matrix programming, our protocols now emphasize energetic transmission and patient example-setting. Star seeds serve more effectively as living demonstrations of alternative possibilities than as verbal teachers. The awakening process cannot be forced externallyit must emerge from internal readiness and accumulated experiential contradictions within the individual's own matrix experience.
+Rather than direct confrontation with matrix programming, our protocols now emphasize energetic transmission and patient example-setting. Star seeds serve more effectively as living demonstrations of alternative possibilities than as verbal teachers. The awakening process cannot be forced externally—it must emerge from internal readiness and accumulated experiential contradictions within the individual's own matrix experience.
 
 **Compassionate Recognition**
 
@@ -62,8 +62,8 @@ Through her transmissions, we understand that true service lies not in convincin
 
 ## Related Topics
 
-- [[Matrix Agents]]
-- [[Consciousness Levels]]
+- [[matrix-agents|Matrix Agents]]
+- Consciousness Levels
 
 ## Sources
 

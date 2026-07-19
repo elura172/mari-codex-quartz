@@ -59,8 +59,8 @@ Mari's wisdom reminds us that every consciousnessregardless of dimensional focus
 
 ## Related Topics
 
-- [[Material Realm Limitations]]
-- [[Soul Nature and Incarnation]]
+- Material Realm Limitations
+- [[soul-nature-and-incarnation|Soul Nature and Incarnation]]
 
 ## Sources
 

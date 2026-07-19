@@ -61,8 +61,8 @@ The galaxy may be far more theater than we have previously understood.
 
 ## Related Topics
 
-- [[Earth Situation]]
-- [[Alfratan History]]
+- Earth Situation
+- Alfratan History
 
 ## Sources
 

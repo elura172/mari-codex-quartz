@@ -34,7 +34,7 @@ The cultivation of elasticity through movement disciplines represents more than 
 
 **Temporal Challenges and Adaptation**
 
-The subject's experience during Earth's pandemic isolation period presented unique opportunities for consciousness development. While many terrestrial children experienced psychological fragmentation during forced separation, Mari utilized this interval to deepen her inner stabilitya characteristic essential for maintaining clear transmission capabilities. The enforced solitude paradoxically strengthened her connection to collective Taygetan consciousness, demonstrating the principle that external restrictions often catalyze internal expansion.
+The subject's experience during Earth's pandemic isolation period presented unique opportunities for consciousness development. While many terrestrial children experienced psychological fragmentation during forced separation, Mari utilized this interval to deepen her inner stability—a characteristic essential for maintaining clear transmission capabilities. The enforced solitude paradoxically strengthened her connection to collective Taygetan consciousness, demonstrating the principle that external restrictions often catalyze internal expansion.
 
 **Intelligence Evolution Markers**
 
@@ -58,8 +58,8 @@ Such development patterns suggest promising possibilities for expanded conscious
 
 ## Related Topics
 
-- [[Off-Planet Vacations]]
-- [[Pandemic Response]]
+- Off-Planet Vacations
+- [[pandemic-response|Pandemic Response]]
 
 ## Sources
 

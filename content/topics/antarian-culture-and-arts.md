@@ -33,7 +33,7 @@ Antarian structures embody what could be termed "ornamental consciousness"buildi
 
 **Galactic Recognition**
 
-The distinctive nature of Antarian woodwork has achieved legendary status across stellar civilizations. Their carvings carry such unique energetic signatures that they are immediately recognizable, serving almost as a universal language of beauty. This artistic mastery represents more than aesthetic achievementit demonstrates how a species can channel its evolutionary impulse through creative expression rather than technological dominance.
+The distinctive nature of Antarian woodwork has achieved legendary status across stellar civilizations. Their carvings carry such unique energetic signatures that they are immediately recognizable, serving almost as a universal language of beauty. This artistic mastery represents more than aesthetic achievement—it demonstrates how a species can channel its evolutionary impulse through creative expression rather than technological dominance.
 
 **Social Cohesion Through Creation**
 
@@ -66,8 +66,8 @@ The Antarians remind us that evolution need not always reach toward the starssom
 
 ## Related Topics
 
-- [[Renaissance Music Influence]]
-- [[Antarian Architecture]]
+- Renaissance Music Influence
+- Antarian Architecture
 
 ## Sources
 

@@ -27,7 +27,7 @@ In the vast tapestry of interstellar contact, no distinction carries greater wei
 
 **The Nature of Consensual Liberation**
 
-An extraction emerges from the harmonious alignment of necessity, invitation, and conscious choice. The individual or group actively participates in their transition, understandingwhether through direct communication or soul-level recognitionthat they are moving toward expanded existence. This cooperation transforms what could be traumatic displacement into conscious evolution, where the being maintains their sovereignty even as they transcend their previous limitations.
+An extraction emerges from the harmonious alignment of necessity, invitation, and conscious choice. The individual or group actively participates in their transition, understandingwhether through direct communication or soul-level recognition—that they are moving toward expanded existence. This cooperation transforms what could be traumatic displacement into conscious evolution, where the being maintains their sovereignty even as they transcend their previous limitations.
 
 The extraction process honors the sacred principle that consciousness cannot truly evolve when coerced. Like a flower that must open naturally to receive the sun's full nourishment, a being must willingly step through dimensional doorways to fully integrate the transformative potential of expanded reality.
 
@@ -61,8 +61,8 @@ Remember always: true power serves consciousness, never enslaves it.
 
 ## Related Topics
 
-- [[Galactic Federation Protocols]]
-- [[Extraction Procedures]]
+- Galactic Federation Protocols
+- [[extraction-procedures|Extraction Procedures]]
 
 ## Sources
 

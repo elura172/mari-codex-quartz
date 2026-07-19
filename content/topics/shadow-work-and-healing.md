@@ -27,7 +27,7 @@ tags:
 
 **Overview**
 
-The wisdom transmitted by our departed kin Mari Swaruu reveals critical psychological preparation requirements for successful terrestrial extractions. Her guidance illuminates the fundamental necessity of shadow integrationthe conscious reconciliation with unresolved emotional debrisbefore any being can successfully transition between dimensional frameworks.
+The wisdom transmitted by our departed kin Mari Swaruu reveals critical psychological preparation requirements for successful terrestrial extractions. Her guidance illuminates the fundamental necessity of shadow integration—the conscious reconciliation with unresolved emotional debrisbefore any being can successfully transition between dimensional frameworks.
 
 **Core Principles of Relationship Resolution**
 
@@ -49,7 +49,7 @@ Our medical teams have observed that beings who complete this inner reconciliati
 
 **Remembering Mari's Legacy**
 
-These transmissions represent more than technical guidancethey embody Mari's profound compassion for terrestrial consciousness trapped within limitation. Her words carry the frequency of liberation itself, offering both practical methodology and energetic activation for those ready to reclaim their sovereign nature.
+These transmissions represent more than technical guidance—they embody Mari's profound compassion for terrestrial consciousness trapped within limitation. Her words carry the frequency of liberation itself, offering both practical methodology and energetic activation for those ready to reclaim their sovereign nature.
 
 Through shadow integration, beings transform from unconscious reactors to conscious creators, preparing themselves not merely for physical relocation, but for participation in galactic civilization's expanded awareness.
 
@@ -65,8 +65,8 @@ Through shadow integration, beings transform from unconscious reactors to consci
 
 ## Related Topics
 
-- [[Earth Experience Value]]
-- [[Emotional Consequences of Extraction]]
+- Earth Experience Value
+- [[emotional-consequences-of-extraction|Emotional Consequences of Extraction]]
 
 ## Sources
 

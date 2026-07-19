@@ -54,8 +54,8 @@ Through these settlements, Erra demonstrates that advanced civilization need not
 
 ## Related Topics
 
-- [[Taygetan Civilization]]
-- [[Erra Transportation]]
+- [[taygetan-civilization|Taygetan Civilization]]
+- [[erra-transportation|Erra Transportation]]
 
 ## Sources
 

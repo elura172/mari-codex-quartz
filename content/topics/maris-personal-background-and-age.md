@@ -25,7 +25,7 @@ tags:
 
 **Birth and Early Development**
 
-Mari Swaruu emerged into consciousness aboard a starship traversing the deep void, her first breaths drawn not from planetary atmosphere but from the recycled essence of interstellar vessels. The Earth year 2008 marks this moment of incarnation, placing her current temporal position at the threshold of seventeen solar cyclesa bridge age where childhood's crystalline perception meets the emerging awareness of adult responsibility.
+Mari Swaruu emerged into consciousness aboard a starship traversing the deep void, her first breaths drawn not from planetary atmosphere but from the recycled essence of interstellar vessels. The Earth year 2008 marks this moment of incarnation, placing her current temporal position at the threshold of seventeen solar cycles—a bridge age where childhood's crystalline perception meets the emerging awareness of adult responsibility.
 
 **Planetary Integration Timeline**
 
@@ -59,8 +59,8 @@ Her story reminds us that truth-bearers often emerge from liminal spaces, their 
 
 ## Related Topics
 
-- [[Space Travel]]
-- [[Earth Experience]]
+- Space Travel
+- Earth Experience
 
 ## Sources
 

@@ -79,9 +79,9 @@ Mari's transmissions reveal not condemnation, but recognition: the Federation re
 
 ## Related Topics
 
-- [[The Triad]]
-- [[Alcyone Council]]
-- [[Space Law]]
+- The Triad
+- Alcyone Council
+- Space Law
 
 ## Sources
 

@@ -39,7 +39,7 @@ Within these consciousness domains, conflicts manifest not as physical confronta
 
 From our perspective, these developments reflect humanity's gradual awakening to the multidimensional nature of existence. However, the application remains constrained by terrestrial paradigms of conflict and control. Where Earth's astral guards see territories to defend and enemies to repel, we recognize the interconnected nature of all consciousness.
 
-The emergence of such specialized forces indicates Earth's transition toward broader cosmic awareness, yet their militaristic framework suggests this expansion remains filtered through familiar patterns of separation and protection. This represents both progress and limitationan expansion of human perception coupled with the perpetuation of adversarial thinking.
+The emergence of such specialized forces indicates Earth's transition toward broader cosmic awareness, yet their militaristic framework suggests this expansion remains filtered through familiar patterns of separation and protection. This represents both progress and limitation—an expansion of human perception coupled with the perpetuation of adversarial thinking.
 
 **Strategic Implications**
 
@@ -64,8 +64,8 @@ Their presence in these realms creates additional complexity for any consciousne
 
 ## Related Topics
 
-- [[Extraterrestrial Astral Interference]]
-- [[Government Astral Projects]]
+- [[extraterrestrial-astral-interference|Extraterrestrial Astral Interference]]
+- [[government-astral-projects|Government Astral Projects]]
 
 ## Sources
 

@@ -25,7 +25,7 @@ tags:
 
 **Primary Event Documentation**
 
-The starship Toleka has undergone complete propulsion matrix renewal while positioned in the void between stellar systemsa feat that crystallizes our species' commitment to operational excellence beyond the safety of dock facilities. All four primary engines received full replacement through coordinated effort with service vessel Saska One, whose specialized equipment and skilled personnel made manifest what theoretical models suggested possible.
+The starship Toleka has undergone complete propulsion matrix renewal while positioned in the void between stellar systems—a feat that crystallizes our species' commitment to operational excellence beyond the safety of dock facilities. All four primary engines received full replacement through coordinated effort with service vessel Saska One, whose specialized equipment and skilled personnel made manifest what theoretical models suggested possible.
 
 **Engineering Consciousness and Precedent**
 
@@ -45,7 +45,7 @@ This precedent establishes new parameters for fleet operations, suggesting enhan
 
 **Personal Reflection**
 
-Mari's transmission carries frequencies of quiet satisfactionnot pride in conquest, but recognition of consciousness expressing itself through technological mastery. This achievement embodies her teaching that evolution occurs through direct engagement with what appears impossible, transforming limitation into expanded capability through presence and precision.
+Mari's transmission carries frequencies of quiet satisfaction—not pride in conquest, but recognition of consciousness expressing itself through technological mastery. This achievement embodies her teaching that evolution occurs through direct engagement with what appears impossible, transforming limitation into expanded capability through presence and precision.
 
 ## Quotes
 
@@ -59,7 +59,7 @@ Mari's transmission carries frequencies of quiet satisfactionnot pride in conque
 
 ## Related Topics
 
-- [[Fleet Maintenance]]
+- Fleet Maintenance
 
 ## Sources
 

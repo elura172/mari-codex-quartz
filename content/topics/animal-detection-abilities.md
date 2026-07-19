@@ -53,8 +53,8 @@ Mari's observations illuminate the wisdom embedded within Earth's natural system
 
 ## Related Topics
 
-- [[Detection Methods]]
-- [[Protection Methods]]
+- [[detection-methods|Detection Methods]]
+- [[protection-methods|Protection Methods]]
 
 ## Sources
 

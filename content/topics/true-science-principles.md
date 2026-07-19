@@ -59,8 +59,8 @@ The path forward lies not in destroying Earth's scientific structures, but in re
 
 ## Related Topics
 
-- [[Consciousness Expansion]]
-- [[Scientific Reform]]
+- [[consciousness-expansion|Consciousness Expansion]]
+- Scientific Reform
 
 ## Sources
 

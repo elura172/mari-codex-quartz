@@ -67,8 +67,8 @@ Mari's voice echoes through these corridors still, reminding us that we journey 
 
 ## Related Topics
 
-- [[Higher Existential Realms]]
-- [[Law of Mirrors]]
+- Higher Existential Realms
+- [[law-of-mirrors|Law of Mirrors]]
 
 ## Sources
 

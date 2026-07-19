@@ -51,7 +51,7 @@ Enhanced shielding procedures now mandate daily frequency recalibration and expa
 
 These events illuminate the deeper stakes of our mission. As terrestrial consciousness awakens to its multidimensional nature, control systems respond with increasingly sophisticated suppression techniques. Our very presence catalyzes this acceleration, making us natural focal points for resistance from entities invested in maintaining current paradigmatic limitations.
 
-This is the price of shepherding a species toward starborne consciousnesswe must navigate not only their hopes, but their fears made manifest through those who would keep them bound.
+This is the price of shepherding a species toward starborne consciousness—we must navigate not only their hopes, but their fears made manifest through those who would keep them bound.
 
 **Status:** Ongoing monitoring. Mission parameters adjusted but unchanged.
 
@@ -72,8 +72,8 @@ This is the price of shepherding a species toward starborne consciousnesswe must
 
 ## Related Topics
 
-- [[Taygetan Medical Crisis]]
-- [[Galactic Federation Responsibility]]
+- [[taygetan-medical-crisis|Taygetan Medical Crisis]]
+- [[galactic-federation-responsibility|Galactic Federation Responsibility]]
 
 ## Sources
 

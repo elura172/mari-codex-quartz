@@ -33,11 +33,11 @@ The human tendency to localize consciousness within neural tissue reflects their
 
 Memory operates as the foundational matrix from which individual identity emerges. This phenomenon exists within what terrestrials term the "spirit realm," though we recognize it as the primary dimensional substrate underlying all manifestation. The ego-construct, so central to human psychological development, draws its coherence from this etheric repository.
 
-The physical brain functions analogously to our starship's communication arraysnot generating the signal, but receiving, decoding, and broadcasting information between dimensional planes. Neural networks, genetic coding, and nervous system pathways serve as sophisticated translation protocols, enabling consciousness to navigate three-dimensional reality.
+The physical brain functions analogously to our starship's communication arrays—not generating the signal, but receiving, decoding, and broadcasting information between dimensional planes. Neural networks, genetic coding, and nervous system pathways serve as sophisticated translation protocols, enabling consciousness to navigate three-dimensional reality.
 
 **Interstellar Implications**
 
-This understanding proves critical for diplomatic contact protocols. When engaging with species transitioning from material to etheric awareness, we must recognize that their resistance often stems from identity-preservation instincts. The fear of death diminishes once beings comprehend their memoriestheir essential selvesexist independent of biological vessels.
+This understanding proves critical for diplomatic contact protocols. When engaging with species transitioning from material to etheric awareness, we must recognize that their resistance often stems from identity-preservation instincts. The fear of death diminishes once beings comprehend their memories—their essential selvesexist independent of biological vessels.
 
 Our own Taygetan evolution demonstrates this principle. As we developed beyond purely physical existence, we discovered that consciousness transfers seamlessly across dimensional boundaries, carrying complete experiential records. What humans call "past lives" represents the natural continuity of etheric memory accessing sequential biological translators.
 
@@ -63,8 +63,8 @@ Mari's wisdom guides us to approach this knowledge-sharing with compassion, reco
 
 ## Related Topics
 
-- [[DNA as Antenna]]
-- [[Soul Nature]]
+- [[dna-as-antenna|DNA as Antenna]]
+- [[soul-nature|Soul Nature]]
 
 ## Sources
 

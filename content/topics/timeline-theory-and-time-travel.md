@@ -56,8 +56,8 @@ Mari's teachings remind us that time travel's greatest gift is not the ability t
 
 ## Related Topics
 
-- [[Taygetan Time Model]]
-- [[Consciousness and Reality Creation]]
+- [[taygetan-time-model|Taygetan Time Model]]
+- [[consciousness-and-reality-creation|Consciousness and Reality Creation]]
 
 ## Sources
 

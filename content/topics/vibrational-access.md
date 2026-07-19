@@ -62,8 +62,8 @@ Crew members engaging in information transfer operations must first assess the v
 
 ## Related Topics
 
-- [[Akashic Records Definition]]
-- [[Higher Realms]]
+- [[akashic-records-definition|Akashic Records Definition]]
+- [[higher-realms|Higher Realms]]
 
 ## Sources
 

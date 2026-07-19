@@ -23,13 +23,13 @@ tags:
 
 **Mission Parameters**
 
-At the threshold between Terran calendar cycles, our sensors registered the arrival of an Etorthan diplomatic formationa deep Galactic Federation audit detachment dispatched to assess terrestrial operations. This intervention represents a significant escalation in Federation oversight, suggesting that Earth's evolutionary trajectory has reached a critical juncture requiring direct institutional review.
+At the threshold between Terran calendar cycles, our sensors registered the arrival of an Etorthan diplomatic formation—a deep Galactic Federation audit detachment dispatched to assess terrestrial operations. This intervention represents a significant escalation in Federation oversight, suggesting that Earth's evolutionary trajectory has reached a critical juncture requiring direct institutional review.
 
 The timing of their arrival during humanity's symbolic temporal transition carries metaphysical weight. As Terrans marked their passage from one cycle to the next, the Federation positioned itself to evaluate the planet's readiness for expanded galactic integration.
 
 **Etorthan Cognitive Architecture**
 
-The Etorthan consciousness operates through crystalline logic matrices, their neural pathways optimized for analytical precision rather than emotional resonance. Their cognitive architecture embodies pure rational assessmenta quality that renders them ideal auditors but fundamentally incompatible with human psychological needs.
+The Etorthan consciousness operates through crystalline logic matrices, their neural pathways optimized for analytical precision rather than emotional resonance. Their cognitive architecture embodies pure rational assessment—a quality that renders them ideal auditors but fundamentally incompatible with human psychological needs.
 
 Where humans require emotional validation and empathetic connection to establish trust, Etorthans perceive such needs as inefficient variables in communication protocols. This creates an inherent diplomatic paradox: those most qualified to render objective judgment are least equipped to deliver it in a manner humans can psychologically integrate.
 
@@ -61,8 +61,8 @@ We maintain observation protocols, ready to serve as interpretive bridge between
 
 ## Related Topics
 
-- [[Orion Council]]
-- [[Galactic Federation Oversight]]
+- Orion Council
+- Galactic Federation Oversight
 
 ## Sources
 

@@ -59,8 +59,8 @@ When engaging with developing civilizations, remember that their genetics respon
 
 ## Related Topics
 
-- [[Genetic Manipulation]]
-- [[Population Control]]
+- Genetic Manipulation
+- [[population-control|Population Control]]
 
 ## Sources
 

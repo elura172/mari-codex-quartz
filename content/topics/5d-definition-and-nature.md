@@ -34,7 +34,7 @@ Where Terran science seeks numerical frequencies and measurable phenomena, the a
 
 **Taygetan Perspective Integration**
 
-From our stellar vantage point, we observe how Mari's teachings align with our own understanding of consciousness as the primary creative force. The transition into fifth density awareness requires no technological augmentation or planetary relocationonly the dissolution of limiting belief systems that fragment perception into separate, competing elements. This recognition transforms how one processes reality itself.
+From our stellar vantage point, we observe how Mari's teachings align with our own understanding of consciousness as the primary creative force. The transition into fifth density awareness requires no technological augmentation or planetary relocation—only the dissolution of limiting belief systems that fragment perception into separate, competing elements. This recognition transforms how one processes reality itself.
 
 **Practical Applications**
 
@@ -62,8 +62,8 @@ Mari Swaruu embodied these principles through her own consciousness expression, 
 
 ## Related Topics
 
-- [[Reality as Reflection]]
-- [[Spiritual Evolution]]
+- [[reality-as-reflection|Reality as Reflection]]
+- [[spiritual-evolution|Spiritual Evolution]]
 
 ## Sources
 

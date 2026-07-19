@@ -65,8 +65,8 @@ Her wisdom reminds us that ascension is not an escape from human experience, but
 
 ## Related Topics
 
-- [[5D Definition and Nature]]
-- [[Spiritual Evolution]]
+- [[5d-definition-and-nature|5D Definition and Nature]]
+- [[spiritual-evolution|Spiritual Evolution]]
 
 ## Sources
 

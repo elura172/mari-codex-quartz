@@ -24,7 +24,7 @@ tags:
 
 **Planetary Genesis and Loss**
 
-In the epochs before Earth's current isolation, the Sol system harbored a world whose destruction would echo through both matter and consciousness for millennia. Tiamat, the water-bearer, once graced the orbital space between the red desert of Mars and the gas giant Jupitera positioning that speaks to the delicate gravitational symphony required for stable planetary evolution.
+In the epochs before Earth's current isolation, the Sol system harbored a world whose destruction would echo through both matter and consciousness for millennia. Tiamat, the water-bearer, once graced the orbital space between the red desert of Mars and the gas giant Jupiter—a positioning that speaks to the delicate gravitational symphony required for stable planetary evolution.
 
 Mari's transmissions illuminate this world not merely as rock and water, but as a living system whose obliteration represents one of our galaxy's most profound cautionary tales. The vast oceanic planet embodied the generative feminine principle that Taygetan cosmology recognizes as essential to conscious evolutionthe receptive, nurturing force that allows civilizations to flourish.
 
@@ -56,8 +56,8 @@ Mari's teachings remind us that consciousness transcends planetary destruction, 
 
 ## Related Topics
 
-- [[Solar System Imbalance]]
-- [[Moon's Origin and Purpose]]
+- Solar System Imbalance
+- Moon's Origin and Purpose
 
 ## Sources
 

@@ -25,7 +25,7 @@ tags:
 
 **Foundation Principle: Identity as Source**
 
-The cornerstone of all protective energetic work lies not in external techniques, but in the fundamental remembrance of one's essential nature. Mari's teachings illuminate what our own Taygetan understanding has long recognized: consciousness is not a product of matter, but its creative origin. When an individual recalls their identity as Source itselfthe infinite creative potential from which all experience emergesthey naturally align with frequencies that lower vibrational entities cannot penetrate.
+The cornerstone of all protective energetic work lies not in external techniques, but in the fundamental remembrance of one's essential nature. Mari's teachings illuminate what our own Taygetan understanding has long recognized: consciousness is not a product of matter, but its creative origin. When an individual recalls their identity as Source itselfthe infinite creative potential from which all experience emerges—they naturally align with frequencies that lower vibrational entities cannot penetrate.
 
 This remembrance transcends mere intellectual knowledge. It requires a felt recognition, a cellular acknowledgment that the boundaries between self and cosmos are constructs of perception rather than absolute truths. From this expanded awareness, protection becomes less about building walls and more about maintaining alignment with one's authentic vibrational signature.
 
@@ -41,7 +41,7 @@ The effectiveness of energetic protection correlates directly with one's ability
 
 **Operational Applications**
 
-For crew members entering potentially compromised environmentswhether aboard vessels of unknown origin or planetary locations with heavy psychic contaminationthese protocols provide essential protection. The practice requires no external equipment and functions across all dimensional frequencies we commonly encounter.
+For crew members entering potentially compromised environmentswhether aboard vessels of unknown origin or planetary locations with heavy psychic contamination—these protocols provide essential protection. The practice requires no external equipment and functions across all dimensional frequencies we commonly encounter.
 
 Mari's wisdom reminds us that true protection emerges from remembering our nature as sovereign creators rather than vulnerable victims. In this remembrance, we find both shield and sword, both sanctuary and strength.
 
@@ -59,8 +59,8 @@ Mari's wisdom reminds us that true protection emerges from remembering our natur
 
 ## Related Topics
 
-- [[Source Identity]]
-- [[Reality Creation]]
+- [[source-identity|Source Identity]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

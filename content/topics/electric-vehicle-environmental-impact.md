@@ -44,7 +44,7 @@ From our perspective, this phenomenon illustrates humanity's tendency toward sym
 
 Mari's observations suggest that Terra's environmental crisis stems not from the choice between combustion and electrical propulsion, but from the deeper assumption that individual mechanical transport represents a sustainable paradigm at planetary scale.
 
-True ecological harmony requires consciousness evolution beyond the need to move individual physical vessels across planetary surfaces with such frequencya shift toward the kind of dimensional navigation technologies we employ, which work with rather than against the fundamental frequencies of space-time itself.
+True ecological harmony requires consciousness evolution beyond the need to move individual physical vessels across planetary surfaces with such frequency—a shift toward the kind of dimensional navigation technologies we employ, which work with rather than against the fundamental frequencies of space-time itself.
 
 The electric vehicle initiative thus serves as both symptom and teacher, revealing humanity's readiness to begin questioning the foundational assumptions underlying their transportation consciousness.
 
@@ -68,9 +68,9 @@ The electric vehicle initiative thus serves as both symptom and teacher, reveali
 
 ## Related Topics
 
-- [[Power Generation]]
-- [[Mining Ethics]]
-- [[Battery Waste]]
+- Power Generation
+- Mining Ethics
+- Battery Waste
 
 ## Sources
 

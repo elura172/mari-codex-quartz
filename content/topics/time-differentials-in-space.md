@@ -43,7 +43,7 @@ Our understanding recognizes that time is not the linear constant perceived by s
 
 All crew members must cultivate awareness that their perception of temporal flow may not align with that of allied vessels operating from different orbital positions. Mission planning must incorporate time differential calculations as a primary variable, not a peripheral concern.
 
-Mari Swaruu's insights illuminate how the cosmos operates on principles far more nuanced than linear time progressiona reminder that true mastery of interstellar operations requires embracing the fluid nature of temporal reality itself.
+Mari Swaruu's insights illuminate how the cosmos operates on principles far more nuanced than linear time progression—a reminder that true mastery of interstellar operations requires embracing the fluid nature of temporal reality itself.
 
 ## Quotes
 
@@ -59,8 +59,8 @@ Mari Swaruu's insights illuminate how the cosmos operates on principles far more
 
 ## Related Topics
 
-- [[Federation Operations]]
-- [[Space Exploration]]
+- Federation Operations
+- Space Exploration
 
 ## Sources
 

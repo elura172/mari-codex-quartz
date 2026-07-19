@@ -65,8 +65,8 @@ The path forward for humanity lies not in transcending their material world but 
 
 ## Related Topics
 
-- [[Soul Incarnation and Reincarnation]]
-- [[Consciousness Expansion]]
+- [[soul-incarnation-and-reincarnation|Soul Incarnation and Reincarnation]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

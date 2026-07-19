@@ -32,13 +32,13 @@ The terrestrial experience functions as an intensive academy where incarnate sou
 
 Within Earth's dense vibrational field, consciousness learns to bend and shape reality through focused intention and emotional coherence. The planet's design creates scenarios where souls must either surrender to apparent limitations or discover their inherent creative power. This binary pressure produces rapid evolutionary advancement in those who choose the path of conscious manifestation.
 
-Mari's transmissions reveal that Earth's most challenging aspectsits conflicts, scarcities, and social pressuresserve as resistance training for developing manifestation muscles. Each obstacle becomes a catalyst, forcing consciousness to reach deeper into its creative potential. Souls who master these dense conditions emerge with extraordinary abilities to shape reality across multiple dimensional frequencies.
+Mari's transmissions reveal that Earth's most challenging aspects—its conflicts, scarcities, and social pressuresserve as resistance training for developing manifestation muscles. Each obstacle becomes a catalyst, forcing consciousness to reach deeper into its creative potential. Souls who master these dense conditions emerge with extraordinary abilities to shape reality across multiple dimensional frequencies.
 
 **Evolutionary Curriculum**
 
 The Earth school operates on a principle of necessary friction. Just as our Taygetan youth strengthen their telepathic abilities through structured challenges, terrestrial souls develop manifestation mastery through navigating seemingly impossible circumstances. The curriculum is designed so that breakthrough moments occur precisely when consciousness refuses to accept limitation as permanent reality.
 
-Those who graduate from this intensive training carry profound giftsthe ability to transmute dense energy patterns, manifest desired outcomes despite apparent opposition, and inspire others through their demonstration of consciousness over matter.
+Those who graduate from this intensive training carry profound gifts—the ability to transmute dense energy patterns, manifest desired outcomes despite apparent opposition, and inspire others through their demonstration of consciousness over matter.
 
 **Strategic Implications**
 
@@ -58,8 +58,8 @@ This recognition of Earth's true function honors Mari's profound insight into th
 
 ## Related Topics
 
-- [[Duality and Contrast Experience]]
-- [[Earth as Advanced School]]
+- [[duality-and-contrast-experience|Duality and Contrast Experience]]
+- [[earth-as-advanced-school|Earth as Advanced School]]
 
 ## Sources
 

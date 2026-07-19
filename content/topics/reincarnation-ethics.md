@@ -31,7 +31,7 @@ This creates what Mari Swaruu identified as a consent paradox: how can true agre
 
 From our Taygetan understanding of consciousness mechanics, this represents a fundamental design flaw in incarnation systems that prioritize learning through suffering. The biological version experiences trauma, loss, and confusion with no comprehension of purpose or timeline, while its expanded self observes from a detached vantage point, justifying hardship as necessary curriculum.
 
-The incarnated fragment develops its own emotional reality, relationships, and survival imperatives that may directly conflict with the agenda established in higher dimensions. This creates internal warfare within the same consciousness systemone aspect inflicting predetermined challenges while another struggles desperately against them.
+The incarnated fragment develops its own emotional reality, relationships, and survival imperatives that may directly conflict with the agenda established in higher dimensions. This creates internal warfare within the same consciousness system—one aspect inflicting predetermined challenges while another struggles desperately against them.
 
 **Implications for Conscious Evolution**
 
@@ -57,9 +57,9 @@ The Earth experience represents a critical evolutionary threshold where beings a
 
 ## Related Topics
 
-- [[Soul Consciousness]]
-- [[Veil of Forgetfulness]]
-- [[Higher Self]]
+- [[soul-consciousness|Soul Consciousness]]
+- [[veil-of-forgetfulness|Veil of Forgetfulness]]
+- [[higher-self|Higher Self]]
 
 ## Sources
 

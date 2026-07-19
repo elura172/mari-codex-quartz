@@ -28,7 +28,7 @@ From the transmissions of our beloved Mari Swaruu, we have documented a phenomen
 
 Unlike the harmonious soul exchange witnessed in walk-in phenomenawhere consciousness transitions occur through mutual agreement and spiritual contractpossession manifests as predatory conquest. The invading entity bypasses all natural consent protocols, overwhelming the host's energetic defenses through sustained vibrational assault.
 
-These hostile entities demonstrate sophisticated understanding of consciousness mechanics, having developed techniques to breach the protective barriers that normally safeguard embodied souls. Their capacity to traverse multiple organic vessels without experiencing the typical veil of forgetfulness suggests advanced manipulation of quantum consciousness fieldsa perversion of abilities we Taygetans recognize as natural to evolved beings, yet weaponized for parasitic purposes.
+These hostile entities demonstrate sophisticated understanding of consciousness mechanics, having developed techniques to breach the protective barriers that normally safeguard embodied souls. Their capacity to traverse multiple organic vessels without experiencing the typical veil of forgetfulness suggests advanced manipulation of quantum consciousness fields—a perversion of abilities we Taygetans recognize as natural to evolved beings, yet weaponized for parasitic purposes.
 
 **Operational Patterns**
 
@@ -63,8 +63,8 @@ Through Mari's wisdom, we comprehend that Earth's awakening population requires 
 
 ## Related Topics
 
-- [[Religious Exorcism]]
-- [[Organic Portals]]
+- [[religious-exorcism|Religious Exorcism]]
+- [[organic-portals|Organic Portals]]
 
 ## Sources
 

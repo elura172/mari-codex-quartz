@@ -51,8 +51,8 @@ These recreational sanctuaries embody core Taygetan principles: that advanced te
 
 ## Related Topics
 
-- [[Toleka Ship Specifications]]
-- [[Minecraft Recreation Project]]
+- [[toleka-ship-specifications|Toleka Ship Specifications]]
+- [[minecraft-recreation-project|Minecraft Recreation Project]]
 
 ## Sources
 

@@ -62,8 +62,8 @@ The situation calls for compassionate observation rather than judgmentrecognizin
 
 ## Related Topics
 
-- [[Interspecies Relations]]
-- [[Andromedan Biosphere Viera]]
+- [[interspecies-relations|Interspecies Relations]]
+- Andromedan Biosphere Viera
 
 ## Sources
 

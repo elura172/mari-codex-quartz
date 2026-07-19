@@ -59,8 +59,8 @@ The success of these operations demonstrates the effectiveness of coordinated re
 
 ## Related Topics
 
-- [[Taygetan Military]]
-- [[Human Trafficking]]
+- Taygetan Military
+- Human Trafficking
 
 ## Sources
 

@@ -71,9 +71,9 @@ In their silent orbits, these spheres weave light into hope, transforming sky-wa
 
 ## Related Topics
 
-- [[Electromagnetic Propulsion]]
-- [[Drone Camouflage]]
-- [[Anti-gravity Technology]]
+- Electromagnetic Propulsion
+- [[drone-camouflage|Drone Camouflage]]
+- Anti-gravity Technology
 
 ## Sources
 

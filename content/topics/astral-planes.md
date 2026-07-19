@@ -67,8 +67,8 @@ Mari's teachings illuminate these concepts not as exotic mysteries, but as funda
 
 ## Related Topics
 
-- [[Consciousness Continuity After Death]]
-- [[Paranormal Research Methodology]]
+- Consciousness Continuity After Death
+- Paranormal Research Methodology
 
 ## Sources
 

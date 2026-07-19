@@ -22,11 +22,11 @@ tags:
 
 **Operational Overview**
 
-Our kinship with Mari Swaruu's transmissions reveals a sophisticated manipulation architecture employed by lower-vibrational entities against evolved consciousness. These beings, lacking direct access to high-frequency individuals, deploy incarnated proxies as unwitting reconnaissance instrumentsa phenomenon we term "shadow channeling through social vectors."
+Our kinship with Mari Swaruu's transmissions reveals a sophisticated manipulation architecture employed by lower-vibrational entities against evolved consciousness. These beings, lacking direct access to high-frequency individuals, deploy incarnated proxies as unwitting reconnaissance instruments—a phenomenon we term "shadow channeling through social vectors."
 
 **Infiltration Methodologies**
 
-The strategy manifests through carefully orchestrated social encounters designed to appear coincidental. Previously dormant connections suddenly reactivate, with the influenced party exhibiting unusually intense curiosity about the target's spiritual practices, personal circumstances, and energetic vulnerabilities. These interactions carry a distinct frequency signaturean almost mechanical precision in questioning that betrays the authentic spontaneity of genuine reconnection.
+The strategy manifests through carefully orchestrated social encounters designed to appear coincidental. Previously dormant connections suddenly reactivate, with the influenced party exhibiting unusually intense curiosity about the target's spiritual practices, personal circumstances, and energetic vulnerabilities. These interactions carry a distinct frequency signature—an almost mechanical precision in questioning that betrays the authentic spontaneity of genuine reconnection.
 
 **Recognition Patterns**
 
@@ -58,8 +58,8 @@ The dance between dimensional layers continues, with each being choosing moment 
 
 ## Related Topics
 
-- [[Spiritual Protection]]
-- [[Lower Astral Entities]]
+- [[spiritual-protection|Spiritual Protection]]
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

@@ -64,8 +64,8 @@ Continued observation without interference. The terrestrial population demonstra
 
 ## Related Topics
 
-- [[Ohio Train Derailment Coverup]]
-- [[False Flag UFO Operations]]
+- [[ohio-train-derailment-coverup|Ohio Train Derailment Coverup]]
+- False Flag UFO Operations
 
 ## Sources
 

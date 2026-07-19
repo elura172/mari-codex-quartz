@@ -59,9 +59,9 @@ This understanding reinforces our commitment to gentle guidance for civilization
 
 ## Related Topics
 
-- [[Reality Agreements]]
-- [[Non-linear Time Perception]]
-- [[Soul Consciousness]]
+- [[reality-agreements|Reality Agreements]]
+- [[non-linear-time-perception|Non-linear Time Perception]]
+- [[soul-consciousness|Soul Consciousness]]
 
 ## Sources
 

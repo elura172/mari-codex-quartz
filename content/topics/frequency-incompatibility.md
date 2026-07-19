@@ -60,8 +60,8 @@ Mari's wisdom reminds us that feeling displaced often indicates authenticity rat
 
 ## Related Topics
 
-- [[Energy Drainage]]
-- [[Thermodynamics Principle]]
+- Energy Drainage
+- Thermodynamics Principle
 
 ## Sources
 

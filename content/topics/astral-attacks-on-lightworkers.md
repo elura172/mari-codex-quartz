@@ -39,7 +39,7 @@ From our Taygetan perspective, these interference patterns reveal the effectiven
 
 **Protective Considerations**
 
-Understanding this dynamic allows conscious beings to interpret challenges not as personal failures or random misfortune, but as confirmation of their aligned trajectory. The tempest itself becomes validationa paradoxical beacon indicating proximity to breakthrough points where individual liberation contributes to collective evolutionary momentum.
+Understanding this dynamic allows conscious beings to interpret challenges not as personal failures or random misfortune, but as confirmation of their aligned trajectory. The tempest itself becomes validation—a paradoxical beacon indicating proximity to breakthrough points where individual liberation contributes to collective evolutionary momentum.
 
 **Training Protocol**
 
@@ -47,7 +47,7 @@ Crew members engaging with Earth-based contacts should recognize these interfere
 
 **Concluding Assessment**
 
-Mari Swaruu's observations illuminate a fundamental truth: consciousness evolution inevitably attracts opposition from systems dependent upon stagnation. This opposition, however, serves as both obstacle and opportunityeach successful passage through astral turbulence expands the safe corridor for subsequent travelers on the journey toward authentic freedom.
+Mari Swaruu's observations illuminate a fundamental truth: consciousness evolution inevitably attracts opposition from systems dependent upon stagnation. This opposition, however, serves as both obstacle and opportunity—each successful passage through astral turbulence expands the safe corridor for subsequent travelers on the journey toward authentic freedom.
 
 *End Codex Entry*
 
@@ -65,8 +65,8 @@ Mari Swaruu's observations illuminate a fundamental truth: consciousness evoluti
 
 ## Related Topics
 
-- [[Psychic Defense Abilities]]
-- [[Hidden Astral Threats]]
+- Psychic Defense Abilities
+- Hidden Astral Threats
 
 ## Sources
 

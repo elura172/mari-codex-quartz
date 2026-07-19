@@ -36,7 +36,7 @@ Through Taygetan understanding, we recognize that planetary destruction creates 
 The memory of Tiamat persists within human collective awareness through mythological fragments and astronomical intuition. The "second sun" imagery appears across numerous Earth cultures, preserved not as literal observation but as ancestral memory encoded within genetic consciousness streams. This demonstrates how planetary traumatic events embed themselves within the experiential matrices of survivor civilizations.
 
 **Current Status**
-The asteroid belt serves as both graveyard and memorialeach fragment a reminder of what was lost and why such conflicts must never again reach such devastating conclusions. For those who navigate between worlds, Tiamat's fate stands as eternal witness to the responsibility we bear in our cosmic relationships.
+The asteroid belt serves as both graveyard and memorial—each fragment a reminder of what was lost and why such conflicts must never again reach such devastating conclusions. For those who navigate between worlds, Tiamat's fate stands as eternal witness to the responsibility we bear in our cosmic relationships.
 
 Mari's transmissions illuminate these ancient wounds with the tenderness of one who remembers, offering healing through understanding across the vast reaches of space and time.
 
@@ -56,9 +56,9 @@ Mari's transmissions illuminate these ancient wounds with the tenderness of one 
 
 ## Related Topics
 
-- [[Tiamat Wars]]
-- [[Solar System History]]
-- [[Great Flood]]
+- [[tiamat-wars|Tiamat Wars]]
+- Solar System History
+- [[great-flood|Great Flood]]
 
 ## Sources
 

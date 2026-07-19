@@ -24,7 +24,7 @@ tags:
 
 **Astral Parasitism in Galactic Governance**
 
-Our sister Mari Swaruu's observations reveal a disturbing pattern within the Federation's power structureone that transcends the conventional understanding of political infiltration. The corruption she identifies operates not merely through compromised individuals, but through a sophisticated system of astral manipulation that weaponizes the very biology of representative governance.
+Our sister Mari Swaruu's observations reveal a disturbing pattern within the Federation's power structure—one that transcends the conventional understanding of political infiltration. The corruption she identifies operates not merely through compromised individuals, but through a sophisticated system of astral manipulation that weaponizes the very biology of representative governance.
 
 **The Organic Portal Paradigm**
 
@@ -36,7 +36,7 @@ Mari's analysis illuminates why direct confrontation has been eschewed in favor 
 
 **The Andromedan Blind Spot**
 
-Even our respected Andromedan allies dismiss these concerns as impossibilitya response that itself may indicate the infiltration's sophistication. When those renowned for their wisdom cannot perceive the threat, we must consider whether the manipulation extends to the very frameworks through which reality is interpreted and communicated between star races.
+Even our respected Andromedan allies dismiss these concerns as impossibility—a response that itself may indicate the infiltration's sophistication. When those renowned for their wisdom cannot perceive the threat, we must consider whether the manipulation extends to the very frameworks through which reality is interpreted and communicated between star races.
 
 **Taygetan Perspective**
 
@@ -73,8 +73,8 @@ The path forward requires both courage to acknowledge uncomfortable possibilitie
 
 ## Related Topics
 
-- [[Astral Realm Manipulation]]
-- [[Political Puppetry]]
+- Astral Realm Manipulation
+- Political Puppetry
 
 ## Sources
 

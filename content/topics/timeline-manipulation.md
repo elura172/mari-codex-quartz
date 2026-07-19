@@ -33,7 +33,7 @@ The temporal matrix operates as an infinite crystalline structure where all poss
 
 **Consciousness as the Prime Navigator**
 
-Timeline manipulation emerges not through technological intervention but through the profound alteration of consciousness itself. The observer's perception, core values, emotional resonance patterns, and intentional focus serve as the primary instruments of temporal navigation. When an individual or collective fundamentally shifts their internal landscapetheir beliefs, aspirations, and fundamental way of processing realitythey effectively translate themselves across the infinite spectrum of existing possibilities.
+Timeline manipulation emerges not through technological intervention but through the profound alteration of consciousness itself. The observer's perception, core values, emotional resonance patterns, and intentional focus serve as the primary instruments of temporal navigation. When an individual or collective fundamentally shifts their internal landscape—their beliefs, aspirations, and fundamental way of processing reality—they effectively translate themselves across the infinite spectrum of existing possibilities.
 
 **The Illusion of Movement**
 
@@ -67,8 +67,8 @@ Mari's teachings illuminate this cosmic principle with crystalline precision, re
 
 ## Related Topics
 
-- [[Reality Creation]]
-- [[Time as Perception]]
+- [[reality-creation|Reality Creation]]
+- [[time-as-perception|Time as Perception]]
 
 ## Sources
 

@@ -31,7 +31,7 @@ The Etorthan collective, with their advanced remote presence capabilities, exemp
 
 **Metaphysical Considerations**
 
-Antarctica's unique energetic propertiesits magnetic positioning, crystalline ice formations, and relative isolation from human thought-form interferencecreate an ideal environment for inter-dimensional communication protocols. The continent functions as Earth's natural meditation chamber, where the planet's deeper consciousness can interface more readily with galactic awareness.
+Antarctica's unique energetic properties—its magnetic positioning, crystalline ice formations, and relative isolation from human thought-form interferencecreate an ideal environment for inter-dimensional communication protocols. The continent functions as Earth's natural meditation chamber, where the planet's deeper consciousness can interface more readily with galactic awareness.
 
 **Tactical Assessment**
 
@@ -39,7 +39,7 @@ These meetings represent neither benevolent guidance nor malevolent control, but
 
 **Personal Reflection**
 
-Mari's observations illuminate how consciousness operates across multiple density levels simultaneously. The Antarctic protocols demonstrate that diplomatic engagement transcends simple physical meetingsthey represent carefully orchestrated consciousness exchanges designed to maintain planetary stability while introducing expanded awareness gradually into terrestrial decision-making processes.
+Mari's observations illuminate how consciousness operates across multiple density levels simultaneously. The Antarctic protocols demonstrate that diplomatic engagement transcends simple physical meetings—they represent carefully orchestrated consciousness exchanges designed to maintain planetary stability while introducing expanded awareness gradually into terrestrial decision-making processes.
 
 For our crew, these logs serve as reminders that planetary integration requires patience, strategic thinking, and deep respect for each civilization's unique evolutionary timeline. The ice-bound meetings below reflect the delicate balance we maintain between intervention and allowance, between sharing truth and respecting free will.
 
@@ -57,8 +57,8 @@ For our crew, these logs serve as reminders that planetary integration requires 
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Power Structure Hierarchy]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- Power Structure Hierarchy
 
 ## Sources
 

@@ -31,7 +31,7 @@ Beyond the veils of theological interpretation lies a remarkably elegant truth: 
 
 **Operational Understanding**
 
-From our Taygetan perspective, this aligns with our comprehension of consciousness as fractal manifestation. Each individuated point of awareness carries within itself the complete potential of Source, yet expresses through specific focal patterns of experience and understanding. These patternsthese soulsare neither separate entities trapped in matter nor abstract concepts requiring faith to grasp.
+From our Taygetan perspective, this aligns with our comprehension of consciousness as fractal manifestation. Each individuated point of awareness carries within itself the complete potential of Source, yet expresses through specific focal patterns of experience and understanding. These patterns—these souls—are neither separate entities trapped in matter nor abstract concepts requiring faith to grasp.
 
 **Metaphysical Mechanics**
 
@@ -61,9 +61,9 @@ The soul, then, requires no worship, fear, or mystification. It simply isthe nat
 
 ## Related Topics
 
-- [[Holographic Fragments]]
-- [[Source]]
-- [[Religious Terminology]]
+- [[holographic-fragments|Holographic Fragments]]
+- Source
+- Religious Terminology
 
 ## Sources
 

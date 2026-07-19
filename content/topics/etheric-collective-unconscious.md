@@ -60,8 +60,8 @@ The etheric collective unconscious represents not merely a phenomenon to study, 
 
 ## Related Topics
 
-- [[Species Unity]]
-- [[Human Galactic Origins]]
+- Species Unity
+- [[human-galactic-origins|Human Galactic Origins]]
 
 ## Sources
 

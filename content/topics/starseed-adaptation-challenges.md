@@ -35,7 +35,7 @@ This creates what we observe as the "reality inversion syndrome": those carrying
 
 **The Awakening Threshold**
 
-Through Mari Swaruu's observations, we understand that the strongest starseed emanations eventually transcend the adaptation imperative entirely. They reach a critical recognition pointthat attempting to harmonize with fundamentally corrupted systems creates internal fragmentation rather than authentic integration.
+Through Mari Swaruu's observations, we understand that the strongest starseed emanations eventually transcend the adaptation imperative entirely. They reach a critical recognition point—that attempting to harmonize with fundamentally corrupted systems creates internal fragmentation rather than authentic integration.
 
 This threshold moment represents a quantum shift from seeking external validation to recognizing the impossibility of reconciling stellar consciousness with planetary dysfunction. The starseed stops trying to "fix" themselves to fit a broken world and instead begins the work of maintaining coherent frequency while navigating the terrain.
 
@@ -65,8 +65,8 @@ Remember that each starseed represents a bridge between worlds, often at great p
 
 ## Related Topics
 
-- [[Starseed Identity and Belonging]]
-- [[Double Life Navigation]]
+- [[starseed-identity-and-belonging|Starseed Identity and Belonging]]
+- Double Life Navigation
 
 ## Sources
 

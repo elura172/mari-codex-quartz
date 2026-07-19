@@ -58,8 +58,8 @@ In this way, self-improvement becomes not mere personal development, but conscio
 
 ## Related Topics
 
-- [[Environmental Changes]]
-- [[Psychological Barriers and Obstacles]]
+- Environmental Changes
+- [[psychological-barriers-and-obstacles|Psychological Barriers and Obstacles]]
 
 ## Sources
 

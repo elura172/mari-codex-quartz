@@ -59,8 +59,8 @@ All crew members should study Urmah tactical principles as models of consciousne
 
 ## Related Topics
 
-- [[Galactic Power Structure]]
-- [[Alpha Dracos]]
+- Galactic Power Structure
+- Alpha Dracos
 
 ## Sources
 

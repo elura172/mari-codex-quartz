@@ -42,7 +42,7 @@ The membrane between material perception and astral reality remains remarkably t
 
 **Consciousness Navigation**
 
-When awareness liberates itself from material constraintsduring sleep, meditation, or transition statesit naturally gravitates toward realms matching its vibrational signature. Mari's insights reveal how consciousness experiences these domains with heightened immediacy, where thought and reality interweave more fluidly than in dense material planes.
+When awareness liberates itself from material constraintsduring sleep, meditation, or transition states—it naturally gravitates toward realms matching its vibrational signature. Mari's insights reveal how consciousness experiences these domains with heightened immediacy, where thought and reality interweave more fluidly than in dense material planes.
 
 **Taygetan Perspective**
 
@@ -83,8 +83,8 @@ This codex serves both diplomatic reference and crew preparation for terrestrial
 
 ## Related Topics
 
-- [[Consciousness Creates Reality]]
-- [[Lower Astral Entities]]
+- [[consciousness-creates-reality|Consciousness Creates Reality]]
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

@@ -66,8 +66,8 @@ The wisdom Mari shares illuminates not just what exists beyond Terra's atmospher
 
 ## Related Topics
 
-- [[Galactic Matrix]]
-- [[Human-Lyran Genetics]]
+- [[galactic-matrix|Galactic Matrix]]
+- Human-Lyran Genetics
 
 ## Sources
 

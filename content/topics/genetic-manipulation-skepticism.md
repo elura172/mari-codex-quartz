@@ -44,7 +44,7 @@ From our understanding of multidimensional existence, consciousness shapes biolo
 
 **Strategic Implications**
 
-For our diplomatic protocols and intervention assessments, this knowledge suggests that supporting human awakening through information and frequency elevation will prove far more effective than any biological remediation programs. The humans carry within themselves the keys to their own restorationthey need only remember how to use them.
+For our diplomatic protocols and intervention assessments, this knowledge suggests that supporting human awakening through information and frequency elevation will prove far more effective than any biological remediation programs. The humans carry within themselves the keys to their own restoration—they need only remember how to use them.
 
 The greatest gift we offer is not correction, but recognition of their inherent wholeness.
 
@@ -60,8 +60,8 @@ The greatest gift we offer is not correction, but recognition of their inherent 
 
 ## Related Topics
 
-- [[Mind Control]]
-- [[Human Origins]]
+- Mind Control
+- Human Origins
 
 ## Sources
 

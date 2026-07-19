@@ -55,9 +55,9 @@ Mari's transmissions illuminate these dynamics not to overwhelm terrestrial cons
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Egregores]]
-- [[Astral Realms]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- [[egregores|Egregores]]
+- [[astral-realms|Astral Realms]]
 
 ## Sources
 

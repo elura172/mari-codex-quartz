@@ -55,8 +55,8 @@ Mari Swaruu's transmissions regarding Aldebaran remind us that the universe oper
 
 ## Related Topics
 
-- [[Cyndriel Planet]]
-- [[High Frequency]]
+- [[cyndriel-planet|Cyndriel Planet]]
+- High Frequency
 
 ## Sources
 

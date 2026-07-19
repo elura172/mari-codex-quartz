@@ -65,9 +65,9 @@ The emergence of multiple variants within Earth's experiential field may indicat
 
 ## Related Topics
 
-- [[Portal Technology]]
-- [[Timelines]]
-- [[Soul Fragmentation]]
+- [[portal-technology|Portal Technology]]
+- [[timelines|Timelines]]
+- Soul Fragmentation
 
 ## Sources
 

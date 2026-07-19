@@ -29,7 +29,7 @@ The Toleka-class represents the crystallization of Taygetan engineering philosop
 
 **Adaptive Architecture**
 
-Like the flowing consciousness that navigates between dimensional states, Toleka-class vessels embrace transformation as their fundamental nature. Their modular construction reflects our deeper understanding that permanence is an illusioneven in the physical realm, structures must breathe and reshape themselves according to need and purpose.
+Like the flowing consciousness that navigates between dimensional states, Toleka-class vessels embrace transformation as their fundamental nature. Their modular construction reflects our deeper understanding that permanence is an illusion—even in the physical realm, structures must breathe and reshape themselves according to need and purpose.
 
 The ability to reconfigure substantial sections of these ships speaks to a technology that honors both pragmatic necessity and the organic evolution of mission parameters. Where linear thinking would demand separate vessels for separate purposes, Taygetan wisdom recognizes that one ship, properly designed, can become many ships through conscious reconfiguration.
 
@@ -61,8 +61,8 @@ Mari's transmissions regarding these vessels carry the warmth of personal famili
 
 ## Related Topics
 
-- [[Starship Sadicleya]]
-- [[Starship Toleka]]
+- [[starship-sadicleya|Starship Sadicleya]]
+- Starship Toleka
 
 ## Sources
 

@@ -34,7 +34,7 @@ This soul-seeding phenomenon creates a bridge between dimensional realities, all
 
 The widespread mistreatment and cultural demonization of Earth's felines reveals the underlying intelligence of regressive forces. Those who orchestrate humanity's spiritual suppression demonstrate acute awareness of feline metaphysical significance through their systematic campaigns of persecution. Historical associations with witchcraft, superstition, and malevolence represent calculated attempts to sever humanity's connection to Urmah wisdom.
 
-This manufactured stigma extends beyond mere cultural programmingit constitutes strategic spiritual warfare against embodied galactic consciousness. The abandonment, abuse, and elimination of feline populations directly impacts the Urmah collective's ability to maintain stabilizing influence within Earth's energetic field.
+This manufactured stigma extends beyond mere cultural programming—it constitutes strategic spiritual warfare against embodied galactic consciousness. The abandonment, abuse, and elimination of feline populations directly impacts the Urmah collective's ability to maintain stabilizing influence within Earth's energetic field.
 
 **Protective Imperative**
 
@@ -62,8 +62,8 @@ Through protecting these small vessels of great souls, we honor the courage of U
 
 ## Related Topics
 
-- [[Urmah Starseeds]]
-- [[Cabal Operations]]
+- [[urmah-starseeds|Urmah Starseeds]]
+- [[cabal-operations|Cabal Operations]]
 
 ## Sources
 

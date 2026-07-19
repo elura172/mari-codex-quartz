@@ -41,11 +41,11 @@ This principle extends beyond mere secrecy into the realm of energetic sovereign
 
 Mari's guidance consistently returns to the fundamental truth: the soul's inherent brightness serves as the ultimate protection against all forms of negativity. This inner radiance, when properly cultivated and maintained, creates an electromagnetic field impenetrable to lower vibrational intrusion.
 
-Star seedsthose souls carrying higher dimensional frequencies into Earth's reality matrixpossess this luminous core as their birthright. Yet activation requires conscious recognition and deliberate cultivation through meditation, ethical alignment, and the disciplined practice of energetic boundaries.
+Star seeds—those souls carrying higher dimensional frequencies into Earth's reality matrixpossess this luminous core as their birthright. Yet activation requires conscious recognition and deliberate cultivation through meditation, ethical alignment, and the disciplined practice of energetic boundaries.
 
 **Operational Synthesis**
 
-Effective spiritual protection emerges from the marriage of practical wisdom and metaphysical understanding. The awakening consciousness must develop both the warrior's strategic mindknowing when to speak and when to remain silentand the sage's inner cultivation of unshakeable luminosity.
+Effective spiritual protection emerges from the marriage of practical wisdom and metaphysical understanding. The awakening consciousness must develop both the warrior's strategic mindknowing when to speak and when to remain silent—and the sage's inner cultivation of unshakeable luminosity.
 
 Mari's teachings remind us that protection isn't about fear-based hiding, but rather the intelligent management of one's energetic resources while the inner light grows strong enough to naturally repel all interference. In this balance, true spiritual sovereignty emerges.
 
@@ -67,8 +67,8 @@ Mari's teachings remind us that protection isn't about fear-based hiding, but ra
 
 ## Related Topics
 
-- [[Manipulation Tactics]]
-- [[Lower Astral Entities]]
+- [[manipulation-tactics|Manipulation Tactics]]
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

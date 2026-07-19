@@ -28,7 +28,7 @@ Within the tapestry of dimensional mechanics that Mari Swaruu has illuminated fo
 
 The beings who share a dwelling space function as co-creators of an energetic ecosystem. Their combined emotional states, belief structures, and consciousness levels generate a persistent frequency field that extends far beyond the physical boundaries of their habitation. This phenomenon mirrors our own understanding of how crew consciousness aboard Taygetan vessels influences navigational harmonics and dimensional gateway stability.
 
-When a family maintains predominantly lower vibrational statessustained through fear, conflict, or limitation-based thinkingthey inadvertently become architects of dimensional instability. Their collective emanation creates what terrestrial humans term "paranormal portals," which are essentially frequency tears in the local reality matrix, sustained by the ongoing energetic output of the household.
+When a family maintains predominantly lower vibrational statessustained through fear, conflict, or limitation-based thinking—they inadvertently become architects of dimensional instability. Their collective emanation creates what terrestrial humans term "paranormal portals," which are essentially frequency tears in the local reality matrix, sustained by the ongoing energetic output of the household.
 
 **Belief Boundaries as Reality Perimeters**
 
@@ -58,8 +58,8 @@ The dwelling thus becomes a temple of consciousness creation, where each thought
 
 ## Related Topics
 
-- [[Area Frequency Effects]]
-- [[Frequency Portals]]
+- Area Frequency Effects
+- Frequency Portals
 
 ## Sources
 

@@ -60,8 +60,8 @@ This transmission serves as valuable data for understanding how exceptional cons
 
 ## Related Topics
 
-- [[Ship Dynamics]]
-- [[Taygetan Queen Role]]
+- Ship Dynamics
+- [[taygetan-queen-role|Taygetan Queen Role]]
 
 ## Sources
 

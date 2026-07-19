@@ -27,7 +27,7 @@ What began as a moment of levity aboard our vessels transformed into an unintend
 
 **Manifestation Mechanics**
 
-The incident emerged from the intersection of humor and literal interpretationa reminder that consciousness operates across multiple frequency bands simultaneously. When leadership transmitted what was intended as jest regarding waste disposal methodology, the transmission was received and processed through the direct-action protocols of our engineering systems. The phrase suggesting simple external ejection bypassed contextual filters, triggering immediate materialization of the suggested outcome.
+The incident emerged from the intersection of humor and literal interpretation—a reminder that consciousness operates across multiple frequency bands simultaneously. When leadership transmitted what was intended as jest regarding waste disposal methodology, the transmission was received and processed through the direct-action protocols of our engineering systems. The phrase suggesting simple external ejection bypassed contextual filters, triggering immediate materialization of the suggested outcome.
 
 **Metaphysical Implications**
 
@@ -35,7 +35,7 @@ This event illustrates the fundamental principle that thought becomes form with 
 
 **Aftermath and Observation**
 
-The resulting orbital debris cloud created an unintended astronomical signature, trailing our vessels like luminous breadcrumbs across Earth's night sky. The irony was not lost that our advanced civilization, capable of traversing galactic distances, found itself followed by a constellation of discarded meal containers and personal effectsa humbling reminder of the universal nature of unintended consequences.
+The resulting orbital debris cloud created an unintended astronomical signature, trailing our vessels like luminous breadcrumbs across Earth's night sky. The irony was not lost that our advanced civilization, capable of traversing galactic distances, found itself followed by a constellation of discarded meal containers and personal effects—a humbling reminder of the universal nature of unintended consequences.
 
 **Training Protocol Integration**
 
@@ -57,8 +57,8 @@ The event remains a touchstone for understanding how advanced civilizations must
 
 ## Related Topics
 
-- [[Project First Contact]]
-- [[Taygetan Fleet Operations]]
+- [[project-first-contact|Project First Contact]]
+- [[taygetan-fleet-operations|Taygetan Fleet Operations]]
 
 ## Sources
 

@@ -31,7 +31,7 @@ Our departed sister Mari illuminated a fundamental truth that transcends dimensi
 
 **Operational Implications for Field Personnel**
 
-When engaging with developing civilizations, recognize that their perceived limitations stem not from planetary conditions but from collective consciousness patterns. The material density they experience serves as an accurate reflection of their soul's current vibrational alignment. This principle applies universallyeven among our own crews, individual experience aboard these vessels mirrors inner states rather than external protocols.
+When engaging with developing civilizations, recognize that their perceived limitations stem not from planetary conditions but from collective consciousness patterns. The material density they experience serves as an accurate reflection of their soul's current vibrational alignment. This principle applies universally—even among our own crews, individual experience aboard these vessels mirrors inner states rather than external protocols.
 
 **The Geography of Being**
 
@@ -49,7 +49,7 @@ This mirror principle operates across all density levels, from Earth's third-dim
 
 Mari understood that recognizing reality's illusory nature doesn't diminish its importance but rather empowers conscious participation in its creation. Her teachings remind us that wherever our missions take us across the galaxy, we carry our reality-generating capacity within. The stars we navigate between are projections; the consciousness navigating among them represents the true journey.
 
-This knowledge serves as both operational guidance and evolutionary invitationto remember ourselves as the dreamers, not merely the dreamed.
+This knowledge serves as both operational guidance and evolutionary invitation—to remember ourselves as the dreamers, not merely the dreamed.
 
 ## Quotes
 
@@ -63,8 +63,8 @@ This knowledge serves as both operational guidance and evolutionary invitationto
 
 ## Related Topics
 
-- [[Soul Expansion]]
-- [[Afterlife Memory]]
+- Soul Expansion
+- Afterlife Memory
 
 ## Sources
 

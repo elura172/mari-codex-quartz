@@ -28,7 +28,7 @@ The Shadow People, as documented in our xenological databases, represent a manif
 
 **Primary Defense Matrix**
 
-The most potent shield against shadow intrusion operates through vibrational elevation. Mari emphasized that consciousness connected to Source emanates frequencies incompatible with shadow entity resonance. Practitioners should visualize themselves encapsulated within radiant golden light, establishing an energetic barrier that naturally repels lower-dimensional intrusions. This technique transcends mere visualizationit represents genuine frequency modulation at the consciousness level.
+The most potent shield against shadow intrusion operates through vibrational elevation. Mari emphasized that consciousness connected to Source emanates frequencies incompatible with shadow entity resonance. Practitioners should visualize themselves encapsulated within radiant golden light, establishing an energetic barrier that naturally repels lower-dimensional intrusions. This technique transcends mere visualization—it represents genuine frequency modulation at the consciousness level.
 
 **Direct Communication Protocols**
 
@@ -74,8 +74,8 @@ Effective shadow protection emerges through integrated application: maintaining 
 
 ## Related Topics
 
-- [[Interaction with Humans]]
-- [[Animal Detection Abilities]]
+- [[interaction-with-humans|Interaction with Humans]]
+- [[animal-detection-abilities|Animal Detection Abilities]]
 
 ## Sources
 

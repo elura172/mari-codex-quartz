@@ -64,8 +64,8 @@ For our crews operating in Earth's vicinity, these protocols provide valuable co
 
 ## Related Topics
 
-- [[Physical Methods]]
-- [[Water Cleansing]]
+- Physical Methods
+- [[water-cleansing|Water Cleansing]]
 
 ## Sources
 

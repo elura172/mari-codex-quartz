@@ -38,7 +38,7 @@ From a Taygetan perspective, this approach reflects the Federation's tendency to
 
 **Strategic Assessment**
 
-The Federation's containment model positions reptilian entities as necessary antagonists within Earth's supposed spiritual gymnasium. This perspective treats them as cosmic training equipment rather than sentient beings deserving of recognition and dialogue. Such categorization reveals the limitations of Federation thinkingtheir inability to perceive Earth's reality as anything beyond their predetermined narrative frameworks.
+The Federation's containment model positions reptilian entities as necessary antagonists within Earth's supposed spiritual gymnasium. This perspective treats them as cosmic training equipment rather than sentient beings deserving of recognition and dialogue. Such categorization reveals the limitations of Federation thinking—their inability to perceive Earth's reality as anything beyond their predetermined narrative frameworks.
 
 **Operational Considerations**
 
@@ -62,8 +62,8 @@ Mari's observations illuminate how institutional perspectives can crystallize in
 
 ## Related Topics
 
-- [[Reptilian Species on Earth]]
-- [[Earth Politics]]
+- [[reptilian-species-on-earth|Reptilian Species on Earth]]
+- Earth Politics
 
 ## Sources
 

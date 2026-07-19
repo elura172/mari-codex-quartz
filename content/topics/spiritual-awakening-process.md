@@ -65,8 +65,8 @@ Such individuals often serve as unconscious ambassadors for higher-dimensional p
 
 ## Related Topics
 
-- [[Higher Self Integration]]
-- [[Starseed Identity and Inner Knowing]]
+- [[higher-self-integration|Higher Self Integration]]
+- [[starseed-identity-and-inner-knowing|Starseed Identity and Inner Knowing]]
 
 ## Sources
 

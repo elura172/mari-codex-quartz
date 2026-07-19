@@ -63,8 +63,8 @@ This knowledge serves not as judgment of Earth's cultural expressions, but as un
 
 ## Related Topics
 
-- [[Spiritual Consent]]
-- [[Astral Protection]]
+- Spiritual Consent
+- Astral Protection
 
 ## Sources
 

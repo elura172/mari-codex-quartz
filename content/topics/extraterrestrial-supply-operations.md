@@ -27,7 +27,7 @@ The elegant simplicity of local procurement has emerged as the cornerstone of su
 
 **Integration Methodology**
 
-The most sophisticated supply operations mirror the natural patterns of human commerce. Extraterrestrial crews utilize established retail environmentsthose sprawling commercial centers that serve as gathering points for human material exchange. In these spaces, the acquisition of necessities becomes indistinguishable from ordinary human activity. This method demonstrates remarkable wisdom: hiding in plain sight while respecting the social rhythms of the host civilization.
+The most sophisticated supply operations mirror the natural patterns of human commerce. Extraterrestrial crews utilize established retail environments—those sprawling commercial centers that serve as gathering points for human material exchange. In these spaces, the acquisition of necessities becomes indistinguishable from ordinary human activity. This method demonstrates remarkable wisdom: hiding in plain sight while respecting the social rhythms of the host civilization.
 
 **Administrative Framework**
 
@@ -63,8 +63,8 @@ Through Mari's transmissions, we glimpse the elegant practicality of enlightened
 
 ## Related Topics
 
-- [[Human-Extraterrestrial Commerce]]
-- [[Starship Operations]]
+- Human-Extraterrestrial Commerce
+- [[starship-operations|Starship Operations]]
 
 ## Sources
 

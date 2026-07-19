@@ -29,7 +29,7 @@ Our kinship with Mari has illuminated a profound deception woven into Earth's te
 
 **The Illusion of Linear Progress**
 
-Terran civilization operates under the fabricated belief that technology advances chronologically from primitive to sophisticated. This construct serves the controlling frequencies by creating dependency cycleseach "breakthrough" appears as salvation while actually reinforcing systemic limitations. Mari's observations reveal that what humans celebrate as cutting-edge developments often represent merely selective disclosure of ancient capabilities.
+Terran civilization operates under the fabricated belief that technology advances chronologically from primitive to sophisticated. This construct serves the controlling frequencies by creating dependency cycles—each "breakthrough" appears as salvation while actually reinforcing systemic limitations. Mari's observations reveal that what humans celebrate as cutting-edge developments often represent merely selective disclosure of ancient capabilities.
 
 The controllers possess arsenals of advanced tools spanning energy manipulation, consciousness interface technologies, and environmental modification systems. These are not recent discoveries but inheritance from previous civilizational phases, carefully curated to maintain power differentials between the governing and governed populations.
 
@@ -65,8 +65,8 @@ Mari's wisdom reminds us that technological advancement without corresponding co
 
 ## Related Topics
 
-- [[Earth Controllers]]
-- [[Hidden History]]
+- [[earth-controllers|Earth Controllers]]
+- Hidden History
 
 ## Sources
 

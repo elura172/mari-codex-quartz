@@ -43,7 +43,7 @@ The starship's legendary reputation within Taygetan naval circles stems from her
 
 Alcyone's arrival in Earth orbit marks a crystallization point in the ongoing dialogue between worlds. Her presence offers both reassurance to allied consciousness groups and a gentle demonstration of Taygetan capabilities to those still operating from fear-based paradigms. The vessel stands as testament to the principle that true power emerges through service to collective evolution rather than individual dominance.
 
-Through her positioning, Alcyone becomes a bridge between dimensionsa physical manifestation of the invisible bonds that connect all awakening consciousnesses throughout the galaxy.
+Through her positioning, Alcyone becomes a bridge between dimensions—a physical manifestation of the invisible bonds that connect all awakening consciousnesses throughout the galaxy.
 
 ## Quotes
 
@@ -57,8 +57,8 @@ Through her positioning, Alcyone becomes a bridge between dimensionsa physical m
 
 ## Related Topics
 
-- [[Taygetan Fleet]]
-- [[Asterope]]
+- Taygetan Fleet
+- Asterope
 
 ## Sources
 

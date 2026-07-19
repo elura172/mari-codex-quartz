@@ -60,8 +60,8 @@ For crew members encountering Viera in diplomatic contexts, remember that this v
 
 ## Related Topics
 
-- [[Ekata Habitat]]
-- [[Galactic Federation]]
+- Ekata Habitat
+- Galactic Federation
 
 ## Sources
 

@@ -27,7 +27,7 @@ tags:
 
 **Fundamental Principle of Temporal Singularity**
 
-The architecture of existence operates under an immutable law: each moment crystallizes into being only once within its native timeline. This principle serves as the foundation stone upon which all temporal mechanics rest. When consciousness moves through the dimensional matrix, it does not merely observeit participates in the fundamental act of creation itself.
+The architecture of existence operates under an immutable law: each moment crystallizes into being only once within its native timeline. This principle serves as the foundation stone upon which all temporal mechanics rest. When consciousness moves through the dimensional matrix, it does not merely observe—it participates in the fundamental act of creation itself.
 
 **The Observer's Paradox in Temporal Navigation**
 
@@ -63,8 +63,8 @@ Temporal navigation requires profound respect for the creative power of consciou
 
 ## Related Topics
 
-- [[Hexa-Dimensional Space-Time Model]]
-- [[Consciousness and Reality]]
+- [[hexa-dimensional-space-time-model|Hexa-Dimensional Space-Time Model]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

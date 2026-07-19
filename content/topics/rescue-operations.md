@@ -36,11 +36,11 @@ More recent operations have demonstrated the power of focused precision over bro
 
 **Metaphysical Considerations**
 
-Each rescued soul carries within their being the accumulated trauma of separationnot merely from family, but from their native stellar frequencies. The liberation process extends beyond physical extraction to include careful recalibration of their energetic signatures, allowing gradual reintegration with their home civilization's consciousness field.
+Each rescued soul carries within their being the accumulated trauma of separation—not merely from family, but from their native stellar frequencies. The liberation process extends beyond physical extraction to include careful recalibration of their energetic signatures, allowing gradual reintegration with their home civilization's consciousness field.
 
 **Diplomatic Implications**
 
-These operations exist within a carefully maintained equilibrium of interstellar law and Earth's sovereign boundaries. Each mission represents not intervention, but restorationthe return of what was taken without consent, guided by the universal principle that no being may be held against their fundamental nature.
+These operations exist within a carefully maintained equilibrium of interstellar law and Earth's sovereign boundaries. Each mission represents not intervention, but restoration—the return of what was taken without consent, guided by the universal principle that no being may be held against their fundamental nature.
 
 The work continues with patience born of understanding that each soul recovered strengthens the broader tapestry of galactic consciousness evolution.
 
@@ -62,8 +62,8 @@ The work continues with patience born of understanding that each soul recovered 
 
 ## Related Topics
 
-- [[Human Trafficking]]
-- [[Antarian Involvement]]
+- Human Trafficking
+- Antarian Involvement
 
 ## Sources
 

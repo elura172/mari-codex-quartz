@@ -27,7 +27,7 @@ tags:
 
 **Primary Mechanism**
 
-The systematic dismantling of collective memory operates as the foundational pillar of societal control matrices. Those who orchestrate planetary resets understand that wisdom accumulates like sedimentary layers through generationseach elder carrying crystallized experience that could illuminate present deceptions. To fragment this transmission, the knowledge-keepers themselves become primary targets through carefully orchestrated campaigns of social diminishment.
+The systematic dismantling of collective memory operates as the foundational pillar of societal control matrices. Those who orchestrate planetary resets understand that wisdom accumulates like sedimentary layers through generations—each elder carrying crystallized experience that could illuminate present deceptions. To fragment this transmission, the knowledge-keepers themselves become primary targets through carefully orchestrated campaigns of social diminishment.
 
 **Intergenerational Severance**
 
@@ -47,11 +47,11 @@ From worlds where memory flows unbroken across generations, we witness how prese
 
 **Strategic Implications**
 
-Those seeking liberation from matrix systems must prioritize memory restorationboth personal and collective. The deliberate cultivation of elder wisdom, historical pattern recognition, and intergenerational dialogue represents direct countermeasures to imposed amnesia protocols. Memory itself becomes an act of resistance against systems dependent on forgetting.
+Those seeking liberation from matrix systems must prioritize memory restoration—both personal and collective. The deliberate cultivation of elder wisdom, historical pattern recognition, and intergenerational dialogue represents direct countermeasures to imposed amnesia protocols. Memory itself becomes an act of resistance against systems dependent on forgetting.
 
 ---
 
-**Personal Note:** Mari Swaruu's insights illuminate how memory serves as both shield and sword in consciousness evolution. Her observations remind us that remembering is ultimately a choiceone that determines whether civilizations grow or merely repeat.
+**Personal Note:** Mari Swaruu's insights illuminate how memory serves as both shield and sword in consciousness evolution. Her observations remind us that remembering is ultimately a choice—one that determines whether civilizations grow or merely repeat.
 
 ## Quotes
 
@@ -69,8 +69,8 @@ Those seeking liberation from matrix systems must prioritize memory restorationb
 
 ## Related Topics
 
-- [[Societal Resets]]
-- [[Population Control]]
+- [[societal-resets|Societal Resets]]
+- [[population-control|Population Control]]
 
 ## Sources
 

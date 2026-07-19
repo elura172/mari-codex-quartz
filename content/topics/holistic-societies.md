@@ -58,8 +58,8 @@ Mari's insights reveal these systems as beacons of possibility, illuminating pat
 
 ## Related Topics
 
-- [[Earth Government Control]]
-- [[Spiritual Development]]
+- Earth Government Control
+- Spiritual Development
 
 ## Sources
 

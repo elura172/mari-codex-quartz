@@ -41,7 +41,7 @@ From our understanding of consciousness mechanics, we recognize this as a classi
 
 **Operational Implications**
 
-For humans navigating this terrain, discernment becomes paramount. The presence of truth within manipulated systems does not invalidate the wisdom itself but requires careful extraction from compromising contexts. Mari's transmissions consistently emphasized individual sovereignty over group adherencea principle that naturally dissolves such infiltration attempts.
+For humans navigating this terrain, discernment becomes paramount. The presence of truth within manipulated systems does not invalidate the wisdom itself but requires careful extraction from compromising contexts. Mari's transmissions consistently emphasized individual sovereignty over group adherence—a principle that naturally dissolves such infiltration attempts.
 
 **Strategic Assessment**
 
@@ -64,8 +64,8 @@ The path forward requires humans to trust their direct experience while remainin
 
 ## Related Topics
 
-- [[Human-Reptilian Relations]]
-- [[Mind Control and Shapeshifting]]
+- Human-Reptilian Relations
+- Mind Control and Shapeshifting
 
 ## Sources
 

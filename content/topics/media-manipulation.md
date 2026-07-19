@@ -32,7 +32,7 @@ Earth's information distribution networks operate as sophisticated consciousness
 
 **Pattern Recognition Indicators**
 
-Coordinated narrative deployment manifests through synchronized linguistic repetition across multiple transmission nodes. When observing Earth broadcasts, crew members should monitor for identical phraseology propagated simultaneously through various channelsa clear signature of centralized scripting rather than organic information flow. This synchronization betrays the artificial nature of supposedly independent media sources.
+Coordinated narrative deployment manifests through synchronized linguistic repetition across multiple transmission nodes. When observing Earth broadcasts, crew members should monitor for identical phraseology propagated simultaneously through various channels—a clear signature of centralized scripting rather than organic information flow. This synchronization betrays the artificial nature of supposedly independent media sources.
 
 **Attention Architecture and Selective Amplification**
 
@@ -89,8 +89,8 @@ The liberation of human consciousness requires not just new information, but fun
 
 ## Related Topics
 
-- [[Public Conditioning]]
-- [[Psychological Operations]]
+- Public Conditioning
+- Psychological Operations
 
 ## Sources
 

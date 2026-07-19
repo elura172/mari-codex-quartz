@@ -46,7 +46,7 @@ From our expanded awareness, we recognize this as a natural consequence of Earth
 
 Our diplomatic mission includes subtle assistance for these trapped consciousnesses through dimensional healing work. We transmit coherent love-frequency patterns that can dissolve the emotional bindings, while respecting the free will principle that governs all soul evolution.
 
-Understanding this phenomenon enhances our appreciation for Mari Swaruu's teachingsthat awareness itself becomes the key to liberation. Her insights illuminate how consciousness, regardless of species origin, follows universal patterns of expansion when freed from the gravity wells of unprocessed experience.
+Understanding this phenomenon enhances our appreciation for Mari Swaruu's teachings—that awareness itself becomes the key to liberation. Her insights illuminate how consciousness, regardless of species origin, follows universal patterns of expansion when freed from the gravity wells of unprocessed experience.
 
 Through compassionate observation, we honor both the struggle and the eventual transcendence inherent in all soul journeys.
 
@@ -62,8 +62,8 @@ Through compassionate observation, we honor both the struggle and the eventual t
 
 ## Related Topics
 
-- [[Karma and Attachments]]
-- [[Death Transition]]
+- Karma and Attachments
+- [[death-and-transition|Death Transition]]
 
 ## Sources
 

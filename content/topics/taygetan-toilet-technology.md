@@ -31,13 +31,13 @@ Our private facilities incorporate precision ultrasonic bubble generation system
 
 **Plasma Vaporization Energy Recovery**
 
-The waste processing mechanism represents perhaps our most profound departure from Earth methodologies. Through vacuum containment systems, organic matter travels through specialized conduits surrounded by high-voltage electromagnetic coils. These generate controlled plasma fields that completely transform waste materials into their constituent energy patternsa process that mirrors the cosmic principle of perpetual renewal.
+The waste processing mechanism represents perhaps our most profound departure from Earth methodologies. Through vacuum containment systems, organic matter travels through specialized conduits surrounded by high-voltage electromagnetic coils. These generate controlled plasma fields that completely transform waste materials into their constituent energy patterns—a process that mirrors the cosmic principle of perpetual renewal.
 
 This plasma vaporization serves dual purposes: complete molecular breakdown ensures absolute hygiene while simultaneously contributing to the ship's energy grid. What begins as biological waste becomes part of the vessel's living energy matrix, powering systems that sustain life across interstellar distances. The circularity pleases both practical engineering minds and those who appreciate cosmic poetry.
 
 **Cultural Integration and Crew Adaptation**
 
-For Earth-born crew members, these systems initially challenge cultural conditioning around bodily functions and waste. However, most discover that the seamless, automated nature of Taygetan facilities creates space for greater comfort and dignity. The absence of mechanical frictionno buttons, handles, or manual processesallows consciousness to remain undisturbed during necessary biological functions.
+For Earth-born crew members, these systems initially challenge cultural conditioning around bodily functions and waste. However, most discover that the seamless, automated nature of Taygetan facilities creates space for greater comfort and dignity. The absence of mechanical friction—no buttons, handles, or manual processesallows consciousness to remain undisturbed during necessary biological functions.
 
 **Metaphysical Considerations**
 
@@ -57,8 +57,8 @@ In remembering Mari's teachings, we recognize that even these practical systems 
 
 ## Related Topics
 
-- [[Starship Systems]]
-- [[Energy Generation]]
+- Starship Systems
+- Energy Generation
 
 ## Sources
 

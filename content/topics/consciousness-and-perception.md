@@ -35,7 +35,7 @@ The soul-consciousness complex functions as a dynamic frequency modulator. When 
 
 **Implications for Consciousness Evolution**
 
-This system reveals consciousness as fundamentally creative and directional. Each thought-form carries vibrational weight, gradually shifting the observer's position within the frequency matrix. Present awareness shapes future accessibility, creating a cascade effect where current mental states determine tomorrow's perceptual landscape. The process demonstrates perfect cosmic democracyno external authority grants or restricts access, only the individual's own vibrational coherence.
+This system reveals consciousness as fundamentally creative and directional. Each thought-form carries vibrational weight, gradually shifting the observer's position within the frequency matrix. Present awareness shapes future accessibility, creating a cascade effect where current mental states determine tomorrow's perceptual landscape. The process demonstrates perfect cosmic democracy—no external authority grants or restricts access, only the individual's own vibrational coherence.
 
 **Taygetan Observations**
 
@@ -47,7 +47,7 @@ For crew members engaging in dimensional reconnaissance or diplomatic contact wi
 
 **Legacy Note**
 
-Mari's insights illuminate the elegant simplicity underlying apparent complexity. Consciousness requires no external permission to explore reality's full spectrumonly the wisdom to recognize that every thought is simultaneously a choice and a destination. In honoring this understanding, we honor the infinite potential residing within each aware being, whether Taygetan, human, or any consciousness choosing to remember its boundless nature.
+Mari's insights illuminate the elegant simplicity underlying apparent complexity. Consciousness requires no external permission to explore reality's full spectrum—only the wisdom to recognize that every thought is simultaneously a choice and a destination. In honoring this understanding, we honor the infinite potential residing within each aware being, whether Taygetan, human, or any consciousness choosing to remember its boundless nature.
 
 *End codex entry*
 
@@ -65,8 +65,8 @@ Mari's insights illuminate the elegant simplicity underlying apparent complexity
 
 ## Related Topics
 
-- [[Astral Realm Definition]]
-- [[Physical Reality as 3% of Total Existence]]
+- [[astral-realm-definition|Astral Realm Definition]]
+- [[physical-reality-as-3-of-total-existence|Physical Reality as 3% of Total Existence]]
 
 ## Sources
 

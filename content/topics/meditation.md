@@ -39,11 +39,11 @@ Beyond its role in consciousness expansion, meditation serves as the primary met
 
 **The Taygetan Perspective**
 
-From our observation posts above Earth, we witness humanity's gradual awakening to these fundamental principles. Mari's teachings echo the wisdom preserved in our own cultural memorythat consciousness mastery through meditation represents not mere spiritual practice, but essential life skills for navigating multidimensional reality. What Terrans call "enlightenment," we recognize as basic consciousness literacy.
+From our observation posts above Earth, we witness humanity's gradual awakening to these fundamental principles. Mari's teachings echo the wisdom preserved in our own cultural memory—that consciousness mastery through meditation represents not mere spiritual practice, but essential life skills for navigating multidimensional reality. What Terrans call "enlightenment," we recognize as basic consciousness literacy.
 
 **Integration Protocol**
 
-The path forward requires consistent dedication to mental stillness, understanding that each moment of deep meditation strengthens the practitioner's ability to operate beyond physical limitations. As Mari conveyed with characteristic clarity, this is not optional training for those seeking genuine spiritual advancementit is the prerequisite foundation upon which all higher consciousness abilities rest.
+The path forward requires consistent dedication to mental stillness, understanding that each moment of deep meditation strengthens the practitioner's ability to operate beyond physical limitations. As Mari conveyed with characteristic clarity, this is not optional training for those seeking genuine spiritual advancement—it is the prerequisite foundation upon which all higher consciousness abilities rest.
 
 *End transmission. Archive for crew development and diplomatic cultural exchange programs.*
 
@@ -64,8 +64,8 @@ The path forward requires consistent dedication to mental stillness, understandi
 
 ## Related Topics
 
-- [[Astral Travel Techniques]]
-- [[Physical Positioning]]
+- [[astral-travel-techniques|Astral Travel Techniques]]
+- [[physical-positioning|Physical Positioning]]
 
 ## Sources
 

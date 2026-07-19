@@ -43,7 +43,7 @@ From our expanded perspective, such inspections serve multiple dimensional funct
 
 These personal interactions generate invaluable intelligence regarding crew readiness, not merely in technical competency but in spiritual alignment with our intervention protocols. Understanding the inner landscape of those who implement our Earth observation and assistance programs ensures that all actions emerge from authentic care rather than mere duty compliance.
 
-Such wisdom transforms routine inspection into ceremony of connectiona practice worthy of study and replication across all fleet operations.
+Such wisdom transforms routine inspection into ceremony of connection—a practice worthy of study and replication across all fleet operations.
 
 ## Quotes
 
@@ -59,8 +59,8 @@ Such wisdom transforms routine inspection into ceremony of connectiona practice 
 
 ## Related Topics
 
-- [[Starship Operations]]
-- [[Taygetan Royal Leadership]]
+- [[starship-operations|Starship Operations]]
+- Taygetan Royal Leadership
 
 ## Sources
 

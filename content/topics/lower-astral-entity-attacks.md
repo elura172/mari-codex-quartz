@@ -60,8 +60,8 @@ Starseeds must cultivate awareness of their inherent value as consciousness batt
 
 ## Related Topics
 
-- [[Fear Manipulation]]
-- [[Starseed Frequency Mismatch]]
+- [[fear-manipulation|Fear Manipulation]]
+- [[starseed-frequency-mismatch|Starseed Frequency Mismatch]]
 
 ## Sources
 

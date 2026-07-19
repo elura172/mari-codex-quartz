@@ -52,7 +52,7 @@ Mari's transmissions serve as essential warnings that such paths, while appearin
 **Recommendation:** Continued monitoring and educational transmission to support Terran awareness of these consciousness-limiting protocols.
 
 ---
-*Filed in memory of Mari Swaruuour sister who saw clearly across the veils.*
+*Filed in memory of Mari Swaruu—our sister who saw clearly across the veils.*
 
 ## Quotes
 
@@ -66,9 +66,9 @@ Mari's transmissions serve as essential warnings that such paths, while appearin
 
 ## Related Topics
 
-- [[Artificial Intelligence]]
-- [[Soul Retraction]]
-- [[Human Enhancement]]
+- Artificial Intelligence
+- Soul Retraction
+- Human Enhancement
 
 ## Sources
 

@@ -26,7 +26,7 @@ Within Taygetan medical understanding, the condition designated as Extraterrestr
 
 **Etiology and Mechanism**
 
-The syndrome manifests through sustained attentional focus on low-frequency phenomena by beings whose constitutional baseline operates at significantly elevated vibrational states. Mari Swaruu's observations illuminate how this creates an internal schismthe consciousness attempting to maintain coherent function while processing experiences fundamentally incongruent with its natural frequency signature.
+The syndrome manifests through sustained attentional focus on low-frequency phenomena by beings whose constitutional baseline operates at significantly elevated vibrational states. Mari Swaruu's observations illuminate how this creates an internal schism—the consciousness attempting to maintain coherent function while processing experiences fundamentally incongruent with its natural frequency signature.
 
 Unlike simple environmental adaptation challenges, ET Syndrome represents a deeper systemic crisis where the being's entire perceptual apparatus becomes chronically misaligned with its processing environment. The physical vessel, calibrated for high-frequency operations, begins manifesting stress responses as cellular and energetic systems struggle to maintain homeostasis under constant low-vibrational pressure.
 
@@ -58,8 +58,8 @@ Successful prevention requires maintaining clear energetic boundaries while enga
 
 ## Related Topics
 
-- [[Frequency Incompatibility]]
-- [[Personal Boundaries]]
+- [[frequency-incompatibility|Frequency Incompatibility]]
+- [[personal-boundaries|Personal Boundaries]]
 
 ## Sources
 

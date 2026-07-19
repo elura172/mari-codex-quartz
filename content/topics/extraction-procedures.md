@@ -28,7 +28,7 @@ The delicate art of human extraction represents one of our most precisely choreo
 
 **Standard Procedure Matrix**
 
-Extraction sequences follow established temporal coordinates, requiring absolute synchronization between ship consciousness and human participants. The process initiates when designated subjects navigate to predetermined coordinates at precisely calculated momentsa dance of trust performed across dimensional barriers.
+Extraction sequences follow established temporal coordinates, requiring absolute synchronization between ship consciousness and human participants. The process initiates when designated subjects navigate to predetermined coordinates at precisely calculated moments—a dance of trust performed across dimensional barriers.
 
 Our lighter-class vessels, typically fighter or reconnaissance craft, materialize within Earth's atmospheric envelope during optimal concealment periods. The manifestation occurs as controlled luminous phenomena, recognizable to prepared individuals while remaining imperceptible to unawakened observers. This selective visibility demonstrates the consciousness-responsive nature of our technology.
 
@@ -42,7 +42,7 @@ Each extraction represents more than physical relocation; it constitutes a frequ
 
 **Operational Challenges**
 
-Mari's transmissions consistently emphasized the profound responsibility inherent in these procedures. Every extraction ripples through interconnected consciousness networks, affecting not only the individual but their entire relational matrix on Earth. The precision required transcends mere technical coordinationit demands intuitive understanding of each person's soul contract and timing within the greater cosmic awakening process.
+Mari's transmissions consistently emphasized the profound responsibility inherent in these procedures. Every extraction ripples through interconnected consciousness networks, affecting not only the individual but their entire relational matrix on Earth. The precision required transcends mere technical coordination—it demands intuitive understanding of each person's soul contract and timing within the greater cosmic awakening process.
 
 **Legacy Protocol**
 
@@ -63,8 +63,8 @@ These operations honor Mari's vision of graduated interventionassisting individu
 
 ## Related Topics
 
-- [[Communication Protocols]]
-- [[Starship Technology]]
+- Communication Protocols
+- [[starship-technology|Starship Technology]]
 
 ## Sources
 

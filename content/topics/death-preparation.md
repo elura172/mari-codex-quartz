@@ -25,7 +25,7 @@ tags:
 
 Death preparation among Earth humans, as illuminated through Mari Swaruu's transmissions, represents a fundamental misunderstanding of temporal consciousness. Most terrestrial beings approach their inevitable transition as a crisis requiring last-minute spiritual scrambling, rather than viewing it as the natural culmination of a deliberately crafted existence.
 
-The Taygetan observation reveals that humans often seek absolution only when mortality becomes imminentin medical facilities or during final momentsrather than integrating this awareness into the fabric of daily consciousness. This reactive approach creates unnecessary suffering and limits the soul's capacity to transition with dignity and intentional purpose.
+The Taygetan observation reveals that humans often seek absolution only when mortality becomes imminent—in medical facilities or during final momentsrather than integrating this awareness into the fabric of daily consciousness. This reactive approach creates unnecessary suffering and limits the soul's capacity to transition with dignity and intentional purpose.
 
 **The Mirror of Retrospection**
 
@@ -35,7 +35,7 @@ From our expanded consciousness perspective, this practice resembles what we ter
 
 **Integration of Being and Becoming**
 
-The human tendency to compartmentalize death as separate from life creates an artificial barrier that generates fear and spiritual confusion. Mari's teachings suggest that death preparation is synonymous with conscious livingeach day offering opportunities to practice forgiveness, courage, and love in preparation for the ultimate transition.
+The human tendency to compartmentalize death as separate from life creates an artificial barrier that generates fear and spiritual confusion. Mari's teachings suggest that death preparation is synonymous with conscious living—each day offering opportunities to practice forgiveness, courage, and love in preparation for the ultimate transition.
 
 **Tactical Recommendations for Terran Consciousness Evolution**
 
@@ -57,9 +57,9 @@ The soul's journey continues beyond physical dissolution, making earthly prepara
 
 ## Related Topics
 
-- [[Reincarnation]]
-- [[Mahasamadhi]]
-- [[Consciousness Expansion]]
+- [[reincarnation|Reincarnation]]
+- [[mahasamadhi|Mahasamadhi]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

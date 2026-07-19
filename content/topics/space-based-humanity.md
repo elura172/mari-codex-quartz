@@ -44,7 +44,7 @@ Recognition of space-based humanity necessitates expanded diplomatic protocols. 
 
 **Synthesis**
 
-Mari Swaruu's insights illuminate humanity's true cosmic presencenot as isolated planetary dwellers, but as participants in a galactic human civilization spanning multiple worlds and dimensional frequencies. This revelation invites Earth's population to recognize their broader heritage and prepare for reunion with family they never knew existed among the stars.
+Mari Swaruu's insights illuminate humanity's true cosmic presence—not as isolated planetary dwellers, but as participants in a galactic human civilization spanning multiple worlds and dimensional frequencies. This revelation invites Earth's population to recognize their broader heritage and prepare for reunion with family they never knew existed among the stars.
 
 *End Entry*
 
@@ -65,8 +65,8 @@ Mari Swaruu's insights illuminate humanity's true cosmic presencenot as isolated
 
 ## Related Topics
 
-- [[Lyran Race]]
-- [[Galactic Civilization]]
+- Lyran Race
+- [[galactic-civilizations|Galactic Civilization]]
 
 ## Sources
 

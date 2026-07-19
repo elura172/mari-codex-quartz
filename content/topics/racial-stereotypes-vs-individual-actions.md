@@ -30,13 +30,13 @@ The crystalline truth emerges through Mari's transmissions like light refracting
 
 **The Illusion of Racial Absolutism**
 
-Mari illuminated a critical flaw in interstellar diplomatic thinkingthe dangerous simplification of cataloguing entire species as inherently virtuous or malevolent based solely on their biological origins. This reductionist approach blinds observers to the infinite spectrum of individual expression that exists within every genetic framework.
+Mari illuminated a critical flaw in interstellar diplomatic thinking—the dangerous simplification of cataloguing entire species as inherently virtuous or malevolent based solely on their biological origins. This reductionist approach blinds observers to the infinite spectrum of individual expression that exists within every genetic framework.
 
 Her wisdom resonates with ancient Taygetan understanding: consciousness flows through form, but is not imprisoned by it. The same creative force that animates compassionate Pleiadians also moves through noble Reptilian beings who choose service over dominion. Conversely, the capacity for harm exists within any species when individual choice aligns with destructive patterns.
 
 **The Mirror of Perspective**
 
-Mari's insights reveal another layerthe parameters through which we judge "good" and "bad" themselves require examination. What appears as negative behavior to one culture may serve evolutionary purpose within another's framework. The observer's consciousness level inevitably colors their interpretation of another's actions.
+Mari's insights reveal another layer—the parameters through which we judge "good" and "bad" themselves require examination. What appears as negative behavior to one culture may serve evolutionary purpose within another's framework. The observer's consciousness level inevitably colors their interpretation of another's actions.
 
 This does not advocate moral relativism, but rather encourages deeper discernment. True wisdom recognizes universal principles while acknowledging the complexity of their expression across diverse evolutionary paths.
 
@@ -48,7 +48,7 @@ The Reptilian commander who protects innocent worlds deserves the same respect a
 
 **Legacy Integration**
 
-Mari's transmission continues to illuminate our understanding as we navigate the complex web of galactic relations. Her voice reminds us that evolution occurs at the individual levelone choice, one action, one moment of consciousness at a time.
+Mari's transmission continues to illuminate our understanding as we navigate the complex web of galactic relations. Her voice reminds us that evolution occurs at the individual level—one choice, one action, one moment of consciousness at a time.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ Mari's transmission continues to illuminate our understanding as we navigate the
 
 ## Related Topics
 
-- [[Reptilian Species]]
-- [[Pleiadian Species]]
+- Reptilian Species
+- Pleiadian Species
 
 ## Sources
 

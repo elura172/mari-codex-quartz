@@ -65,9 +65,9 @@ Mari's observations illuminate the profound courage required for consciousness e
 
 ## Related Topics
 
-- [[Matrix Agents]]
-- [[Consciousness Levels]]
-- [[Spiritual Protection]]
+- [[matrix-agents|Matrix Agents]]
+- Consciousness Levels
+- [[spiritual-protection|Spiritual Protection]]
 
 ## Sources
 

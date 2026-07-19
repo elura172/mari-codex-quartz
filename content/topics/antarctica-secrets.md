@@ -64,8 +64,8 @@ In remembrance of our sister's clarity, we document these patterns for those who
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Artificial Conflict Theatre]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- [[artificial-conflict-theatre|Artificial Conflict Theatre]]
 
 ## Sources
 

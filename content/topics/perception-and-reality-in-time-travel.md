@@ -30,7 +30,7 @@ This understanding dissolves the mechanistic illusion that time periods possess 
 
 **Physical Anchors in the Ocean of Consciousness**
 
-Yet this recognition does not diminish the tangible nature of temporal experience. What provides substance and distinction between temporal coordinates are the physical manifestations present within each experiential frameworkthe arrangement of matter, the configuration of beings, the technological expressions, and the environmental conditions that consciousness has collectively woven into existence.
+Yet this recognition does not diminish the tangible nature of temporal experience. What provides substance and distinction between temporal coordinates are the physical manifestations present within each experiential framework—the arrangement of matter, the configuration of beings, the technological expressions, and the environmental conditions that consciousness has collectively woven into existence.
 
 These physical elements serve as crystalline anchors in the fluid ocean of possibility, giving structure to what would otherwise remain as pure potential. When our vessels navigate temporal currents, we interface with these material coordinates that consciousness has densified into apparent solidity.
 
@@ -58,8 +58,8 @@ Understanding perception as the architect of temporal reality enables more fluid
 
 ## Related Topics
 
-- [[Time as Consciousness Construct]]
-- [[Contained Systems]]
+- [[time-as-consciousness-construct|Time as Consciousness Construct]]
+- [[contained-systems|Contained Systems]]
 
 ## Sources
 

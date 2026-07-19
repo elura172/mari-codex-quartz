@@ -19,8 +19,8 @@ sources:
 
 ## Related Topics
 
-- [[Standing Wave Souls]]
-- [[Souls as Standing Waves]]
+- Standing Wave Souls
+- Souls as Standing Waves
 
 ## Summary
 

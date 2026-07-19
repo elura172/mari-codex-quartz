@@ -26,7 +26,7 @@ tags:
 
 The Taygetan civilization maintains an absolute prohibition against alcohol consumption, rooted not in moral judgment but in biological and consciousness-based incompatibility. Our species has evolved beyond the neurochemical patterns that would find intoxication appealing, recognizing ethanol as a cellular toxin that disrupts the delicate harmonics of expanded awareness our people naturally inhabit.
 
-This stance reflects a deeper understanding of consciousness as a precision instrument. Where many species seek altered states through chemical intervention, Taygetans achieve heightened perception through disciplined mental cultivation and technological enhancement of natural capabilities. Alcohol represents a regressiona clouding of the clarity we have spent millennia refining.
+This stance reflects a deeper understanding of consciousness as a precision instrument. Where many species seek altered states through chemical intervention, Taygetans achieve heightened perception through disciplined mental cultivation and technological enhancement of natural capabilities. Alcohol represents a regression—a clouding of the clarity we have spent millennia refining.
 
 **Enforcement Protocol**
 
@@ -66,8 +66,8 @@ Understanding this aspect of Taygetan culture proves essential for successful di
 
 ## Related Topics
 
-- [[Alcohol and Spiritual Influence]]
-- [[Step-down Protocols]]
+- [[alcohol-and-spiritual-influence|Alcohol and Spiritual Influence]]
+- Step-down Protocols
 
 ## Sources
 

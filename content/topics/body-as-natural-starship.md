@@ -68,8 +68,8 @@ The body-starship synthesis represents not metaphor, but literal technology reco
 
 ## Related Topics
 
-- [[Merkabah]]
-- [[Starship Technology as Consciousness Emulation]]
+- Merkabah
+- [[starship-technology-as-consciousness-emulation|Starship Technology as Consciousness Emulation]]
 
 ## Sources
 

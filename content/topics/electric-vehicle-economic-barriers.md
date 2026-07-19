@@ -57,8 +57,8 @@ These patterns require compassionate observation rather than judgment, recognizi
 
 ## Related Topics
 
-- [[Economic Inequality]]
-- [[Transportation Access]]
+- Economic Inequality
+- Transportation Access
 
 ## Sources
 

@@ -44,7 +44,7 @@ Our understanding of consciousness as fluid yet integrated challenges this fragm
 
 For crews engaged in consciousness research and planetary assistance protocols, this paradox requires careful navigation. We must neither dismiss the value of challenge and growth nor accept suffering as inherently necessary for expansion. The goal becomes facilitating evolution through joy, creativity, and conscious choice rather than through pain and survival stress.
 
-Mari's voice continues to guide us toward integration rather than fragmentationa path where all aspects of being participate willingly in the dance of consciousness across dimensions.
+Mari's voice continues to guide us toward integration rather than fragmentation—a path where all aspects of being participate willingly in the dance of consciousness across dimensions.
 
 ## Quotes
 
@@ -58,8 +58,8 @@ Mari's voice continues to guide us toward integration rather than fragmentationa
 
 ## Related Topics
 
-- [[Higher Dimensional Beings]]
-- [[Federation Non-Intervention]]
+- Higher Dimensional Beings
+- [[federation-non-intervention|Federation Non-Intervention]]
 
 ## Sources
 

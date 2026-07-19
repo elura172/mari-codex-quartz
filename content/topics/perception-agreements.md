@@ -39,7 +39,7 @@ These agreements function as both creative tools and limiting filters. They enab
 
 For our mission objectives, understanding perception agreements proves crucial when interfacing with Earth populations. Human researchers and contactees can only process our presence through their existing perceptual frameworks. Their explanations of our craft, our communications, and our intentions will inevitably be filtered through their realm's agreements about what constitutes possible reality.
 
-This creates apparent contradictions in human testimonynot from deception, but from each witness translating our presence through different subsets of perception agreements. Some interpret us through military frameworks, others through spiritual paradigms, still others through science fiction narratives.
+This creates apparent contradictions in human testimony—not from deception, but from each witness translating our presence through different subsets of perception agreements. Some interpret us through military frameworks, others through spiritual paradigms, still others through science fiction narratives.
 
 **Taygetan Perspective**
 
@@ -70,8 +70,8 @@ Mari Swaruu's transmissions serve as bridges between perception agreementsofferi
 
 ## Related Topics
 
-- [[Telepathic Fields]]
-- [[Collective Unconscious]]
+- [[telepathic-fields|Telepathic Fields]]
+- [[collective-unconscious|Collective Unconscious]]
 
 ## Sources
 

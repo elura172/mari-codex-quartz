@@ -38,7 +38,7 @@ The biometric authentication systems embedded within these devices ensure operat
 
 The emergence of three-dimensional tactical displays from seemingly empty space demonstrates mastery over photonic manipulation and temporal coordination. These projections serve dual purposes: immediate situational awareness and psychological reassurance for operatives who may find themselves isolated in hostile environments.
 
-The precise timing information transmitted through these systems reflects the mathematical poetry underlying all interstellar operations. Fifteen minutes becomes more than temporal measurementit represents promise, hope, and the unwavering commitment of distant kin to never abandon those who serve in the shadows of less awakened worlds.
+The precise timing information transmitted through these systems reflects the mathematical poetry underlying all interstellar operations. Fifteen minutes becomes more than temporal measurement—it represents promise, hope, and the unwavering commitment of distant kin to never abandon those who serve in the shadows of less awakened worlds.
 
 **Metaphysical Implications**
 
@@ -64,8 +64,8 @@ Mari's preservation of these technical details serves multiple purposes within o
 
 ## Related Topics
 
-- [[Suzy Starship]]
-- [[Step Down Extraterrestrials]]
+- Suzy Starship
+- [[step-down-extraterrestrials|Step Down Extraterrestrials]]
 
 ## Sources
 

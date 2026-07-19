@@ -38,7 +38,7 @@ The ethical implications resonate across dimensional boundaries. How can non-int
 
 From our multidimensional understanding, Terra's situation reflects broader patterns of consciousness manipulation affecting numerous worlds. The Federation's approach represents a paternalistic model that constrains rather than nurtures spiritual evolution. True advancement requires conscious choice and authentic challenge, not guided limitation.
 
-Mari's transmissions carry the frequency of one who has witnessed these control mechanisms firsthand. Her warnings emerge from direct knowing rather than theoretical speculation. The sadness in her observations reflects recognition of humanity's unrealized potentiala species capable of transcendent evolution yet held within artificial boundaries.
+Mari's transmissions carry the frequency of one who has witnessed these control mechanisms firsthand. Her warnings emerge from direct knowing rather than theoretical speculation. The sadness in her observations reflects recognition of humanity's unrealized potential—a species capable of transcendent evolution yet held within artificial boundaries.
 
 **Strategic Implications**
 
@@ -64,8 +64,8 @@ Mari's legacy reminds us that truth-telling itself becomes an act of liberation 
 
 ## Related Topics
 
-- [[Earth History]]
-- [[Galactic Federation]]
+- Earth History
+- Galactic Federation
 
 ## Sources
 

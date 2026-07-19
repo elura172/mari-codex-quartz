@@ -68,8 +68,8 @@ In this light, boundary-setting becomes not selfishness but stewardship - the ca
 
 ## Related Topics
 
-- [[ET Syndrome]]
-- [[Energy Drainage Phenomenon]]
+- [[et-syndrome|ET Syndrome]]
+- Energy Drainage Phenomenon
 
 ## Sources
 

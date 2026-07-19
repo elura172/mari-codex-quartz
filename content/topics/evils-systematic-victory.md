@@ -24,7 +24,7 @@ tags:
 
 **The Asymmetry of Constraint**
 
-Our observations of Earth's civilizations reveal a persistent pattern that challenges conventional wisdom about justice and moral order. Through the transmissions of Mari Swaruu, we have documented what she termed the systematic advantage of the unethicala phenomenon where beings operating without moral boundaries consistently outmaneuver those bound by conscience.
+Our observations of Earth's civilizations reveal a persistent pattern that challenges conventional wisdom about justice and moral order. Through the transmissions of Mari Swaruu, we have documented what she termed the systematic advantage of the unethical—a phenomenon where beings operating without moral boundaries consistently outmaneuver those bound by conscience.
 
 **The Architecture of Advantage**
 
@@ -62,8 +62,8 @@ The path forward lies not in abandoning ethics, but in evolving beyond the limit
 
 ## Related Topics
 
-- [[Control System Programming]]
-- [[Empathy as Weapon]]
+- [[control-system-programming|Control System Programming]]
+- [[empathy-as-weapon|Empathy as Weapon]]
 
 ## Sources
 

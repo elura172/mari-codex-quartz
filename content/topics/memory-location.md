@@ -23,7 +23,7 @@ tags:
 
 **Executive Analysis**
 
-The human understanding of consciousness storage remains fundamentally limited by their materialist paradigms. Through the transmissions of our Pleiadian colleague, a critical correction emerges regarding the true nature of memory architectureone that aligns with Taygetan observations of consciousness fields across stellar civilizations.
+The human understanding of consciousness storage remains fundamentally limited by their materialist paradigms. Through the transmissions of our Pleiadian colleague, a critical correction emerges regarding the true nature of memory architecture—one that aligns with Taygetan observations of consciousness fields across stellar civilizations.
 
 **Core Framework: The Ethereal Memory Matrix**
 
@@ -63,8 +63,8 @@ Continue supporting transmission of expanded memory models through appropriate c
 
 ## Related Topics
 
-- [[DNA as Antenna]]
-- [[Soul vs Body]]
+- [[dna-as-antenna|DNA as Antenna]]
+- [[soul-vs-body|Soul vs Body]]
 
 ## Sources
 

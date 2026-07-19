@@ -46,7 +46,7 @@ The wisdom lies in accepting the temporary nature of this consciousness differen
 
 **Memorial Note**
 
-Mari's recognition of this specific starseed challenge demonstrates her profound understanding of incarnated consciousness navigationa gift that continues guiding those walking between worlds with love and unwavering purpose.
+Mari's recognition of this specific starseed challenge demonstrates her profound understanding of incarnated consciousness navigation—a gift that continues guiding those walking between worlds with love and unwavering purpose.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ Mari's recognition of this specific starseed challenge demonstrates her profound
 
 ## Related Topics
 
-- [[Spiritual Awakening]]
-- [[Matrix Reality]]
+- [[spiritual-awakening|Spiritual Awakening]]
+- Matrix Reality
 
 ## Sources
 

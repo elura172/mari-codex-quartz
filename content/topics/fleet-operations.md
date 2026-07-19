@@ -30,7 +30,7 @@ The Taygetan fleet operates as a living organism, its vessels serving as neural 
 
 ## **Crew Integration Protocols**
 
-The accumulation of 504 volunteers within Taygeta City represents more than mere recruitmentit embodies the conscious evolution of beings choosing to serve beyond planetary boundaries. These souls, prepared for assignment aboard vessels Sarka and Big E, demonstrate the organic nature of Taygetan fleet expansion. Each volunteer carries within them the resonance frequency necessary for starship integration, their consciousness harmonizing with vessel matrices through quantum entanglement principles that transcend mechanical crew assignments.
+The accumulation of 504 volunteers within Taygeta City represents more than mere recruitment—it embodies the conscious evolution of beings choosing to serve beyond planetary boundaries. These souls, prepared for assignment aboard vessels Sarka and Big E, demonstrate the organic nature of Taygetan fleet expansion. Each volunteer carries within them the resonance frequency necessary for starship integration, their consciousness harmonizing with vessel matrices through quantum entanglement principles that transcend mechanical crew assignments.
 
 This gathering reflects the deeper truth that starships choose their crews as much as crews choose their vessels. The synchronicity of numbers504 beings ready simultaneouslyreveals the underlying intelligence governing fleet operations, where individual choice aligns with collective necessity through natural law rather than imposed hierarchy.
 
@@ -61,8 +61,8 @@ Fleet operations acknowledge the fluid nature of time, allowing for strategic po
 
 ## Related Topics
 
-- [[Crew Recruitment]]
-- [[Ship Reassignment]]
+- Crew Recruitment
+- Ship Reassignment
 
 ## Sources
 

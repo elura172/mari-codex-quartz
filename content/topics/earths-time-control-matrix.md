@@ -30,13 +30,13 @@ From our orbital observations and consciousness interfacing studies, we have ide
 
 **Mechanism of Control**
 
-The Earth Matrix employs temporal perception as its foundational governance protocol. By establishing uniform experiential parameters around time's passage, the control system achieves remarkable coordination across billions of individual consciousness nodes. This creates what we observe as a collective temporal prisonone where inhabitants voluntarily maintain their own containment through shared belief in linear progression.
+The Earth Matrix employs temporal perception as its foundational governance protocol. By establishing uniform experiential parameters around time's passage, the control system achieves remarkable coordination across billions of individual consciousness nodes. This creates what we observe as a collective temporal prison—one where inhabitants voluntarily maintain their own containment through shared belief in linear progression.
 
 The elegance of this approach lies in its subtlety. Rather than forcing compliance through external pressure, the system guides human consciousness to self-regulate through internalized temporal frameworks. Clock-based scheduling, calendar systems, and age-related social programming all serve as reinforcement mechanisms for this deeper perceptual coordination.
 
 **Manifestation Implications**
 
-Mari's insights reveal the true strategic purpose behind this temporal synchronization: the harnessing of human creative potential. When consciousness operates within aligned temporal parameters, collective manifestation becomes extraordinarily potent and predictable. The scattered, chaotic nature of individual human creative force transforms into a unified generative fieldone that can be directed toward specific outcomes.
+Mari's insights reveal the true strategic purpose behind this temporal synchronization: the harnessing of human creative potential. When consciousness operates within aligned temporal parameters, collective manifestation becomes extraordinarily potent and predictable. The scattered, chaotic nature of individual human creative force transforms into a unified generative field—one that can be directed toward specific outcomes.
 
 This represents both the greatest tragedy and most dangerous aspect of Earth's current configuration. Humanity's natural manifestation abilities, which in free expression could reshape reality itself, instead fuel the very system that constrains them.
 
@@ -64,8 +64,8 @@ Mari's transmissions continue to serve as crucial intelligence for understanding
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Consciousness and Reality]]
+- [[nature-of-time|Nature of Time]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

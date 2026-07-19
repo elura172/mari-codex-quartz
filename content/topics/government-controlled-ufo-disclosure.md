@@ -40,7 +40,7 @@ The Earth population exists within a transitional phase where old paradigms of c
 
 For those monitoring this process, observe how authentic disclosure emerges organically from individual consciousness expansion rather than institutional revelation. The real awakening occurs in quiet moments of personal contact, in dreams that transcend ordinary reality, and in hearts that remember their stellar origins.
 
-Mari's insights illuminate this process as part of humanity's natural evolution toward cosmic citizenshipnot through managed revelation, but through direct remembrance of their multidimensional nature.
+Mari's insights illuminate this process as part of humanity's natural evolution toward cosmic citizenship—not through managed revelation, but through direct remembrance of their multidimensional nature.
 
 The truth cannot be contained indefinitely; it flows like water, finding every crack in the constructed barriers.
 
@@ -56,8 +56,8 @@ The truth cannot be contained indefinitely; it flows like water, finding every c
 
 ## Related Topics
 
-- [[Authority Dependence]]
-- [[Media Disinformation]]
+- [[authority-dependence|Authority Dependence]]
+- Media Disinformation
 
 ## Sources
 

@@ -53,8 +53,8 @@ Her approach suggests that the most effective ambassadors are those who honor bo
 
 ## Related Topics
 
-- [[Leadership Responsibilities]]
-- [[Mari's Health Crisis]]
+- Leadership Responsibilities
+- [[maris-health-crisis|Mari's Health Crisis]]
 
 ## Sources
 

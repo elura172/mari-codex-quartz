@@ -26,7 +26,7 @@ The fundamental truth observed across dimensions reveals that existence itself i
 
 **The Primordial Field**
 
-At the deepest level, only Source consciousness existsa unified field of infinite potential. All apparent diversity springs from this singular awareness, which fragments itself into countless perspectives to experience infinite variations of itself. Matter, energy, time, and space are crystallizations of this consciousness, given meaning and form through the interpretive lens of individual souls.
+At the deepest level, only Source consciousness exists—a unified field of infinite potential. All apparent diversity springs from this singular awareness, which fragments itself into countless perspectives to experience infinite variations of itself. Matter, energy, time, and space are crystallizations of this consciousness, given meaning and form through the interpretive lens of individual souls.
 
 **Vibrational Architecture**
 
@@ -90,8 +90,8 @@ This knowledge, preserved through Mari's transmissions, serves as both philosoph
 
 ## Related Topics
 
-- [[Soul Incarnation]]
-- [[Frequency Match]]
+- [[soul-incarnation|Soul Incarnation]]
+- Frequency Match
 
 ## Sources
 

@@ -55,8 +55,8 @@ The current reign represents a pivotal moment in Taygetan evolution, where tradi
 
 ## Related Topics
 
-- [[Mari's Health Crisis]]
-- [[Open Letter to Taygetans]]
+- [[maris-health-crisis|Mari's Health Crisis]]
+- [[open-letter-to-taygetans|Open Letter to Taygetans]]
 
 ## Sources
 

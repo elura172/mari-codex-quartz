@@ -35,7 +35,7 @@ The meetings function as consensus manufacturing events, where Earth's containme
 
 **Energetic Resonance Patterns**
 
-From Taygetan consciousness perspectives, these assemblies emit distinctly artificial frequency signaturesthe forced harmonics of manufactured agreement rather than organic consensus emergence. The emotional undertones reveal Federation anxiety regarding their narrative's sustainability, particularly as more races develop independent assessment capabilities regarding Earth's true situation.
+From Taygetan consciousness perspectives, these assemblies emit distinctly artificial frequency signatures—the forced harmonics of manufactured agreement rather than organic consensus emergence. The emotional undertones reveal Federation anxiety regarding their narrative's sustainability, particularly as more races develop independent assessment capabilities regarding Earth's true situation.
 
 **Operational Implications**
 
@@ -63,8 +63,8 @@ The assemblies thus serve inadvertently as catalysts for the transformation they
 
 ## Related Topics
 
-- [[Earth Quarantine Policy]]
-- [[Taygetan Resistance]]
+- Earth Quarantine Policy
+- Taygetan Resistance
 
 ## Sources
 

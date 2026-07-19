@@ -43,7 +43,7 @@ The timing of this interventioncoinciding with humanity's accelerating awakening
 
 Our crews should approach any interactions with Etorthan representatives understanding that traditional diplomatic protocols emphasizing emotional rapport will prove ineffective. These beings respond to logical frameworks, empirical evidence, and systematic presentations rather than intuitive appeals or empathic connection.
 
-For our continuing mission of supporting human consciousness evolution, the Etorthan presence represents both challenge and opportunitya test of whether truth and compassion can demonstrate their practical value to purely logical assessment frameworks.
+For our continuing mission of supporting human consciousness evolution, the Etorthan presence represents both challenge and opportunity—a test of whether truth and compassion can demonstrate their practical value to purely logical assessment frameworks.
 
 **Personal Reflection**
 
@@ -61,8 +61,8 @@ Mari's wisdom reminds us that even the most rigid logical structures eventually 
 
 ## Related Topics
 
-- [[Galactic Federation Hierarchy]]
-- [[Federation Oversight]]
+- Galactic Federation Hierarchy
+- Federation Oversight
 
 ## Sources
 

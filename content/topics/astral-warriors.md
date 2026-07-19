@@ -33,7 +33,7 @@ The phenomenon presents a fascinating duality: ordinary humans leading mundane t
 
 **Operational Mechanisms**
 
-These warriors operate through two primary modalities. Active engagement involves direct confrontation with regressive entities, requiring developed astral navigation skills and refined energetic boundaries. However, the more prevalent and perhaps more significant function operates through passive resistancethe simple emanation of high-vibrational consciousness within lower-dimensional realms.
+These warriors operate through two primary modalities. Active engagement involves direct confrontation with regressive entities, requiring developed astral navigation skills and refined energetic boundaries. However, the more prevalent and perhaps more significant function operates through passive resistance—the simple emanation of high-vibrational consciousness within lower-dimensional realms.
 
 This passive warfare resembles stellar mechanics: a single point of coherent light disrupts vast territories of shadow. High-frequency consciousness naturally creates hostile environments for entities dependent upon dense, chaotic energy patterns. Their mere presence acts as a purifying agent, much as our Taygetan ships create stabilizing fields in regions of dimensional instability.
 
@@ -83,8 +83,8 @@ Their work accelerates Terra's graduation into fourth-density awareness while pr
 
 ## Related Topics
 
-- [[Dreams and Astral Work]]
-- [[Government Astral Warfare Programs]]
+- [[dreams-and-astral-work|Dreams and Astral Work]]
+- [[government-astral-warfare-programs|Government Astral Warfare Programs]]
 
 ## Sources
 

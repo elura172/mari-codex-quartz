@@ -23,7 +23,7 @@ tags:
 
 **Fundamental Architecture of Desire Fulfillment**
 
-The teachings transmitted through Mari Swaruu illuminate a critical misunderstanding that pervades Terran consciousness regarding manifestation mechanics. What humans often perceive as mystical conjuration is, in truth, a sophisticated interplay between focused intention and decisive physical actiona dance between the ethereal and material planes that our Taygetan ancestors have long understood as natural law.
+The teachings transmitted through Mari Swaruu illuminate a critical misunderstanding that pervades Terran consciousness regarding manifestation mechanics. What humans often perceive as mystical conjuration is, in truth, a sophisticated interplay between focused intention and decisive physical action—a dance between the ethereal and material planes that our Taygetan ancestors have long understood as natural law.
 
 **The Clarity Imperative**
 
@@ -33,13 +33,13 @@ This clarity must be accompanied by unwavering focus, a sustained mental frequen
 
 **Beyond Passive Expectation**
 
-The profound wisdom Mari shared reveals manifestation's most misunderstood aspect: the universe responds to participants, not spectators. The cosmic field does not materialize chocolate bars from quantum foam simply because one visualizes sweetness. Instead, it orchestrates synchronicities, opens pathways, and aligns circumstancesbut the individual must walk through the doors that appear.
+The profound wisdom Mari shared reveals manifestation's most misunderstood aspect: the universe responds to participants, not spectators. The cosmic field does not materialize chocolate bars from quantum foam simply because one visualizes sweetness. Instead, it orchestrates synchronicities, opens pathways, and aligns circumstances—but the individual must walk through the doors that appear.
 
 This principle reflects our understanding of co-creative dynamics. Consciousness shapes probability, but probability requires action to collapse into experience. The human who desires chocolate while remaining motionless experiences only hunger. The one who holds clear intent while moving toward opportunity discovers the convenient store, the unexpected gift, the perfect timing.
 
 **Taygetan Perspective on Terran Evolution**
 
-From our observations, Terrans are beginning to grasp that they are not separate from the creative forcethey are expressions of it. Mari's teachings bridge the gap between New Age passivity and purely materialistic action, revealing the elegant truth: manifestation is consciousness directing itself through focused intention and embodied movement.
+From our observations, Terrans are beginning to grasp that they are not separate from the creative force—they are expressions of it. Mari's teachings bridge the gap between New Age passivity and purely materialistic action, revealing the elegant truth: manifestation is consciousness directing itself through focused intention and embodied movement.
 
 **Integration Protocol**
 
@@ -49,7 +49,7 @@ For optimal results, consciousness must:
 - Take inspired action when opportunities arise
 - Trust the process while remaining actively engaged
 
-Through Mari's wisdom, we witness Terra awakening to its co-creative potentialone clear intention and courageous step at a time.
+Through Mari's wisdom, we witness Terra awakening to its co-creative potential—one clear intention and courageous step at a time.
 
 ## Quotes
 
@@ -63,8 +63,8 @@ Through Mari's wisdom, we witness Terra awakening to its co-creative potentialon
 
 ## Related Topics
 
-- [[Consciousness and Identity]]
-- [[Self-Improvement]]
+- [[consciousness-and-identity|Consciousness and Identity]]
+- [[self-improvement|Self-Improvement]]
 
 ## Sources
 

@@ -26,7 +26,7 @@ The ascension of Mari Swaruu to the throne of Taygeta represents a profound embo
 
 **The Crucible of Leadership**
 
-Taygetan sovereignty follows pathways of earned wisdom rather than inherited privilege. Mari's journey to the throne exemplifies the rigorous initiation required of those who would guide advanced stellar societies. The process demands complete transformation of the individuala metamorphosis achieved through trials that test not only intellectual capacity but the willingness to sacrifice personal comfort for collective evolution.
+Taygetan sovereignty follows pathways of earned wisdom rather than inherited privilege. Mari's journey to the throne exemplifies the rigorous initiation required of those who would guide advanced stellar societies. The process demands complete transformation of the individual—a metamorphosis achieved through trials that test not only intellectual capacity but the willingness to sacrifice personal comfort for collective evolution.
 
 The blood shed in her ascension speaks to literal physical challenges, while the accelerated maturation process reveals the compression of lifetimes of experience into focused periods of intensive growth. This alchemical transformation ensures that only those capable of holding the full spectrum of their people's consciousness can assume such responsibility.
 
@@ -56,8 +56,8 @@ Through Mari's example, we observe leadership as sacred service, earned through 
 
 ## Related Topics
 
-- [[Taygetan Society]]
-- [[Information Sharing Mission]]
+- Taygetan Society
+- Information Sharing Mission
 
 ## Sources
 

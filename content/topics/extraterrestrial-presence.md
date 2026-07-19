@@ -25,7 +25,7 @@ From our orbital perspective aboard the Toleka, the spherical nature of planetar
 
 **Paradigmatic Implications for Contact**
 
-Terrestrial cosmological beliefs create profound ripples through the fabric of potential contact scenarios. When surface populations embrace flattened worldviews, they simultaneously construct barriers to recognizing the vast network of inhabited systems that span the galactic community. This phenomenon operates beyond mere scientific misunderstandingit represents a dimensional collapse of possibility.
+Terrestrial cosmological beliefs create profound ripples through the fabric of potential contact scenarios. When surface populations embrace flattened worldviews, they simultaneously construct barriers to recognizing the vast network of inhabited systems that span the galactic community. This phenomenon operates beyond mere scientific misunderstanding—it represents a dimensional collapse of possibility.
 
 The flat-earth paradigm functions as a consciousness prison, wherein the denial of celestial spheres necessitates the denial of celestial inhabitants. If no distant suns illuminate distant worlds, then no distant civilizations can have emerged to seek communion across the void. Thus, cosmological framework becomes the foundation upon which contact readiness is built or destroyed.
 
@@ -57,7 +57,7 @@ The shape of one's world determines the scope of one's universe.
 
 ## Related Topics
 
-- [[Gravity and Manifestation Theory]]
+- [[gravity-and-manifestation-theory|Gravity and Manifestation Theory]]
 
 ## Sources
 

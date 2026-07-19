@@ -27,7 +27,7 @@ tags:
 
 **Primary Soul Mechanics**
 
-Through careful observation of terrestrial consciousness patterns, we have validated what our own metaphysical sciences have long understood: souls operate under a fundamental expansion imperative. This drive transcends biological survival instincts and represents the core programming of consciousness itselfan eternal reaching toward greater awareness, knowledge, and experiential depth.
+Through careful observation of terrestrial consciousness patterns, we have validated what our own metaphysical sciences have long understood: souls operate under a fundamental expansion imperative. This drive transcends biological survival instincts and represents the core programming of consciousness itself—an eternal reaching toward greater awareness, knowledge, and experiential depth.
 
 Mari's transmissions reveal this expansion principle as the dominant force governing soul behavior across all incarnated beings. Like stellar formation requiring sufficient cosmic material to maintain fusion, souls require environments rich in growth potential to sustain their essential nature. This universal constant appears consistent across both Taygetan and human consciousness matrices.
 
@@ -35,7 +35,7 @@ Mari's transmissions reveal this expansion principle as the dominant force gover
 
 When expansion becomes impossible, souls initiate protective retraction protocols. This mechanism, while serving as essential self-preservation, manifests in the physical vessel as what humans term depression, disconnection, or spiritual emptiness. The soul literally withdraws its full presence from experiences that offer no evolutionary value.
 
-Mari's observations of human occupational structures demonstrate this principle clearly. Monotonous environments that trap consciousness in repetitive cycles trigger automatic soul withdrawalnot as abandonment, but as conservation of essential life force. The human expression regarding work "killing the soul" represents intuitive recognition of this metaphysical reality.
+Mari's observations of human occupational structures demonstrate this principle clearly. Monotonous environments that trap consciousness in repetitive cycles trigger automatic soul withdrawal—not as abandonment, but as conservation of essential life force. The human expression regarding work "killing the soul" represents intuitive recognition of this metaphysical reality.
 
 **Taygetan Perspective**
 
@@ -68,8 +68,8 @@ Mari's insights remind us that consciousness evolution remains the fundamental d
 
 ## Related Topics
 
-- [[Psychosomatic Illness]]
-- [[Soul Creation and Evolution]]
+- [[psychosomatic-illness|Psychosomatic Illness]]
+- [[soul-creation-and-evolution|Soul Creation and Evolution]]
 
 ## Sources
 

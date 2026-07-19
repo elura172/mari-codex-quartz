@@ -33,7 +33,7 @@ Validation-seeking creates a resonant feedback loop that fundamentally distorts 
 
 **The Impossibility Theorem**
 
-Mari Swaruu's observations reveal a mathematical certainty: controversial truth and validation-seeking exist in inverse proportion. The more revolutionary the information, the fewer the minds capable of immediate comprehension. To seek widespread approval while transmitting paradigm-dissolving concepts is equivalent to asking a sleeping dreamer to validate the waking worldthe request itself demonstrates misunderstanding of consciousness mechanics.
+Mari Swaruu's observations reveal a mathematical certainty: controversial truth and validation-seeking exist in inverse proportion. The more revolutionary the information, the fewer the minds capable of immediate comprehension. To seek widespread approval while transmitting paradigm-dissolving concepts is equivalent to asking a sleeping dreamer to validate the waking world—the request itself demonstrates misunderstanding of consciousness mechanics.
 
 **Predecessor Pattern Recognition**
 
@@ -63,8 +63,8 @@ Future contact operations should emphasize consciousness sovereignty training, t
 
 ## Related Topics
 
-- [[People-Pleaser Mentality]]
-- [[Expert Contradiction]]
+- [[people-pleaser-mentality|People-Pleaser Mentality]]
+- [[expert-contradiction|Expert Contradiction]]
 
 ## Sources
 

@@ -55,8 +55,8 @@ This interdependence ultimately serves as a living metaphor for the broader rela
 
 ## Related Topics
 
-- [[Federation Support]]
-- [[Monetization Necessity]]
+- Federation Support
+- [[monetization-necessity|Monetization Necessity]]
 
 ## Sources
 

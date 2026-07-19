@@ -65,7 +65,7 @@ The universe dreams, and gravity is how it embraces itself.
 
 ## Related Topics
 
-- [[Space Temperature Dynamics]]
+- Space Temperature Dynamics
 
 ## Sources
 

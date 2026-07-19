@@ -30,7 +30,7 @@ The phenomenon manifests when individuals acquire sufficient knowledge to feel c
 
 **The Crystallization of Limitation**
 
-This ego-driven stagnation transforms natural intelligence into its oppositea rigid structure that actively resists new information. The mind, originally designed as a flowing river of consciousness, becomes a stagnant pool that reflects only its own surface. What Mari observed is that true stupidity rarely emerges from genuine ignorance, but rather from the arrogant assumption that one's current perspective encompasses sufficient truth.
+This ego-driven stagnation transforms natural intelligence into its opposite—a rigid structure that actively resists new information. The mind, originally designed as a flowing river of consciousness, becomes a stagnant pool that reflects only its own surface. What Mari observed is that true stupidity rarely emerges from genuine ignorance, but rather from the arrogant assumption that one's current perspective encompasses sufficient truth.
 
 **The Humility Gateway**
 
@@ -58,8 +58,8 @@ The wisest beings across all worlds share this common recognition: true intellig
 
 ## Related Topics
 
-- [[Attachment to Concepts]]
-- [[Enlightenment]]
+- Attachment to Concepts
+- [[enlightenment|Enlightenment]]
 
 ## Sources
 

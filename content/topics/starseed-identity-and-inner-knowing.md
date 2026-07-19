@@ -23,13 +23,13 @@ tags:
 
 **The Immutable Core Recognition**
 
-Within the dimensional tapestry of incarnated consciousness, certain souls carry an unshakeable inner compass that points toward stellar origins. This phenomenon, observed consistently across Earth's awakening population, represents more than psychological inclinationit constitutes a fundamental recognition frequency that operates beyond the veils of temporal memory limitation.
+Within the dimensional tapestry of incarnated consciousness, certain souls carry an unshakeable inner compass that points toward stellar origins. This phenomenon, observed consistently across Earth's awakening population, represents more than psychological inclination—it constitutes a fundamental recognition frequency that operates beyond the veils of temporal memory limitation.
 
 The starseeded consciousness maintains what we term "soul-level authentication"a knowing that transcends the surface-level memory erasure protocols inherent to Earth's incarnational system. While the immediate conscious mind may struggle with questions of identity and belonging, the deeper strata of awareness hold an unwavering certainty that cannot be argued away or invalidated through external skepticism.
 
 **Beyond Fear-Based Validation**
 
-Mari Swaruu's observations reveal a crucial diagnostic pattern: those who carry genuine stellar lineage experience a profound resonance accompanied by the fear of discovering it might not be true. This paradoxical emotional signaturethe simultaneous knowing and fear of lossserves as a verification mechanism that distinguishes authentic recognition from wishful projection.
+Mari Swaruu's observations reveal a crucial diagnostic pattern: those who carry genuine stellar lineage experience a profound resonance accompanied by the fear of discovering it might not be true. This paradoxical emotional signature—the simultaneous knowing and fear of lossserves as a verification mechanism that distinguishes authentic recognition from wishful projection.
 
 The fear itself becomes confirmation, for one cannot lose what was never possessed. The terror of having this identity challenged or disproven stems from the soul's recognition of its own truth. Surface personalities may doubt, but the core self remains steadfast in its knowing.
 
@@ -57,8 +57,8 @@ The starseed's certainty flows from the same source as our own recognition of ho
 
 ## Related Topics
 
-- [[Energy Sensitivity]]
-- [[Spiritual Awakening]]
+- Energy Sensitivity
+- [[spiritual-awakening|Spiritual Awakening]]
 
 ## Sources
 

@@ -34,7 +34,7 @@ Rather than deception, these replica chambers function as healing cocoons. The f
 
 **The Compassionate Logic of Separation**
 
-This protocol embodies profound wisdom regarding consciousness evolution. Those who naturally recognize their extraction demonstrate readiness for expanded awarenesstheir perception has already begun transcending Earth's limiting frequencies. The Federation honors this awakening by providing protected space for continued development.
+This protocol embodies profound wisdom regarding consciousness evolution. Those who naturally recognize their extraction demonstrate readiness for expanded awareness—their perception has already begun transcending Earth's limiting frequencies. The Federation honors this awakening by providing protected space for continued development.
 
 **Operational Implications for Crew**
 
@@ -60,8 +60,8 @@ Mari's teachings remind us that these operations represent acts of profound love
 
 ## Related Topics
 
-- [[Earth Isolation]]
-- [[Galactic Federation]]
+- Earth Isolation
+- Galactic Federation
 
 ## Sources
 

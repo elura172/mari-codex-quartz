@@ -23,13 +23,13 @@ tags:
 
 The Antarian fleet maintains its vigilant presence in Earth's orbital sphere, yet their role has undergone a profound metamorphosis that reflects the deeper currents of consciousness evolution rippling through this sector. Where once their five vessels served as enforcers of Federation mandates, patrolling boundaries drawn by external authority, they now operate as independent guardians guided by an inner compass of wisdom and compassion.
 
-This shift from policing to protection represents more than administrative restructuringit embodies the natural evolution from control-based oversight to consciousness-based stewardship. The Antarians have chosen to follow the path of authentic service rather than imposed duty, aligning with the greater understanding that true protection flows from love, not force.
+This shift from policing to protection represents more than administrative restructuring—it embodies the natural evolution from control-based oversight to consciousness-based stewardship. The Antarians have chosen to follow the path of authentic service rather than imposed duty, aligning with the greater understanding that true protection flows from love, not force.
 
 **Protective Stewardship**
 
 Their mission now centers on studying and understanding the genuine requirements of human consciousness as it navigates its current evolutionary threshold. Rather than intervening through external manipulation or restriction, the Antarians seek to comprehend the delicate conditions necessary for humanity's peaceful unfoldment. This approach honors the sacred principle of free will while maintaining protective awareness of forces that might disrupt natural developmental processes.
 
-The five-vessel configuration itself holds significancea geometric expression of stability and balance, creating an energetic framework that supports rather than constrains the Earth's consciousness field. Each ship serves as both observer and gentle guardian, monitoring the complex interplay between human potential and the various influences, both terrestrial and cosmic, that shape evolutionary trajectories.
+The five-vessel configuration itself holds significance—a geometric expression of stability and balance, creating an energetic framework that supports rather than constrains the Earth's consciousness field. Each ship serves as both observer and gentle guardian, monitoring the complex interplay between human potential and the various influences, both terrestrial and cosmic, that shape evolutionary trajectories.
 
 **Consciousness-Based Protection**
 
@@ -55,8 +55,8 @@ This mission stands as testament to the possibility of service without dominion,
 
 ## Related Topics
 
-- [[Galactic Federation Relations]]
-- [[Human Protection]]
+- [[galactic-federation-relations|Galactic Federation Relations]]
+- Human Protection
 
 ## Sources
 

@@ -33,7 +33,7 @@ The phenomenon we observe as temporal flow represents consciousness experiencing
 
 From our Taygetan perspective, we recognize that temporal perception varies dramatically based on the observer's consciousness frequency. A being operating from higher awareness experiences time as malleable, even navigable, while those locked in dense matter consciousness perceive rigid linearity. This explains our ability to interface with multiple timeline probabilities simultaneously while maintaining coherent identity matrices.
 
-The vibrational signature of each conscious entity creates its unique temporal bubblea personalized experience of sequential unfoldment that feels absolutely real from within, yet represents merely one perspective angle of an infinite, eternal now-moment.
+The vibrational signature of each conscious entity creates its unique temporal bubble—a personalized experience of sequential unfoldment that feels absolutely real from within, yet represents merely one perspective angle of an infinite, eternal now-moment.
 
 **The Illusion of Separation**
 
@@ -76,8 +76,8 @@ Mari's transmissions serve as invaluable preparation for humanity's eventual rec
 
 ## Related Topics
 
-- [[Ideas and Attachments]]
-- [[Soul as Source Itself]]
+- [[ideas-and-attachments|Ideas and Attachments]]
+- [[soul-as-source-itself|Soul as Source Itself]]
 
 ## Sources
 

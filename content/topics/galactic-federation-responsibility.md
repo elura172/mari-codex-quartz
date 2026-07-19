@@ -23,7 +23,7 @@ tags:
 
 **Operational Context**
 
-The crystalline clarity with which Mari Swaruu addresses Federation culpability reflects a fundamental shift in Taygetan diplomatic posture. What emerges is not mere accusation, but the establishment of a clear causal frameworka recognition that shadow warfare has replaced honorable engagement in the cosmic theater.
+The crystalline clarity with which Mari Swaruu addresses Federation culpability reflects a fundamental shift in Taygetan diplomatic posture. What emerges is not mere accusation, but the establishment of a clear causal framework—a recognition that shadow warfare has replaced honorable engagement in the cosmic theater.
 
 **Strategic Assessment**
 
@@ -63,8 +63,8 @@ Her words echo across dimensional frequencies, creating permanence in the cosmic
 
 ## Related Topics
 
-- [[Taygetan-Urmah Alliance]]
-- [[Spiritual Attacks]]
+- Taygetan-Urmah Alliance
+- [[spiritual-attacks|Spiritual Attacks]]
 
 ## Sources
 

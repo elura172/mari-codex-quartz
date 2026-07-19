@@ -29,11 +29,11 @@ During a terrestrial rescue operation, one of our STAC units encountered cascadi
 
 **The Human Variable: Information Density and Disclosure Challenges**
 
-Among the rescued individuals, one exhibited characteristics common to Earth's New Age movementan intensified curiosity paired with compulsive verbalization patterns. This individual's persistent questioning and commentary created an unprecedented operational security scenario, demonstrating how Earth consciousness, when suddenly exposed to higher-dimensional realities, can generate information cascade events.
+Among the rescued individuals, one exhibited characteristics common to Earth's New Age movement—an intensified curiosity paired with compulsive verbalization patterns. This individual's persistent questioning and commentary created an unprecedented operational security scenario, demonstrating how Earth consciousness, when suddenly exposed to higher-dimensional realities, can generate information cascade events.
 
 **Metaphysical Implications**
 
-The incident illuminated the delicate balance between rescue compassion and consciousness contamination protocols. When beings accustomed to third-density limitations encounter our technology directly, their expanded awareness often manifests as overwhelming verbal expressiona natural but challenging response that requires refined handling techniques.
+The incident illuminated the delicate balance between rescue compassion and consciousness contamination protocols. When beings accustomed to third-density limitations encounter our technology directly, their expanded awareness often manifests as overwhelming verbal expression—a natural but challenging response that requires refined handling techniques.
 
 **Operational Lessons Integrated**
 
@@ -63,8 +63,8 @@ As Mari Swaruu would observe, each crisis contains within it the seeds of greate
 
 ## Related Topics
 
-- [[Taygetan Military]]
-- [[DUMB Rescue Operations]]
+- Taygetan Military
+- [[dumb-rescue-operations|DUMB Rescue Operations]]
 
 ## Sources
 

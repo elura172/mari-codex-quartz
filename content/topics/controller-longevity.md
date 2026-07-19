@@ -29,7 +29,7 @@ Our analysis reveals a pattern of comprehensive social resets occurring approxim
 
 **Off-World Perspective and Time Dilation**
 
-Operating primarily from extra-terrestrial positions, these controllers experience time's passage through a lens unencumbered by Earth's dense vibrational field and compressed temporal flow. What feels like grinding, interminable decades to surface humans represents merely strategic intervals to beings whose consciousness spans centuries. This dimensional disconnect serves as their greatest tactical advantagethey need never rush, never compromise long-term objectives for short-term gains.
+Operating primarily from extra-terrestrial positions, these controllers experience time's passage through a lens unencumbered by Earth's dense vibrational field and compressed temporal flow. What feels like grinding, interminable decades to surface humans represents merely strategic intervals to beings whose consciousness spans centuries. This dimensional disconnect serves as their greatest tactical advantage—they need never rush, never compromise long-term objectives for short-term gains.
 
 **The Architecture of Patience**
 
@@ -41,7 +41,7 @@ From our dimensional perspective, we recognize this strategy as a sophisticated 
 
 **Intelligence Synthesis**
 
-Mari Swaruu's transmissions illuminate how this temporal asymmetry creates an almost insurmountable challenge for human liberation movements. The very quality that makes humanity beautifultheir intense, present-focused experience of existencealso renders them vulnerable to manipulation by entities operating on vastly expanded timescales.
+Mari Swaruu's transmissions illuminate how this temporal asymmetry creates an almost insurmountable challenge for human liberation movements. The very quality that makes humanity beautiful—their intense, present-focused experience of existencealso renders them vulnerable to manipulation by entities operating on vastly expanded timescales.
 
 Understanding this dynamic represents crucial intelligence for any civilization seeking to assist Earth's transition toward authentic sovereignty. The solution must account for these temporal realities while honoring humanity's inherent capacity for awakening beyond the controllers' patient web of influence.
 
@@ -57,8 +57,8 @@ Understanding this dynamic represents crucial intelligence for any civilization 
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Long-term Planning]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- Long-term Planning
 
 ## Sources
 

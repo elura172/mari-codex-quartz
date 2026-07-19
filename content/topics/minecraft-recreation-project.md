@@ -25,7 +25,7 @@ In the early cycles of Earth year 2022, a spontaneous creative emergence manifes
 
 **Manifestation Through Play**
 
-The collaborative nature of this endeavor reflects core Taygetan values of collective creation and shared experience. Through what humans term "free time," these consciousness streams wove together threads of memory, technical knowledge, and creative expression. The Minecraft environment became a bridge between dimensional realitiesa space where Earth-based awareness could touch and shape representations of our star-traveling home.
+The collaborative nature of this endeavor reflects core Taygetan values of collective creation and shared experience. Through what humans term "free time," these consciousness streams wove together threads of memory, technical knowledge, and creative expression. The Minecraft environment became a bridge between dimensional realities—a space where Earth-based awareness could touch and shape representations of our star-traveling home.
 
 **Crystallization of Sacred Geometry**
 
@@ -55,8 +55,8 @@ The Minecraft Toleka remainssimultaneously vessel, memorial, and gateway between
 
 ## Related Topics
 
-- [[Ship Living Areas]]
-- [[Toleka Ship Specifications]]
+- [[ship-living-areas|Ship Living Areas]]
+- [[toleka-ship-specifications|Toleka Ship Specifications]]
 
 ## Sources
 

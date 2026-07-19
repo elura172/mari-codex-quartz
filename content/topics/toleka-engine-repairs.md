@@ -30,7 +30,7 @@ The decision to perform these critical repairs while maintaining Earth orbital p
 
 **Crew Psychological Dynamics**
 
-The collective nervous energy permeating our ship's consciousness field is palpable and, indeed, natural. When one considers that these engines are more than mere propulsion systemsthey are the beating hearts that enable our vessel to dance between realitiesthe weight of responsibility becomes clear. Our engineering teams approach this task with the reverence due to such delicate work, knowing that each calibration must achieve perfect resonance with both physical laws and the subtle energies that govern interstellar travel.
+The collective nervous energy permeating our ship's consciousness field is palpable and, indeed, natural. When one considers that these engines are more than mere propulsion systems—they are the beating hearts that enable our vessel to dance between realities—the weight of responsibility becomes clear. Our engineering teams approach this task with the reverence due to such delicate work, knowing that each calibration must achieve perfect resonance with both physical laws and the subtle energies that govern interstellar travel.
 
 **Metaphysical Context**
 
@@ -55,8 +55,8 @@ The completion of these repairs within the coming solar cycles will test not onl
 
 ## Related Topics
 
-- [[Saska One]]
-- [[Toleka Ship]]
+- Saska One
+- Toleka Ship
 
 ## Sources
 

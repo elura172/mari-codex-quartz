@@ -76,8 +76,8 @@ Mari's transmissions illuminate these concepts with particular clarity for being
 
 ## Related Topics
 
-- [[Light Beings]]
-- [[Individual Perception Realms]]
+- [[light-beings|Light Beings]]
+- Individual Perception Realms
 
 ## Sources
 

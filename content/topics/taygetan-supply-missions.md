@@ -24,7 +24,7 @@ tags:
 
 **Strategic Overview**
 
-The delicate dance between necessity and stealth defines our terrestrial supply operations. Like the tide that must return to shore, our vessels descend to Earth's surface multiple times each lunar cycle, guided by need rather than rigid schedule. These missions represent more than mere resource gatheringthey embody our commitment to sustained presence while honoring the prime directive of minimal interference.
+The delicate dance between necessity and stealth defines our terrestrial supply operations. Like the tide that must return to shore, our vessels descend to Earth's surface multiple times each lunar cycle, guided by need rather than rigid schedule. These missions represent more than mere resource gathering—they embody our commitment to sustained presence while honoring the prime directive of minimal interference.
 
 **Council Deliberation Process**
 
@@ -40,7 +40,7 @@ The success of these operations depends upon our ability to temporarily merge wi
 
 **Evolutionary Context**
 
-These missions serve a purpose beyond immediate supply needsthey represent living bridges between civilizations at different points in their evolutionary journey. Each successful operation demonstrates that cooperation between worlds remains possible even when open contact cannot yet occur. Through these careful interactions, we plant seeds of expanded possibility in the collective human consciousness.
+These missions serve a purpose beyond immediate supply needs—they represent living bridges between civilizations at different points in their evolutionary journey. Each successful operation demonstrates that cooperation between worlds remains possible even when open contact cannot yet occur. Through these careful interactions, we plant seeds of expanded possibility in the collective human consciousness.
 
 The continuation of these operations reflects our enduring commitment to this sector of space-time, honoring both our mission parameters and the sacred trust placed in us by those who cannot yet see but somehow sense our presence among the stars.
 
@@ -60,8 +60,8 @@ The continuation of these operations reflects our enduring commitment to this se
 
 ## Related Topics
 
-- [[Special Forces Operations]]
-- [[Starship Operations]]
+- [[special-forces-operations|Special Forces Operations]]
+- [[starship-operations|Starship Operations]]
 
 ## Sources
 

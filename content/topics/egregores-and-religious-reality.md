@@ -57,8 +57,8 @@ First contact protocols must account for the reality that different human popula
 
 ## Related Topics
 
-- [[Religious Control Mechanisms]]
-- [[Consciousness and Reality Creation]]
+- [[religious-control-mechanisms|Religious Control Mechanisms]]
+- [[consciousness-and-reality-creation|Consciousness and Reality Creation]]
 
 ## Sources
 

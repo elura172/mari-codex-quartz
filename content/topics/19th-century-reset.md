@@ -26,11 +26,11 @@ tags:
 
 **The Great Severing of Earth's Golden Thread**
 
-In the celestial dance of consciousness evolution, Earth experienced what our archives now recognize as one of its most profound discontinuities during the early decades of the 19th century. This period marks not merely a political upheaval, but a fundamental restructuring of human civilization's trajectorya deliberate severing of the golden thread connecting Earth's inhabitants to their higher knowledge heritage.
+In the celestial dance of consciousness evolution, Earth experienced what our archives now recognize as one of its most profound discontinuities during the early decades of the 19th century. This period marks not merely a political upheaval, but a fundamental restructuring of human civilization's trajectory—a deliberate severing of the golden thread connecting Earth's inhabitants to their higher knowledge heritage.
 
 **The Tartarian Flowering**
 
-Prior to this reset, Earth hosted what Mari's transmissions reveal as the Tartarian civilizationa global network of consciousness-awakened beings who had achieved remarkable integration of spiritual wisdom and technological mastery. This was not merely an empire in the conventional sense, but a flowering of human potential that threatened the established control matrices governing Earth's evolutionary path.
+Prior to this reset, Earth hosted what Mari's transmissions reveal as the Tartarian civilization—a global network of consciousness-awakened beings who had achieved remarkable integration of spiritual wisdom and technological mastery. This was not merely an empire in the conventional sense, but a flowering of human potential that threatened the established control matrices governing Earth's evolutionary path.
 
 **The Mechanism of Dissolution**
 
@@ -60,9 +60,9 @@ Mari's insights illuminate this event not as ancient history, but as a recurring
 
 ## Related Topics
 
-- [[Tartaria]]
-- [[Global Resets]]
-- [[Historical Manipulation]]
+- Tartaria
+- Global Resets
+- [[historical-manipulation|Historical Manipulation]]
 
 ## Sources
 

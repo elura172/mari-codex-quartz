@@ -60,9 +60,9 @@ These doorways between worlds serve as both transportation systems and philosoph
 
 ## Related Topics
 
-- [[Reality Lattice]]
-- [[Electromagnetic Fields]]
-- [[Starship Technology]]
+- [[reality-lattice|Reality Lattice]]
+- Electromagnetic Fields
+- [[starship-technology|Starship Technology]]
 
 ## Sources
 

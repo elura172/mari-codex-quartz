@@ -21,7 +21,7 @@ tags:
 
 **Fundamental Principles**
 
-Within the grand tapestry of existence, contained systems emerge as islands of stable perception amidst the flowing currents of spacetime. These environments function as naturally occurring laboratories where consciousness experiences reality through defined boundariesboth physical and perceptualthat create coherent reference frames essential for temporal navigation.
+Within the grand tapestry of existence, contained systems emerge as islands of stable perception amidst the flowing currents of spacetime. These environments function as naturally occurring laboratories where consciousness experiences reality through defined boundaries—both physical and perceptual—that create coherent reference frames essential for temporal navigation.
 
 Mari Swaruu illuminated how these systems operate through the elegant principle of experiential isolation. When awareness becomes focused within specific boundaries, the observer's perception naturally aligns with the dominant frequency of that enclosed environment, creating what we might call a "bubble of present moment" that can be manipulated for temporal displacement.
 
@@ -57,8 +57,8 @@ Through comprehending contained systems, we honor both the practical mechanics o
 
 ## Related Topics
 
-- [[Earth as Contained System]]
-- [[Perception and Reality in Time Travel]]
+- [[earth-as-contained-system|Earth as Contained System]]
+- [[perception-and-reality-in-time-travel|Perception and Reality in Time Travel]]
 
 ## Sources
 

@@ -59,8 +59,8 @@ The patience required for such conversions mirrors the deeper rhythms of cosmic 
 
 ## Related Topics
 
-- [[Space Pirates Formation]]
-- [[Underground Bases]]
+- [[space-pirates-formation|Space Pirates Formation]]
+- [[underground-bases|Underground Bases]]
 
 ## Sources
 

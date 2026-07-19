@@ -35,7 +35,7 @@ The severing of these financial arteries has created a temporary vacuum in resou
 
 **Metaphysical Implications**
 
-From a Taygetan perspective, this crisis represents more than mere financial restructuringit reflects the broader challenge of maintaining energetic integrity within systems that have been infiltrated by regressive consciousness. The old networks carried more than credits; they transmitted the vibrational signatures of compromise and control. Their dissolution, though painful, creates space for new forms of abundance aligned with higher principles.
+From a Taygetan perspective, this crisis represents more than mere financial restructuring—it reflects the broader challenge of maintaining energetic integrity within systems that have been infiltrated by regressive consciousness. The old networks carried more than credits; they transmitted the vibrational signatures of compromise and control. Their dissolution, though painful, creates space for new forms of abundance aligned with higher principles.
 
 **Diplomatic Considerations**
 
@@ -61,7 +61,7 @@ Mari's observations illuminate how necessary disruption often appears as crisis 
 
 ## Related Topics
 
-- [[Triad Leadership]]
+- Triad Leadership
 
 ## Sources
 

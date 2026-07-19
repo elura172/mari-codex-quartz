@@ -24,7 +24,7 @@ tags:
 
 **Vulnerability Matrix: Single-Engine Propulsion Systems**
 
-The electromagnetic spectrum has become both bridge and barrier in our interactions with Earth's developing civilization. Over the past eight decades, terrestrial military forces have discovered an unexpected weakness in our smaller reconnaissance vesselsthose employing singular gravitational manipulation cores for propulsion and positioning.
+The electromagnetic spectrum has become both bridge and barrier in our interactions with Earth's developing civilization. Over the past eight decades, terrestrial military forces have discovered an unexpected weakness in our smaller reconnaissance vessels—those employing singular gravitational manipulation cores for propulsion and positioning.
 
 **Technical Analysis: Frequency Disruption Protocols**
 
@@ -38,7 +38,7 @@ An undisclosed number of our smaller vessels have been compromised through this 
 
 **Metaphysical Considerations**
 
-Mari's teachings remind us that technology mirrors consciousnessboth require clear reception of environmental frequencies to function harmoniously. Just as fear or trauma can blind awareness to truth, electromagnetic interference blinds our instruments to gravitational reality. The solution lies not only in hardened systems, but in expanded consciousness that transcends dependence on singular sensory channels.
+Mari's teachings remind us that technology mirrors consciousness—both require clear reception of environmental frequencies to function harmoniously. Just as fear or trauma can blind awareness to truth, electromagnetic interference blinds our instruments to gravitational reality. The solution lies not only in hardened systems, but in expanded consciousness that transcends dependence on singular sensory channels.
 
 **Operational Recommendations**
 
@@ -60,8 +60,8 @@ Our sister Mari's wisdom echoes through this analysis: vulnerability becomes str
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Earth Government Operations]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- Earth Government Operations
 
 ## Sources
 

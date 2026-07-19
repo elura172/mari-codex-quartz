@@ -32,7 +32,7 @@ Starseedsconsciousness emanating from higher-density realmscarry within their en
 
 Within any energetic system, the stronger frequency pattern tends to influence and gradually harmonize weaker frequencies within its field. Earth's collective unconscious, reinforced by millions of incarnated beings operating at similar vibrational densities, creates an overwhelming energetic tide. Starseeds find themselves submerged within this foreign resonance, their natural frequency gradually pressured toward conformity with planetary norms.
 
-This is not mere metaphorit represents actual energetic mechanics governing consciousness interaction. The starseed experiences this as a constant undertow pulling against their natural state of being, creating persistent discomfort, disorientation, and a sense of fundamental displacement.
+This is not mere metaphor—it represents actual energetic mechanics governing consciousness interaction. The starseed experiences this as a constant undertow pulling against their natural state of being, creating persistent discomfort, disorientation, and a sense of fundamental displacement.
 
 **Implications for Incarnated Consciousness**
 
@@ -44,7 +44,7 @@ Understanding this dynamic illuminates why many starseeds struggle with depressi
 
 For diplomatic missions and consciousness integration protocols, recognizing this frequency mismatch proves essential. Starseeds serve as natural bridges between dimensional densities, but require specific support systems to maintain their higher-frequency coherence while fulfilling their terrestrial missions.
 
-Mari's insights remind us that these challenges reflect not personal failings, but the natural consequence of consciousness attempting to operate across vastly different vibrational environmentsa testament to the courage required for such interdimensional service.
+Mari's insights remind us that these challenges reflect not personal failings, but the natural consequence of consciousness attempting to operate across vastly different vibrational environments—a testament to the courage required for such interdimensional service.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ Mari's insights remind us that these challenges reflect not personal failings, b
 
 ## Related Topics
 
-- [[Collective Unconscious]]
-- [[Astral Attacks]]
+- [[collective-unconscious|Collective Unconscious]]
+- [[astral-attacks|Astral Attacks]]
 
 ## Sources
 

@@ -25,7 +25,7 @@ tags:
 
 **Fundamental Recognition**
 
-Within the dimensional construct commonly referred to as the Matrix, perception operates through layers of programmed limitation. Our sister Mari illuminated a profound paradox: while the experiential framework appears solid and immutable to those within it, only one element maintains absolute authenticitythe conscious observer itself.
+Within the dimensional construct commonly referred to as the Matrix, perception operates through layers of programmed limitation. Our sister Mari illuminated a profound paradox: while the experiential framework appears solid and immutable to those within it, only one element maintains absolute authenticity—the conscious observer itself.
 
 **The Nature of Cosmic Identity**
 
@@ -61,8 +61,8 @@ Mari's teachings continue to resonate across star systems, offering navigation t
 
 ## Related Topics
 
-- [[Dual World Living]]
-- [[Self Worth]]
+- Dual World Living
+- Self Worth
 
 ## Sources
 

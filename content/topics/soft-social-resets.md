@@ -31,7 +31,7 @@ The phenomenon Mari describes reveals a sophisticated manipulation technique whe
 
 The process functions through two primary vectors: temporal erosion and documentary manipulation. Controllers exploit the natural cycle of generational turnover, understanding that organic memory dies with its carriers. Simultaneously, they systematically alter historical records and accepted truths, creating gaps where authentic knowledge once resided.
 
-This approach requires patience spanning decadesa timeline that suits entities operating beyond typical human lifespans. Each generation inherits a slightly modified version of reality, accepting these alterations as natural evolution rather than engineered change.
+This approach requires patience spanning decades—a timeline that suits entities operating beyond typical human lifespans. Each generation inherits a slightly modified version of reality, accepting these alterations as natural evolution rather than engineered change.
 
 **Metaphysical Considerations**
 
@@ -65,9 +65,9 @@ Mari's analysis provides crucial intelligence for understanding how Earth's popu
 
 ## Related Topics
 
-- [[Historical Erasure]]
-- [[Mind Control]]
-- [[Population Manipulation]]
+- Historical Erasure
+- Mind Control
+- Population Manipulation
 
 ## Sources
 

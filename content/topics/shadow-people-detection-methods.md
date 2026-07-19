@@ -28,7 +28,7 @@ Mari Swaruu's observations regarding shadow people detection reveal the multidim
 
 The shadow beings exist primarily within electromagnetic frequencies invisible to baseline human perception. Advanced imaging systems utilizing infrared and ultraviolet spectrums can penetrate the dimensional veil that typically obscures these entities from standard optical observation. Night-vision enhancement technologies similarly expand perceptual boundaries, revealing what remains hidden to unaugmented sight.
 
-This technological bridging demonstrates a fundamental principle Mari often emphasized: consciousness and technology must work in harmony to perceive reality's fuller spectrum. The shadow beings are not truly invisiblethey simply inhabit frequency ranges that require expanded awareness to access.
+This technological bridging demonstrates a fundamental principle Mari often emphasized: consciousness and technology must work in harmony to perceive reality's fuller spectrum. The shadow beings are not truly invisible—they simply inhabit frequency ranges that require expanded awareness to access.
 
 **Natural Detection Through Animal Consciousness**
 
@@ -58,8 +58,8 @@ These detection protocols serve dual purposes: practical security measures and c
 
 ## Related Topics
 
-- [[Shadow People as Extraterrestrial Race]]
-- [[Pet Protection]]
+- [[shadow-people-as-extraterrestrial-race|Shadow People as Extraterrestrial Race]]
+- Pet Protection
 
 ## Sources
 

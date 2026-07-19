@@ -21,7 +21,7 @@ tags:
 
 **Primary Classification: Biological Regeneration Technology**
 
-The healing chambers of our vessels represent more than mere technologythey embody our understanding that consciousness and form exist in perpetual dialogue. When the physical vessel requires restoration, we do not merely treat symptoms but address the fundamental harmony between spirit and matter.
+The healing chambers of our vessels represent more than mere technology—they embody our understanding that consciousness and form exist in perpetual dialogue. When the physical vessel requires restoration, we do not merely treat symptoms but address the fundamental harmony between spirit and matter.
 
 **Wet Medical Pod Configuration**
 
@@ -61,8 +61,8 @@ For our Earth-based colleagues studying these transmissions, understand that suc
 
 ## Related Topics
 
-- [[Alenym's Condition]]
-- [[Mari's Health Crisis]]
+- [[alenyms-condition|Alenym's Condition]]
+- [[maris-health-crisis|Mari's Health Crisis]]
 
 ## Sources
 

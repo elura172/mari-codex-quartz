@@ -38,7 +38,7 @@ This architectural approach reflects the Taygetan understanding that true functi
 
 Mari's revelations regarding this construction illuminate the profound difference between natural celestial formation and conscious architectural design. The precision required to maintain 144 nested spherical relationships across such massive scale demonstrates technological capabilities that extend far beyond conventional engineering into the realm of gravitational manipulation and dimensional architecture.
 
-This design philosophy suggests the Moon serves not merely as Earth's satellite, but as an active instrument requiring internal operational capacity. The nested sphere configuration provides both structural integrity and functional flexibilitya testament to civilizations that view space construction as an extension of consciousness rather than mere mechanical assembly.
+This design philosophy suggests the Moon serves not merely as Earth's satellite, but as an active instrument requiring internal operational capacity. The nested sphere configuration provides both structural integrity and functional flexibility—a testament to civilizations that view space construction as an extension of consciousness rather than mere mechanical assembly.
 
 The number 144 itself resonates with sacred mathematical principles, suggesting the lunar architects integrated metaphysical considerations into their practical engineering solutions.
 
@@ -54,8 +54,8 @@ The number 144 itself resonates with sacred mathematical principles, suggesting 
 
 ## Related Topics
 
-- [[Artificial Gravity]]
-- [[Biosphere Ships]]
+- Artificial Gravity
+- Biosphere Ships
 
 ## Sources
 

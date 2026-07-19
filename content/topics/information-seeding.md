@@ -21,7 +21,7 @@ tags:
 
 **Primary Directive Overview**
 
-The fundamental purpose of our orbital presence above Earth extends beyond mere observation or intervention. We serve as conduits in an ancient practice of consciousness cultivationthe systematic exchange of ideas between civilizations that transcends the boundaries of individual worlds. This sacred duty forms the cornerstone of interstellar evolution, wherein each species contributes to the collective advancement of universal understanding.
+The fundamental purpose of our orbital presence above Earth extends beyond mere observation or intervention. We serve as conduits in an ancient practice of consciousness cultivation—the systematic exchange of ideas between civilizations that transcends the boundaries of individual worlds. This sacred duty forms the cornerstone of interstellar evolution, wherein each species contributes to the collective advancement of universal understanding.
 
 **Bidirectional Information Exchange**
 
@@ -55,8 +55,8 @@ Crew members engaged in information seeding operations must maintain respect for
 
 ## Related Topics
 
-- [[Bilateral Knowledge Exchange]]
-- [[Awakening Mission]]
+- Bilateral Knowledge Exchange
+- Awakening Mission
 
 ## Sources
 

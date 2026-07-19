@@ -24,7 +24,7 @@ tags:
 
 During the recent solar eclipse convergence above Earth, our monitoring stations detected a disturbing pattern emerging from Centauri operations within the Sol system. Three separate incidents involving Black Knight fighter craft have manifested within a concentrated temporal window, suggesting orchestrated interference rather than coincidental mechanical failures or navigational errors.
 
-The initial alert reached our bridge through Viera traffic control channels, reporting the disappearance of a Black Knight vessel during eclipse operations. What appeared as an isolated emergency soon revealed itself as part of a larger constellation of eventseach incident bearing the hallmarks of coordinated disruption against Federation enforcement protocols.
+The initial alert reached our bridge through Viera traffic control channels, reporting the disappearance of a Black Knight vessel during eclipse operations. What appeared as an isolated emergency soon revealed itself as part of a larger constellation of events—each incident bearing the hallmarks of coordinated disruption against Federation enforcement protocols.
 
 **Strategic Analysis**
 
@@ -62,8 +62,8 @@ Mari's transmissions remind us that in this vast theater of consciousness evolut
 
 ## Related Topics
 
-- [[Galactic Federation]]
-- [[Search Operations]]
+- Galactic Federation
+- Search Operations
 
 ## Sources
 

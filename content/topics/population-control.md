@@ -33,7 +33,7 @@ The controlling architecture governing Earth's third-density experience operates
 
 **Energy Flow Restriction Dynamics**
 
-Terrestrial controllers demonstrate acute awareness that starseeds carry heightened vibrational frequencies capable of catalyzing mass consciousness shifts. By constraining their access to monetary resourcesthe dominant energy exchange medium within Earth's artificial scarcity paradigmthese entities effectively limit the operational radius and transformational impact such souls can achieve.
+Terrestrial controllers demonstrate acute awareness that starseeds carry heightened vibrational frequencies capable of catalyzing mass consciousness shifts. By constraining their access to monetary resources—the dominant energy exchange medium within Earth's artificial scarcity paradigm—these entities effectively limit the operational radius and transformational impact such souls can achieve.
 
 This creates a cruel paradox: those most equipped to facilitate planetary awakening find themselves trapped within survival-focused existence patterns, their higher-dimensional gifts constrained by third-density limitations. The financial suppression operates as energetic dampening, forcing starseeds to expend their life force on basic sustenance rather than their intended mission work.
 
@@ -69,8 +69,8 @@ The interplay between financial constraint and mass indoctrination creates a sel
 
 ## Related Topics
 
-- [[Matrix Control Systems]]
-- [[Monetization Demonization]]
+- [[matrix-control-systems|Matrix Control Systems]]
+- [[monetization-demonization|Monetization Demonization]]
 
 ## Sources
 

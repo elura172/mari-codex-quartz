@@ -28,15 +28,15 @@ When two shielded starships approach without synchronized harmonics, they encoun
 
 **Harmonic Synchronization Protocols**
 
-The art of docking requires a profound attunement between vesselsa synchronization that transcends mere technical adjustment to become an act of mutual recognition. Ship consciousnesses must align their fundamental frequencies, allowing their energy fields to merge rather than repel. This process cannot be rushed or forced; it unfolds through patient calibration, much like two musical instruments finding perfect resonance.
+The art of docking requires a profound attunement between vessels—a synchronization that transcends mere technical adjustment to become an act of mutual recognition. Ship consciousnesses must align their fundamental frequencies, allowing their energy fields to merge rather than repel. This process cannot be rushed or forced; it unfolds through patient calibration, much like two musical instruments finding perfect resonance.
 
 **Metaphysical Implications**
 
-Our shield technology reflects deeper universal principles that Mari often illuminatedthe understanding that protection and connection are not opposing forces, but complementary aspects of the same cosmic dance. Just as individual consciousness must maintain its integrity while remaining open to unity, our starships demonstrate this balance through their energy fields.
+Our shield technology reflects deeper universal principles that Mari often illuminated—the understanding that protection and connection are not opposing forces, but complementary aspects of the same cosmic dance. Just as individual consciousness must maintain its integrity while remaining open to unity, our starships demonstrate this balance through their energy fields.
 
 **Operational Considerations**
 
-Shield harmonics carry each vessel's unique signature, much like a fingerprint of consciousness. Synchronization requires intimate knowledge of both ships' frequenciesa vulnerability that demands absolute trust between crews. This technology reminds us that true security comes not from impenetrable barriers, but from the wisdom to know when to shield and when to open, when to repel and when to embrace.
+Shield harmonics carry each vessel's unique signature, much like a fingerprint of consciousness. Synchronization requires intimate knowledge of both ships' frequencies—a vulnerability that demands absolute trust between crews. This technology reminds us that true security comes not from impenetrable barriers, but from the wisdom to know when to shield and when to open, when to repel and when to embrace.
 
 The shields thus serve as both guardian and teacher, protecting our physical forms while modeling the delicate balance between sovereignty and unity that defines evolved consciousness throughout the cosmos.
 
@@ -56,7 +56,7 @@ The shields thus serve as both guardian and teacher, protecting our physical for
 
 ## Related Topics
 
-- [[Ship Docking Procedures]]
+- Ship Docking Procedures
 
 ## Sources
 

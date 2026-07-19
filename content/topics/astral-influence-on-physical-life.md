@@ -38,7 +38,7 @@ For Taygetan observers monitoring Earth's evolutionary process, this principle e
 
 Understanding astral influence transforms diplomatic approaches with developing worlds. Rather than focusing solely on technological or political interventions, mature civilizations recognize the necessity of addressing consciousness states, collective thoughtforms, and energetic agreements that structure a species' reality.
 
-Mari's insights remind us that every physical healing, every moment of expanded awareness, every act of genuine love creates ripples throughout the astral ocean supporting that world. Our presence in Earth's orbit represents more than observationit constitutes participation in the deeper currents shaping humanity's emergence into galactic consciousness.
+Mari's insights remind us that every physical healing, every moment of expanded awareness, every act of genuine love creates ripples throughout the astral ocean supporting that world. Our presence in Earth's orbit represents more than observation—it constitutes participation in the deeper currents shaping humanity's emergence into galactic consciousness.
 
 The ocean remembers everything. What occurs in the astral today becomes tomorrow's physical reality, making our current focus on consciousness elevation both practical strategy and sacred responsibility.
 
@@ -58,8 +58,8 @@ The ocean remembers everything. What occurs in the astral today becomes tomorrow
 
 ## Related Topics
 
-- [[Death and Transition]]
-- [[Material World Navigation]]
+- [[death-and-transition|Death and Transition]]
+- [[material-world-navigation|Material World Navigation]]
 
 ## Sources
 

@@ -65,8 +65,8 @@ This documentation serves as reminder that consciousness remains the primary arc
 
 ## Related Topics
 
-- [[Taygetan Biology]]
-- [[Birthday Celebrations]]
+- Taygetan Biology
+- [[birthday-celebrations|Birthday Celebrations]]
 
 ## Sources
 

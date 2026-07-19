@@ -37,7 +37,7 @@ What Earth observers might perceive as an extended healing timeline reflects the
 
 **Metaphysical Context**
 
-Time serves as consciousness experiencing itself through sequential moments. Higher-density civilizations inhabit temporal streams that flow with greater spaciousness, allowing for more thorough integration of experience and deeper cellular regeneration. The perceived "slowness" represents not delay, but completenesseach moment containing exponentially more potential for transformation and healing.
+Time serves as consciousness experiencing itself through sequential moments. Higher-density civilizations inhabit temporal streams that flow with greater spaciousness, allowing for more thorough integration of experience and deeper cellular regeneration. The perceived "slowness" represents not delay, but completeness—each moment containing exponentially more potential for transformation and healing.
 
 **Diplomatic Considerations**
 
@@ -59,7 +59,7 @@ This temporal variance reminds us that healing, like consciousness itself, canno
 
 ## Related Topics
 
-- [[Alenym's Condition]]
+- [[alenyms-condition|Alenym's Condition]]
 
 ## Sources
 

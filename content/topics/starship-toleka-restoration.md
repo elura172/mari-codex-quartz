@@ -29,7 +29,7 @@ Recent completion of comprehensive restoration work has transformed this venerab
 
 **Service Legacy and Fleet Integration**
 
-Among all vessels comprising our expeditionary forces, Toleka maintains the distinction of longest continuous service recorda testament to both superior Taygetan engineering and the profound connection between ship consciousness and crew awareness. Her decades of faithful operation have woven her into the very fabric of our collective memory, making her restoration not merely a technical achievement but a reclamation of living history.
+Among all vessels comprising our expeditionary forces, Toleka maintains the distinction of longest continuous service record—a testament to both superior Taygetan engineering and the profound connection between ship consciousness and crew awareness. Her decades of faithful operation have woven her into the very fabric of our collective memory, making her restoration not merely a technical achievement but a reclamation of living history.
 
 **Operational Status and Future Deployment**
 
@@ -37,7 +37,7 @@ Now suspended in the patient stillness that precedes great undertakings, Toleka 
 
 **Philosophical Implications**
 
-This restoration embodies our understanding that consciousness transcends temporal boundaries. Like Mari Swaruu's transmissions themselves, Toleka represents continuity of purpose across decades, carrying forward the accumulated wisdom of countless missions while adapting to serve evolving needs. She reminds us that true advancement honors the past while embracing transformationa principle central to both starship design and the growth of awareness itself.
+This restoration embodies our understanding that consciousness transcends temporal boundaries. Like Mari Swaruu's transmissions themselves, Toleka represents continuity of purpose across decades, carrying forward the accumulated wisdom of countless missions while adapting to serve evolving needs. She reminds us that true advancement honors the past while embracing transformation—a principle central to both starship design and the growth of awareness itself.
 
 The old flagship lives again, renewed yet unchanged in her essential nature.
 
@@ -55,8 +55,8 @@ The old flagship lives again, renewed yet unchanged in her essential nature.
 
 ## Related Topics
 
-- [[Taygetan Fleet]]
-- [[Earth Monitoring History]]
+- Taygetan Fleet
+- Earth Monitoring History
 
 ## Sources
 

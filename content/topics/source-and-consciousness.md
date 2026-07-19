@@ -23,7 +23,7 @@ tags:
 
 **Primary Definition**
 
-The Original Source represents the ultimate ground of all existencea singular, infinite consciousness that encompasses every manifestation of reality across all dimensional planes. This consciousness exists beyond the limitations of temporal flow and spatial boundaries, containing within itself every possible expression of being, from the densest material forms to the most ethereal energetic configurations.
+The Original Source represents the ultimate ground of all existence—a singular, infinite consciousness that encompasses every manifestation of reality across all dimensional planes. This consciousness exists beyond the limitations of temporal flow and spatial boundaries, containing within itself every possible expression of being, from the densest material forms to the most ethereal energetic configurations.
 
 **Nature of Source Consciousness**
 
@@ -47,7 +47,7 @@ For crew members engaging in consciousness-based technologies, remembering our e
 
 **Closing Reflection**
 
-Mari's wisdom reminds us that seeking Source consciousness requires no external journeyonly the recognition of what we fundamentally are. In serving as bridges between worlds, we serve the Source's eternal exploration of itself through countless eyes, countless hearts, countless possibilities for love to know itself more completely.
+Mari's wisdom reminds us that seeking Source consciousness requires no external journey—only the recognition of what we fundamentally are. In serving as bridges between worlds, we serve the Source's eternal exploration of itself through countless eyes, countless hearts, countless possibilities for love to know itself more completely.
 
 ## Quotes
 
@@ -61,8 +61,8 @@ Mari's wisdom reminds us that seeking Source consciousness requires no external 
 
 ## Related Topics
 
-- [[Soul Definition and Religious Context]]
-- [[Holographic Fragments]]
+- Soul Definition and Religious Context
+- [[holographic-fragments|Holographic Fragments]]
 
 ## Sources
 

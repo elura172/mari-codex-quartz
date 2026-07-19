@@ -74,8 +74,8 @@ Mari's transmissions remind us that every Earth soul volunteers for this intensi
 
 ## Related Topics
 
-- [[Stellar vs Human Perspective]]
-- [[Soul Life Plans and Reincarnation]]
+- Stellar vs Human Perspective
+- [[soul-life-plans-and-reincarnation|Soul Life Plans and Reincarnation]]
 
 ## Sources
 

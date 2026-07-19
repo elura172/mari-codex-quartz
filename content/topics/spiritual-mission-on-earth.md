@@ -32,7 +32,7 @@ The deployment model resembles our own diplomatic protocols, yet operates throug
 
 **Strategic Implementation**
 
-The justice Mari speaks of transcends legal constructsit represents cosmic rebalancing through conscious presence. These awakened operatives do not impose change through external force, but rather embody transformation, allowing their elevated frequency signature to naturally influence surrounding energy patterns. Their very existence creates ripple effects that gradually shift planetary consciousness toward alignment with universal principles.
+The justice Mari speaks of transcends legal constructs—it represents cosmic rebalancing through conscious presence. These awakened operatives do not impose change through external force, but rather embody transformation, allowing their elevated frequency signature to naturally influence surrounding energy patterns. Their very existence creates ripple effects that gradually shift planetary consciousness toward alignment with universal principles.
 
 **Taygetan Perspective**
 
@@ -58,8 +58,8 @@ Through their embodied presence, these volunteers demonstrate that ascension is 
 
 ## Related Topics
 
-- [[Energy Sensitivity and Empathic Abilities]]
-- [[Spiritual Strength and Resilience]]
+- [[energy-sensitivity-and-empathic-abilities|Energy Sensitivity and Empathic Abilities]]
+- [[spiritual-strength-and-resilience|Spiritual Strength and Resilience]]
 
 ## Sources
 

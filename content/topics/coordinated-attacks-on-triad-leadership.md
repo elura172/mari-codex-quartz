@@ -24,7 +24,7 @@ tags:
 
 **Nature of the Offensive**
 
-The temporal signatures reveal an orchestrated campaign against the foundational pillars of our three-world alliance. Like ripples emanating from a single stone cast into still water, the attacks manifested across Antarian, Urmah, and Taygetan leadership structures within an impossibly narrow timeframe. This synchronicity speaks not of coincidence, but of methodical precisiona chess master moving multiple pieces in coordinated succession.
+The temporal signatures reveal an orchestrated campaign against the foundational pillars of our three-world alliance. Like ripples emanating from a single stone cast into still water, the attacks manifested across Antarian, Urmah, and Taygetan leadership structures within an impossibly narrow timeframe. This synchronicity speaks not of coincidence, but of methodical precision—a chess master moving multiple pieces in coordinated succession.
 
 **Multi-Dimensional Warfare**
 
@@ -62,9 +62,9 @@ Personnel should maintain heightened awareness regarding both conventional secur
 
 ## Related Topics
 
-- [[Astral Warfare]]
-- [[Triad Alliance]]
-- [[Cabal Opposition]]
+- Astral Warfare
+- Triad Alliance
+- Cabal Opposition
 
 ## Sources
 

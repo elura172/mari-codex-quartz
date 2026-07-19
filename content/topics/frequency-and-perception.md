@@ -27,7 +27,7 @@ Mari Swaruu illuminated a fundamental truth that resonates across galactic consc
 
 **The Mechanics of Perceptual Reality**
 
-Each consciousness operates as both receiver and transmitter within the quantum field. The vibrational signature of thoughts, emotions, and core beliefs acts as a tuning mechanism, determining which dimensional layers and reality streams become accessible to direct experience. This explains why beings inhabiting the same physical coordinates can encounter vastly different experiential realitiesthey are literally occupying distinct frequency bandwidths of existence.
+Each consciousness operates as both receiver and transmitter within the quantum field. The vibrational signature of thoughts, emotions, and core beliefs acts as a tuning mechanism, determining which dimensional layers and reality streams become accessible to direct experience. This explains why beings inhabiting the same physical coordinates can encounter vastly different experiential realities—they are literally occupying distinct frequency bandwidths of existence.
 
 From our Taygetan understanding, this phenomenon reflects the holographic nature of consciousness itself. What humans perceive as "external" reality emerges from the intersection between their internal frequency signature and the infinite potential matrix surrounding them. They do not simply observe their world; they continuously co-create it through the vibrational quality of their awareness.
 
@@ -59,8 +59,8 @@ Mari's transmission echoes ancient Taygetan wisdom while addressing Earth's spec
 
 ## Related Topics
 
-- [[Energy Parasitism]]
-- [[Lower Astral Realm]]
+- [[energy-parasitism|Energy Parasitism]]
+- [[lower-astral-realm|Lower Astral Realm]]
 
 ## Sources
 

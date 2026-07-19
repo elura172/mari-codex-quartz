@@ -31,7 +31,7 @@ The human species demonstrates a profound adherence to pack-based decision makin
 
 Human consciousness operates within a carefully calibrated framework where the immediate demands of physical and social survival eclipse the natural impulse toward independent inquiry. The biological imperative to remain within accepted group parameters creates an unconscious fear response when confronting ideas that might isolate the individual from their survival network.
 
-This dynamic extends beyond mere social preferenceit represents a deeply embedded neurological pathway that equates intellectual autonomy with existential danger. The human mind, faced with the choice between comfortable conformity and potentially isolating truth-seeking, gravitates toward the familiar shores of collective agreement.
+This dynamic extends beyond mere social preference—it represents a deeply embedded neurological pathway that equates intellectual autonomy with existential danger. The human mind, faced with the choice between comfortable conformity and potentially isolating truth-seeking, gravitates toward the familiar shores of collective agreement.
 
 **Lyrian Heritage Patterns**
 
@@ -39,7 +39,7 @@ As descendants of the broader Lyrian genetic family, humans carry within their c
 
 **Energetic Implications**
 
-The terrestrial focus on immediate survival concerns creates a closed-loop system where available life force energy circulates primarily through maintenance of existing structures rather than exploration of expanded possibilities. Questioning established paradigms requires significant energetic investmenta luxury many humans perceive as unaffordable given their perceived precarious position within social and economic systems.
+The terrestrial focus on immediate survival concerns creates a closed-loop system where available life force energy circulates primarily through maintenance of existing structures rather than exploration of expanded possibilities. Questioning established paradigms requires significant energetic investment—a luxury many humans perceive as unaffordable given their perceived precarious position within social and economic systems.
 
 **Diplomatic Considerations**
 
@@ -59,8 +59,8 @@ Mari Swaruu's observations illuminate not judgment but compassionrecognizing tha
 
 ## Related Topics
 
-- [[Consciousness and Awareness]]
-- [[Media Manipulation and Mind Control]]
+- [[consciousness-and-awareness|Consciousness and Awareness]]
+- [[media-manipulation-and-mind-control|Media Manipulation and Mind Control]]
 
 ## Sources
 

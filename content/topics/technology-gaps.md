@@ -55,7 +55,7 @@ The gap between expectation and reality serves as reminder that true advancement
 
 ## Related Topics
 
-- [[Cultural Differences]]
+- [[cultural-differences|Cultural Differences]]
 
 ## Sources
 

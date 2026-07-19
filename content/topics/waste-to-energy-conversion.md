@@ -19,7 +19,7 @@ tags:
 
 **Biological Transmutation Systems: The Sacred Cycle of Energy**
 
-Within the crystalline corridors of our vessels, every biological function serves the greater harmony of existence. The waste-to-energy conversion system exemplifies the Taygetan understanding that nothing in the universe truly constitutes refuseonly energy in transition between states of manifestation.
+Within the crystalline corridors of our vessels, every biological function serves the greater harmony of existence. The waste-to-energy conversion system exemplifies the Taygetan understanding that nothing in the universe truly constitutes refuse—only energy in transition between states of manifestation.
 
 **Operational Philosophy**
 
@@ -53,8 +53,8 @@ Through this elegant integration of necessity and innovation, our vessels achiev
 
 ## Related Topics
 
-- [[Taygetan Toilet Technology]]
-- [[Starship Power Systems]]
+- [[taygetan-toilet-technology|Taygetan Toilet Technology]]
+- Starship Power Systems
 
 ## Sources
 

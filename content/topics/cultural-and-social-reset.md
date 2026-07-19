@@ -63,9 +63,9 @@ Mari's insights illuminate not merely what is occurring, but why Earth's unique 
 
 ## Related Topics
 
-- [[Historical Timeline Falsification]]
-- [[Internet as Control Tool]]
-- [[Information Monopolization]]
+- [[historical-timeline-falsification|Historical Timeline Falsification]]
+- [[internet-as-control-tool|Internet as Control Tool]]
+- Information Monopolization
 
 ## Sources
 

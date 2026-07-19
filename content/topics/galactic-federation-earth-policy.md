@@ -28,7 +28,7 @@ Through Mari's transmissions, we observe how Federation leadership has recognize
 
 **Differentiated Containment Rationale**
 
-The Federation's approach reveals a complex calculus: humans are kept isolated ostensibly for their own protection and gradual development, while Reptilian factions face containment due to their potential to destabilize other worlds through conquest-oriented methodologies. This creates a peculiar dynamic where both civilizations remain quarantined, yet for opposing reasonsone as a developing species requiring nurturing, the other as a mature but problematic force requiring management.
+The Federation's approach reveals a complex calculus: humans are kept isolated ostensibly for their own protection and gradual development, while Reptilian factions face containment due to their potential to destabilize other worlds through conquest-oriented methodologies. This creates a peculiar dynamic where both civilizations remain quarantined, yet for opposing reasons—one as a developing species requiring nurturing, the other as a mature but problematic force requiring management.
 
 **Conference Protocols and Internal Justification**
 
@@ -56,8 +56,8 @@ The question remains whether this represents genuine protective wisdom or instit
 
 ## Related Topics
 
-- [[Reptilian Isolation]]
-- [[Human Matrix System]]
+- Reptilian Isolation
+- Human Matrix System
 
 ## Sources
 

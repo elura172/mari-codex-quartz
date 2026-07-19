@@ -66,8 +66,8 @@ The path forward requires patience, understanding, and recognition that beneath 
 
 ## Related Topics
 
-- [[Multi-Level Astral Travel]]
-- [[Physical Reality Manipulation]]
+- Multi-Level Astral Travel
+- [[physical-reality-manipulation|Physical Reality Manipulation]]
 
 ## Sources
 

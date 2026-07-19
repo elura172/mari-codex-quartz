@@ -23,7 +23,7 @@ tags:
 
 **The Theater of Technological Illusion**
 
-Mari's observations regarding Earth's space programs reveal a profound disconnection between presented reality and actual capabilitya phenomenon that transcends mere deception to become a study in collective consciousness manipulation. Her analytical framework suggests that terrestrial space agencies employ sophisticated audiovisual fabrication techniques, utilizing primitive chromatic overlay technologies and mechanical suspension systems to simulate microgravity environments.
+Mari's observations regarding Earth's space programs reveal a profound disconnection between presented reality and actual capability—a phenomenon that transcends mere deception to become a study in collective consciousness manipulation. Her analytical framework suggests that terrestrial space agencies employ sophisticated audiovisual fabrication techniques, utilizing primitive chromatic overlay technologies and mechanical suspension systems to simulate microgravity environments.
 
 The implications reach beyond simple fraud. These theatrical productions serve as anchoring points for mass consciousness, creating shared mythologies that define humanity's relationship with the cosmos. Mari recognized that by controlling the narrative of space exploration, controlling entities shape not only what humans believe about their technological capabilities, but their fundamental understanding of their place in the universal community.
 
@@ -57,7 +57,7 @@ Mari's legacy reminds us that truth-telling is an art of perfect timing and infi
 
 ## Related Topics
 
-- [[Government Disinformation]]
+- [[government-disinformation|Government Disinformation]]
 
 ## Sources
 

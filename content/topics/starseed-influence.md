@@ -24,7 +24,7 @@ tags:
 
 **Passive Influence Mechanisms**
 
-The phenomenon Mari Swaruu describes reveals a fundamental principle of consciousness interaction that our science has long recognized: the broadcasting nature of high-frequency awareness. Starseedsthose souls carrying elevated vibrational signatures from advanced civilizationsfunction as living frequency generators, their very existence creating ripples throughout the collective consciousness matrix of their host world.
+The phenomenon Mari Swaruu describes reveals a fundamental principle of consciousness interaction that our science has long recognized: the broadcasting nature of high-frequency awareness. Starseeds—those souls carrying elevated vibrational signatures from advanced civilizationsfunction as living frequency generators, their very existence creating ripples throughout the collective consciousness matrix of their host world.
 
 This passive influence operates beyond the limitations of direct action or conscious intent. Like crystalline transmitters, these beings emit coherent energy patterns that naturally elevate the surrounding field, creating what our research teams have termed "resonance cascades." Each starseed becomes a node of transformation, their presence alone sufficient to initiate shifts in planetary consciousness.
 
@@ -58,8 +58,8 @@ The ripple effects extend far beyond measurable influence, touching the very fab
 
 ## Related Topics
 
-- [[Etheric Field]]
-- [[Frequency and Vibration]]
+- [[etheric-field|Etheric Field]]
+- [[frequency-and-vibration|Frequency and Vibration]]
 
 ## Sources
 

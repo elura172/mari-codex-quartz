@@ -29,7 +29,7 @@ The intensity of this gamma signature directly correlates to the vessel's physic
 
 **Metaphysical Implications**
 
-From our Taygetan understanding, this energetic signature represents more than mere physics. Each gamma burst carries the imprint of conscious intentthe collective will of crew and vessel unified in purpose. The starship, in these moments, becomes a bridge between dimensions, temporarily existing in both realms simultaneously before settling into material reality.
+From our Taygetan understanding, this energetic signature represents more than mere physics. Each gamma burst carries the imprint of conscious intent—the collective will of crew and vessel unified in purpose. The starship, in these moments, becomes a bridge between dimensions, temporarily existing in both realms simultaneously before settling into material reality.
 
 This transition disturbs the local field not through violence, but through the elegant displacement of one form of existence making space for another. The gamma radiation serves as announcement and affirmationa declaration that consciousness has chosen to manifest in this coordinate of space-time.
 
@@ -37,7 +37,7 @@ This transition disturbs the local field not through violence, but through the e
 
 For diplomatic missions, these signatures require careful consideration. Each arrival broadcasts our presence across multiple star systems, visible to any civilization monitoring gamma frequencies. This transparency aligns with our principles of open contact while necessitating tactical awareness.
 
-The proportional nature of these emissions means larger vessels create more pronounced signaturesa natural consequence that reflects the greater responsibility carried by substantial craft and their crews.
+The proportional nature of these emissions means larger vessels create more pronounced signatures—a natural consequence that reflects the greater responsibility carried by substantial craft and their crews.
 
 **Synthesis**
 
@@ -57,8 +57,8 @@ In recognizing these patterns, we honor both the scientific precision and spirit
 
 ## Related Topics
 
-- [[Hyperspace Travel]]
-- [[Space Traffic Control]]
+- [[hyperspace-travel|Hyperspace Travel]]
+- Space Traffic Control
 
 ## Sources
 

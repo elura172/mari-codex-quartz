@@ -64,8 +64,8 @@ The key lies in understanding that genuine spiritual evolution integrates all ex
 
 ## Related Topics
 
-- [[Perspective Shift Between Physical and Spirit Worlds]]
-- [[Loss of Physical Identity]]
+- [[perspective-shift-between-physical-and-spirit-worlds|Perspective Shift Between Physical and Spirit Worlds]]
+- Loss of Physical Identity
 
 ## Sources
 

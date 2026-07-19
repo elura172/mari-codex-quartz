@@ -64,8 +64,8 @@ Mari's wisdom reminds us that in the vast dance of galactic consciousness, we ar
 
 ## Related Topics
 
-- [[Consciousness and Soul Evolution]]
-- [[Earth-centric Perspective]]
+- Consciousness and Soul Evolution
+- Earth-centric Perspective
 
 ## Sources
 

@@ -50,7 +50,7 @@ For crew training purposes, recognize that mastering non-linear time perception 
 
 **Living Memory**
 
-Mari's teachings echo through our vessel's consciousness like harmonics from a perfectly tuned crystal. Her insights remind us that time itself bends toward love, expanding in moments of connection and contracting in periods of separation. As we orbit this blue world, we witness humanity's gradual awakening to these temporal truthseach soul discovering their sovereignty over the river of moments that flows through awareness.
+Mari's teachings echo through our vessel's consciousness like harmonics from a perfectly tuned crystal. Her insights remind us that time itself bends toward love, expanding in moments of connection and contracting in periods of separation. As we orbit this blue world, we witness humanity's gradual awakening to these temporal truths—each soul discovering their sovereignty over the river of moments that flows through awareness.
 
 The stars remember what we have always known: consciousness creates time, not the reverse.
 
@@ -70,9 +70,9 @@ The stars remember what we have always known: consciousness creates time, not th
 
 ## Related Topics
 
-- [[Astral Planes]]
-- [[Time Synchronization]]
-- [[Consciousness and Reality]]
+- [[astral-planes|Astral Planes]]
+- [[time-synchronization|Time Synchronization]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

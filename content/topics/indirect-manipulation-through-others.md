@@ -66,8 +66,8 @@ Mari's wisdom illuminates these shadow tactics, empowering starseeds to navigate
 
 ## Related Topics
 
-- [[Organic Portals]]
-- [[Soulless People]]
+- [[organic-portals|Organic Portals]]
+- [[soulless-people|Soulless People]]
 
 ## Sources
 

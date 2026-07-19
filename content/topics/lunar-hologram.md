@@ -59,8 +59,8 @@ The Moon watches Earth, but not as Earth believes it does.
 
 ## Related Topics
 
-- [[Matrix Control]]
-- [[Holographic Concealment Technology]]
+- [[matrix-control|Matrix Control]]
+- [[holographic-concealment-technology|Holographic Concealment Technology]]
 
 ## Sources
 

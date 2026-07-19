@@ -83,7 +83,7 @@ This synthesis of power and consciousness makes them invaluable allies in humani
 
 ## Related Topics
 
-- [[Urmah Race]]
+- Urmah Race
 
 ## Sources
 

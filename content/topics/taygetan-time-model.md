@@ -29,7 +29,7 @@ The Taygetan understanding of temporal mechanics represents a profound departure
 
 **Consciousness as Temporal Architect**
 
-Central to our time model is the recognition that consciousness itself serves as the primary organizing force of temporal experience. Awareness does not merely observe pre-existing temporal sequencesit actively participates in their construction. The act of perception crystallizes potential timelines into experienced reality, while simultaneously maintaining the integrity of alternate possibility streams.
+Central to our time model is the recognition that consciousness itself serves as the primary organizing force of temporal experience. Awareness does not merely observe pre-existing temporal sequences—it actively participates in their construction. The act of perception crystallizes potential timelines into experienced reality, while simultaneously maintaining the integrity of alternate possibility streams.
 
 This understanding dissolves the artificial separation between observer and observed that characterizes many primitive temporal theories. Consciousness operates as both navigator and architect within the temporal matrix, selecting pathways through its choices while continuously generating new avenues of potential exploration.
 
@@ -65,8 +65,8 @@ This wisdom guides both our navigation among the stars and our understanding of 
 
 ## Related Topics
 
-- [[Timeline Creation]]
-- [[Observer Effect]]
+- [[timeline-creation|Timeline Creation]]
+- [[observer-effect|Observer Effect]]
 
 ## Sources
 

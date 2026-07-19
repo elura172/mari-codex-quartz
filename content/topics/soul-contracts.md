@@ -62,8 +62,8 @@ Mari's insights remind us that true service sometimes requires questioning even 
 
 ## Related Topics
 
-- [[Galactic Federation Governance]]
-- [[Spiritual Evolution]]
+- [[galactic-federation-governance|Galactic Federation Governance]]
+- [[spiritual-evolution|Spiritual Evolution]]
 
 ## Sources
 

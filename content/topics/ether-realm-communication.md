@@ -56,8 +56,8 @@ Mari's teachings remind us that advanced communication technology and spiritual 
 
 ## Related Topics
 
-- [[Lepton Muon Communication Technology]]
-- [[Faster Than Light Travel]]
+- [[lepton-muon-communication-technology|Lepton Muon Communication Technology]]
+- Faster Than Light Travel
 
 ## Sources
 

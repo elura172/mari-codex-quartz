@@ -59,8 +59,8 @@ The ultimate trajectory remains constant: the gradual recognition of one's true 
 
 ## Related Topics
 
-- [[Starseed Classification]]
-- [[Frequency Incompatibility]]
+- Starseed Classification
+- [[frequency-incompatibility|Frequency Incompatibility]]
 
 ## Sources
 

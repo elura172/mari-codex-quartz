@@ -70,8 +70,8 @@ Understanding this foundational control mechanism proves essential for any meani
 
 ## Related Topics
 
-- [[Control Systems]]
-- [[Holistic Society]]
+- [[control-systems|Control Systems]]
+- [[holistic-society|Holistic Society]]
 
 ## Sources
 

@@ -57,8 +57,8 @@ The existence of the Amelie reinforces our understanding that the galaxy hosts c
 
 ## Related Topics
 
-- [[Cyndriel Planet]]
-- [[Enlightenment]]
+- [[cyndriel-planet|Cyndriel Planet]]
+- [[enlightenment|Enlightenment]]
 
 ## Sources
 

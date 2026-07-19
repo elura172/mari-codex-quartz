@@ -41,7 +41,7 @@ Such integration requires dissolving the artificial separation between "higher" 
 
 For starfleet personnel engaging with developing civilizations, understanding Higher Self dynamics proves essential. Many beings remain unconscious of this internal hierarchy, making choices based on influences they cannot identify or evaluate. True sovereignty emerges only when incarnated consciousness achieves sufficient coherence to dialogue consciously with its expanded aspects.
 
-This knowledge serves not to diminish the Higher Self connection, but to elevate the incarnated perspective until both aspects operate as unified multidimensional intelligencethe ultimate expression of conscious evolution across density matrices.
+This knowledge serves not to diminish the Higher Self connection, but to elevate the incarnated perspective until both aspects operate as unified multidimensional intelligence—the ultimate expression of conscious evolution across density matrices.
 
 *End Log*
 *Taygetan Starfleet Command Archives*
@@ -66,8 +66,8 @@ This knowledge serves not to diminish the Higher Self connection, but to elevate
 
 ## Related Topics
 
-- [[Guardian Angels and Spirit Guides]]
-- [[Soul Life Planning]]
+- [[guardian-angels-and-spirit-guides|Guardian Angels and Spirit Guides]]
+- [[soul-life-planning|Soul Life Planning]]
 
 ## Sources
 

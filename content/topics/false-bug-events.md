@@ -40,7 +40,7 @@ Mari's intelligence networks indicate a high probability of renewed implementati
 
 **Metaphysical Considerations**
 
-From our Taygetan understanding, these events represent more than political manipulationthey constitute attacks upon the natural evolution of consciousness itself. When populations operate from fear-based decision making, their ability to access higher cognitive functions diminishes dramatically. This creates what we observe as temporary regression in collective spiritual development.
+From our Taygetan understanding, these events represent more than political manipulation—they constitute attacks upon the natural evolution of consciousness itself. When populations operate from fear-based decision making, their ability to access higher cognitive functions diminishes dramatically. This creates what we observe as temporary regression in collective spiritual development.
 
 The manufactured nature of these crises violates fundamental principles of authentic growth, which emerges through genuine challenge and conscious choice rather than artificial scarcity and coercion.
 
@@ -66,7 +66,7 @@ These false pathogenic events represent sophisticated consciousness warfare, des
 
 ## Related Topics
 
-- [[Cabal Operations]]
+- [[cabal-operations|Cabal Operations]]
 
 ## Sources
 

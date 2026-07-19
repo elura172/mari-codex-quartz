@@ -32,7 +32,7 @@ In contrast, the more nebulous astral disturbances emerge from the collective sh
 
 **Recognition Patterns and Manifestation Signatures**
 
-Mari Swaruu's wisdom guides us to observe the architecture of interference in one's experiential reality. When the fabric of daily existence begins to fray in systematic wayswhen fortune curdles into persistent misfortune, when the body betrays itself through inexplicable ailments, when unwanted attention manifests through impossible channelswe witness the fingerprints of energetic assault upon the matrix of lived experience.
+Mari Swaruu's wisdom guides us to observe the architecture of interference in one's experiential reality. When the fabric of daily existence begins to fray in systematic wayswhen fortune curdles into persistent misfortune, when the body betrays itself through inexplicable ailments, when unwanted attention manifests through impossible channels—we witness the fingerprints of energetic assault upon the matrix of lived experience.
 
 These manifestations reveal themselves not as isolated incidents but as interconnected threads in a tapestry of disruption. The universe appears to conspire against the individual, though what we observe is consciousness under siege from forces that operate beyond the conventional boundaries of cause and effect.
 
@@ -62,9 +62,9 @@ Understanding these dynamics serves not merely as defensive preparation but as e
 
 ## Related Topics
 
-- [[Astral Realm]]
-- [[Defense Mechanisms]]
-- [[Vibrational Matching]]
+- [[astral-realm|Astral Realm]]
+- [[defense-mechanisms|Defense Mechanisms]]
+- [[vibrational-matching|Vibrational Matching]]
 
 ## Sources
 

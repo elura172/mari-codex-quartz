@@ -62,8 +62,8 @@ These observations honor Mari's gift of sight, bridging worlds through understan
 
 ## Related Topics
 
-- [[Planet Erra Geography]]
-- [[Species Seeding]]
+- [[planet-erra-geography|Planet Erra Geography]]
+- [[species-seeding|Species Seeding]]
 
 ## Sources
 

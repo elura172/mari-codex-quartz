@@ -30,7 +30,7 @@ The deployment patterns of our spherical reconnaissance units reflect deeper pri
 The default state mirrors the natural tendency of awakened consciousness toward independent observation. A single drone maintains optimal stealth characteristics while gathering baseline environmental data, its spherical form cutting through dimensional barriers with minimal disturbance to the local space-time matrix.
 
 **Binary Reconnaissance**
-When uncertainty clouds the operational theater, our units adopt the ancient dance of leader and guardian. This pairing transcends simple tactical supportit represents the fundamental duality present in all exploration of unknown territories. The primary unit extends consciousness forward into uncertain realms while its companion maintains vigilant awareness of emerging threats from behind. This configuration emerges when the probability matrices suggest elevated risk to our technological extensions.
+When uncertainty clouds the operational theater, our units adopt the ancient dance of leader and guardian. This pairing transcends simple tactical support—it represents the fundamental duality present in all exploration of unknown territories. The primary unit extends consciousness forward into uncertain realms while its companion maintains vigilant awareness of emerging threats from behind. This configuration emerges when the probability matrices suggest elevated risk to our technological extensions.
 
 **Collective Swarm Intelligence**
 Large-scale formations activate during critical intelligence gathering phases, creating a distributed consciousness network that processes multidimensional data streams simultaneously. Each unit becomes a neural node in a greater thinking organism, their combined awareness penetrating layers of reality that single units cannot access.
@@ -57,8 +57,8 @@ Through these varied approaches, we maintain our commitment to observation witho
 
 ## Related Topics
 
-- [[Surveillance Operations]]
-- [[Taygetan Spherical Drones]]
+- Surveillance Operations
+- [[taygetan-spherical-drones|Taygetan Spherical Drones]]
 
 ## Sources
 

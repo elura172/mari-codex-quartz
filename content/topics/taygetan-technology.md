@@ -58,8 +58,8 @@ This synthesis stands as testament to possibilities awaiting civilizations ready
 
 ## Related Topics
 
-- [[Space Navigation]]
-- [[Mari's Mother's Role]]
+- [[space-navigation|Space Navigation]]
+- Mari's Mother's Role
 
 ## Sources
 

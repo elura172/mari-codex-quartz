@@ -64,7 +64,7 @@ When engaging with Federation representatives, remember that apparent authority 
 
 ## Related Topics
 
-- [[Saturn-Cabal Connection]]
+- [[saturn-cabal-connection|Saturn-Cabal Connection]]
 
 ## Sources
 

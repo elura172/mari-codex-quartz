@@ -63,9 +63,9 @@ The universe appears structured to promote growth through challenge rather than 
 
 ## Related Topics
 
-- [[Near-Death Experiences]]
-- [[Soul Development]]
-- [[Consciousness Expansion]]
+- [[near-death-experiences|Near-Death Experiences]]
+- [[soul-development|Soul Development]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

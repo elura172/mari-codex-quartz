@@ -64,8 +64,8 @@ True liberation emerges not through restriction but through developing genuine f
 
 ## Related Topics
 
-- [[Protection from Demons]]
-- [[Demonic Nature and Source Separation]]
+- [[protection-from-demons|Protection from Demons]]
+- [[demonic-nature-and-source-separation|Demonic Nature and Source Separation]]
 
 ## Sources
 

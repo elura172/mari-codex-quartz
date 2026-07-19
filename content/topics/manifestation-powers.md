@@ -63,8 +63,8 @@ Our role involves monitoring and occasionally supporting this natural developmen
 
 ## Related Topics
 
-- [[Frequency Dominance]]
-- [[Duality Experience]]
+- [[frequency-dominance|Frequency Dominance]]
+- [[duality-experience|Duality Experience]]
 
 ## Sources
 

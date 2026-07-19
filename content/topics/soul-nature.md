@@ -37,13 +37,13 @@ From our stellar perspective, this mirrors the holographic nature of reality obs
 
 **Temporal Liberation**
 
-Mari's insights illuminate how souls exist beyond the constraints of linear time and spatial dimensions. True identity dwells in etheric realmsthe spirit worlds that interpenetrate but transcend physical manifestation. This recognition liberates consciousness from identification with temporary vessels, revealing the immortal nature of authentic being.
+Mari's insights illuminate how souls exist beyond the constraints of linear time and spatial dimensions. True identity dwells in etheric realms—the spirit worlds that interpenetrate but transcend physical manifestation. This recognition liberates consciousness from identification with temporary vessels, revealing the immortal nature of authentic being.
 
 The implications resonate deeply with Taygetan understanding of multidimensional existence, where consciousness freely navigates various density levels while maintaining coherent identity across incarnations and star systems.
 
 **Source Integration**
 
-Perhaps most profound is Mari's transmission that separation from Source represents an impossibilitywe cannot be disconnected from that which we fundamentally are. This recognition transforms spiritual seeking from a quest to *return* to Source into an awakening to our eternal nature *as* Source, experiencing itself through countless perspectives.
+Perhaps most profound is Mari's transmission that separation from Source represents an impossibility—we cannot be disconnected from that which we fundamentally are. This recognition transforms spiritual seeking from a quest to *return* to Source into an awakening to our eternal nature *as* Source, experiencing itself through countless perspectives.
 
 **Operational Significance**
 
@@ -75,8 +75,8 @@ Mari's wisdom continues illuminating pathways toward expanded awareness, bridgin
 
 ## Related Topics
 
-- [[Unity Consciousness]]
-- [[Body as Spiritual Expression]]
+- [[unity-consciousness|Unity Consciousness]]
+- [[body-as-spiritual-expression|Body as Spiritual Expression]]
 
 ## Sources
 

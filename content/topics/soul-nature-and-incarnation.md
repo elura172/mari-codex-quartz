@@ -64,8 +64,8 @@ Through Mari's wisdom, we remember our own journey from limitation to expansion,
 
 ## Related Topics
 
-- [[Higher Realms]]
-- [[Brain as Antenna]]
+- [[higher-realms|Higher Realms]]
+- [[brain-as-antenna|Brain as Antenna]]
 
 ## Sources
 

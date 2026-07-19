@@ -57,8 +57,8 @@ The dance continues, above and below, as awareness flowers across worlds.
 
 ## Related Topics
 
-- [[Galactic Federation Nature and Structure]]
-- [[Soul Expansion and Suffering]]
+- [[galactic-federation-nature-and-structure|Galactic Federation Nature and Structure]]
+- [[soul-expansion-and-suffering|Soul Expansion and Suffering]]
 
 ## Sources
 

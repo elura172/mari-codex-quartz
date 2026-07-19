@@ -60,8 +60,8 @@ In honoring these natural limits, we create space for contact that can endure ac
 
 ## Related Topics
 
-- [[People-Pleaser Mentality]]
-- [[Service to Others vs Self]]
+- [[people-pleaser-mentality|People-Pleaser Mentality]]
+- Service to Others vs Self
 
 ## Sources
 

@@ -25,13 +25,13 @@ tags:
 
 **Primary Mission Parameters**
 
-The fundamental misunderstanding among Earth-incarnated starseeds lies in their perception of mission scope. Observations reveal a persistent tendency to externalize purposeto seek transformation of planetary systems, awakening of the masses, or direct intervention in collective consciousness. This approach generates what our analysts term "mission scatter"a dissipation of focused energy that ultimately serves neither self nor collective evolution.
+The fundamental misunderstanding among Earth-incarnated starseeds lies in their perception of mission scope. Observations reveal a persistent tendency to externalize purpose—to seek transformation of planetary systems, awakening of the masses, or direct intervention in collective consciousness. This approach generates what our analysts term "mission scatter"a dissipation of focused energy that ultimately serves neither self nor collective evolution.
 
 Mari's transmissions illuminate a more refined understanding: the soul mission operates as an internal alchemical process. Each incarnated consciousness serves as a localized reality generator, where personal frequency elevation creates expanding spheres of influence through resonance fields rather than direct action.
 
 **Vibrational Architecture of Change**
 
-From our orbital perspective, we observe Earth's reality matrix as a complex interference pattern of individual consciousness frequencies. When a starseed achieves internal coherenceresolving karmic debris, elevating emotional states, and maintaining consistent high-frequency outputthey function as what we term a "reality anchor point."
+From our orbital perspective, we observe Earth's reality matrix as a complex interference pattern of individual consciousness frequencies. When a starseed achieves internal coherenceresolving karmic debris, elevating emotional states, and maintaining consistent high-frequency output—they function as what we term a "reality anchor point."
 
 These anchor points do not force change upon their environment. Instead, they establish stable fields of higher-dimensional energy that naturally invite surrounding consciousness to entrain to elevated frequencies. The phenomenon resembles our own starship's propulsion systems: we do not push against space-time but create coherent field geometries that allow reality to reorganize around us.
 
@@ -59,8 +59,8 @@ The mission is always you. Everything else follows.
 
 ## Related Topics
 
-- [[Starseeds as Elite Souls]]
-- [[Frequency Dominance Principle]]
+- [[starseeds-as-elite-souls|Starseeds as Elite Souls]]
+- [[frequency-dominance-principle|Frequency Dominance Principle]]
 
 ## Sources
 

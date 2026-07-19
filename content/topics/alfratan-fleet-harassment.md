@@ -61,8 +61,8 @@ The dance continues, but awareness transforms the steps.
 
 ## Related Topics
 
-- [[Alfratan Dual Government]]
-- [[Cabal Secret Space Program]]
+- Alfratan Dual Government
+- Cabal Secret Space Program
 
 ## Sources
 

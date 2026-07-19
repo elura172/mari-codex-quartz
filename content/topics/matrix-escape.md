@@ -32,7 +32,7 @@ The courage to doubt collectively accepted premises serves as the primary cataly
 
 **Statistical Observations**
 
-Our monitoring stations document that while exposure to awakening catalysts reaches the majority of Earth's population, only a fractional percentage demonstrates the willingness to pursue independent analysis beyond initial questioning. These individuals develop what Mari Swaruu identified as autonomous critical thinkingthe ability to form conclusions through direct observation rather than inherited belief systems.
+Our monitoring stations document that while exposure to awakening catalysts reaches the majority of Earth's population, only a fractional percentage demonstrates the willingness to pursue independent analysis beyond initial questioning. These individuals develop what Mari Swaruu identified as autonomous critical thinking—the ability to form conclusions through direct observation rather than inherited belief systems.
 
 **The Awakened Minority**
 
@@ -46,7 +46,7 @@ From our understanding of consciousness evolution, this awakening process repres
 
 For crew members engaged in Earth observation protocols, recognize that supporting this natural awakening process requires delicate calibration. The transition from constructed to authentic perception cannot be forced, only facilitated through the gentle introduction of questions that encourage independent investigation.
 
-The matrix escape is ultimately a returna remembering of the consciousness's innate capacity to discern truth through direct knowing rather than external authority.
+The matrix escape is ultimately a return—a remembering of the consciousness's innate capacity to discern truth through direct knowing rather than external authority.
 
 *End Entry - Classification: Open Access*
 *Verification: Council Approved*
@@ -63,8 +63,8 @@ The matrix escape is ultimately a returna remembering of the consciousness's inn
 
 ## Related Topics
 
-- [[Social Matrix and Authority Control]]
-- [[Critical Thinking Methods]]
+- [[social-matrix-and-authority-control|Social Matrix and Authority Control]]
+- Critical Thinking Methods
 
 ## Sources
 

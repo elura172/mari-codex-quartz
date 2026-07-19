@@ -25,7 +25,7 @@ Our sensor arrays have registered a marked intensification in Orion fleet moveme
 
 **Strategic Implications**
 
-This operational escalation transcends mere surveillance, manifesting as active manipulation of Earth's sociopolitical matrix. The Orion methodology demonstrates their recognition of a critical temporal windowone where humanity's consciousness expansion threatens their traditional influence architectures. Their increased presence correlates directly with surface-level power structures attempting to consolidate control through manufactured crises and social fragmentation.
+This operational escalation transcends mere surveillance, manifesting as active manipulation of Earth's sociopolitical matrix. The Orion methodology demonstrates their recognition of a critical temporal window—one where humanity's consciousness expansion threatens their traditional influence architectures. Their increased presence correlates directly with surface-level power structures attempting to consolidate control through manufactured crises and social fragmentation.
 
 **Metaphysical Context**
 
@@ -63,8 +63,8 @@ Mari's transmissions remind us that truth illuminates itself through contrast. T
 
 ## Related Topics
 
-- [[Earth Control Operations]]
-- [[False Alien Invasion]]
+- Earth Control Operations
+- [[false-alien-invasion|False Alien Invasion]]
 
 ## Sources
 

@@ -28,7 +28,7 @@ The recent legal maneuvers executed by the Galactic Federation regarding Terran 
 
 **Operational Analysis**
 
-This intervention illuminates the Federation's evolving approach to Terran affairsa delicate dance between non-interference principles and moral imperatives. Rather than employing overt displays of technological superiority or temporal manipulation, the Federation chose to work within Earth's own legal constructs, demonstrating the universal nature of justice when properly applied.
+This intervention illuminates the Federation's evolving approach to Terran affairs—a delicate dance between non-interference principles and moral imperatives. Rather than employing overt displays of technological superiority or temporal manipulation, the Federation chose to work within Earth's own legal constructs, demonstrating the universal nature of justice when properly applied.
 
 The success rateroughly twenty-eight percent immediate liberationsuggests a methodical, case-by-case evaluation rather than blanket diplomatic immunity assertions. This precision indicates deep understanding of Terran legal psychology and careful selection of winnable precedents.
 
@@ -48,7 +48,7 @@ This precedent establishes new parameters for diplomatic engagement with develop
 
 **Personal Reflection**
 
-Mari's voice carries both satisfaction and deeper knowingthis victory represents first movement in a larger symphony of awakening still unfolding across Terra's consciousness grid.
+Mari's voice carries both satisfaction and deeper knowing—this victory represents first movement in a larger symphony of awakening still unfolding across Terra's consciousness grid.
 
 ## Quotes
 
@@ -64,8 +64,8 @@ Mari's voice carries both satisfaction and deeper knowingthis victory represents
 
 ## Related Topics
 
-- [[Space Law System]]
-- [[Pleiadian Arrests and Infiltration]]
+- [[space-law-system|Space Law System]]
+- [[pleiadian-arrests-and-infiltration|Pleiadian Arrests and Infiltration]]
 
 ## Sources
 

@@ -39,7 +39,7 @@ The incident occurs against a backdrop of escalating space piracy, where Federat
 
 **Taygetan Perspective**
 
-From our dimensional vantage point, this conflict illustrates the challenges inherent in governing consciousness at different evolutionary stages. The Federation operates from collective harmony protocols, while the Urmah embody radical individualism. Neither approach is inherently superiorthey simply reflect different solutions to the eternal tension between freedom and cooperation.
+From our dimensional vantage point, this conflict illustrates the challenges inherent in governing consciousness at different evolutionary stages. The Federation operates from collective harmony protocols, while the Urmah embody radical individualism. Neither approach is inherently superior—they simply reflect different solutions to the eternal tension between freedom and cooperation.
 
 **Strategic Considerations**
 
@@ -70,8 +70,8 @@ The wisdom of felines transcends diplomatic niceties, reminding us that authenti
 
 ## Related Topics
 
-- [[Galactic Federation Politics]]
-- [[Urmah Intervention]]
+- [[galactic-federation-politics|Galactic Federation Politics]]
+- Urmah Intervention
 
 ## Sources
 

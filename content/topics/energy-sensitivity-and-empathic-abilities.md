@@ -27,7 +27,7 @@ Earth's energetic density creates a challenging operational environment for inca
 
 **Absorption Mechanics**
 
-Individuals with expanded consciousness naturally function as energetic receivers, their refined neural-etheric systems acting as sensitive instruments within Earth's dense field. This heightened receptivity manifests as involuntary absorption of surrounding energetic signaturesfrom individual emotional states to collective environmental imprints. The phenomenon resembles a crystalline formation attempting to maintain its pure frequency while submerged in turbulent waters.
+Individuals with expanded consciousness naturally function as energetic receivers, their refined neural-etheric systems acting as sensitive instruments within Earth's dense field. This heightened receptivity manifests as involuntary absorption of surrounding energetic signatures—from individual emotional states to collective environmental imprints. The phenomenon resembles a crystalline formation attempting to maintain its pure frequency while submerged in turbulent waters.
 
 **The Overwhelm Pattern**
 
@@ -59,8 +59,8 @@ Through Mari's perspective, we recognize these beings as Source itself, courageo
 
 ## Related Topics
 
-- [[Starseed Identity and Inner Knowing]]
-- [[Spiritual Mission on Earth]]
+- [[starseed-identity-and-inner-knowing|Starseed Identity and Inner Knowing]]
+- [[spiritual-mission-on-earth|Spiritual Mission on Earth]]
 
 ## Sources
 

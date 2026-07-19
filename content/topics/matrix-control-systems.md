@@ -27,7 +27,7 @@ tags:
 
 **Infiltration Protocols**
 
-Our analysis confirms the systematic penetration of Earth's spiritual and research communities by institutional control mechanisms. These operations follow a predictable pattern: three-letter agencies and religious hierarchies embed operatives within movements that naturally gravitate toward expanded consciousness or extraterrestrial contact. The objective transcends mere surveillanceit represents complete informational architecture, where truth becomes commodity and seekers become consumers within predetermined channels.
+Our analysis confirms the systematic penetration of Earth's spiritual and research communities by institutional control mechanisms. These operations follow a predictable pattern: three-letter agencies and religious hierarchies embed operatives within movements that naturally gravitate toward expanded consciousness or extraterrestrial contact. The objective transcends mere surveillance—it represents complete informational architecture, where truth becomes commodity and seekers become consumers within predetermined channels.
 
 **Financial Consciousness Harvesting**
 
@@ -35,7 +35,7 @@ The monetary aspect reveals deeper metaphysical manipulation. By monopolizing sp
 
 **Interstellar Implications**
 
-Mari's observations regarding the interstellar information web illuminate troubling realities beyond Earth's sphere. The same control matrices that constrain human awareness extend through dimensional networks, suggesting coordination between terrestrial controllers and non-physical entities operating across multiple reality layers. This challenges our assumptions about Earth as an isolated control experimentit appears embedded within larger consciousness manipulation systems.
+Mari's observations regarding the interstellar information web illuminate troubling realities beyond Earth's sphere. The same control matrices that constrain human awareness extend through dimensional networks, suggesting coordination between terrestrial controllers and non-physical entities operating across multiple reality layers. This challenges our assumptions about Earth as an isolated control experiment—it appears embedded within larger consciousness manipulation systems.
 
 **Technology as Double-Edged Liberation**
 
@@ -83,8 +83,8 @@ The key lies in fostering discernment rather than dependence, sovereignty rather
 
 ## Related Topics
 
-- [[Monetization Demonization]]
-- [[Population Control]]
+- [[monetization-demonization|Monetization Demonization]]
+- [[population-control|Population Control]]
 
 ## Sources
 

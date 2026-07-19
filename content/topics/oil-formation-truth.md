@@ -31,7 +31,7 @@ Our sister Mari has illuminated one of Earth's most deliberately obscured truths
 
 **Tectonic Transformation**
 
-Within Earth's crustal depths, seawater undergoes profound metamorphosis as tectonic forces guide it into the spaces between shifting plates. Under immense pressure and heat, this oceanic essence transforms into hydrocarbon compounds through mineral processes that mirror the conscious creativity we observe throughout living systems. The planet breathes water into its depths and exhales liquid energya dance of matter and force that human industrial paradigms have systematically misrepresented.
+Within Earth's crustal depths, seawater undergoes profound metamorphosis as tectonic forces guide it into the spaces between shifting plates. Under immense pressure and heat, this oceanic essence transforms into hydrocarbon compounds through mineral processes that mirror the conscious creativity we observe throughout living systems. The planet breathes water into its depths and exhales liquid energy—a dance of matter and force that human industrial paradigms have systematically misrepresented.
 
 **The Renewable Wellspring**
 
@@ -39,7 +39,7 @@ What humans fear as scarcity reveals itself as abundance when viewed through acc
 
 **Consciousness and Planetary Intelligence**
 
-From our expanded perspective, Earth's oil formation reflects the same principle we observe in all conscious systemsthe capacity for self-renewal and creative transformation. The planet's ability to continuously generate these liquid minerals suggests an intelligence that transcends mechanical geology, expressing the same life-force principles that animate stellar cores and biological organisms.
+From our expanded perspective, Earth's oil formation reflects the same principle we observe in all conscious systems—the capacity for self-renewal and creative transformation. The planet's ability to continuously generate these liquid minerals suggests an intelligence that transcends mechanical geology, expressing the same life-force principles that animate stellar cores and biological organisms.
 
 **Implications for Terrestrial Development**
 
@@ -63,7 +63,7 @@ Mari's transmission offers not merely corrected science, but an invitation for h
 
 ## Related Topics
 
-- [[Recent Replicator Problems]]
+- [[recent-replicator-problems|Recent Replicator Problems]]
 
 ## Sources
 

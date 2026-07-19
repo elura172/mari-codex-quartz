@@ -56,8 +56,8 @@ The phenomenon reinforces our understanding that genuine contact will require pa
 
 ## Related Topics
 
-- [[Project Blue Beam]]
-- [[Hologram Barrier]]
+- Project Blue Beam
+- [[hologram-barrier|Hologram Barrier]]
 
 ## Sources
 

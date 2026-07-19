@@ -34,7 +34,7 @@ Their cranial features exhibit remarkable elongation and definition, suggesting 
 
 **Morphological Patterns**
 
-Most striking are their auricular appendages, which taper to distinctive points reminiscent of the mythological elven beings preserved in Earth's collective memory. This characteristic represents more than mere genetic variationit indicates specialized evolutionary adaptation for receiving and transmitting subtle energy patterns across dimensional boundaries.
+Most striking are their auricular appendages, which taper to distinctive points reminiscent of the mythological elven beings preserved in Earth's collective memory. This characteristic represents more than mere genetic variation—it indicates specialized evolutionary adaptation for receiving and transmitting subtle energy patterns across dimensional boundaries.
 
 Their hair manifests as flowing cascades of white or pale gold, worn at considerable length by both masculine and feminine expressions. This preference for extended hair length serves practical metaphysical purposes, as hair filaments function as natural antennae for cosmic energy reception and distribution throughout their neural networks.
 
@@ -48,7 +48,7 @@ Their physical stature commands presence and respect throughout galactic diploma
 
 Understanding these physical characteristics proves essential for successful diplomatic engagement. Their imposing presence, combined with ethereal beauty and piercing awareness, can initially overwhelm species unaccustomed to such refined manifestation of consciousness in physical form.
 
-Their appearance serves as living testimony to conscious evolution's potentiala reminder that form follows function in the universe's grand design, where those who pursue higher wisdom inevitably transform into vessels worthy of the light they carry.
+Their appearance serves as living testimony to conscious evolution's potential—a reminder that form follows function in the universe's grand design, where those who pursue higher wisdom inevitably transform into vessels worthy of the light they carry.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ Their appearance serves as living testimony to conscious evolution's potentiala 
 
 ## Related Topics
 
-- [[Pleiadian Races]]
-- [[Galactic Federation]]
+- Pleiadian Races
+- Galactic Federation
 
 ## Sources
 

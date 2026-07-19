@@ -23,7 +23,7 @@ tags:
 
 **Nature of Non-Physical Conflict**
 
-Within the astral dimensions that interpenetrate physical reality, a specialized form of warfare unfolds beyond the perception of most terrestrial consciousness. This realm hosts ongoing confrontations between forces of expansion and contractionthose who serve the evolution of awareness and entities that seek to diminish or harvest it.
+Within the astral dimensions that interpenetrate physical reality, a specialized form of warfare unfolds beyond the perception of most terrestrial consciousness. This realm hosts ongoing confrontations between forces of expansion and contraction—those who serve the evolution of awareness and entities that seek to diminish or harvest it.
 
 The astral planes function as battlegrounds where intention manifests as immediate reality. Here, consciousness itself becomes both weapon and armor, where the clarity of one's inner state determines tactical advantage. Unlike physical combat constrained by matter and time, astral engagement operates through pure emanation of will and spiritual coherence.
 
@@ -65,8 +65,8 @@ Mari's transmissions illuminate how this ancient calling adapts to contemporary 
 
 ## Related Topics
 
-- [[Dreams and Astral Realms]]
-- [[Astral Entities]]
+- [[dreams-and-astral-realms|Dreams and Astral Realms]]
+- [[astral-entities|Astral Entities]]
 
 ## Sources
 

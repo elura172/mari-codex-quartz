@@ -60,7 +60,7 @@ We continue our watch, swift and silent, guardians moving at the speed of cosmic
 
 ## Related Topics
 
-- [[Starship Invisibility in Earth Orbit]]
+- [[starship-invisibility-in-earth-orbit|Starship Invisibility in Earth Orbit]]
 
 ## Sources
 

@@ -58,8 +58,8 @@ Her recovery and continued service demonstrate the adaptive capacity of Taygetan
 
 ## Related Topics
 
-- [[Crew Health Crisis]]
-- [[Astral Attacks]]
+- Crew Health Crisis
+- [[astral-attacks|Astral Attacks]]
 
 ## Sources
 

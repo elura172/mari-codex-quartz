@@ -61,7 +61,7 @@ Mari's voice continues to guide us toward understanding these shadows not as ult
 
 ## Related Topics
 
-- [[False Flag Operations]]
+- [[false-flag-operations|False Flag Operations]]
 
 ## Sources
 

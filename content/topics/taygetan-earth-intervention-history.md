@@ -67,8 +67,8 @@ The legacy of these operations demonstrates that true assistance preserves the a
 
 ## Related Topics
 
-- [[Starship Toleka Restoration]]
-- [[Human Contact History]]
+- [[starship-toleka-restoration|Starship Toleka Restoration]]
+- Human Contact History
 
 ## Sources
 

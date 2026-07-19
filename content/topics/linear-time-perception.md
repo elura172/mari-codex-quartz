@@ -25,7 +25,7 @@ From our orbital perspective above the blue-green sphere of Earth, we witness a 
 
 **The Arrow's Trajectory**
 
-Mari Swaruu illuminated this fundamental limitation with characteristic clarity, revealing how Earth-based consciousness experiences time as a one-directional current. Like travelers on a river who can only face downstream, humans perceive themselves carried helplessly forward, unable to return to waters already passed or to fully perceive the bends ahead. This creates a profound sense of temporal imprisonmenteach moment dying as the next is born, creating both urgency and melancholy that permeates their cultural expressions.
+Mari Swaruu illuminated this fundamental limitation with characteristic clarity, revealing how Earth-based consciousness experiences time as a one-directional current. Like travelers on a river who can only face downstream, humans perceive themselves carried helplessly forward, unable to return to waters already passed or to fully perceive the bends ahead. This creates a profound sense of temporal imprisonment—each moment dying as the next is born, creating both urgency and melancholy that permeates their cultural expressions.
 
 **Implications for Consciousness Development**
 
@@ -55,8 +55,8 @@ The arrow of time, though seemingly restrictive, flies toward the target of expa
 
 ## Related Topics
 
-- [[Consciousness and Time]]
-- [[Timelines]]
+- Consciousness and Time
+- [[timelines|Timelines]]
 
 ## Sources
 

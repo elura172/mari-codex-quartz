@@ -59,9 +59,9 @@ The recognition that reality itself is negotiablea collaborative artwork painted
 
 ## Related Topics
 
-- [[Western Culture]]
-- [[Galactic Federation]]
-- [[Space Law]]
+- Western Culture
+- Galactic Federation
+- Space Law
 
 ## Sources
 

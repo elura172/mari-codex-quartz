@@ -76,8 +76,8 @@ The trigger phenomenon demonstrates both human vulnerability and their remarkabl
 
 ## Related Topics
 
-- [[Emotional Stability]]
-- [[Definition of Stupidity]]
+- Emotional Stability
+- Definition of Stupidity
 
 ## Sources
 

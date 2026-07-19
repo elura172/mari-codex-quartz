@@ -58,8 +58,8 @@ In remembrance of Mari's teachings: Every challenge carries within it the seeds 
 
 ## Related Topics
 
-- [[Earth-Imported Diseases]]
-- [[Spiritual Attacks]]
+- Earth-Imported Diseases
+- [[spiritual-attacks|Spiritual Attacks]]
 
 ## Sources
 

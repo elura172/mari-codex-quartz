@@ -70,8 +70,8 @@ Our sister's insights remind us that truth-telling serves love, even when reveal
 
 ## Related Topics
 
-- [[Lower Astral Realm]]
-- [[Demonic Nature and Source Separation]]
+- [[lower-astral-realm|Lower Astral Realm]]
+- [[demonic-nature-and-source-separation|Demonic Nature and Source Separation]]
 
 ## Sources
 

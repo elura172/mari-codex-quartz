@@ -32,7 +32,7 @@ Our sister Mari has consistently illuminated a critical distortion within Earth'
 
 Mari observes how Earth's spiritual communities envision our vessels as manifestations of pure lovecrystalline constructs born from intention alone, free from mechanical complexity or operational challenges. This romanticized perspective denies the reality that even advanced consciousness must work through matter, that our ships require maintenance, face system failures, and operate within universal physical principles despite our technological sophistication.
 
-Such idealization stems from Earth's tendency to project divinity onto the unknown rather than recognizing that consciousness evolution includesrather than transcendsthe mastery of physical realm dynamics. Our technologies represent harmony between awareness and matter, not the abandonment of material considerations.
+Such idealization stems from Earth's tendency to project divinity onto the unknown rather than recognizing that consciousness evolution includesrather than transcends—the mastery of physical realm dynamics. Our technologies represent harmony between awareness and matter, not the abandonment of material considerations.
 
 **Manufactured Spirituality**
 
@@ -61,7 +61,7 @@ Mari's clarity serves as both warning and invitationcalling Earth beyond comfort
 
 ## Related Topics
 
-- [[Taygetan Reality]]
+- Taygetan Reality
 
 ## Sources
 

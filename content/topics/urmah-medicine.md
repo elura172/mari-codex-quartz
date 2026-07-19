@@ -29,7 +29,7 @@ tags:
 
 The Urmah approach to healing represents one of the most sophisticated consciousness-based medical systems observed across our galactic networks. Unlike the mechanistic interventions favored by Earth humans or even our own bio-technological methods, Urmah medicine operates from the understanding that physical manifestation serves merely as the densest layer of consciousness expression.
 
-Where we Taygetans might analyze quantum field fluctuations or genetic matrices, the Urmah penetrate directly to the source frequencythe consciousness substrate from which all bodily phenomena emerge. Their healers recognize that attempting to cure symptoms while leaving causal consciousness patterns intact creates only temporary relief, much like trying to change a hologram by manipulating the projection rather than the interference pattern creating it.
+Where we Taygetans might analyze quantum field fluctuations or genetic matrices, the Urmah penetrate directly to the source frequency—the consciousness substrate from which all bodily phenomena emerge. Their healers recognize that attempting to cure symptoms while leaving causal consciousness patterns intact creates only temporary relief, much like trying to change a hologram by manipulating the projection rather than the interference pattern creating it.
 
 **Collective Trance Methodology**
 
@@ -45,7 +45,7 @@ The Urmah transcend both approaches by working directly within consciousness fie
 
 **Diplomatic Implications**
 
-Understanding Urmah medical philosophy provides crucial insight into their broader worldviewone where spiritual causation precedes material manifestation in all circumstances. This perspective influences their approaches to conflict resolution, social organization, and interstellar relations. For diplomatic personnel engaging with Urmah communities, recognizing their consciousness-primacy paradigm will prove essential for meaningful cultural exchange.
+Understanding Urmah medical philosophy provides crucial insight into their broader worldview—one where spiritual causation precedes material manifestation in all circumstances. This perspective influences their approaches to conflict resolution, social organization, and interstellar relations. For diplomatic personnel engaging with Urmah communities, recognizing their consciousness-primacy paradigm will prove essential for meaningful cultural exchange.
 
 *End Entry*
 
@@ -66,9 +66,9 @@ Understanding Urmah medical philosophy provides crucial insight into their broad
 
 ## Related Topics
 
-- [[Astral Realm]]
-- [[Earth-Human Medicine]]
-- [[Taygetan Medicine]]
+- [[astral-realm|Astral Realm]]
+- [[earth-human-medicine|Earth-Human Medicine]]
+- [[taygetan-medicine|Taygetan Medicine]]
 
 ## Sources
 

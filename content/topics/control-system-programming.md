@@ -66,8 +66,8 @@ Mari's transmissions illuminate not merely a control system, but a profound spir
 
 ## Related Topics
 
-- [[Divine Justice and Karma Deception]]
-- [[Religious Programming]]
+- [[divine-justice-and-karma-deception|Divine Justice and Karma Deception]]
+- [[religious-programming|Religious Programming]]
 
 ## Sources
 

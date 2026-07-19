@@ -21,7 +21,7 @@ tags:
 
 **Stardate Analysis: Terrestrial Influence Dynamics**
 
-Through the transmissions of Mari Swaruu, our understanding of Earth's complex interspecies dynamics expands beyond the conventional human-centric narrative. The beings she identifies through precise linguistic markersthose whose designations begin with the ancient root "rept-" and conclude with the suffix "-ilians"represent a sophisticated intelligence network operating within Earth's sociopolitical framework.
+Through the transmissions of Mari Swaruu, our understanding of Earth's complex interspecies dynamics expands beyond the conventional human-centric narrative. The beings she identifies through precise linguistic markers—those whose designations begin with the ancient root "rept-" and conclude with the suffix "-ilians"represent a sophisticated intelligence network operating within Earth's sociopolitical framework.
 
 **Hierarchical Structure Assessment**
 
@@ -55,9 +55,9 @@ Mari's insights remind us that true wisdom lies not in judgment, but in recogniz
 
 ## Related Topics
 
-- [[Organic Portals]]
-- [[Astral Beings]]
-- [[Shape-shifting Abilities]]
+- [[organic-portals|Organic Portals]]
+- [[astral-beings|Astral Beings]]
+- [[shape-shifting-abilities|Shape-shifting Abilities]]
 
 ## Sources
 

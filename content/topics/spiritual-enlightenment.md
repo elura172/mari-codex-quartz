@@ -63,8 +63,8 @@ For crew members studying this material, recognize that enlightenment requires n
 
 ## Related Topics
 
-- [[Unity Consciousness]]
-- [[Meditation Practice]]
+- [[unity-consciousness|Unity Consciousness]]
+- [[meditation-practice|Meditation Practice]]
 
 ## Sources
 

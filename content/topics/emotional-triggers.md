@@ -57,8 +57,8 @@ Mari Swaruu's wisdom illuminates how these mechanisms, while appearing as obstac
 
 ## Related Topics
 
-- [[Narcissistic Family Dynamics]]
-- [[Alter Egos for Personal Development]]
+- [[narcissistic-family-dynamics|Narcissistic Family Dynamics]]
+- [[alter-egos-for-personal-development|Alter Egos for Personal Development]]
 
 ## Sources
 

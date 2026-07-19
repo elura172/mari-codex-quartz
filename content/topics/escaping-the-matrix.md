@@ -65,9 +65,9 @@ The process requires patience, discernment, and unwavering commitment to inner t
 
 ## Related Topics
 
-- [[Critical Thinking]]
-- [[Soul Development]]
-- [[Dual Reality Living]]
+- [[critical-thinking|Critical Thinking]]
+- [[soul-development|Soul Development]]
+- [[dual-reality-living|Dual Reality Living]]
 
 ## Sources
 

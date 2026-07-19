@@ -55,8 +55,8 @@ Mari Swaruu's insights remind us that true protection emerges from love, not fea
 
 ## Related Topics
 
-- [[Orion Threat]]
-- [[Galactic Defense]]
+- Orion Threat
+- Galactic Defense
 
 ## Sources
 

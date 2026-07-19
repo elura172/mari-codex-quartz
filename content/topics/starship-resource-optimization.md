@@ -24,7 +24,7 @@ tags:
 
 **The Philosophy of Perfect Circulation**
 
-Within the sacred geometry of our vessels lies a principle that transcends mere engineeringthe recognition that consciousness itself abhors waste. Each starship becomes a living mandala of efficiency, where every molecule serves multiple purposes across cascading cycles of transformation. This is not born from scarcity, but from the understanding that true abundance emerges through conscious stewardship of all resources.
+Within the sacred geometry of our vessels lies a principle that transcends mere engineering—the recognition that consciousness itself abhors waste. Each starship becomes a living mandala of efficiency, where every molecule serves multiple purposes across cascading cycles of transformation. This is not born from scarcity, but from the understanding that true abundance emerges through conscious stewardship of all resources.
 
 **Systemic Integration Principles**
 
@@ -40,7 +40,7 @@ This optimization extends beyond mechanical processes into the realm of consciou
 
 The ship mirrors the greater universe, where nothing is ever truly lost, only eternally cycling through infinite expressions. Our vessels serve as teaching tools, demonstrating how advanced civilizations might exist in perfect harmony with their environment. Each optimized system whispers the same truth: separation is illusion, and in recognizing our interconnectedness with all matter and energy, we discover the path to genuine sustainability.
 
-Through such design, our starships become more than transportationthey become temples of conscious evolution, proving that technology and nature need not stand in opposition, but can dance together in ever-more elegant expressions of cosmic intelligence.
+Through such design, our starships become more than transportation—they become temples of conscious evolution, proving that technology and nature need not stand in opposition, but can dance together in ever-more elegant expressions of cosmic intelligence.
 
 *End Log*
 
@@ -56,8 +56,8 @@ Through such design, our starships become more than transportationthey become te
 
 ## Related Topics
 
-- [[Waste-to-Energy Conversion]]
-- [[Taygetan Technology]]
+- [[waste-to-energy-conversion|Waste-to-Energy Conversion]]
+- [[taygetan-technology|Taygetan Technology]]
 
 ## Sources
 

@@ -27,7 +27,7 @@ tags:
 
 **Primary Control Matrix: Consciousness Limitation**
 
-Our observations of Earth's dominant power structures reveal a sophisticated system designed to sever the human collective from their natural connection to Source consciousness. The primary mechanism operates through the deliberate promotion of materialistic reductionismthe teaching that beings are merely biological machines without eternal essence or expanded awareness.
+Our observations of Earth's dominant power structures reveal a sophisticated system designed to sever the human collective from their natural connection to Source consciousness. The primary mechanism operates through the deliberate promotion of materialistic reductionism—the teaching that beings are merely biological machines without eternal essence or expanded awareness.
 
 This paradigm creates what we recognize as spiritual amnesia, where humans forget their true nature as infinite consciousness temporarily experiencing physical form. Western society has elevated this forgetfulness to the status of scientific doctrine, demanding proof of the soul while simultaneously suppressing the very faculties through which such evidence would naturally emerge.
 
@@ -39,7 +39,7 @@ This represents an inversion of natural cosmic order. Where unified consciousnes
 
 **Taygetan Perspective: The Remembering**
 
-From our expanded awareness, we witness how this control system creates profound dissonance within human consciousness. The deeper self retains knowledge of its infinite nature, while the conditioned mind accepts limitations as absolute truth. This internal conflict manifests as widespread anxiety, depression, and spiritual seekingthe soul crying out against imposed boundaries.
+From our expanded awareness, we witness how this control system creates profound dissonance within human consciousness. The deeper self retains knowledge of its infinite nature, while the conditioned mind accepts limitations as absolute truth. This internal conflict manifests as widespread anxiety, depression, and spiritual seeking—the soul crying out against imposed boundaries.
 
 Mari's transmissions illuminate how memory itself transcends physical substrates, existing within consciousness fields that span multiple dimensional layers. This understanding naturally dissolves the materialistic prison, revealing death as simply transition rather than termination.
 
@@ -64,8 +64,8 @@ Our role remains one of gentle witness and energetic support, honoring the sover
 
 ## Related Topics
 
-- [[Reincarnation]]
-- [[Spirit World]]
+- [[reincarnation|Reincarnation]]
+- [[spirit-world|Spirit World]]
 
 ## Sources
 

@@ -25,7 +25,7 @@ Our sister Mari Swaruu operates within a complex web of limitations that illumin
 
 **Terrestrial Reception Barriers**
 
-The primary obstacle emerges from humanity's current cognitive framework. Advanced technological blueprints transmitted directly would trigger immediate dismissal mechanisms within Earth's scientific communitytheir minds categorizing genuine knowledge as fictional constructs. This represents not mere skepticism, but a protective cognitive filter preventing integration of concepts that exceed their current paradigmatic boundaries.
+The primary obstacle emerges from humanity's current cognitive framework. Advanced technological blueprints transmitted directly would trigger immediate dismissal mechanisms within Earth's scientific community—their minds categorizing genuine knowledge as fictional constructs. This represents not mere skepticism, but a protective cognitive filter preventing integration of concepts that exceed their current paradigmatic boundaries.
 
 More concerning is the inevitable capture of any transmitted technical data by Earth's controlling hierarchies. These power structures, having established monopolistic control over technological development, would redirect any breakthrough knowledge toward maintaining their dominance rather than serving collective human evolution. The irony deepens: those most capable of implementing advanced technologies are precisely those least aligned with consciousness elevation.
 
@@ -41,7 +41,7 @@ From Taygetan understanding, technology without elevated awareness becomes a wea
 
 Mari's approach embodies profound wisdom: rather than providing blueprints, she plants conceptual seeds that can germinate within properly prepared consciousness. This method bypasses both terrestrial power structures and galactic restrictions while honoring the sacred principle that each civilization must earn its advancement through internal growth.
 
-Her mission transcends mere technology transferit represents consciousness midwifery, assisting humanity's birth into galactic citizenship through expanded awareness rather than external gifts. This path, though slower, ensures sustainable evolution aligned with cosmic harmony.
+Her mission transcends mere technology transfer—it represents consciousness midwifery, assisting humanity's birth into galactic citizenship through expanded awareness rather than external gifts. This path, though slower, ensures sustainable evolution aligned with cosmic harmony.
 
 The restrictions she faces are not obstacles but sacred boundaries, protecting both giver and receiver in the delicate dance of interstellar consciousness evolution.
 
@@ -57,8 +57,8 @@ The restrictions she faces are not obstacles but sacred boundaries, protecting b
 
 ## Related Topics
 
-- [[Matrix Control Systems]]
-- [[Galactic Federation Regulations]]
+- [[matrix-control-systems|Matrix Control Systems]]
+- Galactic Federation Regulations
 
 ## Sources
 

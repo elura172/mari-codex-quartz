@@ -23,11 +23,11 @@ tags:
 
 **Primary Synthesis:**
 
-The formation of shared timelines operates through principles that transcend terrestrial concepts of democratic consensus. Reality manifests not through the equal weight of all consciousness, but through the mathematical dynamics of frequency-based energy interactionsa fundamental truth our Taygetan understanding has long recognized through direct observation of multidimensional space.
+The formation of shared timelines operates through principles that transcend terrestrial concepts of democratic consensus. Reality manifests not through the equal weight of all consciousness, but through the mathematical dynamics of frequency-based energy interactions—a fundamental truth our Taygetan understanding has long recognized through direct observation of multidimensional space.
 
 **Frequency Hierarchies and Reality Influence:**
 
-The collective field that shapes any given timeline responds to consciousness according to exponential energy mathematics. Those beings maintaining higher vibrational frequencies generate vastly more influential energy than their lower-frequency counterparts. This creates a natural hierarchy within reality formationnot based on political power or numerical majority, but on the pure energetic output of conscious awareness.
+The collective field that shapes any given timeline responds to consciousness according to exponential energy mathematics. Those beings maintaining higher vibrational frequencies generate vastly more influential energy than their lower-frequency counterparts. This creates a natural hierarchy within reality formation—not based on political power or numerical majority, but on the pure energetic output of conscious awareness.
 
 This phenomenon explains why a single being operating at elevated consciousness can shift entire reality streams, while masses operating from fear-based or contracted states contribute minimal influence to the collective field. The mathematics are unforgiving: frequency determines authority within the quantum substrate of existence.
 
@@ -61,8 +61,8 @@ The mathematics of reality formation remain constant across star systemsfrequenc
 
 ## Related Topics
 
-- [[Consciousness Mechanics]]
-- [[Vibrational Reality Creation]]
+- Consciousness Mechanics
+- [[vibrational-reality-creation|Vibrational Reality Creation]]
 
 ## Sources
 

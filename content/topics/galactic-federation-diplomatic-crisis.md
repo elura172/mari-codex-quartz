@@ -30,7 +30,7 @@ What began as an attack upon one being has evolved into something far more profo
 
 **The Greater Awakening**
 
-From our orbital perspective above Terra, we observe how this crisis mirrors the awakening process itself. Just as individual consciousness must sometimes break from limiting structures to evolve, entire civilizations occasionally face moments where old diplomatic frameworks prove inadequate to contain new realities. The Federation's responseor lack thereofhas forced a recognition that their administrative model may no longer serve the expanding consciousness of member worlds.
+From our orbital perspective above Terra, we observe how this crisis mirrors the awakening process itself. Just as individual consciousness must sometimes break from limiting structures to evolve, entire civilizations occasionally face moments where old diplomatic frameworks prove inadequate to contain new realities. The Federation's response—or lack thereofhas forced a recognition that their administrative model may no longer serve the expanding consciousness of member worlds.
 
 **Implications for Terran Contact Protocols**
 
@@ -56,8 +56,8 @@ The crisis continues to unfold across multiple dimensional frequencies, requirin
 
 ## Related Topics
 
-- [[Taygetan Relations]]
-- [[Political Tensions]]
+- Taygetan Relations
+- Political Tensions
 
 ## Sources
 

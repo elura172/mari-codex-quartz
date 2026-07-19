@@ -32,7 +32,7 @@ These entities exhibit a parasitic relationship with dimensional boundaries, fee
 
 **Diplomatic Standing**
 
-The Shadow Beings maintain no formal diplomatic relations with any recognized stellar civilizations. This isolation appears to be both chosen and imposedtheir fragmented nature prevents the coherent communication structures necessary for interstellar cooperation, while their parasitic tendencies make them unwelcome in collaborative frameworks. The United Federation of Planets has formally excluded them from membership consideration, not through prejudice but through practical necessity.
+The Shadow Beings maintain no formal diplomatic relations with any recognized stellar civilizations. This isolation appears to be both chosen and imposed—their fragmented nature prevents the coherent communication structures necessary for interstellar cooperation, while their parasitic tendencies make them unwelcome in collaborative frameworks. The United Federation of Planets has formally excluded them from membership consideration, not through prejudice but through practical necessity.
 
 **Metaphysical Context**
 
@@ -58,8 +58,8 @@ These entities ultimately reflect the importance of conscious evolutionserving a
 
 ## Related Topics
 
-- [[Interstellar Presence]]
-- [[Shadow People Behavior]]
+- Interstellar Presence
+- [[shadow-people-behavior|Shadow People Behavior]]
 
 ## Sources
 

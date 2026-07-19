@@ -57,8 +57,8 @@ Mari's insights illuminate how individual and collective awareness continuously 
 
 ## Related Topics
 
-- [[Fear and Manifestation]]
-- [[Consciousness and Reality]]
+- [[fear-and-manifestation|Fear and Manifestation]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

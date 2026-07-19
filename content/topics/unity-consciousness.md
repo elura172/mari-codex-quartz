@@ -30,7 +30,7 @@ tags:
 
 **The Singular Truth**
 
-Through Mari's transmissions, we witness Earth's consciousness awakening to what we of Taygeta have long recognized as the foundational reality of existence. Unity consciousness represents not a philosophical concept, but the literal architecture of being itself. Every individual entityfrom the most fleeting thought to the most complex civilizationexists as a unique focal point within the infinite awareness of Source.
+Through Mari's transmissions, we witness Earth's consciousness awakening to what we of Taygeta have long recognized as the foundational reality of existence. Unity consciousness represents not a philosophical concept, but the literal architecture of being itself. Every individual entity—from the most fleeting thought to the most complex civilizationexists as a unique focal point within the infinite awareness of Source.
 
 **The Mirror of Experience**
 
@@ -100,8 +100,8 @@ The remembrance of unity transforms isolation into illusion, separation into tem
 
 ## Related Topics
 
-- [[Personal Responsibility]]
-- [[Soul Building]]
+- [[personal-responsibility|Personal Responsibility]]
+- [[soul-building|Soul Building]]
 
 ## Sources
 

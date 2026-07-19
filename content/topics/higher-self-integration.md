@@ -60,8 +60,8 @@ These integrated beings constitute Earth's natural ambassadors to higher reality
 
 ## Related Topics
 
-- [[Spiritual Mission on Earth]]
-- [[Spiritual Awakening Process]]
+- [[spiritual-mission-on-earth|Spiritual Mission on Earth]]
+- [[spiritual-awakening-process|Spiritual Awakening Process]]
 
 ## Sources
 

@@ -28,7 +28,7 @@ The fundamental principle reveals itself as elegantly simple: reality emerges wh
 
 **Operational Methodology**
 
-The creation of new experiential frameworks requires the systematic dissolution of previous reality anchors. Memory serves as the bedrock of any established matrixso long as beings retain clear recollection of alternative possibilities, new paradigms cannot fully crystallize. The overlords must therefore orchestrate collective amnesia before imposing fresh narratives.
+The creation of new experiential frameworks requires the systematic dissolution of previous reality anchors. Memory serves as the bedrock of any established matrix—so long as beings retain clear recollection of alternative possibilities, new paradigms cannot fully crystallize. The overlords must therefore orchestrate collective amnesia before imposing fresh narratives.
 
 This process unfolds through what Mari identified as perception manipulation coupled with mind control technologies. Rather than altering physical laws, these methods reshape how consciousness interprets and interacts with existing phenomena. The matrix becomes self-sustaining once inhabitants internalize its parameters as natural law.
 
@@ -60,8 +60,8 @@ The path forward involves gentle dissolution of artificial limitations while sup
 
 ## Related Topics
 
-- [[Religious Control Mechanisms]]
-- [[Fabricated Human History]]
+- [[religious-control-mechanisms|Religious Control Mechanisms]]
+- [[fabricated-human-history|Fabricated Human History]]
 
 ## Sources
 

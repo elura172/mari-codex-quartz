@@ -30,7 +30,7 @@ The astral body represents a fundamental aspect of consciousness architecture th
 
 **Operational Characteristics**
 
-Unlike the physical vessel that anchors consciousness to linear time-space, the astral form operates as a vehicle of intentional projection. Beings capable of conscious separation can navigate realms where thought becomes movement and intention shapes reality. This process requires neither technological assistance nor external permissionit emerges from the inherent sovereignty of consciousness itself.
+Unlike the physical vessel that anchors consciousness to linear time-space, the astral form operates as a vehicle of intentional projection. Beings capable of conscious separation can navigate realms where thought becomes movement and intention shapes reality. This process requires neither technological assistance nor external permission—it emerges from the inherent sovereignty of consciousness itself.
 
 The astral body maintains structural coherence that parallels physical anatomy while possessing qualities impossible in dense matter: instantaneous translation across vast distances, permeability through solid barriers, and responsiveness to pure thought-intention. These characteristics align with our understanding of consciousness as the foundational substrate from which all apparent realities emerge.
 
@@ -62,8 +62,8 @@ Through Mari's transmissions, we witness not merely academic instruction but liv
 
 ## Related Topics
 
-- [[Soul]]
-- [[Astral Projection]]
+- Soul
+- [[astral-projection|Astral Projection]]
 
 ## Sources
 

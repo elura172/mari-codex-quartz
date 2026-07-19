@@ -313,7 +313,7 @@ tags:
 
 — Death, Introduction. ( English ) 
 
-> To be dogmatic is to follow and obey rules no matter whatany rulesand the subject cannot even think about questioning the truths imposed upon them.
+> To be dogmatic is to follow and obey rules no matter whatany rules—and the subject cannot even think about questioning the truths imposed upon them.
 
 — The Problem with Science on Planet Earth (PART 1). (English) 
 

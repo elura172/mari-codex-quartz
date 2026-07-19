@@ -56,8 +56,8 @@ Mari's wisdom reminds us that even in the vastness of space, we encounter beings
 
 ## Related Topics
 
-- [[Urmah Knowledge of Ekata]]
-- [[Galactic Federation Motives]]
+- [[urmah-knowledge-of-ekata|Urmah Knowledge of Ekata]]
+- Galactic Federation Motives
 
 ## Sources
 

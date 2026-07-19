@@ -32,7 +32,7 @@ The directive recognizes that a sovereign's presence aboard a compromised vessel
 
 **Operational Dynamics**
 
-The recent activation aboard the Sadicleya demonstrates both the protocol's necessity and the delicate nature of forced boarding operations. Special forces teams, weapons prepared for potential resistance, moved through the vessel with surgical precision toward the bridgethe heart of any starship's consciousness.
+The recent activation aboard the Sadicleya demonstrates both the protocol's necessity and the delicate nature of forced boarding operations. Special forces teams, weapons prepared for potential resistance, moved through the vessel with surgical precision toward the bridge—the heart of any starship's consciousness.
 
 What they discovered speaks to the profound unpredictability of crisis situations. Instead of coordinated opposition or chaotic resistance, a single individual remained at the helm. Suriko's responsehands raised in universal surrender, repeatedly declaring her peaceful intentillustrates how fear dissolves aggression when met with genuine non-threatening presence.
 
@@ -64,8 +64,8 @@ The Sadicleya incident reminds us that preparation for complexity often meets si
 
 ## Related Topics
 
-- [[Alcyone Takeover]]
-- [[Command Transfer]]
+- Alcyone Takeover
+- Command Transfer
 
 ## Sources
 

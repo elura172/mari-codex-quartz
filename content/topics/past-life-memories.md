@@ -59,8 +59,8 @@ Recognition of this memory retention phenomenon should inform first contact prot
 
 ## Related Topics
 
-- [[Transformation of Negative Experiences]]
-- [[Between Lives State]]
+- [[transformation-of-negative-experiences|Transformation of Negative Experiences]]
+- Between Lives State
 
 ## Sources
 

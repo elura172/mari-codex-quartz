@@ -38,7 +38,7 @@ What Mari recognized as particularly insidious is how this system presents itsel
 
 **Taygetan Perspective**
 
-From our understanding of consciousness dynamics, this phenomenon represents a natural stage in planetary developmentthe institutionalization of curiosity into control structures. However, Earth's version demonstrates unusual rigidity, likely influenced by the species' hierarchical tendencies and their disconnection from expanded awareness states.
+From our understanding of consciousness dynamics, this phenomenon represents a natural stage in planetary development—the institutionalization of curiosity into control structures. However, Earth's version demonstrates unusual rigidity, likely influenced by the species' hierarchical tendencies and their disconnection from expanded awareness states.
 
 True scientific consciousness flows from direct perception of reality's multidimensional nature, unfiltered by institutional frameworks or collective agreements about what constitutes valid experience.
 
@@ -60,8 +60,8 @@ For diplomatic contact protocols, recognize that challenging Earth's scientific 
 
 ## Related Topics
 
-- [[Scientific Dogmatism]]
-- [[Population Control]]
+- Scientific Dogmatism
+- [[population-control|Population Control]]
 
 ## Sources
 

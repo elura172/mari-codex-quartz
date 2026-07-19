@@ -26,11 +26,11 @@ Following her recent physical mishap involving an enthusiastic sprint through sh
 
 Yazhi's recreational activities reveal sophisticated consciousness development masked as childhood play. Her elaborate airline simulation games, featuring meticulously crafted cardboard aircraft, represent far more than simple entertainment. These constructs serve as focal points for complex visualization exercises, allowing her to practice three-dimensional spatial reasoning while maintaining energetic coherence across multiple awareness levels.
 
-The cardboard medium itself holds significancea malleable substance that responds to intention while requiring physical manipulation. Through this interplay of matter and consciousness, she develops mastery over both material and ethereal realms simultaneously.
+The cardboard medium itself holds significance—a malleable substance that responds to intention while requiring physical manipulation. Through this interplay of matter and consciousness, she develops mastery over both material and ethereal realms simultaneously.
 
 **Astral Animation Protocols**
 
-When questioned about her higher-dimensional activities, Yazhi provides cryptic responses regarding her role in "animating everyone." This suggests active participation in collective consciousness maintenancea responsibility that would typically overwhelm beings of lesser development. Her matter-of-fact delivery indicates this work has become integrated into her natural operational framework.
+When questioned about her higher-dimensional activities, Yazhi provides cryptic responses regarding her role in "animating everyone." This suggests active participation in collective consciousness maintenance—a responsibility that would typically overwhelm beings of lesser development. Her matter-of-fact delivery indicates this work has become integrated into her natural operational framework.
 
 This animation process likely involves energetic stabilization of consciousness streams for beings transitioning between dimensional states or experiencing fragmentation. Such work requires precise calibration of one's own frequency signature while maintaining protective barriers against psychic overflow.
 

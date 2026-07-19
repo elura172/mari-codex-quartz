@@ -61,8 +61,8 @@ Mari's transmissions illuminate how love finds pathways through even the most re
 
 ## Related Topics
 
-- [[Starseed Night Missions]]
-- [[Galactic Federation]]
+- Starseed Night Missions
+- Galactic Federation
 
 ## Sources
 

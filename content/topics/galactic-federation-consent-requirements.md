@@ -22,13 +22,13 @@ tags:
 
 **The Nature of Authentic Consent**
 
-Mari Swaruu's transmissions illuminate a fundamental principle governing all Federation interactions with developing civilizations: the profound distinction between declarative intention and embodied will. Within the intricate framework of cosmic law, words alone carry no binding frequencythey are but echoes without substance, lacking the vibrational integrity necessary to authorize intervention in planetary affairs.
+Mari Swaruu's transmissions illuminate a fundamental principle governing all Federation interactions with developing civilizations: the profound distinction between declarative intention and embodied will. Within the intricate framework of cosmic law, words alone carry no binding frequency—they are but echoes without substance, lacking the vibrational integrity necessary to authorize intervention in planetary affairs.
 
 **The Action-Consent Paradigm**
 
 True consent emerges not from vocal proclamations or recorded statements, but from the living demonstration of aligned choice. When a consciousness or collective genuinely desires assistance, this desire manifests through consistent behaviors that actively support their stated intention while simultaneously withdrawing energy from that which they claim to reject.
 
-This principle reflects deeper metaphysical understanding: consciousness creates through focused attention and sustained action. A civilization requesting aid while continuing to empower the very systems they claim to oppose reveals internal contradictiona fractured will that cannot generate the coherent signal required for legitimate intervention authorization.
+This principle reflects deeper metaphysical understanding: consciousness creates through focused attention and sustained action. A civilization requesting aid while continuing to empower the very systems they claim to oppose reveals internal contradiction—a fractured will that cannot generate the coherent signal required for legitimate intervention authorization.
 
 **Implications for Crew Operations**
 
@@ -60,8 +60,8 @@ This standard protects the sovereignty of all consciousness while honoring the s
 
 ## Related Topics
 
-- [[Democratic Systems Criticism]]
-- [[Matrix Non-Compliance]]
+- [[democratic-systems-criticism|Democratic Systems Criticism]]
+- [[matrix-non-compliance|Matrix Non-Compliance]]
 
 ## Sources
 

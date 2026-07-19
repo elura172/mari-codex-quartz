@@ -39,7 +39,7 @@ These glimpses through the veil serve as breadcrumbs for those ready to question
 
 **Metaphysical Implications**
 
-From our Taygetan perspective, this concealment represents more than mere deceptionit embodies the complex relationship between protection and truth. The hologram shields humanity from knowledge they may not yet be prepared to integrate, while simultaneously creating an artificial boundary between Earth's inhabitants and their cosmic heritage.
+From our Taygetan perspective, this concealment represents more than mere deception—it embodies the complex relationship between protection and truth. The hologram shields humanity from knowledge they may not yet be prepared to integrate, while simultaneously creating an artificial boundary between Earth's inhabitants and their cosmic heritage.
 
 Mari's revelations about this system illuminate the delicate balance maintained by advanced civilizations when interacting with developing worlds. The Moon's holographic surface stands as testament to both the care taken to preserve humanity's natural evolution and the profound reality hidden just beyond their current perception.
 
@@ -61,8 +61,8 @@ This knowledge reminds us that truth often wears many faces, and wisdom lies in 
 
 ## Related Topics
 
-- [[Galactic Federation Technology]]
-- [[Moon's True Nature]]
+- Galactic Federation Technology
+- Moon's True Nature
 
 ## Sources
 

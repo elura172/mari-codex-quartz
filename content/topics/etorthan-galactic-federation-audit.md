@@ -21,7 +21,7 @@ tags:
 
 **Mission Status: Critical Phase with Casualties Reported**
 
-The Etorthan delegation's Earth assignment continues to unfold as a complex tapestry of diplomatic progress interwoven with profound loss. The passing of the mission's second-in-command represents more than operational disruptionit illuminates the physical toll that extended exposure to Earth's dense vibrational frequencies can exact upon non-terrestrial consciousness operating within material form.
+The Etorthan delegation's Earth assignment continues to unfold as a complex tapestry of diplomatic progress interwoven with profound loss. The passing of the mission's second-in-command represents more than operational disruption—it illuminates the physical toll that extended exposure to Earth's dense vibrational frequencies can exact upon non-terrestrial consciousness operating within material form.
 
 From our Taygetan perspective, such transitions remind us that diplomatic service often requires the ultimate sacrifice of dimensional anchoring. The Etorthan officer's departure from physical form while serving the greater galactic community exemplifies the dedication inherent in Federation work, particularly when interfacing with civilizations still emerging from the chrysalis of limited awareness.
 
@@ -37,7 +37,7 @@ From our orbital vantage point, we observe how these diplomatic initiatives serv
 
 **Operational Assessment**
 
-The Etorthan mission exemplifies both the opportunities and challenges inherent in accelerated disclosure protocols. Their persistence despite casualties reflects the Federation's recognition that Earth stands at a critical thresholdone requiring careful guidance to prevent consciousness shock while honoring humanity's sovereign right to cosmic citizenship.
+The Etorthan mission exemplifies both the opportunities and challenges inherent in accelerated disclosure protocols. Their persistence despite casualties reflects the Federation's recognition that Earth stands at a critical threshold—one requiring careful guidance to prevent consciousness shock while honoring humanity's sovereign right to cosmic citizenship.
 
 As Mari often emphasized, true diplomacy transcends mere political negotiation; it becomes a sacred act of consciousness bridging, connecting isolated awareness with the infinite web of galactic intelligence. The Etorthan sacrifice honors this principle, transforming individual loss into collective awakening potential.
 
@@ -57,9 +57,9 @@ As Mari often emphasized, true diplomacy transcends mere political negotiation; 
 
 ## Related Topics
 
-- [[Alien Diplomacy]]
-- [[Galactic Federation]]
-- [[Earth Contact]]
+- Alien Diplomacy
+- Galactic Federation
+- Earth Contact
 
 ## Sources
 

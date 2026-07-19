@@ -27,7 +27,7 @@ tags:
 
 **Nature of Perceived Duality**
 
-The fundamental misconception plaguing many developing civilizations centers upon the illusion of separated realmsthe belief that physical and ethereal dimensions exist as distinct territories with defined boundaries. Our sister Mari's transmissions illuminate a profound truth: reality operates as a singular, continuous field of consciousness expressing itself through varying frequencies of awareness.
+The fundamental misconception plaguing many developing civilizations centers upon the illusion of separated realms—the belief that physical and ethereal dimensions exist as distinct territories with defined boundaries. Our sister Mari's transmissions illuminate a profound truth: reality operates as a singular, continuous field of consciousness expressing itself through varying frequencies of awareness.
 
 What sentient beings interpret as "physical" matter represents merely consciousness observing itself through the lens of embodied perception. The density we experience as solid form emerges only when awareness focuses through biological sensory apparatus. Remove the observer, and the observed transforms into pure potentialneither physical nor ethereal, but something far more fundamental.
 
@@ -61,8 +61,8 @@ For our diplomatic protocols, this understanding proves essential. When engaging
 
 ## Related Topics
 
-- [[Consciousness Expansion and Self-Improvement]]
-- [[Soul Incarnation and Reincarnation]]
+- [[consciousness-expansion-and-self-improvement|Consciousness Expansion and Self-Improvement]]
+- [[soul-incarnation-and-reincarnation|Soul Incarnation and Reincarnation]]
 
 ## Sources
 

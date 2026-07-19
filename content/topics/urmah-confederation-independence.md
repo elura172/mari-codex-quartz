@@ -64,8 +64,8 @@ Their independence serves the greater galactic community by preserving alternati
 
 ## Related Topics
 
-- [[The Triad]]
-- [[Galactic Federation Structure]]
+- The Triad
+- [[galactic-federation-structure|Galactic Federation Structure]]
 
 ## Sources
 

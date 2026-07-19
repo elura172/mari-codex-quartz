@@ -79,8 +79,8 @@ Mari's transmissions illuminate how genuine liberation requires humanity to reco
 
 ## Related Topics
 
-- [[Lower Astral Entities]]
-- [[Archons]]
+- [[lower-astral-entities|Lower Astral Entities]]
+- Archons
 
 ## Sources
 

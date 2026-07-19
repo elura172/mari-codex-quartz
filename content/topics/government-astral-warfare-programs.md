@@ -67,8 +67,8 @@ Mari's transmissions remind us that beneath humanity's shadow expressions lies a
 
 ## Related Topics
 
-- [[Targeted Individuals]]
-- [[Astral Warriors]]
+- [[targeted-individuals|Targeted Individuals]]
+- [[astral-warriors|Astral Warriors]]
 
 ## Sources
 

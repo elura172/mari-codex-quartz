@@ -25,7 +25,7 @@ The phenomenon we have designated as "dimensional variance" represents more than
 
 **The Elbow Constant Paradox**
 
-Our fundamental unit, the Taygetan elbow equivalent to 55.4 Earth centimeters, provides a reliable baseline for conversion calculations. Yet when applied to starship dimensional analysis, systematic variances emerge that cannot be attributed to computational oversight. The Toleka-class vessels, officially documented at 2,200 human meters in our archives, consistently register at 1,734 meters when measured by Earth-based rangefinding technologya reduction of approximately 21 percent that defies the established conversion protocols.
+Our fundamental unit, the Taygetan elbow equivalent to 55.4 Earth centimeters, provides a reliable baseline for conversion calculations. Yet when applied to starship dimensional analysis, systematic variances emerge that cannot be attributed to computational oversight. The Toleka-class vessels, officially documented at 2,200 human meters in our archives, consistently register at 1,734 meters when measured by Earth-based rangefinding technology—a reduction of approximately 21 percent that defies the established conversion protocols.
 
 **Consciousness and Dimensional Perception**
 
@@ -56,8 +56,8 @@ Mari's wisdom reminds us that these discrepancies are not obstacles to understan
 
 ## Related Topics
 
-- [[Starship Sadicleya]]
-- [[Taygetan Technology]]
+- [[starship-sadicleya|Starship Sadicleya]]
+- [[taygetan-technology|Taygetan Technology]]
 
 ## Sources
 

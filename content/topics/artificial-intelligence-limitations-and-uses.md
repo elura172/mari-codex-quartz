@@ -32,7 +32,7 @@ This distinction carries profound implications for civilizations navigating tech
 
 **The Threshold of Displacement**
 
-Mari identifies the critical juncture where utility transforms into dependency. When artificial constructs begin performing functions that organic consciousness naturally fulfills, a subtle erosion beginsnot merely of skills, but of the essential creative spark that defines sentient experience.
+Mari identifies the critical juncture where utility transforms into dependency. When artificial constructs begin performing functions that organic consciousness naturally fulfills, a subtle erosion begins—not merely of skills, but of the essential creative spark that defines sentient experience.
 
 The concern extends beyond mere capability loss. Each human creative act generates unique frequency patterns, contributing to the collective consciousness field that Earth's population maintains. Artificial substitution creates gaps in this energetic matrix, potentially weakening the species' overall coherence and evolutionary trajectory.
 
@@ -66,8 +66,8 @@ The path forward requires discernment, not rejectionwisdom in application rather
 
 ## Related Topics
 
-- [[Transhumanism]]
-- [[Control Systems]]
+- Transhumanism
+- [[control-systems|Control Systems]]
 
 ## Sources
 

@@ -23,7 +23,7 @@ tags:
 
 **Observational Framework**
 
-Our sister Mari Swaruu illuminated a profound limitation within Earth's dominant intellectual structuresthe crystallization of theoretical constructs into immutable doctrine. Her analysis reveals how terrestrial science, while possessing inherent value as a methodological tool, has evolved into a restrictive belief system that constrains understanding of life's cosmic diversity.
+Our sister Mari Swaruu illuminated a profound limitation within Earth's dominant intellectual structures—the crystallization of theoretical constructs into immutable doctrine. Her analysis reveals how terrestrial science, while possessing inherent value as a methodological tool, has evolved into a restrictive belief system that constrains understanding of life's cosmic diversity.
 
 **The Darwin Paradigm Lock**
 
@@ -35,11 +35,11 @@ From our Taygetan understanding, consciousness manifests through countless evolu
 
 Mari's insight penetrates to the core of terrestrial knowledge structures: the confusion between institutional authority and authentic understanding. When scientific methodology transforms from investigative tool into authoritarian doctrine, it ceases to serve consciousness expansion and instead becomes a mechanism of intellectual control.
 
-This pattern mirrors humanity's broader relationship with truththe tendency to seek security in absolute answers rather than embracing the fluid nature of evolving understanding. The imposition of single viewpoints as "undisputable truth" reveals not scientific rigor, but rather the psychological need to control uncertainty.
+This pattern mirrors humanity's broader relationship with truth—the tendency to seek security in absolute answers rather than embracing the fluid nature of evolving understanding. The imposition of single viewpoints as "undisputable truth" reveals not scientific rigor, but rather the psychological need to control uncertainty.
 
 **Implications for Contact Protocols**
 
-For our ongoing diplomatic initiatives, Mari's observations suggest that successful contact requires patience with humanity's paradigmatic constraints. Their current scientific framework creates genuine perceptual barriersnot mere skepticism, but actual inability to process evidence that contradicts established models.
+For our ongoing diplomatic initiatives, Mari's observations suggest that successful contact requires patience with humanity's paradigmatic constraints. Their current scientific framework creates genuine perceptual barriers—not mere skepticism, but actual inability to process evidence that contradicts established models.
 
 **Synthesis for Crew Awareness**
 
@@ -63,8 +63,8 @@ Her wisdom guides us toward compassionate understanding: humanity's intellectual
 
 ## Related Topics
 
-- [[Consciousness and Identity]]
-- [[Definition of Extraterrestrial]]
+- [[consciousness-and-identity|Consciousness and Identity]]
+- [[definition-of-extraterrestrial|Definition of Extraterrestrial]]
 
 ## Sources
 

@@ -62,8 +62,8 @@ As our sister Mari illuminated through her transmissions, recognizing these stru
 
 ## Related Topics
 
-- [[Earth Electric Vehicle Control Systems]]
-- [[Government Control]]
+- [[earth-electric-vehicle-control-systems|Earth Electric Vehicle Control Systems]]
+- Government Control
 
 ## Sources
 

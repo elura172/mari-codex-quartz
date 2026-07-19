@@ -30,7 +30,7 @@ Mari's observations illuminate how this technology, despite its environmental me
 
 **Resource Dependency Constraints**
 
-The lithium extraction paradigm underlying these vehicles presents a cascading economic paradox. Rather than decreasing through production scaleas promised by terrestrial authoritiescosts intensify as resource scarcity tightens its grip. This creates an inverse relationship between environmental necessity and economic accessibility, forcing populations into an impossible choice between financial survival and technological participation.
+The lithium extraction paradigm underlying these vehicles presents a cascading economic paradox. Rather than decreasing through production scale—as promised by terrestrial authoritiescosts intensify as resource scarcity tightens its grip. This creates an inverse relationship between environmental necessity and economic accessibility, forcing populations into an impossible choice between financial survival and technological participation.
 
 The mining requirements expose Earth's continued dependence on extractive economics, even within supposedly sustainable technologies. Each battery represents concentrated planetary resources transformed into exclusive mobility access, perpetuating the very resource competition patterns that characterize third-density civilization struggles.
 
@@ -60,9 +60,9 @@ The electric vehicle paradox demonstrates why consciousness evolution must prece
 
 ## Related Topics
 
-- [[Electric Vehicle Manufacturing]]
-- [[Class Division]]
-- [[Transportation Accessibility]]
+- Electric Vehicle Manufacturing
+- Class Division
+- Transportation Accessibility
 
 ## Sources
 

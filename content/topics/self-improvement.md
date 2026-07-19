@@ -64,8 +64,8 @@ The elegance of her teaching lies in its simplicity: evolution occurs through pr
 
 ## Related Topics
 
-- [[Higher Self Definition]]
-- [[Consciousness Expansion]]
+- [[higher-self-definition|Higher Self Definition]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

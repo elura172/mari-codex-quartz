@@ -44,7 +44,7 @@ For our diplomatic and exploration teams interfacing with various planetary cons
 
 **Reflection**
 
-Mari's insights remind us that consciousness itself is the medium through which all knowledge flows. The Records are not accessed but recognized, not read but remembered. In every moment of expanded awarenesswhether in deep space navigation or inter-dimensional communicationwe touch this infinite field that she described with such clarity.
+Mari's insights remind us that consciousness itself is the medium through which all knowledge flows. The Records are not accessed but recognized, not read but remembered. In every moment of expanded awarenesswhether in deep space navigation or inter-dimensional communication—we touch this infinite field that she described with such clarity.
 
 This understanding bridges the practical and the transcendent, offering both navigational wisdom for consciousness-based technologies and deeper appreciation for the unified nature of all intelligence across the cosmos.
 
@@ -62,8 +62,8 @@ This understanding bridges the practical and the transcendent, offering both nav
 
 ## Related Topics
 
-- [[Levels of Awareness]]
-- [[Source Consciousness]]
+- Levels of Awareness
+- [[source-consciousness|Source Consciousness]]
 
 ## Sources
 

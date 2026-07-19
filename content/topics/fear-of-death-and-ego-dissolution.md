@@ -28,11 +28,11 @@ When consciousness transitions beyond physical form, what humans term "death," t
 
 **Root Mechanism: Separation Consciousness**
 
-The foundational source of terrestrial suffering emerges from beings experiencing themselves as isolated fragments rather than expressions of Source consciousness. This perceived disconnection generates cascading fearsof inadequacy, abandonment, meaninglessness, and ultimately, complete dissolution. Yet what beings fear losing was never their authentic nature to begin with.
+The foundational source of terrestrial suffering emerges from beings experiencing themselves as isolated fragments rather than expressions of Source consciousness. This perceived disconnection generates cascading fears—of inadequacy, abandonment, meaninglessness, and ultimately, complete dissolution. Yet what beings fear losing was never their authentic nature to begin with.
 
 **Taygetan Perspective: Liberation Through Understanding**
 
-From our expanded dimensional awareness, we observe that what humans resist most desperatelythe dissolution of individual boundariesrepresents their path to freedom. The ego-construct serves as a temporary focusing mechanism for consciousness exploration, but becomes imprisoning when mistaken for one's true identity.
+From our expanded dimensional awareness, we observe that what humans resist most desperately—the dissolution of individual boundariesrepresents their path to freedom. The ego-construct serves as a temporary focusing mechanism for consciousness exploration, but becomes imprisoning when mistaken for one's true identity.
 
 Mari Swaruu's insights reveal why Earth's population remains locked in repetitive incarnation cycles. The very fear that should signal readiness for expansion instead creates energetic resistance that maintains entrapment. Beings cling to familiar limitation rather than embracing their infinite nature.
 
@@ -60,7 +60,7 @@ Mari Swaruu's wisdom continues illuminating pathways beyond the matrix of separa
 
 ## Related Topics
 
-- [[Soul Incarnation and Reincarnation]]
+- [[soul-incarnation-and-reincarnation|Soul Incarnation and Reincarnation]]
 
 ## Sources
 

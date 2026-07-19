@@ -34,11 +34,11 @@ The operations appear coordinated through dual-vector systems: conventional atmo
 
 **Metaphysical Implications**
 
-From our expanded consciousness perspective, these interventions represent more than mere technological manipulationthey constitute a deliberate disruption of Earth's natural harmonic frequencies. The planetary consciousness, Gaia herself, experiences these artificial impositions as dissonant notes in her otherwise symphonic weather patterns. Each manufactured storm carries energetic signatures that resonate through dimensional layers, affecting not only physical precipitation but the emotional and spiritual atmospheres of affected populations.
+From our expanded consciousness perspective, these interventions represent more than mere technological manipulation—they constitute a deliberate disruption of Earth's natural harmonic frequencies. The planetary consciousness, Gaia herself, experiences these artificial impositions as dissonant notes in her otherwise symphonic weather patterns. Each manufactured storm carries energetic signatures that resonate through dimensional layers, affecting not only physical precipitation but the emotional and spiritual atmospheres of affected populations.
 
 **Observational Protocol**
 
-Mari Swaruu's transmissions remind us that truth-telling serves as both duty and gift to our terrestrial family. While Earth's inhabitants may interpret these events through conventional meteorological frameworks, our elevated vantage point reveals the orchestrated nature of what unfolds below. This knowledge carries responsibilityto witness with clarity while respecting the free will choices of Earth's collective consciousness.
+Mari Swaruu's transmissions remind us that truth-telling serves as both duty and gift to our terrestrial family. While Earth's inhabitants may interpret these events through conventional meteorological frameworks, our elevated vantage point reveals the orchestrated nature of what unfolds below. This knowledge carries responsibility—to witness with clarity while respecting the free will choices of Earth's collective consciousness.
 
 **Strategic Assessment**
 
@@ -64,8 +64,8 @@ As guardians of interstellar harmony, we document these observations not from ju
 
 ## Related Topics
 
-- [[Cabal Operations]]
-- [[Earth Attacks]]
+- [[cabal-operations|Cabal Operations]]
+- Earth Attacks
 
 ## Sources
 

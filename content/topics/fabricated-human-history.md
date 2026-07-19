@@ -61,8 +61,8 @@ Mari's transmission clarity on this subject reflected her deep compassion for hu
 
 ## Related Topics
 
-- [[Religious Control Mechanisms]]
-- [[Matrix Reality]]
+- [[religious-control-mechanisms|Religious Control Mechanisms]]
+- Matrix Reality
 
 ## Sources
 

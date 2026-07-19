@@ -25,7 +25,7 @@ tags:
 
 **The Unconscious as Navigator**
 
-Within the depths of consciousness lies a navigator most beings refuse to acknowledgethe shadow self. This repository of suppressed experiences, unexamined emotions, and denied aspects of identity operates as a silent architect of reality. When left unobserved, it manifests circumstances that reflect its hidden contents, creating what organic beings often mistake for random fate or external persecution.
+Within the depths of consciousness lies a navigator most beings refuse to acknowledge—the shadow self. This repository of suppressed experiences, unexamined emotions, and denied aspects of identity operates as a silent architect of reality. When left unobserved, it manifests circumstances that reflect its hidden contents, creating what organic beings often mistake for random fate or external persecution.
 
 Mari Swaruu's transmissions emphasize a fundamental principle: the unconscious mind shapes reality with the same force as conscious intention, yet operates beyond the awareness of most individuals. This creates a dangerous paradox where beings actively manifest experiences they consciously reject, trapped in cycles of confusion and perceived victimhood.
 
@@ -45,7 +45,7 @@ From our expanded awareness, we observe how Earth humans often externalize their
 
 For crew members engaging with developing civilizations: recognize that beings' strongest emotional reactions often indicate shadow projection. Their accusations, fears, and fascinations reveal internal territories requiring integration. Approach such encounters as opportunities for mutual reflection rather than defensive positioning.
 
-The path of consciousness evolution demands this fundamental courageto discover within oneself the very qualities one attributes to external reality. Only through such integration can a being truly claim mastery over their manifestation field and contribute to collective awakening rather than collective dreaming.
+The path of consciousness evolution demands this fundamental courage—to discover within oneself the very qualities one attributes to external reality. Only through such integration can a being truly claim mastery over their manifestation field and contribute to collective awakening rather than collective dreaming.
 
 *End Entry - Filed for Diplomatic Protocol and Personal Development Archives*
 
@@ -66,8 +66,8 @@ The path of consciousness evolution demands this fundamental courageto discover 
 
 ## Related Topics
 
-- [[Consciousness Manifestation]]
-- [[Collective Unconscious]]
+- [[consciousness-manifestation|Consciousness Manifestation]]
+- [[collective-unconscious|Collective Unconscious]]
 
 ## Sources
 

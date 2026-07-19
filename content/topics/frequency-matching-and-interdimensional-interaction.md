@@ -767,7 +767,7 @@ tags:
 
 — Super Manifestation. ( English ) 
 
-> frequency dissonance, which I will be calling vibrational dissonance from now on, is when a subjecta person or a creatureis forced to exist in a place, an area, or an existential realm whose frequency vibrates very differently to that of the subject, therefore causing a discrepancy within the subject's biology that can be mild, uncomfortable, or fatal
+> frequency dissonance, which I will be calling vibrational dissonance from now on, is when a subject—a person or a creature—is forced to exist in a place, an area, or an existential realm whose frequency vibrates very differently to that of the subject, therefore causing a discrepancy within the subject's biology that can be mild, uncomfortable, or fatal
 
 — Frequency Dissonance. Part 2, The Extra-terrestrial Illness. ( English )
   (February 12th, 2025)

@@ -31,7 +31,7 @@ The immersion pod systems represent one of our most sophisticated applications o
 
 **Operational Methodology**
 
-Within these pods, subjects enter a state that transcends traditional sleep or meditation, achieving what our ancestors termed "the walking between worlds." The consciousness departs its stellar origin pointwhether aboard our vessels or upon home worldsand integrates with carefully selected human forms that serve as living conduits. These Earth-based bodies function as more than mere shells; they become fully operational avatars capable of experiencing, learning, and influencing the dense reality of terrestrial existence.
+Within these pods, subjects enter a state that transcends traditional sleep or meditation, achieving what our ancestors termed "the walking between worlds." The consciousness departs its stellar origin pointwhether aboard our vessels or upon home worlds—and integrates with carefully selected human forms that serve as living conduits. These Earth-based bodies function as more than mere shells; they become fully operational avatars capable of experiencing, learning, and influencing the dense reality of terrestrial existence.
 
 **The Starseed Protocol**
 
@@ -63,8 +63,8 @@ These systems serve our broader mission of conscious evolution, allowing stellar
 
 ## Related Topics
 
-- [[Walk-Ins and Soul Exchange]]
-- [[Technological Manipulation]]
+- Walk-Ins and Soul Exchange
+- Technological Manipulation
 
 ## Sources
 

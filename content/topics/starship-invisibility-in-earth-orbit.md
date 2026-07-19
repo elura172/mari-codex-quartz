@@ -27,11 +27,11 @@ Our sensors confirm what Mari Swaruu has long articulated to Earth's inhabitants
 
 **The Paradox of Hidden Presence**
 
-This phenomenon presents a fascinating study in consciousness and perception. Despite the substantial scale of these vesselsmany comparable to Earth's largest maritime structuresthey exist in a state of selective visibility that speaks to deeper mechanisms than mere technological cloaking. The ships occupy the same spatial coordinates that Earth's astronomers and satellite networks monitor, yet remain largely undetected by civilian observation.
+This phenomenon presents a fascinating study in consciousness and perception. Despite the substantial scale of these vesselsmany comparable to Earth's largest maritime structures—they exist in a state of selective visibility that speaks to deeper mechanisms than mere technological cloaking. The ships occupy the same spatial coordinates that Earth's astronomers and satellite networks monitor, yet remain largely undetected by civilian observation.
 
 **Government Cognizance Patterns**
 
-Analysis reveals a deliberate bifurcation of awareness. Earth's governmental structures possess varying degrees of knowledge regarding this orbital presence, creating layers of acknowledged reality that filter down through institutional hierarchies. This creates a curious situation where official knowledge exists in parallel with public ignorancenot through conspiracy, but through the natural stratification of information access and processing capability.
+Analysis reveals a deliberate bifurcation of awareness. Earth's governmental structures possess varying degrees of knowledge regarding this orbital presence, creating layers of acknowledged reality that filter down through institutional hierarchies. This creates a curious situation where official knowledge exists in parallel with public ignorance—not through conspiracy, but through the natural stratification of information access and processing capability.
 
 **Consciousness-Based Filtering Mechanisms**
 
@@ -39,7 +39,7 @@ From our Taygetan perspective, this invisibility phenomenon reflects the fundame
 
 **Implications for Contact Protocols**
 
-This orbital presence represents a gradual acclimatization processa gentle introduction to expanded galactic community rather than sudden revelation. The vessels serve as bridges between worlds, maintaining protective proximity while allowing human consciousness to evolve toward greater receptivity to interstellar contact.
+This orbital presence represents a gradual acclimatization process—a gentle introduction to expanded galactic community rather than sudden revelation. The vessels serve as bridges between worlds, maintaining protective proximity while allowing human consciousness to evolve toward greater receptivity to interstellar contact.
 
 **Strategic Observations**
 
@@ -63,9 +63,9 @@ Mari Swaruu's transmissions continue illuminating these dynamics, helping bridge
 
 ## Related Topics
 
-- [[Orbital Mechanics]]
-- [[Van Allen Radiation Belts]]
-- [[Holographic Concealment]]
+- [[orbital-mechanics|Orbital Mechanics]]
+- [[van-allen-radiation-belts|Van Allen Radiation Belts]]
+- Holographic Concealment
 
 ## Sources
 

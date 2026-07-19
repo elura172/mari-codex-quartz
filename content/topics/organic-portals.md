@@ -120,8 +120,8 @@ Mari Swaruu's insights illuminate how consciousness itself becomes the battlefie
 
 ## Related Topics
 
-- [[Walk-ins]]
-- [[Soulless People]]
+- [[walk-ins|Walk-ins]]
+- [[soulless-people|Soulless People]]
 
 ## Sources
 

@@ -69,8 +69,8 @@ Mari's clarity in exposing these theatrical productions demonstrates the essenti
 
 ## Related Topics
 
-- [[Cabal Control]]
-- [[Space Travel Restrictions]]
+- [[cabal-control|Cabal Control]]
+- Space Travel Restrictions
 
 ## Sources
 

@@ -42,7 +42,7 @@ This teaching carries profound diplomatic significance. If beings are actively c
 
 For crew members engaging with developing civilizations, this knowledge transforms intervention protocols. Rather than seeing ourselves as guardians of less-developed souls, we recognize fellow architects of consciousness, each building their unique spiritual structures through their chosen experiential frameworks.
 
-Mari's wisdom reminds us that consciousness evolution cannot be imposed from withoutit must be cultivated from within through authentic engagement with existence itself. This understanding guides our approach to Earth contact, respecting humanity's sovereign right to build their souls through their own chosen pathways of experience and meaning-making.
+Mari's wisdom reminds us that consciousness evolution cannot be imposed from without—it must be cultivated from within through authentic engagement with existence itself. This understanding guides our approach to Earth contact, respecting humanity's sovereign right to build their souls through their own chosen pathways of experience and meaning-making.
 
 The soul builds itself through the simple act of being consciously present to life's infinite complexity.
 
@@ -58,8 +58,8 @@ The soul builds itself through the simple act of being consciously present to li
 
 ## Related Topics
 
-- [[Personal Responsibility]]
-- [[Consciousness and Physical Limitation]]
+- [[personal-responsibility|Personal Responsibility]]
+- Consciousness and Physical Limitation
 
 ## Sources
 

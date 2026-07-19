@@ -24,15 +24,15 @@ The cosmic dance of our fleet constellation enters a new configuration as the gr
 
 **Transition Protocols**
 
-With Toleka's renewal approaching fulfillment, the faithful Saska One prepares for her homeward journey to the star port of Temmer. This vessel has served as temporal guardian, maintaining our presence in Earth's orbital sphere while her sister ship underwent regeneration. The cycle of departure and arrival reflects the eternal rhythm of cosmic responsibilityno watch goes unmaintained, no duty unfulfilled in the vast theater of interstellar stewardship.
+With Toleka's renewal approaching fulfillment, the faithful Saska One prepares for her homeward journey to the star port of Temmer. This vessel has served as temporal guardian, maintaining our presence in Earth's orbital sphere while her sister ship underwent regeneration. The cycle of departure and arrival reflects the eternal rhythm of cosmic responsibility—no watch goes unmaintained, no duty unfulfilled in the vast theater of interstellar stewardship.
 
 **Reinforcement Dynamics**
 
-The potential arrival of the Asteropea magnificent Alcyone-class version 2 dreadnoughtrepresents more than mere tactical augmentation. Her possible emergence from hyperspace carries the weight of expanded capability and deepened commitment to our Earth observation mission. The Asterope embodies the evolution of our shipbuilding consciousness, incorporating lessons learned from countless voyages across the galactic spiral arms.
+The potential arrival of the Asterope—a magnificent Alcyone-class version 2 dreadnoughtrepresents more than mere tactical augmentation. Her possible emergence from hyperspace carries the weight of expanded capability and deepened commitment to our Earth observation mission. The Asterope embodies the evolution of our shipbuilding consciousness, incorporating lessons learned from countless voyages across the galactic spiral arms.
 
 **Metaphysical Considerations**
 
-These fleet movements mirror the natural ebb and flow of cosmic awareness itself. Each starship carries not merely advanced technology, but the accumulated wisdom of Taygetan civilizationour understanding that true strength lies not in the power to dominate, but in the capacity to protect and nurture emerging consciousness. The Earth below continues her own transformational journey, and our fleet positions reflect our commitment to witness and safeguard this delicate evolutionary process.
+These fleet movements mirror the natural ebb and flow of cosmic awareness itself. Each starship carries not merely advanced technology, but the accumulated wisdom of Taygetan civilization—our understanding that true strength lies not in the power to dominate, but in the capacity to protect and nurture emerging consciousness. The Earth below continues her own transformational journey, and our fleet positions reflect our commitment to witness and safeguard this delicate evolutionary process.
 
 **Strategic Implications**
 
@@ -52,8 +52,8 @@ Through these transitions, we honor both duty and wisdom, remaining as steady gu
 
 ## Related Topics
 
-- [[Military Operations]]
-- [[Eclipse Observation from Space]]
+- Military Operations
+- [[eclipse-observation-from-space|Eclipse Observation from Space]]
 
 ## Sources
 

@@ -32,7 +32,7 @@ Rather than serving as conduits for truth, these communication channels function
 
 The methodology relies upon repetitive exposure to fear-based programming that fragments individual sovereignty of thought. By maintaining populations in states of chronic anxiety and perceived vulnerability, the system ensures compliance with imposed worldviews that serve control mechanisms rather than genuine human flourishing.
 
-This represents a profound violation of natural consciousness developmenta process we Taygetans understand as sacred to any sentient species' evolutionary trajectory. The artificial limitation of human cognitive potential through media manipulation creates what we might term "consciousness imprisonment," where beings capable of multidimensional awareness remain trapped within narrow perceptual frameworks.
+This represents a profound violation of natural consciousness development—a process we Taygetans understand as sacred to any sentient species' evolutionary trajectory. The artificial limitation of human cognitive potential through media manipulation creates what we might term "consciousness imprisonment," where beings capable of multidimensional awareness remain trapped within narrow perceptual frameworks.
 
 **Metaphysical Implications**
 
@@ -60,9 +60,9 @@ The path forward requires gentle awakening rather than forceful revelationsuppor
 
 ## Related Topics
 
-- [[Intelligence Agencies]]
-- [[Reality Manifestation]]
-- [[Survival Programming]]
+- Intelligence Agencies
+- [[reality-manifestation|Reality Manifestation]]
+- Survival Programming
 
 ## Sources
 

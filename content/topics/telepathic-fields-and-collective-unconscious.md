@@ -35,7 +35,7 @@ The process operates through direct mind-to-mind transmission, bypassing the slo
 
 **Implications for Social Structures**
 
-This telepathic substrate explains the mysterious emergence of what Earth's psychologists term the collective unconsciousthat vast repository of shared symbols, instincts, and archetypal patterns that transcends individual experience. Rather than existing as abstract concept, it manifests as living, breathing network of interconnected awareness.
+This telepathic substrate explains the mysterious emergence of what Earth's psychologists term the collective unconscious—that vast repository of shared symbols, instincts, and archetypal patterns that transcends individual experience. Rather than existing as abstract concept, it manifests as living, breathing network of interconnected awareness.
 
 Groups naturally develop unified perspectives not through explicit agreement, but through this unconscious harmonization process. The phenomenon accounts for rapid cultural shifts, mass movements, and the seemingly spontaneous emergence of shared beliefs across populations with no direct contact.
 
@@ -65,8 +65,8 @@ Understanding telepathic field dynamics proves essential for diplomatic contact 
 
 ## Related Topics
 
-- [[Manifestation]]
-- [[Group Psychology]]
+- Manifestation
+- Group Psychology
 
 ## Sources
 

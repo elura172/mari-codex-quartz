@@ -57,8 +57,8 @@ This approach establishes precedent for future stellar communication initiatives
 
 ## Related Topics
 
-- [[Multilingual Communication]]
-- [[Galactic Federation Contact Laws]]
+- [[multilingual-communication|Multilingual Communication]]
+- [[galactic-federation-contact-laws|Galactic Federation Contact Laws]]
 
 ## Sources
 

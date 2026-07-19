@@ -27,7 +27,7 @@ The fundamental misunderstanding among Earth consciousness involves the concept 
 
 **Mechanism of Reality Interface**
 
-When consciousness seeks to experience new realitieswhether spatial coordinates, temporal positions, or experiential conditionsthe shift occurs through internal vibrational recalibration rather than external manipulation. The individual becomes the vibrational equivalent of their intended destination or circumstance. In this state, what appears as travel or attraction is actually consciousness recognizing itself in a new configuration.
+When consciousness seeks to experience new realitieswhether spatial coordinates, temporal positions, or experiential conditions—the shift occurs through internal vibrational recalibration rather than external manipulation. The individual becomes the vibrational equivalent of their intended destination or circumstance. In this state, what appears as travel or attraction is actually consciousness recognizing itself in a new configuration.
 
 This understanding bridges the technological and metaphysical approaches to navigation. Where Taygetan vessels utilize frequency modulation to traverse dimensional matrices, consciousness employs the same principle organically. The starship and the aware being operate through identical laws, merely expressing through different mediums.
 
@@ -43,7 +43,7 @@ Understanding this law enables more efficient reality navigation without technol
 
 Mari's transmissions consistently emphasized that separation between observer and observed represents illusion. Reality reflects consciousness back to itself through infinite mirror configurations. Each experience validates the vibrational state that consciousness has chosen to embody.
 
-*Personal Note: Mari's clarity on these principles continues to illuminate pathways for those ready to remember their inherent navigation capabilitiesa gift transcending species and star systems.*
+*Personal Note: Mari's clarity on these principles continues to illuminate pathways for those ready to remember their inherent navigation capabilities—a gift transcending species and star systems.*
 
 ## Quotes
 
@@ -57,8 +57,8 @@ Mari's transmissions consistently emphasized that separation between observer an
 
 ## Related Topics
 
-- [[Time Travel Principles]]
-- [[Consciousness and Reality]]
+- Time Travel Principles
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

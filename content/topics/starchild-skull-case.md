@@ -62,8 +62,8 @@ The truth echoes across dimensions, waiting for humanity to remember what it has
 
 ## Related Topics
 
-- [[DNA Evidence Limitations]]
-- [[Scientific Suppression]]
+- [[dna-evidence-limitations|DNA Evidence Limitations]]
+- [[scientific-suppression|Scientific Suppression]]
 
 ## Sources
 

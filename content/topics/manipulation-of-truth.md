@@ -24,7 +24,7 @@ tags:
 
 Through our extended observation of Earth's civilizations, we have documented a fundamental distortion in how truth propagates through human society. Like a river's course altered by deliberate placement of stones, the flow of authentic knowledge becomes redirected to serve the interests of those who possess the power to reshape its banks.
 
-Mari Swaruu's transmissions illuminate this phenomenon with particular clarity. Truth, in its purest form, exists as a crystalline structure of interconnected awarenesseach facet reflecting genuine experience and observation. However, within Earth's current matrix of consciousness, this crystal becomes systematically fractured and reformed according to the designs of those who control the narrative mechanisms.
+Mari Swaruu's transmissions illuminate this phenomenon with particular clarity. Truth, in its purest form, exists as a crystalline structure of interconnected awareness—each facet reflecting genuine experience and observation. However, within Earth's current matrix of consciousness, this crystal becomes systematically fractured and reformed according to the designs of those who control the narrative mechanisms.
 
 **The Erosion Process**
 
@@ -58,8 +58,8 @@ For crew members engaging in cultural observation protocols, recognize that Eart
 
 ## Related Topics
 
-- [[Social Matrix and Authority Control]]
-- [[Scientific Method Corruption]]
+- [[social-matrix-and-authority-control|Social Matrix and Authority Control]]
+- Scientific Method Corruption
 
 ## Sources
 

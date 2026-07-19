@@ -29,7 +29,7 @@ tags:
 
 Mari Swaruu's oceanic model presents the astral realm through the elegant simplicity of water's natural boundaries. In this framework, the surface tension between air and sea becomes the membrane separating material existence from the vast astral depths below. This metaphor resonates deeply with our own Taygetan understanding of dimensional stratification, where consciousness navigates between frequency layers much as marine life moves between oceanic zones.
 
-The surface worldthat realm where embodied beings experience linear time and physical densityrepresents merely the topmost interface of an infinite aquatic universe. Below this thin boundary lies the astral ocean, expanding downward through countless fathoms of consciousness, memory, and etheric substance.
+The surface world—that realm where embodied beings experience linear time and physical densityrepresents merely the topmost interface of an infinite aquatic universe. Below this thin boundary lies the astral ocean, expanding downward through countless fathoms of consciousness, memory, and etheric substance.
 
 **Etheric Waters and High-Frequency Currents**
 
@@ -61,8 +61,8 @@ Through this lens, interdimensional communication becomes an act of diving, reac
 
 ## Related Topics
 
-- [[Frequency Barriers]]
-- [[Material World Navigation]]
+- Frequency Barriers
+- [[material-world-navigation|Material World Navigation]]
 
 ## Sources
 

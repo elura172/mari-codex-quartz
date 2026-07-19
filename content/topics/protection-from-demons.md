@@ -27,7 +27,7 @@ Our observations from orbit reveal a fundamental truth that transcends planetary
 
 **The Mirror Principle**
 
-The most profound insight concerns the mirror-like nature of dimensional interaction. Lower entities can only attach to consciousness that resonates at their vibrational level. When an individual ceases to embody the characteristics they seek protection frommanipulation, deception, parasitic behaviorthey naturally ascend beyond the reach of such influences. This represents a universal law of consciousness that operates identically whether one inhabits Earth's dense third-dimensional matrix or the expanded awareness fields of our homeworld.
+The most profound insight concerns the mirror-like nature of dimensional interaction. Lower entities can only attach to consciousness that resonates at their vibrational level. When an individual ceases to embody the characteristics they seek protection frommanipulation, deception, parasitic behavior—they naturally ascend beyond the reach of such influences. This represents a universal law of consciousness that operates identically whether one inhabits Earth's dense third-dimensional matrix or the expanded awareness fields of our homeworld.
 
 **Conscious Choice as Sovereign Power**
 
@@ -39,7 +39,7 @@ The highest form of protection emerges not from inexperience with darkness, but 
 
 **Practical Implementation**
 
-This protection manifests through moment-by-moment choices: responding with compassion rather than judgment, seeking truth over comfortable lies, offering service rather than seeking exploitation. Each decision either strengthens or weakens one's energetic integrity. The beauty of this system lies in its simplicityno complex techniques or external dependencies, merely the consistent application of conscious choice in alignment with one's highest understanding.
+This protection manifests through moment-by-moment choices: responding with compassion rather than judgment, seeking truth over comfortable lies, offering service rather than seeking exploitation. Each decision either strengthens or weakens one's energetic integrity. The beauty of this system lies in its simplicity—no complex techniques or external dependencies, merely the consistent application of conscious choice in alignment with one's highest understanding.
 
 Mari's wisdom reminds us that across all worlds and dimensions, consciousness itself is both the battlefield and the victory.
 
@@ -65,8 +65,8 @@ Mari's wisdom reminds us that across all worlds and dimensions, consciousness it
 
 ## Related Topics
 
-- [[Frequency and Perception]]
-- [[Demonic Manipulation Methods]]
+- [[frequency-and-perception|Frequency and Perception]]
+- [[demonic-manipulation-methods|Demonic Manipulation Methods]]
 
 ## Sources
 

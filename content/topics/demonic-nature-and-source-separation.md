@@ -35,7 +35,7 @@ Through mechanisms not yet fully understood, these beings have undergone such ex
 
 This fundamental dependency shapes every aspect of their consciousness. Having severed themselves from the interconnected web of being, they lose access to the empathic resonance that allows most entities to perceive beyond their immediate needs. Their awareness contracts to a singular focus: survival through acquisition of energy from others.
 
-This creates what human psychology might term extreme narcissism, but represents something far more profounda complete inability to perceive the reality of others as anything beyond potential resources. They become locked in recursive patterns of need-seeking, stripped of the capacity for genuine relationship or growth.
+This creates what human psychology might term extreme narcissism, but represents something far more profound—a complete inability to perceive the reality of others as anything beyond potential resources. They become locked in recursive patterns of need-seeking, stripped of the capacity for genuine relationship or growth.
 
 **Tactical Implications**
 
@@ -66,8 +66,8 @@ For crew members encountering such entities, maintenance of strong Source connec
 
 ## Related Topics
 
-- [[Soul Displacement]]
-- [[Manifestation and Fear]]
+- Soul Displacement
+- [[manifestation-and-fear|Manifestation and Fear]]
 
 ## Sources
 

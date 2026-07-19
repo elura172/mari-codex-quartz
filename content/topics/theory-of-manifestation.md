@@ -39,7 +39,7 @@ What distinguishes this process from mere philosophical speculation is its inher
 
 **Universal Application**
 
-The implications extend beyond individual creation into the realm of collective manifestation. Everything that consciousness contemplates achieves a form of realitynot as wishful thinking, but through the fundamental mechanics of existence itself. This principle operates continuously, whether recognized or not, making conscious awareness both the observer and architect of experience.
+The implications extend beyond individual creation into the realm of collective manifestation. Everything that consciousness contemplates achieves a form of reality—not as wishful thinking, but through the fundamental mechanics of existence itself. This principle operates continuously, whether recognized or not, making conscious awareness both the observer and architect of experience.
 
 **Taygetan Perspective**
 
@@ -79,8 +79,8 @@ The manifestation theory thus represents not merely an explanation of how realit
 
 ## Related Topics
 
-- [[Ether Physics]]
-- [[Consciousness and Gravity Theory]]
+- Ether Physics
+- [[consciousness-and-gravity-theory|Consciousness and Gravity Theory]]
 
 ## Sources
 

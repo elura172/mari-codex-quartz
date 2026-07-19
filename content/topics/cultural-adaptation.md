@@ -53,8 +53,8 @@ The crew members who undergo this transformation return to Taygeta carrying Eart
 
 ## Related Topics
 
-- [[Bridge Between Cultures]]
-- [[Step Down Experiences]]
+- Bridge Between Cultures
+- [[step-down-experiences|Step Down Experiences]]
 
 ## Sources
 

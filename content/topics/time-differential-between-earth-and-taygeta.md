@@ -189,7 +189,7 @@ tags:
 
 — Planet Erra, a peaceful Planet with Violent Weather. ( English ) 
 
-> roughly about 2% of the amount of them found on Earthas most of the population there travels by air or by magnetic trains
+> roughly about 2% of the amount of them found on Earth—as most of the population there travels by air or by magnetic trains
 
 — How Electric Vehicles are in Taygeta, and on Earth. (English) 
 

@@ -66,8 +66,8 @@ The truth remains elegantly simple: humanity already inhabits the stars. Earth r
 
 ## Related Topics
 
-- [[Lyran Heritage]]
-- [[Galactic Society]]
+- Lyran Heritage
+- Galactic Society
 
 ## Sources
 

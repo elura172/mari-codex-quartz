@@ -20,8 +20,8 @@ sources:
 
 ## Related Topics
 
-- [[Astral Entity Influence]]
-- [[Lower Astral Influence]]
+- [[astral-entity-influence|Astral Entity Influence]]
+- Lower Astral Influence
 
 ## Summary
 

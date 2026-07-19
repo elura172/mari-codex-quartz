@@ -63,8 +63,8 @@ Earth's transformation requires beings willing to embody higher possibilities di
 
 ## Related Topics
 
-- [[Higher Self Integration]]
-- [[Higher Realm Perspective]]
+- [[higher-self-integration|Higher Self Integration]]
+- [[higher-realm-perspective|Higher Realm Perspective]]
 
 ## Sources
 

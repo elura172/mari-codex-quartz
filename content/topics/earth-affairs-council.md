@@ -60,7 +60,7 @@ Their work continues largely unseen, weaving threads of influence through the qu
 
 ## Related Topics
 
-- [[Federation Council Structure]]
+- Federation Council Structure
 
 ## Sources
 

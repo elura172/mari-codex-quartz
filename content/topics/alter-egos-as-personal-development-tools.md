@@ -30,7 +30,7 @@ The essence lies in conscious identity fluiditystepping outside the accumulated 
 
 **The Architecture of Transformation**
 
-Mari emphasized that effective alter egos emerge from the void of pure creative potential, not from imitation of existing models. This aligns with Taygetan understanding of consciousness as fundamentally creative forceeach being possesses unlimited capacity to reshape their experiential reality through focused intention.
+Mari emphasized that effective alter egos emerge from the void of pure creative potential, not from imitation of existing models. This aligns with Taygetan understanding of consciousness as fundamentally creative force—each being possesses unlimited capacity to reshape their experiential reality through focused intention.
 
 The alternate identity serves as a bridge between current limitations and expanded possibilities. When one assumes this crafted persona, they access behavioral repertoires, confidence levels, and creative expressions that felt impossible within their familiar identity structure. The psychological barriers dissolve because the new self has no history of failure or restriction.
 
@@ -60,8 +60,8 @@ The technique honors both the dreamer and the dreamacknowledging current limitat
 
 ## Related Topics
 
-- [[Psychological Triggers]]
-- [[Unconscious Mind Programming]]
+- [[psychological-triggers|Psychological Triggers]]
+- [[unconscious-mind-programming|Unconscious Mind Programming]]
 
 ## Sources
 

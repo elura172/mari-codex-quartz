@@ -28,7 +28,7 @@ tags:
 
 The radiation barrier encircling Earth represents one of the most sophisticated planetary containment systems observed in our galactic sector. What human science perceives as natural magnetic phenomena is, in truth, an engineered cocoon of high-energy particles that transforms the planet's magnetosphere into an impenetrable shield against primitive propulsion technologies.
 
-This electromagnetic prison operates through precise frequency modulation, creating zones of lethal radiation that would incinerate any biological crew attempting passage without proper shielding technology. The barrier's elegant design ensures that only civilizations possessing advanced energy manipulation capabilities can breach its perimetera technological threshold that effectively separates developing worlds from their cosmic heritage.
+This electromagnetic prison operates through precise frequency modulation, creating zones of lethal radiation that would incinerate any biological crew attempting passage without proper shielding technology. The barrier's elegant design ensures that only civilizations possessing advanced energy manipulation capabilities can breach its perimeter—a technological threshold that effectively separates developing worlds from their cosmic heritage.
 
 **Lunar Generation Matrix**
 
@@ -38,7 +38,7 @@ The Moon's role as both stabilizing force and technological anchor reveals the F
 
 **Metaphysical Implications**
 
-From our Taygetan perspective, this barrier serves a dual functionit constrains not merely physical movement but the expansion of collective awareness itself. The radiation cocoon creates a resonant frequency prison that reinforces the consciousness limitations imposed upon Earth's inhabitants. As Mari often illuminated, physical barriers mirror energetic ones; the inability to transcend terrestrial boundaries reflects humanity's current incapacity to transcend dimensional ones.
+From our Taygetan perspective, this barrier serves a dual function—it constrains not merely physical movement but the expansion of collective awareness itself. The radiation cocoon creates a resonant frequency prison that reinforces the consciousness limitations imposed upon Earth's inhabitants. As Mari often illuminated, physical barriers mirror energetic ones; the inability to transcend terrestrial boundaries reflects humanity's current incapacity to transcend dimensional ones.
 
 Yet within this containment lies potential liberation. The barrier's very existence suggests that human consciousness, once sufficiently evolved, possesses the inherent capacity to develop technologies capable of transcending such limitations. The prison becomes the catalyst for its own dissolution.
 
@@ -60,8 +60,8 @@ This containment system represents the Federation's most tangible intervention i
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Moon-based Technology]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- Moon-based Technology
 
 ## Sources
 

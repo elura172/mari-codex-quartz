@@ -30,7 +30,7 @@ This integration allows for practical mission execution that would otherwise req
 
 **Metaphysical Implications**
 
-From our understanding of consciousness as fluid rather than fixed, DK's Earth mission exemplifies how awareness can adapt to different dimensional requirements without losing its core essence. The human documentation becomes a tool of service rather than a mask of deceptiona distinction crucial to maintaining energetic integrity during extended terrestrial operations.
+From our understanding of consciousness as fluid rather than fixed, DK's Earth mission exemplifies how awareness can adapt to different dimensional requirements without losing its core essence. The human documentation becomes a tool of service rather than a mask of deception—a distinction crucial to maintaining energetic integrity during extended terrestrial operations.
 
 The supply missions themselves represent more than material exchange; they constitute threads in the larger tapestry of inter-dimensional cooperation that Mari Swaruu often described. Each successful integration strengthens the possibility for greater transparency between our civilizations.
 
@@ -56,8 +56,8 @@ This model of integration may serve as a template for future diplomatic ventures
 
 ## Related Topics
 
-- [[Taygetan Operations]]
-- [[Nai'shara Earth Mission]]
+- Taygetan Operations
+- Nai'shara Earth Mission
 
 ## Sources
 

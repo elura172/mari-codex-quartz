@@ -39,7 +39,7 @@ This influence mechanism operates beyond direct physical manifestation, instead 
 
 Our expanded dimensional awareness allows recognition of astral presence patterns that remain largely invisible to three-dimensional perception systems. The reptilian presence Mari referenced exemplifies how advanced civilizations may maintain societal structures and cultural continuity within astral parameters while simultaneously directing material-world developments.
 
-This understanding illuminates why conventional Earth detection methods fail to locate certain influential speciesnot due to their non-existence, but due to dimensional frequency incompatibility between observation systems and subject entities.
+This understanding illuminates why conventional Earth detection methods fail to locate certain influential species—not due to their non-existence, but due to dimensional frequency incompatibility between observation systems and subject entities.
 
 **Implications for Interstellar Relations**
 
@@ -66,9 +66,9 @@ Mari's insights remind us that reality extends far beyond material manifestation
 
 ## Related Topics
 
-- [[Reptilian Species on Earth]]
-- [[Organic Portals]]
-- [[Vibrational Crossover]]
+- [[reptilian-species-on-earth|Reptilian Species on Earth]]
+- [[organic-portals|Organic Portals]]
+- [[vibrational-crossover|Vibrational Crossover]]
 
 ## Sources
 

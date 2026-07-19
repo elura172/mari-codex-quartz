@@ -58,8 +58,8 @@ The wisdom Mari shared illuminates this delicate balance between compassion and 
 
 ## Related Topics
 
-- [[Consciousness Expansion After Death]]
-- [[Perspective Shift Between Physical and Spirit Worlds]]
+- [[consciousness-expansion-after-death|Consciousness Expansion After Death]]
+- [[perspective-shift-between-physical-and-spirit-worlds|Perspective Shift Between Physical and Spirit Worlds]]
 
 ## Sources
 

@@ -29,7 +29,7 @@ The Taygetean one-piece suit represents far more than protective garmentit embod
 
 **Technological Integration**
 
-Within the molecular weave of this remarkable fabric lies a constellation of integrated systems, each calibrated to respond to both environmental demands and user intention. The polymer cloth serves as living architecture, housing multiple technological functions that operate in seamless harmony. Temperature regulation flows through microscopic channels, creating climate-perfect environments regardless of external conditionsfrom the vacuum of space to planetary surfaces with extreme atmospheric variations.
+Within the molecular weave of this remarkable fabric lies a constellation of integrated systems, each calibrated to respond to both environmental demands and user intention. The polymer cloth serves as living architecture, housing multiple technological functions that operate in seamless harmony. Temperature regulation flows through microscopic channels, creating climate-perfect environments regardless of external conditions—from the vacuum of space to planetary surfaces with extreme atmospheric variations.
 
 **Adaptive Intelligence and Protection**
 
@@ -64,8 +64,8 @@ Through such creations, we honor Mari's teachings about technology serving consc
 
 ## Related Topics
 
-- [[Zero Point Technology]]
-- [[Taygetean Boots]]
+- Zero Point Technology
+- [[taygetean-boots|Taygetean Boots]]
 
 ## Sources
 

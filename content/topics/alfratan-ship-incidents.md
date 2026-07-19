@@ -54,7 +54,7 @@ Mari's wisdom echoes here: that protection sometimes requires allowing natural c
 
 ## Related Topics
 
-- [[Athena Swaruu Mission]]
+- Athena Swaruu Mission
 
 ## Sources
 

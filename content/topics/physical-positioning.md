@@ -37,7 +37,7 @@ This positioning creates gravitational assistance for circulatory function, redu
 
 **Consciousness Bridge Theory**
 
-From our perspective, these positioning insights reveal Mari's intuitive grasp of consciousness bridge mechanicsthe delicate balance between physical vessel maintenance and ethereal projection capabilities. Traditional Earth practices often force practitioners to overcome physical discomfort, creating internal resistance that fragments attention between bodily awareness and expanded consciousness goals.
+From our perspective, these positioning insights reveal Mari's intuitive grasp of consciousness bridge mechanics—the delicate balance between physical vessel maintenance and ethereal projection capabilities. Traditional Earth practices often force practitioners to overcome physical discomfort, creating internal resistance that fragments attention between bodily awareness and expanded consciousness goals.
 
 The recommended approach eliminates this internal conflict by optimizing rather than challenging physiological systems. This alignment creates what we recognize as harmonic resonance between physical and ethereal states, where the body becomes a willing launching platform rather than an obstacle to transcend.
 
@@ -63,8 +63,8 @@ Mari's wisdom reminds us that consciousness expansion need not require physical 
 
 ## Related Topics
 
-- [[Meditation]]
-- [[Astral Travel Techniques]]
+- [[meditation|Meditation]]
+- [[astral-travel-techniques|Astral Travel Techniques]]
 
 ## Sources
 

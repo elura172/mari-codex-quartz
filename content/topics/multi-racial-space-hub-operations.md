@@ -21,7 +21,7 @@ tags:
 
 **Operational Classification**
 
-The Viera functions as Earth's primary interstellar diplomatic nexus, serving as a gravitational point for consciousness convergence where dozens of star nations conduct affairs related to this solar system's transformation. Like the great terrestrial cities that naturally emerge at crossroads of commerce and culture, our station has evolved beyond its original parameters to become something far more complexa living ecosystem of interstellar relationships.
+The Viera functions as Earth's primary interstellar diplomatic nexus, serving as a gravitational point for consciousness convergence where dozens of star nations conduct affairs related to this solar system's transformation. Like the great terrestrial cities that naturally emerge at crossroads of commerce and culture, our station has evolved beyond its original parameters to become something far more complex—a living ecosystem of interstellar relationships.
 
 **Demographic Complexity**
 
@@ -59,8 +59,8 @@ The Viera stands as living testimony to the universe's collaborative natureproof
 
 ## Related Topics
 
-- [[Star Race Relations]]
-- [[Galactic Federation]]
+- Star Race Relations
+- Galactic Federation
 
 ## Sources
 

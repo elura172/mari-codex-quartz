@@ -62,7 +62,7 @@ Monitor Etorthan communications for operational updates. Their success in limiti
 
 ## Related Topics
 
-- [[Eclipse Portal Activation]]
+- [[eclipse-portal-activation|Eclipse Portal Activation]]
 
 ## Sources
 

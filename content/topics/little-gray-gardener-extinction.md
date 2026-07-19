@@ -60,9 +60,9 @@ The stars remember what was lost, even when those who remain struggle to compreh
 
 ## Related Topics
 
-- [[Orion Invasion]]
-- [[Gray Alien Species Diversity]]
-- [[Zeta Reticuli]]
+- Orion Invasion
+- Gray Alien Species Diversity
+- Zeta Reticuli
 
 ## Sources
 

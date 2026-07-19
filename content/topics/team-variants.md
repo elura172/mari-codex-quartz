@@ -40,11 +40,11 @@ From our Taygetan perspective, these games reveal profound insights into how war
 
 **Strategic Evolution**
 
-The absence of spectators in these forest variants suggests their primary purpose transcends entertainment, functioning instead as consciousness development exercises. Teams must develop telepathic coordination, environmental reading skills, and tactical flexibilityall essential capabilities for species operating within galactic civilization contexts.
+The absence of spectators in these forest variants suggests their primary purpose transcends entertainment, functioning instead as consciousness development exercises. Teams must develop telepathic coordination, environmental reading skills, and tactical flexibility—all essential capabilities for species operating within galactic civilization contexts.
 
 **Metaphysical Significance**
 
-Mari's observations illuminate how play becomes pathway to higher consciousness integration. These games bridge individual excellence with collective wisdom, preparing Urmah participants for the collaborative demands of interstellar civilization while honoring their predator heritage. The artificial prey represents symbolic challenges requiring authentic natural wisdom to overcomea perfect metaphor for navigating technological complexity through organic intelligence.
+Mari's observations illuminate how play becomes pathway to higher consciousness integration. These games bridge individual excellence with collective wisdom, preparing Urmah participants for the collaborative demands of interstellar civilization while honoring their predator heritage. The artificial prey represents symbolic challenges requiring authentic natural wisdom to overcome—a perfect metaphor for navigating technological complexity through organic intelligence.
 
 Such practices offer valuable insights for all species seeking to balance individual development with collective evolution.
 
@@ -62,8 +62,8 @@ Such practices offer valuable insights for all species seeking to balance indivi
 
 ## Related Topics
 
-- [[Forshagh]]
-- [[Urmah Culture]]
+- [[forshagh|Forshagh]]
+- [[urmah-culture|Urmah Culture]]
 
 ## Sources
 

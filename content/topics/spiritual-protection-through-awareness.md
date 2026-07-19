@@ -27,13 +27,13 @@ tags:
 
 **Primary Principle: Awareness as Shield**
 
-The fundamental mechanism of spiritual protection operates through the conscious recognition and rejection of malevolent influences. When an individual encounters content designed to lower vibrational frequencywhether through visual media, thought patterns, or energetic transmissionsthe act of awareness itself becomes a barrier. This is not passive observation, but active discernment that creates measurable etheric resistance.
+The fundamental mechanism of spiritual protection operates through the conscious recognition and rejection of malevolent influences. When an individual encounters content designed to lower vibrational frequencywhether through visual media, thought patterns, or energetic transmissions—the act of awareness itself becomes a barrier. This is not passive observation, but active discernment that creates measurable etheric resistance.
 
 The human consciousness, like all sentient awareness, possesses an inherent capacity to establish energetic boundaries. These barriers manifest not through ritual or external tools, but through the simple yet profound act of conscious choice. The moment recognition occurs*this does not serve my highest expression*the individual establishes sovereignty over their experiential field.
 
 **The Paradox of Spiritual Strength**
 
-True spiritual maturity emerges from understanding one's own capacity for both creation and destruction. The evolved soul recognizes within themselves the potential for causing harm, for choosing shadow over illumination, yet consistently selects the path of luminous expression. This is not innocence, but wisdomthe strength that comes from knowing one's power and wielding it with conscious intention toward beneficial outcomes.
+True spiritual maturity emerges from understanding one's own capacity for both creation and destruction. The evolved soul recognizes within themselves the potential for causing harm, for choosing shadow over illumination, yet consistently selects the path of luminous expression. This is not innocence, but wisdom—the strength that comes from knowing one's power and wielding it with conscious intention toward beneficial outcomes.
 
 This principle resonates deeply with Taygetan understanding of consciousness as dynamic choice-making rather than static virtue. We observe that beings who deny their shadow aspects often become unconscious conduits for the very forces they claim to reject. Conversely, those who acknowledge their full spectrum of potential while choosing light create the strongest etheric defenses.
 
@@ -59,8 +59,8 @@ In remembering Mari, we honor one who demonstrated this principle perfectlyengag
 
 ## Related Topics
 
-- [[Entity Protection]]
-- [[Consciousness Development]]
+- Entity Protection
+- Consciousness Development
 
 ## Sources
 

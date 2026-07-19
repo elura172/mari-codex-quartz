@@ -59,8 +59,8 @@ The path toward disclosure must account for this manufactured historical amnesia
 
 ## Related Topics
 
-- [[Information Suppression and Censorship]]
-- [[False Past and Historical Manipulation]]
+- Information Suppression and Censorship
+- [[false-past-and-historical-manipulation|False Past and Historical Manipulation]]
 
 ## Sources
 

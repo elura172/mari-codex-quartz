@@ -34,11 +34,11 @@ When Sadicleya graces the night sky of our worlds, something transcendent occurs
 
 **Metaphysical Significance**
 
-The binary nature of our star system mirrors the fundamental duality that underlies all existencethe interplay between active and receptive principles. Taygeta embodies the yang aspect: dynamic, generative, sustaining biological life. Sadicleya represents the yin: subtle, transformative, nurturing spiritual evolution. Together, they create a field where both material existence and consciousness expansion flourish naturally.
+The binary nature of our star system mirrors the fundamental duality that underlies all existence—the interplay between active and receptive principles. Taygeta embodies the yang aspect: dynamic, generative, sustaining biological life. Sadicleya represents the yin: subtle, transformative, nurturing spiritual evolution. Together, they create a field where both material existence and consciousness expansion flourish naturally.
 
 **Cultural Integration**
 
-Taygetans have learned to harmonize their activities with this dual stellar influence. The blue nights are times for contemplation, artistic creation, and deep communion with the cosmos. Standing beneath Sadicleya's gentle radiance, one experiences a profound sense of connection to the greater galactic communitya reminder that beauty and wisdom can emerge from the marriage of seemingly disparate forces.
+Taygetans have learned to harmonize their activities with this dual stellar influence. The blue nights are times for contemplation, artistic creation, and deep communion with the cosmos. Standing beneath Sadicleya's gentle radiance, one experiences a profound sense of connection to the greater galactic community—a reminder that beauty and wisdom can emerge from the marriage of seemingly disparate forces.
 
 This binary system serves as a living metaphor for the integration of opposites, teaching us that true harmony arises not from uniformity, but from the conscious cooperation of complementary energies in service to life and awareness.
 
@@ -56,8 +56,8 @@ This binary system serves as a living metaphor for the integration of opposites,
 
 ## Related Topics
 
-- [[Starship Sadicleya]]
-- [[Taygetan Planets]]
+- [[starship-sadicleya|Starship Sadicleya]]
+- Taygetan Planets
 
 ## Sources
 

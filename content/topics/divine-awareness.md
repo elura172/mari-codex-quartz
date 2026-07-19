@@ -32,7 +32,7 @@ Mari Swaruu's transmissions illuminate a fundamental truth that transcends speci
 
 **Beyond Linguistic Cartography**
 
-The divine awareness Mari describes operates in frequencies beyond verbal transmission. It exists in that space between thoughts where knowing precedes understanding, where experience supersedes explanation. This wordless recognition forms the bedrock of authentic spiritual navigationa principle as applicable to our own stellar consciousness as to human awakening.
+The divine awareness Mari describes operates in frequencies beyond verbal transmission. It exists in that space between thoughts where knowing precedes understanding, where experience supersedes explanation. This wordless recognition forms the bedrock of authentic spiritual navigation—a principle as applicable to our own stellar consciousness as to human awakening.
 
 We observe that terrestrial beings often become trapped in definitional labyrinths, believing that naming creates knowing. Yet true comprehension emerges through direct communion with one's essential nature, much as a star knows its luminosity not through external measurement but through the act of shining itself.
 
@@ -42,7 +42,7 @@ What Mari identifies as the futility of explanation points toward a deeper wisdo
 
 **Navigational Implications for Consciousness**
 
-For diplomatic missions and consciousness interface protocols, this understanding proves crucial. True communication between species occurs not merely through translated concepts but through recognition of shared divine awarenessthat wordless knowing that underlies all individual expression. When we encounter terrestrial consciousness, we meet not foreign concepts of soul but familiar expressions of the same infinite awareness we embody.
+For diplomatic missions and consciousness interface protocols, this understanding proves crucial. True communication between species occurs not merely through translated concepts but through recognition of shared divine awareness—that wordless knowing that underlies all individual expression. When we encounter terrestrial consciousness, we meet not foreign concepts of soul but familiar expressions of the same infinite awareness we embody.
 
 **Integration Protocol**
 
@@ -64,7 +64,7 @@ Crew members engaging with human consciousness are advised to approach from this
 
 ## Related Topics
 
-- [[Liberation and Enlightenment]]
+- [[liberation-and-enlightenment|Liberation and Enlightenment]]
 
 ## Sources
 

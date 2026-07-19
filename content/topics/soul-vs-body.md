@@ -28,7 +28,7 @@ The consciousness you recognize as "self" exists independently of the biological
 
 **Operational Framework**
 
-Consider the body as sophisticated translation equipment, much like the remote sensing devices we employ for planetary surveys. Just as our operators remain safely aboard ship while directing mechanical extensions into hostile environments, so does your eternal consciousness direct the biological apparatus from realms of pure awareness. The physical brain serves not as the seat of identity, but as an interfacea complex receiver and transmitter converting infinite soul-frequencies into actionable experience within density.
+Consider the body as sophisticated translation equipment, much like the remote sensing devices we employ for planetary surveys. Just as our operators remain safely aboard ship while directing mechanical extensions into hostile environments, so does your eternal consciousness direct the biological apparatus from realms of pure awareness. The physical brain serves not as the seat of identity, but as an interface—a complex receiver and transmitter converting infinite soul-frequencies into actionable experience within density.
 
 **Implications for Memory and Identity**
 
@@ -58,8 +58,8 @@ Mari's wisdom echoes throughout our fleet: you are immortal beings temporarily w
 
 ## Related Topics
 
-- [[DNA as Antenna]]
-- [[Immortality of Consciousness]]
+- [[dna-as-antenna|DNA as Antenna]]
+- [[immortality-of-consciousness|Immortality of Consciousness]]
 
 ## Sources
 

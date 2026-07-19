@@ -61,7 +61,7 @@ The eclipse passes, but the data remainsanother thread in the complex tapestry o
 
 ## Related Topics
 
-- [[Eclipse Portal Activation]]
+- [[eclipse-portal-activation|Eclipse Portal Activation]]
 
 ## Sources
 

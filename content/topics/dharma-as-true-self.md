@@ -35,7 +35,7 @@ The terrestrial concept of karma frequently traps beings in cycles of artificial
 
 **The Architecture of Authentic Being**
 
-To live dharmic existence requires profound self-knowing. This involves recognizing every facet of one's consciousnessthe brilliant and the shadowed alikeand accepting complete responsibility for the totality of one's being. Unlike compliance with external rules, Dharma demands internal sovereignty: the courage to manifest one's truth even when it challenges conventional structures.
+To live dharmic existence requires profound self-knowing. This involves recognizing every facet of one's consciousnessthe brilliant and the shadowed alike—and accepting complete responsibility for the totality of one's being. Unlike compliance with external rules, Dharma demands internal sovereignty: the courage to manifest one's truth even when it challenges conventional structures.
 
 **Taygetan Perspective**
 
@@ -68,9 +68,9 @@ Dharma represents consciousness taking full responsibility for its own expressio
 
 ## Related Topics
 
-- [[Manifestation]]
-- [[Service to Others]]
-- [[Karma Redefinition]]
+- Manifestation
+- Service to Others
+- [[karma-redefinition|Karma Redefinition]]
 
 ## Sources
 

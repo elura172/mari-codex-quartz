@@ -96,9 +96,9 @@ Mari's teachings illuminate these principles not as abstract concepts but as pra
 
 ## Related Topics
 
-- [[Reality Manifestation]]
-- [[Starseeds]]
-- [[Collective Unconscious]]
+- [[reality-manifestation|Reality Manifestation]]
+- [[starseeds|Starseeds]]
+- [[collective-unconscious|Collective Unconscious]]
 
 ## Sources
 

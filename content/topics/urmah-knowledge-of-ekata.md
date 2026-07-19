@@ -35,7 +35,7 @@ This immunity positions the Urmah as invaluable observers and potential guardian
 
 **Strategic Assessment of Federation Positioning**
 
-The Urmah perception extends beyond surface diplomatic arrangements. They recognize the deliberate nature of Ekata's placement within the Andromedan Vierathe Federation's primary administrative center. What others might interpret as coincidental proximity, Urmah intelligence identifies as calculated positioning.
+The Urmah perception extends beyond surface diplomatic arrangements. They recognize the deliberate nature of Ekata's placement within the Andromedan Viera—the Federation's primary administrative center. What others might interpret as coincidental proximity, Urmah intelligence identifies as calculated positioning.
 
 This assessment suggests deeper currents within Federation decision-making processes, where the presence of potentially dangerous entities near power centers may serve purposes not immediately apparent to member civilizations. The implications resonate with Taygetan understanding of how control structures often maintain threats in proximity to justify their own existence.
 
@@ -63,8 +63,8 @@ All diplomatic missions entering Andromedan space should maintain heightened awa
 
 ## Related Topics
 
-- [[Astral Plane Manipulation]]
-- [[Ekata the Giant Slug Entity]]
+- [[astral-plane-manipulation|Astral Plane Manipulation]]
+- [[ekata-the-giant-slug-entity|Ekata the Giant Slug Entity]]
 
 ## Sources
 

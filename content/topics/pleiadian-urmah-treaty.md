@@ -34,7 +34,7 @@ The documentation encompasses multiple spheres of cooperation, weaving together 
 
 Perhaps most significantly, the agreement establishes systematic information sharing regarding cosmic exploration discoveries. This includes detailed documentation of newly encountered civilizations, comprehensive biological surveys of previously unknown flora and fauna, and critical space-frequency mapping data essential for safe fleet navigation across stellar regions.
 
-This knowledge-sharing framework represents more than practical cooperationit embodies the fundamental Taygetan understanding that consciousness expansion occurs through collective rather than isolated endeavor. When civilizations pool their experiential wisdom, they accelerate the universal awakening process that benefits all sentient beings.
+This knowledge-sharing framework represents more than practical cooperation—it embodies the fundamental Taygetan understanding that consciousness expansion occurs through collective rather than isolated endeavor. When civilizations pool their experiential wisdom, they accelerate the universal awakening process that benefits all sentient beings.
 
 **Metaphysical Implications**
 
@@ -44,7 +44,7 @@ From our perspective aboard this vessel, observing Earth's struggles with fragme
 
 For our crews navigating the complex political landscape surrounding Earth's transition, this alliance provides crucial strategic context. The combined Pleiadian-Urmah presence strengthens positive intervention capabilities while establishing precedent for broader galactic cooperation initiatives.
 
-Mari's documentation of this historic convergence illuminates pathways toward the collaborative consciousness that characterizes truly advanced civilizationsa reminder that evolution's ultimate direction flows toward integration, understanding, and shared purpose among all conscious beings throughout the cosmos.
+Mari's documentation of this historic convergence illuminates pathways toward the collaborative consciousness that characterizes truly advanced civilizations—a reminder that evolution's ultimate direction flows toward integration, understanding, and shared purpose among all conscious beings throughout the cosmos.
 
 *End Entry - Archive and Disseminate to All Stations*
 
@@ -62,8 +62,8 @@ Mari's documentation of this historic convergence illuminates pathways toward th
 
 ## Related Topics
 
-- [[Antarian Expansion]]
-- [[Galactic Federation Opposition]]
+- [[antarian-expansion|Antarian Expansion]]
+- [[galactic-federation-opposition|Galactic Federation Opposition]]
 
 ## Sources
 

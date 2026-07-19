@@ -59,8 +59,8 @@ For Earth humans seeking protection from shadow intrusions, no method proves mor
 
 ## Related Topics
 
-- [[Shadow People Behavior and Characteristics]]
-- [[Shadow People Detection Methods]]
+- [[shadow-people-behavior-and-characteristics|Shadow People Behavior and Characteristics]]
+- [[shadow-people-detection-methods|Shadow People Detection Methods]]
 
 ## Sources
 

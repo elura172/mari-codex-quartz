@@ -59,8 +59,8 @@ The path forward requires holding space for both protective discernment and open
 
 ## Related Topics
 
-- [[Urmah Relations]]
-- [[Taygetan Response]]
+- [[urmah-relations|Urmah Relations]]
+- Taygetan Response
 
 ## Sources
 

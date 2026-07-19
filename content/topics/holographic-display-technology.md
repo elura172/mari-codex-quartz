@@ -60,7 +60,7 @@ The holographic nature of these displays echoes the holographic nature of existe
 
 ## Related Topics
 
-- [[Quantum Holographic Computer Technology]]
+- [[quantum-holographic-computer-technology|Quantum Holographic Computer Technology]]
 
 ## Sources
 

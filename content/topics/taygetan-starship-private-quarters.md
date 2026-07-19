@@ -25,7 +25,7 @@ Within the flowing geometry of Taygetan vessels, individual sovereignty finds it
 
 The quarters align along specialized deck levels, accessed through corridors that mirror the six-sided sacred geometry found throughout our ship designs. This hexagonal configuration creates optimal energy flow while providing natural meditation points at each intersection. As one walks these pathways toward their personal sanctuary, the very architecture guides consciousness inward, preparing the mind for the transition from collective service to individual reflection.
 
-The proximity sensors responding to each crew member's approach represent more than mere conveniencethey acknowledge the unique vibrational signature of each consciousness, creating an energetic handshake between individual and vessel. The ship itself recognizes and welcomes each soul home.
+The proximity sensors responding to each crew member's approach represent more than mere convenience—they acknowledge the unique vibrational signature of each consciousness, creating an energetic handshake between individual and vessel. The ship itself recognizes and welcomes each soul home.
 
 **Technological Harmony in Private Space**
 
@@ -53,8 +53,8 @@ These quarters stand as architectural expressions of lovelove for consciousness 
 
 ## Related Topics
 
-- [[Starship Design]]
-- [[Taygetan Technology]]
+- Starship Design
+- [[taygetan-technology|Taygetan Technology]]
 
 ## Sources
 

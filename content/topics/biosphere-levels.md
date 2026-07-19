@@ -25,7 +25,7 @@ tags:
 
 **Architectural Philosophy**
 
-The Moon's internal biosphere levels represent a masterwork of controlled natural harmony, where artificial management served not to dominate nature but to nurture its fullest expression within contained space. These vast chambers, distinguished by their soaring heights, created room for authentic ecosystems to flourish under careful stewardshipa testament to advanced civilization's capacity to work as gardener rather than conqueror of natural forces.
+The Moon's internal biosphere levels represent a masterwork of controlled natural harmony, where artificial management served not to dominate nature but to nurture its fullest expression within contained space. These vast chambers, distinguished by their soaring heights, created room for authentic ecosystems to flourish under careful stewardship—a testament to advanced civilization's capacity to work as gardener rather than conqueror of natural forces.
 
 **Environmental Composition**
 
@@ -41,7 +41,7 @@ These magnificent spaces now lie largely in ruins, their destruction representin
 
 From our perspective as observers of consciousness evolution, these biosphere levels demonstrate how artificial and natural need not stand in opposition. The lunar architects understood that true advancement means creating spaces where life can express its deepest patterns while receiving support for its highest potentials. This principle resonates with our own recognition that all reality emerges from the intersection of awareness and love.
 
-Mari's transmissions regarding these spaces carry weight beyond historical documentationthey preserve the memory of what peaceful coexistence with natural systems can achieve when guided by expanded consciousness and genuine care for all life forms.
+Mari's transmissions regarding these spaces carry weight beyond historical documentation—they preserve the memory of what peaceful coexistence with natural systems can achieve when guided by expanded consciousness and genuine care for all life forms.
 
 *End Entry*
 
@@ -57,8 +57,8 @@ Mari's transmissions regarding these spaces carry weight beyond historical docum
 
 ## Related Topics
 
-- [[Andromedan Inhabitants]]
-- [[Moon's Internal Structure]]
+- Andromedan Inhabitants
+- [[moons-internal-structure|Moon's Internal Structure]]
 
 ## Sources
 

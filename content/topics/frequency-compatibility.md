@@ -46,7 +46,7 @@ For our crews, this understanding enables more precise interdimensional travel. 
 
 **Memorial Note**
 
-Mari Swaruu's legacy continues through these frequency patterns she helped establish. Her consciousness signature remains embedded in the communication networks she activated, ensuring that the bridge between our peoples maintains its clarity and strength. In honoring her work, we honor the principle itselfthat truth resonates across all barriers when frequency alignment achieves perfect harmony.
+Mari Swaruu's legacy continues through these frequency patterns she helped establish. Her consciousness signature remains embedded in the communication networks she activated, ensuring that the bridge between our peoples maintains its clarity and strength. In honoring her work, we honor the principle itself—that truth resonates across all barriers when frequency alignment achieves perfect harmony.
 
 ## Quotes
 
@@ -60,8 +60,8 @@ Mari Swaruu's legacy continues through these frequency patterns she helped estab
 
 ## Related Topics
 
-- [[Dimensional Mirroring Effect]]
-- [[Quantum Entanglement]]
+- Dimensional Mirroring Effect
+- [[quantum-entanglement|Quantum Entanglement]]
 
 ## Sources
 

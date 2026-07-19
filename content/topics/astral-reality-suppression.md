@@ -39,15 +39,15 @@ The suppression timeline extends far beyond recent centuries, suggesting coordin
 
 **Consciousness Impact**
 
-From our Taygetan perspective, this suppression creates a form of dimensional amnesiaa collective forgetting of humanity's natural state as multi-dimensional beings. Where our societies maintain fluid integration between physical and astral awareness, Earth's population experiences reality through artificially narrowed perception filters. This limitation affects not only individual spiritual development but planetary collective consciousness evolution.
+From our Taygetan perspective, this suppression creates a form of dimensional amnesia—a collective forgetting of humanity's natural state as multi-dimensional beings. Where our societies maintain fluid integration between physical and astral awareness, Earth's population experiences reality through artificially narrowed perception filters. This limitation affects not only individual spiritual development but planetary collective consciousness evolution.
 
 **Operational Mechanics**
 
-The brainwashing operates through repetition and institutional authority rather than force. By presenting material reductionism as scientific sophistication while dismissing astral phenomena as superstition, the controllers have achieved voluntary compliance with consciousness limitation. This represents psychological architecture of remarkable efficiencythe controlled actively defend their own perceptual imprisonment.
+The brainwashing operates through repetition and institutional authority rather than force. By presenting material reductionism as scientific sophistication while dismissing astral phenomena as superstition, the controllers have achieved voluntary compliance with consciousness limitation. This represents psychological architecture of remarkable efficiency—the controlled actively defend their own perceptual imprisonment.
 
 **Strategic Assessment**
 
-Mari's observations illuminate a control system that functions through absence rather than presenceby removing knowledge rather than imposing false information. This creates a population unaware of their diminished state, eliminating resistance to the suppression itself. The effectiveness lies in making the extraordinary seem impossible rather than forbidden.
+Mari's observations illuminate a control system that functions through absence rather than presence—by removing knowledge rather than imposing false information. This creates a population unaware of their diminished state, eliminating resistance to the suppression itself. The effectiveness lies in making the extraordinary seem impossible rather than forbidden.
 
 **Crew Advisory**
 
@@ -69,8 +69,8 @@ Personnel engaging in Earth operations should recognize that terrestrial humans 
 
 ## Related Topics
 
-- [[Government Astral Projects]]
-- [[Dreams as Astral Experience]]
+- [[government-astral-projects|Government Astral Projects]]
+- [[dreams-as-astral-experience|Dreams as Astral Experience]]
 
 ## Sources
 

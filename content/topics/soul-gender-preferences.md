@@ -30,7 +30,7 @@ Through countless cycles of incarnation, souls gather impressions and attachment
 
 **Maturation Patterns**
 
-Younger souls demonstrate greater fluidity in gender selection, sampling various expressions as they explore the spectrum of biological experience. However, as souls mature and clarify their learning objectives, we observe increasing consistency in their gender choices. This represents not restriction, but refinementthe soul recognizing which vessel best serves its particular mission of growth and service.
+Younger souls demonstrate greater fluidity in gender selection, sampling various expressions as they explore the spectrum of biological experience. However, as souls mature and clarify their learning objectives, we observe increasing consistency in their gender choices. This represents not restriction, but refinement—the soul recognizing which vessel best serves its particular mission of growth and service.
 
 **Taygetan Perspective**
 
@@ -63,7 +63,7 @@ This understanding bridges the apparent contradiction between the soul's genderl
 
 ## Related Topics
 
-- [[Reincarnation and Past Lives]]
+- [[reincarnation-and-past-lives|Reincarnation and Past Lives]]
 
 ## Sources
 

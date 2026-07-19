@@ -79,8 +79,8 @@ Mari's teachings illuminate how apparent tragedy frequently serves as consciousn
 
 ## Related Topics
 
-- [[Consciousness Filtering]]
-- [[Life Contracts]]
+- [[consciousness-filtering|Consciousness Filtering]]
+- Life Contracts
 
 ## Sources
 

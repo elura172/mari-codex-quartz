@@ -78,8 +78,8 @@ The Federation's current trajectory indicates a civilization at a crossroadscapa
 
 ## Related Topics
 
-- [[Andromedan Relations]]
-- [[Interstellar Politics]]
+- Andromedan Relations
+- Interstellar Politics
 
 ## Sources
 

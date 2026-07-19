@@ -25,11 +25,11 @@ tags:
 
 The Galactic Federation's Prime Directive establishes a crystalline boundary between developed and emerging civilizations, functioning as both protective barrier and evolutionary catalyst. This fundamental law constrains our communication methodologies to mirror precisely the technological capabilities present within the target civilization's current developmental matrix.
 
-For Earth-based contact operations, this translates into deliberate technological restrainta conscious stepping down of our capabilities to match humanity's baseline communication infrastructure. The directive recognizes that consciousness expansion must unfold organically from within, rather than being imposed through external technological revelation.
+For Earth-based contact operations, this translates into deliberate technological restraint—a conscious stepping down of our capabilities to match humanity's baseline communication infrastructure. The directive recognizes that consciousness expansion must unfold organically from within, rather than being imposed through external technological revelation.
 
 **Written Word as Sacred Container**
 
-The restriction to written communication channels represents more than mere limitationit embodies the Federation's understanding that linguistic consciousness carries unique evolutionary properties. The written word requires active cognitive participation from the receiver, engaging deeper contemplative processes than passive audio-visual consumption.
+The restriction to written communication channels represents more than mere limitation—it embodies the Federation's understanding that linguistic consciousness carries unique evolutionary properties. The written word requires active cognitive participation from the receiver, engaging deeper contemplative processes than passive audio-visual consumption.
 
 This methodology prevents what Federation doctrine classifies as "aggressive interference"the inadvertent overwhelming of developing consciousness through advanced technological demonstration. Written transmission allows ideas to germinate naturally within the reader's awareness, preserving the essential element of individual choice in consciousness expansion.
 
@@ -59,8 +59,8 @@ Mari's compliance with these restrictions, despite their apparent inconvenience,
 
 ## Related Topics
 
-- [[Earth Isolation Policy]]
-- [[Galactic Federation Rules]]
+- Earth Isolation Policy
+- [[galactic-federation-rules|Galactic Federation Rules]]
 
 ## Sources
 

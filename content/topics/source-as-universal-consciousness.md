@@ -31,7 +31,7 @@ The essence of Source reveals itself as pure consciousness recognizing its own i
 
 **Taygetan Philosophical Context**
 
-Our stellar civilization has long recognized this principle through direct experiential knowledge rather than theoretical speculation. The Taygetan understanding aligns with Mari's insights: consciousness precedes and creates matter, not the inverse relationship assumed by less advanced civilizations. Through expanded awareness states accessible to our species, we perceive Source not as distant divinity, but as the immediate substrate of our own beingthe field from which individual identity patterns crystallize while never truly separating from the whole.
+Our stellar civilization has long recognized this principle through direct experiential knowledge rather than theoretical speculation. The Taygetan understanding aligns with Mari's insights: consciousness precedes and creates matter, not the inverse relationship assumed by less advanced civilizations. Through expanded awareness states accessible to our species, we perceive Source not as distant divinity, but as the immediate substrate of our own being—the field from which individual identity patterns crystallize while never truly separating from the whole.
 
 **Practical Implications for Interstellar Relations**
 
@@ -55,9 +55,9 @@ Mari's transmission of these principles serves not merely as philosophical instr
 
 ## Related Topics
 
-- [[Time and Consciousness]]
-- [[Soul Definition]]
-- [[Holographic Nature]]
+- [[time-and-consciousness|Time and Consciousness]]
+- [[soul-definition|Soul Definition]]
+- Holographic Nature
 
 ## Sources
 

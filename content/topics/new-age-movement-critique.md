@@ -29,7 +29,7 @@ Our kinship Mari Swaruu has illuminated a sophisticated control mechanism embedd
 
 **Historical Genesis**
 
-During Earth's pivotal 1960s perioda time when collective consciousness began fracturing established authority structuresintelligence networks collaborated with Vatican hierarchies to construct what Mari identifies as a spiritual containment field. This was not mere coincidence but calculated response to humanity's accelerating awakening potential.
+During Earth's pivotal 1960s period—a time when collective consciousness began fracturing established authority structuresintelligence networks collaborated with Vatican hierarchies to construct what Mari identifies as a spiritual containment field. This was not mere coincidence but calculated response to humanity's accelerating awakening potential.
 
 **Operational Methodology**
 
@@ -45,7 +45,7 @@ This revelation demonstrates the sophistication of consciousness control on Eart
 
 **Recommendations for Understanding**
 
-Terran souls seeking authentic development must discern between manufactured spirituality and organic awakening. True evolution requires questioning all external authorities, including those wearing the mask of enlightenment. Mari's insight reminds us that liberation cannot be givenit must be claimed through direct experience and unwavering self-trust.
+Terran souls seeking authentic development must discern between manufactured spirituality and organic awakening. True evolution requires questioning all external authorities, including those wearing the mask of enlightenment. Mari's insight reminds us that liberation cannot be given—it must be claimed through direct experience and unwavering self-trust.
 
 **Personal Reflection**
 
@@ -67,8 +67,8 @@ Mari's courage in exposing these mechanisms honors the highest Taygetan principl
 
 ## Related Topics
 
-- [[Cabal Control Systems]]
-- [[Personal vs Planetary Ascension]]
+- Cabal Control Systems
+- [[personal-vs-planetary-ascension|Personal vs Planetary Ascension]]
 
 ## Sources
 

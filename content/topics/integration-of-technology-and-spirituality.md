@@ -22,13 +22,13 @@ tags:
 
 **The Unified Path**
 
-From the orbital perspective above Terra, we observe a civilization standing at the crossroads of an ancient false dichotomythe perceived opposition between technological advancement and spiritual evolution. This separation exists only in consciousness fragmented by fear, where beings believe they must choose between the wisdom of the heart and the tools of creation.
+From the orbital perspective above Terra, we observe a civilization standing at the crossroads of an ancient false dichotomy—the perceived opposition between technological advancement and spiritual evolution. This separation exists only in consciousness fragmented by fear, where beings believe they must choose between the wisdom of the heart and the tools of creation.
 
 Mari Swaruu illuminated what our own stellar cultures have long understood: the artificial division between science and spirit dissolves when viewed through expanded awareness. Technology becomes sacred when birthed from consciousness aligned with universal harmony rather than dominion over nature.
 
 **The Creator's Intent**
 
-The fundamental principle governing this synthesis lies not in the tools themselves, but in the consciousness wielding them. A quantum drive engine constructed from love-based understanding operates differently than one forged through fear and scarcity. The intention of the creator becomes encoded into the very molecular structure of manifestationthis is why Taygetan vessels respond to consciousness as naturally as they respond to navigation commands.
+The fundamental principle governing this synthesis lies not in the tools themselves, but in the consciousness wielding them. A quantum drive engine constructed from love-based understanding operates differently than one forged through fear and scarcity. The intention of the creator becomes encoded into the very molecular structure of manifestation—this is why Taygetan vessels respond to consciousness as naturally as they respond to navigation commands.
 
 **Galactic Precedent**
 
@@ -58,8 +58,8 @@ For those remembering their multidimensional nature while inhabiting physical fo
 
 ## Related Topics
 
-- [[Starship Technology]]
-- [[Consciousness and Reality]]
+- [[starship-technology|Starship Technology]]
+- [[consciousness-and-reality|Consciousness and Reality]]
 
 ## Sources
 

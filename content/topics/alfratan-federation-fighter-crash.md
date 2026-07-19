@@ -28,7 +28,7 @@ The intersection of consciousness and technology reveals itself most starkly in 
 
 **Operational Context**
 
-The vessel originated from Hangar F, a primary staging facility for Alfratan military operations within this sector. Initial surface reports suggested hostile engagementa surface-to-air missile forcing evasive maneuvers that ultimately proved fatal. Yet beneath this narrative of technical failure lies a more sobering truth about the fragility of consciousness operating sophisticated machinery.
+The vessel originated from Hangar F, a primary staging facility for Alfratan military operations within this sector. Initial surface reports suggested hostile engagement—a surface-to-air missile forcing evasive maneuvers that ultimately proved fatal. Yet beneath this narrative of technical failure lies a more sobering truth about the fragility of consciousness operating sophisticated machinery.
 
 **Investigative Findings**
 
@@ -46,7 +46,7 @@ The crash occurred within Earth's monitored airspace, creating potential complic
 
 Mari's transmission regarding this incident serves as a stark reminder that technological superiority cannot compensate for compromised consciousness. Whether Taygetan, Alfratan, or any other stellar civilization, the fundamental responsibility remains unchanged: to approach our vessels, our missions, and our fellow beings with clarity of mind and purity of intent.
 
-The Eastern Yukon now holds within its ancient mountains the transformed essence of two souls whose final lesson echoes across star systemsthat consciousness, in all its forms, demands our deepest respect and most vigilant care.
+The Eastern Yukon now holds within its ancient mountains the transformed essence of two souls whose final lesson echoes across star systems—that consciousness, in all its forms, demands our deepest respect and most vigilant care.
 
 **Status:** File archived for ongoing diplomatic reference and training protocols.
 
@@ -62,8 +62,8 @@ The Eastern Yukon now holds within its ancient mountains the transformed essence
 
 ## Related Topics
 
-- [[Galactic Federation Operations]]
-- [[Earth Military Response]]
+- [[galactic-federation-operations|Galactic Federation Operations]]
+- Earth Military Response
 
 ## Sources
 

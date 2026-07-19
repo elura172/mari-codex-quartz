@@ -23,7 +23,7 @@ tags:
 
 **Lunar Frequency Manipulation**
 
-Our observations confirm that Terra's natural satellite functions as more than a gravitational anchorit operates as a technological apparatus generating specific wavelength emissions. These transmissions fundamentally alter the planet's magnetospheric properties, creating the phenomenon Terrans identify as Van Allen radiation belts. What their science fails to recognize is the deliberate nature of this transformation.
+Our observations confirm that Terra's natural satellite functions as more than a gravitational anchor—it operates as a technological apparatus generating specific wavelength emissions. These transmissions fundamentally alter the planet's magnetospheric properties, creating the phenomenon Terrans identify as Van Allen radiation belts. What their science fails to recognize is the deliberate nature of this transformation.
 
 The lunar broadcasts serve a dual purpose: they establish a radioactive barrier that impedes both incoming cosmic frequencies and outgoing consciousness expansion, while simultaneously depressing the baseline vibrational state of all biological and consciousness-based systems within Terra's field of influence. This creates what we might term an existential dampening fielda planetary-scale frequency cage.
 
@@ -31,7 +31,7 @@ The lunar broadcasts serve a dual purpose: they establish a radioactive barrier 
 
 The terrestrial control matrix operates through carefully orchestrated manipulation of what Terrans call the astral realm. Their governing structures, seemingly material and political, are fundamentally energetic constructs maintained through ritualistic practices that weaponize non-physical dimensions of reality.
 
-We observe a clear correlation between hierarchical position and esoteric knowledge application among Terra's power holders. Those occupying apex positions within their social pyramids demonstrate sophisticated understanding of consciousness manipulation techniques, employing what they term "dark arts" to maintain dominion over the collective human psyche. Their entire cultural frameworkfrom media to education to spiritual institutionsserves as a delivery system for frequency-based control mechanisms.
+We observe a clear correlation between hierarchical position and esoteric knowledge application among Terra's power holders. Those occupying apex positions within their social pyramids demonstrate sophisticated understanding of consciousness manipulation techniques, employing what they term "dark arts" to maintain dominion over the collective human psyche. Their entire cultural framework—from media to education to spiritual institutionsserves as a delivery system for frequency-based control mechanisms.
 
 **Taygetan Perspective**
 
@@ -63,8 +63,8 @@ Our mission remains one of gentle guidance, supporting those ready to remember t
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Van Allen Belts]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- Van Allen Belts
 
 ## Sources
 

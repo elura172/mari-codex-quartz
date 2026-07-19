@@ -65,8 +65,8 @@ Mari Swaruu's observations suggest this represents coordinated social engineerin
 
 ## Related Topics
 
-- [[Artificial Intelligence Limitations and Uses]]
-- [[Control Systems]]
+- [[artificial-intelligence-limitations-and-uses|Artificial Intelligence Limitations and Uses]]
+- [[control-systems|Control Systems]]
 
 ## Sources
 

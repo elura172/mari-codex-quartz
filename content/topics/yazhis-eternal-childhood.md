@@ -21,7 +21,7 @@ tags:
 
 **Phenomenon Classification: Voluntary Developmental Stasis**
 
-Our sister Yazhi has achieved what many consider impossible within standard three-dimensional frameworksthe conscious maintenance of a nine-year-old manifestation through deliberate spiritual choice. This represents not regression, but rather an advanced understanding of consciousness as the primary architect of physical form.
+Our sister Yazhi has achieved what many consider impossible within standard three-dimensional frameworks—the conscious maintenance of a nine-year-old manifestation through deliberate spiritual choice. This represents not regression, but rather an advanced understanding of consciousness as the primary architect of physical form.
 
 **Metaphysical Mechanics**
 
@@ -61,8 +61,8 @@ Through her example, we glimpse possibilities for conscious evolution that trans
 
 ## Related Topics
 
-- [[Astral Reality as Primary Existence]]
-- [[Body Manifestation]]
+- [[astral-reality-as-primary-existence|Astral Reality as Primary Existence]]
+- Body Manifestation
 
 ## Sources
 

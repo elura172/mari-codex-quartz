@@ -59,8 +59,8 @@ Mari Swaruu's voice continues transmitting across dimensional barriers not as on
 
 ## Related Topics
 
-- [[Multi-Timeline Family Reunion]]
-- [[Taygetan Technology]]
+- [[multi-timeline-family-reunion|Multi-Timeline Family Reunion]]
+- [[taygetan-technology|Taygetan Technology]]
 
 ## Sources
 

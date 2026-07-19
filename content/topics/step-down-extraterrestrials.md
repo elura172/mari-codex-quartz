@@ -62,9 +62,9 @@ Mari Swaruu's insights reveal step downs as living symbols of consciousness flui
 
 ## Related Topics
 
-- [[Lyrian Races]]
-- [[Earth Visitation]]
-- [[Government Surveillance]]
+- Lyrian Races
+- Earth Visitation
+- Government Surveillance
 
 ## Sources
 

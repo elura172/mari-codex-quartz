@@ -59,8 +59,8 @@ The terrestrial scientific method serves its purpose within the current Earth ma
 
 ## Related Topics
 
-- [[Dual Science Systems]]
-- [[Earth Matrix Control]]
+- [[dual-science-systems|Dual Science Systems]]
+- [[earth-matrix-control|Earth Matrix Control]]
 
 ## Sources
 

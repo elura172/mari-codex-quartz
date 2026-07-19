@@ -52,8 +52,8 @@ Through such thoughtful integration of living systems within technological frame
 
 ## Related Topics
 
-- [[Deep Space Operations]]
-- [[Starship Sadicleya]]
+- Deep Space Operations
+- [[starship-sadicleya|Starship Sadicleya]]
 
 ## Sources
 

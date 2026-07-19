@@ -60,8 +60,8 @@ Her journey reminds us that sometimes being lost leads to exactly where the univ
 
 ## Related Topics
 
-- [[Chase Sequence]]
-- [[Space Navigation]]
+- Chase Sequence
+- [[space-navigation|Space Navigation]]
 
 ## Sources
 

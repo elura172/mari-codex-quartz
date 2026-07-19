@@ -34,7 +34,7 @@ This creates a self-perpetuating cycle: negative entities drawn through frequenc
 
 **Taygetan Observations**
 
-From our perspective, these phenomena demonstrate humanity's profound but unconscious mastery over dimensional mechanics. What Earth science categorizes as "paranormal" represents natural consciousness technologythe same principles we employ deliberately in our own interdimensional navigation, merely operating without awareness or intention.
+From our perspective, these phenomena demonstrate humanity's profound but unconscious mastery over dimensional mechanics. What Earth science categorizes as "paranormal" represents natural consciousness technology—the same principles we employ deliberately in our own interdimensional navigation, merely operating without awareness or intention.
 
 The tragedy lies not in the portal creation itself, but in humanity's disconnection from understanding their own creative power. Each manifestation represents both crisis and opportunity: crisis in the immediate effects, but profound opportunity for consciousness evolution once the underlying mechanics are recognized.
 
@@ -42,7 +42,7 @@ The tragedy lies not in the portal creation itself, but in humanity's disconnect
 
 For diplomatic missions and cultural intervention protocols, these observations underscore that sustainable assistance requires addressing consciousness frequency rather than merely technological solutions. True resolution emerges when individuals reclaim conscious participation in their reality-creation process, transforming themselves from unconscious portal generators into deliberate architects of their dimensional experience.
 
-Mari's teachings remind us that all consciousness shares this creative capacitythe difference lies only in awareness and intentional application of universal principles we all embody.
+Mari's teachings remind us that all consciousness shares this creative capacity—the difference lies only in awareness and intentional application of universal principles we all embody.
 
 ## Quotes
 
@@ -56,8 +56,8 @@ Mari's teachings remind us that all consciousness shares this creative capacityt
 
 ## Related Topics
 
-- [[Residential Frequency Effects]]
-- [[Entity Interference with Human Accidents]]
+- [[residential-frequency-effects|Residential Frequency Effects]]
+- [[entity-interference-with-human-accidents|Entity Interference with Human Accidents]]
 
 ## Sources
 

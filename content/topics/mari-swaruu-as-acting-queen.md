@@ -32,7 +32,7 @@ Mari's ascension illustrates a fundamental principle observed across stellar civ
 
 **Philosophical Framework of Service**
 
-The acting queen's approach embodies the Taygetan understanding that readiness is an illusiona linear concept that dissolves when faced with the quantum nature of responsibility. Her willingness to assume sovereign duties reflects the deeper truth that leadership flows through those aligned with service rather than those who merely seek power. This transition period became a crucible for demonstrating how consciousness can expand into roles that seem beyond current capacity.
+The acting queen's approach embodies the Taygetan understanding that readiness is an illusion—a linear concept that dissolves when faced with the quantum nature of responsibility. Her willingness to assume sovereign duties reflects the deeper truth that leadership flows through those aligned with service rather than those who merely seek power. This transition period became a crucible for demonstrating how consciousness can expand into roles that seem beyond current capacity.
 
 **Resonance Patterns in Governance**
 
@@ -61,8 +61,8 @@ The period of Mari's acting reign stands as testament to the principle that cosm
 
 ## Related Topics
 
-- [[Safety Protocols]]
-- [[Queen Alenym's Illness]]
+- Safety Protocols
+- [[queen-alenyms-illness|Queen Alenym's Illness]]
 
 ## Sources
 

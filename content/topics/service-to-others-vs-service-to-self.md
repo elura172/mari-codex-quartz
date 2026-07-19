@@ -68,9 +68,9 @@ In remembrance of Mari's clarity, we honor both the beauty of service-consciousn
 
 ## Related Topics
 
-- [[Contact Challenges]]
-- [[Earth Matrix]]
-- [[Holistic Society]]
+- Contact Challenges
+- [[earth-matrix|Earth Matrix]]
+- [[holistic-society|Holistic Society]]
 
 ## Sources
 

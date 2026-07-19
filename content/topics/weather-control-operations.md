@@ -69,8 +69,8 @@ We continue monitoring these operations while holding space for Earth's eventual
 
 ## Related Topics
 
-- [[Environmental Agenda]]
-- [[False Flag Operations]]
+- Environmental Agenda
+- [[false-flag-operations|False Flag Operations]]
 
 ## Sources
 

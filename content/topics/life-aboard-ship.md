@@ -33,7 +33,7 @@ These observations transcend mere visual experience. They represent a form of me
 
 **Consciousness Expansion Through Perspective**
 
-Living at the threshold between Earth's atmosphere and the cosmic void cultivates a distinctive form of awareness. The artificial environments of starshipswith their simulated lighting systems and carefully maintained atmospheric conditionscreate a bridge between worlds. Crew members exist simultaneously as children of their home planets and citizens of the greater cosmos.
+Living at the threshold between Earth's atmosphere and the cosmic void cultivates a distinctive form of awareness. The artificial environments of starships—with their simulated lighting systems and carefully maintained atmospheric conditionscreate a bridge between worlds. Crew members exist simultaneously as children of their home planets and citizens of the greater cosmos.
 
 This liminal existence awakens faculties dormant in planetary-bound consciousness. Time becomes fluid, space becomes intimate, and the distinction between observer and cosmos begins to dissolve. Each rapid orbital cycle serves as a meditation on impermanence and perspective, teaching lessons no terrestrial monastery could provide.
 
@@ -53,8 +53,8 @@ The psychological adaptations required for extended orbital deployment prepare c
 
 ## Related Topics
 
-- [[Identity and Belonging]]
-- [[Space Phenomena]]
+- [[identity-and-belonging|Identity and Belonging]]
+- Space Phenomena
 
 ## Sources
 

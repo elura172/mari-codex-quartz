@@ -35,9 +35,9 @@ The Earth experience presents unique challenges in this regard, as the planetary
 
 **Operational Wisdom**
 
-The truly service-oriented being recognizes that their wellbeing is not separate from the collective wellbeingit is a crucial component of it. By maintaining their own energetic integrity, physical health, emotional clarity, and spiritual connection, they ensure their capacity to serve remains robust across time. This is not selfishness but wisdom, not narcissism but responsibility.
+The truly service-oriented being recognizes that their wellbeing is not separate from the collective wellbeing—it is a crucial component of it. By maintaining their own energetic integrity, physical health, emotional clarity, and spiritual connection, they ensure their capacity to serve remains robust across time. This is not selfishness but wisdom, not narcissism but responsibility.
 
-From our perspective, watching these dynamics play out across human civilization, we observe that the most effective agents of positive change are those who have learned this delicate balance. They serve powerfully because they serve from fullness, not emptinessfrom choice, not compulsion.
+From our perspective, watching these dynamics play out across human civilization, we observe that the most effective agents of positive change are those who have learned this delicate balance. They serve powerfully because they serve from fullness, not emptiness—from choice, not compulsion.
 
 **Integration Protocol**
 
@@ -61,9 +61,9 @@ The universe serves itself through each conscious being willing to become a clea
 
 ## Related Topics
 
-- [[Personal Responsibility]]
-- [[Dharma as True Self]]
-- [[Manifestation]]
+- [[personal-responsibility|Personal Responsibility]]
+- [[dharma-as-true-self|Dharma as True Self]]
+- Manifestation
 
 ## Sources
 

@@ -65,8 +65,8 @@ In observing Yazhi's journey, we witness not an anomaly but a preview of conscio
 
 ## Related Topics
 
-- [[Multi-Level Astral Travel]]
-- [[Physical Reality Manipulation]]
+- Multi-Level Astral Travel
+- [[physical-reality-manipulation|Physical Reality Manipulation]]
 
 ## Sources
 

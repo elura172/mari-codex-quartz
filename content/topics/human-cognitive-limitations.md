@@ -61,7 +61,7 @@ Mari's insights remind us that every species navigates unique passages toward ex
 
 ## Related Topics
 
-- [[Extraterrestrial Integration Challenges]]
+- [[extraterrestrial-integration-challenges|Extraterrestrial Integration Challenges]]
 
 ## Sources
 

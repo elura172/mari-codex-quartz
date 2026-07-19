@@ -27,7 +27,7 @@ In the delicate dance of cross-dimensional commerce and humanitarian mission wor
 
 Selected crew members who possess legitimate human identification credentials serve as vital intermediaries in Earth-based operations. These documents, obtained through voluntary donor arrangements rather than fraudulent manufacture, represent a conscious collaboration between Taygetan operatives and awakened human allies. This ethical framework ensures our interventions remain aligned with universal principles of consent and mutual benefit.
 
-The identity cards themselves function as more than mere bureaucratic toolsthey serve as energetic keys that unlock Earth's complex social machinery, enabling our supply missions and humanitarian efforts to proceed without triggering the planetary control system's defensive protocols.
+The identity cards themselves function as more than mere bureaucratic tools—they serve as energetic keys that unlock Earth's complex social machinery, enabling our supply missions and humanitarian efforts to proceed without triggering the planetary control system's defensive protocols.
 
 **Operational Significance**
 
@@ -39,7 +39,7 @@ This capability proves particularly crucial during extended surface missions whe
 
 From a consciousness perspective, these identity documents represent fascinating artifacts of Earth's collective agreement to external authority structures. While Taygetans naturally recognize individual sovereignty as self-evident, humans have constructed elaborate systems requiring external validation of one's very existence.
 
-Our operatives who carry such credentials often report profound insights into the human experience of fragmented identitythe strange sensation of existing as both infinite consciousness and documented citizen simultaneously. This experiential bridge enhances their effectiveness as cultural liaisons and deepens our understanding of human psychological dynamics.
+Our operatives who carry such credentials often report profound insights into the human experience of fragmented identity—the strange sensation of existing as both infinite consciousness and documented citizen simultaneously. This experiential bridge enhances their effectiveness as cultural liaisons and deepens our understanding of human psychological dynamics.
 
 **Mari's Reflection**
 
@@ -59,8 +59,8 @@ The documents themselves will become obsolete as Earth transitions beyond scarci
 
 ## Related Topics
 
-- [[Galactic Federation Mandates]]
-- [[Step Down Experiences]]
+- [[galactic-federation-mandates|Galactic Federation Mandates]]
+- [[step-down-experiences|Step Down Experiences]]
 
 ## Sources
 

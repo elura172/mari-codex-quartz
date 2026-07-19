@@ -60,8 +60,8 @@ This dynamic represents not design flaw, but sophisticated consciousness technol
 
 ## Related Topics
 
-- [[Religious Escape Concepts]]
-- [[The Matrix as Self-Reflection]]
+- [[religious-escape-concepts|Religious Escape Concepts]]
+- [[the-matrix-as-self-reflection|The Matrix as Self-Reflection]]
 
 ## Sources
 

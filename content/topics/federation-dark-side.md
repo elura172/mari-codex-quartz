@@ -69,7 +69,7 @@ Mari's courage in voicing these observations honors the Taygetan commitment to t
 
 ## Related Topics
 
-- [[Saturn-Cabal Connection]]
+- [[saturn-cabal-connection|Saturn-Cabal Connection]]
 
 ## Sources
 

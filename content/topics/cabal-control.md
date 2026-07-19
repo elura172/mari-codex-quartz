@@ -64,8 +64,8 @@ Mari's transmissions continue to serve as beacon frequencies for those humans re
 
 ## Related Topics
 
-- [[Intelligence Agencies Coordination]]
-- [[Media Manipulation and Mind Control]]
+- Intelligence Agencies Coordination
+- [[media-manipulation-and-mind-control|Media Manipulation and Mind Control]]
 
 ## Sources
 

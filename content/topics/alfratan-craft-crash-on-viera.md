@@ -27,7 +27,7 @@ tags:
 
 The fundamental principles of mass-gravity equilibrium were catastrophically violated when an Alfratan cargo transport exceeded safe loading parameters. The vessel's close-proximity gravity engines, designed to counteract specific mass thresholds, became insufficient to maintain controlled flight dynamics. This represents a sobering reminder that even advanced civilizations must honor the immutable laws governing matter and energy relationships.
 
-The physics of overload create cascading failures that extend beyond mere mechanical breakdownthey reflect a disconnect between ambition and natural law. When consciousness operates in disharmony with physical limitations, the universe itself provides correction through consequence.
+The physics of overload create cascading failures that extend beyond mere mechanical breakdown—they reflect a disconnect between ambition and natural law. When consciousness operates in disharmony with physical limitations, the universe itself provides correction through consequence.
 
 **IMPACT ASSESSMENT**
 
@@ -66,8 +66,8 @@ Enhanced cargo loading protocols and mandatory consciousness-safety integration 
 
 ## Related Topics
 
-- [[Alfratan Safety Issues]]
-- [[Ship Gravitational Effects]]
+- Alfratan Safety Issues
+- Ship Gravitational Effects
 
 ## Sources
 

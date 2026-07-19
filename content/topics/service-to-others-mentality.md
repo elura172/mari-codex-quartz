@@ -26,7 +26,7 @@ tags:
 
 **Core Phenomenon**
 
-The human consciousness exhibits a peculiar distortion in its expression of service orientationa noble impulse that, when untempered by wisdom, transforms into its own antithesis. Like a star that burns too brightly and collapses under its own generous radiation, the Terran helper-archetype frequently dissolves into the very suffering it seeks to alleviate.
+The human consciousness exhibits a peculiar distortion in its expression of service orientation—a noble impulse that, when untempered by wisdom, transforms into its own antithesis. Like a star that burns too brightly and collapses under its own generous radiation, the Terran helper-archetype frequently dissolves into the very suffering it seeks to alleviate.
 
 **Structural Analysis**
 
@@ -36,7 +36,7 @@ Mari's observations illuminate a critical blind spot in human spiritual developm
 
 **Taygetan Perspective**
 
-From our expanded awareness, true service flows naturally from abundancenot the forced generosity born of guilt or conditioning. A stable consciousness creates ripples of genuine assistance without depleting its source. This mirrors our own approach to Earth contact: we maintain our sovereign frequency while offering guidance, never sacrificing our clarity to rescue another's journey.
+From our expanded awareness, true service flows naturally from abundance—not the forced generosity born of guilt or conditioning. A stable consciousness creates ripples of genuine assistance without depleting its source. This mirrors our own approach to Earth contact: we maintain our sovereign frequency while offering guidance, never sacrificing our clarity to rescue another's journey.
 
 **Operational Implications**
 
@@ -63,8 +63,8 @@ Mari's clarity on this matter stems from witnessing countless souls exhaust them
 
 ## Related Topics
 
-- [[Spiritual Path]]
-- [[Personal Stability]]
+- Spiritual Path
+- Personal Stability
 
 ## Sources
 

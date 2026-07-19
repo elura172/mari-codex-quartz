@@ -60,8 +60,8 @@ Mari's transmissions remind us that our vigil above Earth transcends dutyit embo
 
 ## Related Topics
 
-- [[Earth Orbit Monitoring]]
-- [[Extraterrestrial Infiltration]]
+- Earth Orbit Monitoring
+- Extraterrestrial Infiltration
 
 ## Sources
 

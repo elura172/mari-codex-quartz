@@ -69,8 +69,8 @@ The mirror always reflects truth. The question becomes: what truth does one wish
 
 ## Related Topics
 
-- [[Unconscious Mind Dominance]]
-- [[Manifestation Power]]
+- Unconscious Mind Dominance
+- [[manifestation-powers|Manifestation Power]]
 
 ## Sources
 

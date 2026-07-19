@@ -31,7 +31,7 @@ Human intermediariespolitical figures, corporate executives, and secret society 
 
 **Patience as Operational Principle**
 
-The controlling entities demonstrate a patience alien to human psychology. Where humans seek immediate results and recognition, these overseers operate through methodical progression across centuries. Their investment in gradual social engineering reflects a consciousness unbound by biological mortalitya hallmark of advanced non-human intelligence.
+The controlling entities demonstrate a patience alien to human psychology. Where humans seek immediate results and recognition, these overseers operate through methodical progression across centuries. Their investment in gradual social engineering reflects a consciousness unbound by biological mortality—a hallmark of advanced non-human intelligence.
 
 This patient approach manifests in the seamless coordination between seemingly independent movements and institutions worldwide. The synchronicity of global policy shifts, cultural modifications, and technological implementations reveals a unified directing intelligence operating beyond human governmental structures.
 
@@ -59,8 +59,8 @@ The truth, as Mari consistently emphasized, serves liberation rather than limita
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Matrix Reality Control]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- [[matrix-reality-control|Matrix Reality Control]]
 
 ## Sources
 

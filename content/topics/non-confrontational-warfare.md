@@ -67,8 +67,8 @@ This wisdom flows through Mari's transmission as both practical strategy and pro
 
 ## Related Topics
 
-- [[Source Energy Identity]]
-- [[Astral Warriors]]
+- [[source-energy-identity|Source Energy Identity]]
+- [[astral-warriors|Astral Warriors]]
 
 ## Sources
 

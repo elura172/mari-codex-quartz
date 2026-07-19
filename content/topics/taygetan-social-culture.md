@@ -28,7 +28,7 @@ This temporal sovereignty manifests not as laziness, but as a fundamental trust 
 
 **Environmental Harmony as Social Expression**
 
-The physical landscape of Taygetan settlements serves as both mirror and foundation for their social consciousness. Urban planning becomes an extension of collective mindfulness, where every pathway, garden, and architectural element reflects the interior state of the inhabitants. The meticulous care given to shared spacesthe precisely tended flowering gardens adorning each structure, the pristine maintenance of public areasdemonstrates a civilization that has transcended the artificial separation between individual and collective wellbeing.
+The physical landscape of Taygetan settlements serves as both mirror and foundation for their social consciousness. Urban planning becomes an extension of collective mindfulness, where every pathway, garden, and architectural element reflects the interior state of the inhabitants. The meticulous care given to shared spaces—the precisely tended flowering gardens adorning each structure, the pristine maintenance of public areasdemonstrates a civilization that has transcended the artificial separation between individual and collective wellbeing.
 
 This environmental stewardship emerges not from imposed regulation but from an innate understanding that external beauty nourishes the soul's capacity for peaceful interaction. When beings exist in surroundings that honor both function and aesthetics, their social exchanges naturally embody the same qualities of thoughtfulness and grace.
 
@@ -56,8 +56,8 @@ Understanding this social matrix proves essential for diplomatic contact protoco
 
 ## Related Topics
 
-- [[Taygetan Civilization]]
-- [[Social Systems]]
+- [[taygetan-civilization|Taygetan Civilization]]
+- Social Systems
 
 ## Sources
 

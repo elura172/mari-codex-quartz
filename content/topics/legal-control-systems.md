@@ -21,7 +21,7 @@ tags:
 
 **Primary Analysis**
 
-Our kinship with Mari Swaruu illuminates a profound deception woven into humanity's legal architecture. In the early 14th century, the Roman ecclesiastical authority instituted a conceptual flattening of Earth's geometrynot from astronomical ignorance, but as the foundation for a control matrix of staggering sophistication.
+Our kinship with Mari Swaruu illuminates a profound deception woven into humanity's legal architecture. In the early 14th century, the Roman ecclesiastical authority instituted a conceptual flattening of Earth's geometry—not from astronomical ignorance, but as the foundation for a control matrix of staggering sophistication.
 
 **The Dimensional Paradox**
 
@@ -59,7 +59,7 @@ The wisdom Mari shares echoes through our ship's corridors, reminding us that fr
 
 ## Related Topics
 
-- [[Flat Earth Theory]]
+- [[flat-earth-theory|Flat Earth Theory]]
 
 ## Sources
 

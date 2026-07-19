@@ -23,7 +23,7 @@ tags:
 
 **The Threshold of No Return**
 
-Among the most immutable laws governing Federation intervention protocols stands the doctrine of permanent severance regarding terrestrial extractions. This regulation operates not merely as administrative procedure, but as a fundamental recognition of dimensional transitionthe understanding that certain crossings alter the very fabric of one's existence within the matrix of planetary consciousness.
+Among the most immutable laws governing Federation intervention protocols stands the doctrine of permanent severance regarding terrestrial extractions. This regulation operates not merely as administrative procedure, but as a fundamental recognition of dimensional transition—the understanding that certain crossings alter the very fabric of one's existence within the matrix of planetary consciousness.
 
 **The Weight of Absolute Decision**
 
@@ -31,11 +31,11 @@ The Federation's inflexibility in this matter reflects deeper metaphysical princ
 
 **Understanding the Permanence**
 
-This law acknowledges that extraction represents more than physical relocationit constitutes a fundamental transformation of being. The individual who departs Earth's surface is not the same entity who might theoretically return. Their consciousness, having expanded beyond terrestrial limitations, cannot be compressed back into the narrow bandwidth of planetary existence without severe psychological and spiritual damage.
+This law acknowledges that extraction represents more than physical relocation—it constitutes a fundamental transformation of being. The individual who departs Earth's surface is not the same entity who might theoretically return. Their consciousness, having expanded beyond terrestrial limitations, cannot be compressed back into the narrow bandwidth of planetary existence without severe psychological and spiritual damage.
 
 **Compassionate Severity**
 
-From our Taygetan perspective, this apparent harshness reveals profound compassion. The Federation recognizes that partial connections create sufferingthe extracted individual would experience Earth's density as a prison, while their expanded awareness might inadvertently disrupt the natural evolution of those still within the planetary experience. The clean severance, though painful, honors both the journey forward and the integrity of what is left behind.
+From our Taygetan perspective, this apparent harshness reveals profound compassion. The Federation recognizes that partial connections create suffering—the extracted individual would experience Earth's density as a prison, while their expanded awareness might inadvertently disrupt the natural evolution of those still within the planetary experience. The clean severance, though painful, honors both the journey forward and the integrity of what is left behind.
 
 **Sacred Responsibility**
 
@@ -59,8 +59,8 @@ Though physical return remains impossible, the extracted being carries within th
 
 ## Related Topics
 
-- [[Extraction Logistics]]
-- [[Extraction Ethics]]
+- Extraction Logistics
+- Extraction Ethics
 
 ## Sources
 

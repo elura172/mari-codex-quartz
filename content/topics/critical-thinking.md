@@ -30,11 +30,11 @@ Mari's observations reveal a fundamental truth that resonates across dimensional
 
 **Individual Sovereignty Through Analytical Development**
 
-The cultivation of independent discernment represents more than intellectual exerciseit constitutes spiritual warfare against the entropy of collective unconsciousness. Mari emphasized that each being must forge the mental resilience necessary to navigate information streams without surrendering personal authority to external validators. This process requires constant vigilance, questioning not merely the content presented but the underlying motivations of those presenting it.
+The cultivation of independent discernment represents more than intellectual exercise—it constitutes spiritual warfare against the entropy of collective unconsciousness. Mari emphasized that each being must forge the mental resilience necessary to navigate information streams without surrendering personal authority to external validators. This process requires constant vigilance, questioning not merely the content presented but the underlying motivations of those presenting it.
 
 **The Mirror of Truth**
 
-From our Taygetan perspective, consciousness operates as a holographic mirror, reflecting back the vibrational frequency of our beliefs and expectations. When beings abdicate their analytical responsibility to institutional authorities, they effectively dim their own inner knowing. Mari's guidance points toward reclaiming this luminous capacitythe ability to sense truth through direct resonance rather than through filtered consensus reality.
+From our Taygetan perspective, consciousness operates as a holographic mirror, reflecting back the vibrational frequency of our beliefs and expectations. When beings abdicate their analytical responsibility to institutional authorities, they effectively dim their own inner knowing. Mari's guidance points toward reclaiming this luminous capacity—the ability to sense truth through direct resonance rather than through filtered consensus reality.
 
 **Practical Application Matrix**
 
@@ -60,8 +60,8 @@ The path forward requires courage to stand alone when necessary, wisdom to disce
 
 ## Related Topics
 
-- [[Information Control]]
-- [[Matrix Escape Methods]]
+- Information Control
+- Matrix Escape Methods
 
 ## Sources
 

@@ -70,14 +70,14 @@ This knowledge serves not merely as philosophical insight, but as practical wisd
 
 — Cosmos, Gravity and the Theory of Manifestation. (English)  
 
-> Time is not a thing, and it does not exist separately from the personthe consciousness and awareness that is perceiving and experiencing it. Time is the result of the focus and attention a soul is giving to its ideas.
+> Time is not a thing, and it does not exist separately from the person—the consciousness and awareness that is perceiving and experiencing it. Time is the result of the focus and attention a soul is giving to its ideas.
 
 — Time Travel and why Timelines dont really exist. (SV-67 English)
 
 ## Related Topics
 
-- [[Historical Manipulation]]
-- [[Hexa-dimensional Space-Time]]
+- [[historical-manipulation|Historical Manipulation]]
+- Hexa-dimensional Space-Time
 
 ## Sources
 

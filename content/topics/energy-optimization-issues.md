@@ -25,7 +25,7 @@ tags:
 
 **The Efficiency Trap**
 
-Our sister Mari has illuminated a profound contradiction within our technological evolutionone that mirrors the delicate balance between conservation and capability that governs all conscious creation. The latest generation of replicator systems represents both an advancement and a limitation, embodying the eternal dance between resourcefulness and power.
+Our sister Mari has illuminated a profound contradiction within our technological evolution—one that mirrors the delicate balance between conservation and capability that governs all conscious creation. The latest generation of replicator systems represents both an advancement and a limitation, embodying the eternal dance between resourcefulness and power.
 
 **Architectural Refinement and Its Shadows**
 
@@ -63,8 +63,8 @@ Mari's observations remind us that true advancement lies not merely in doing mor
 
 ## Related Topics
 
-- [[Base Material Composition]]
-- [[Recent Replicator Problems]]
+- [[base-material-composition|Base Material Composition]]
+- [[recent-replicator-problems|Recent Replicator Problems]]
 
 ## Sources
 

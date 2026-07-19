@@ -61,7 +61,7 @@ Through careful stewardship of these companions, we honor both their unique expr
 
 ## Related Topics
 
-- [[Toleka Life]]
+- Toleka Life
 
 ## Sources
 

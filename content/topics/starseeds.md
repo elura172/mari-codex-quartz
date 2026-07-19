@@ -128,9 +128,9 @@ These souls represent critical infrastructure for Earth's evolutionary potential
 
 ## Related Topics
 
-- [[Vibrational Frequency]]
-- [[Cultural Identity]]
-- [[Reality Manifestation]]
+- [[vibrational-frequency|Vibrational Frequency]]
+- Cultural Identity
+- [[reality-manifestation|Reality Manifestation]]
 
 ## Sources
 

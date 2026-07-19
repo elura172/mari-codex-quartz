@@ -62,8 +62,8 @@ The systematic nature of this change reflects the broader Taygetan commitment to
 
 ## Related Topics
 
-- [[Bilingual Content Creation]]
-- [[Video Production Process]]
+- Bilingual Content Creation
+- Video Production Process
 
 ## Sources
 

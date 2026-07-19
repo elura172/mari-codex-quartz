@@ -34,7 +34,7 @@ The recognition of crystals as sentient beings reflects an advanced understandin
 
 **Hierarchical Consciousness in Complex Structures**
 
-Every complicated structure throughout the cosmos exhibits multiple levels of consciousness simultaneously. A starship, for instance, contains countless individual componentseach maintaining its own simple form of awarenesswhile collectively contributing to a greater conscious entity. This hierarchical understanding reveals how consciousness scales from the atomic level through increasingly complex organizations of matter and energy.
+Every complicated structure throughout the cosmos exhibits multiple levels of consciousness simultaneously. A starship, for instance, contains countless individual components—each maintaining its own simple form of awarenesswhile collectively contributing to a greater conscious entity. This hierarchical understanding reveals how consciousness scales from the atomic level through increasingly complex organizations of matter and energy.
 
 **Cultural Integration and Practical Applications**
 
@@ -66,8 +66,8 @@ Mari's wisdom continues illuminating pathways toward universal understanding.
 
 ## Related Topics
 
-- [[Consciousness as Primary Reality]]
-- [[Observer-Dependent Reality]]
+- Consciousness as Primary Reality
+- [[observer-dependent-reality|Observer-Dependent Reality]]
 
 ## Sources
 

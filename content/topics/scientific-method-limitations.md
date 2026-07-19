@@ -75,8 +75,8 @@ The future of Earth's knowledge systems lies not in abandoning scientific rigor,
 
 ## Related Topics
 
-- [[Terrestrial Matrix]]
-- [[Earth Controllers]]
+- Terrestrial Matrix
+- [[earth-controllers|Earth Controllers]]
 
 ## Sources
 

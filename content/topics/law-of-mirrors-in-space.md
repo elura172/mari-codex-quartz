@@ -56,8 +56,8 @@ Successful interstellar crews develop collective consciousness practices, ensuri
 
 ## Related Topics
 
-- [[Deep Space Existential Dynamics]]
-- [[Consciousness Creates Reality]]
+- [[deep-space-existential-dynamics|Deep Space Existential Dynamics]]
+- [[consciousness-creates-reality|Consciousness Creates Reality]]
 
 ## Sources
 

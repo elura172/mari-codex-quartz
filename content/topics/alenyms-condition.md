@@ -28,7 +28,7 @@ tags:
 
 **Medical Overview**
 
-The royal consciousness known as Alenym currently undergoes profound biological restoration within our most advanced regenerative matrix. Her physical form rests suspended in the healing waters of a medical pod, where cellular reconstruction occurs at the molecular level. This process represents not merely medical intervention, but a sacred act of preservationthe careful tending of a flame that nearly extinguished.
+The royal consciousness known as Alenym currently undergoes profound biological restoration within our most advanced regenerative matrix. Her physical form rests suspended in the healing waters of a medical pod, where cellular reconstruction occurs at the molecular level. This process represents not merely medical intervention, but a sacred act of preservation—the careful tending of a flame that nearly extinguished.
 
 **Nature of the Threat**
 
@@ -36,7 +36,7 @@ The attack upon Alenym's life bore the hallmarks of sophisticated malevolence, c
 
 **Healing Protocol and Timeline**
 
-Within the pod's nurturing embrace, Alenym's form experiences complete systemic renewal. The three-month duration represents the outer boundary of our regenerative capabilitiesa full cycle where every cell, every neural pathway, every quantum signature can be restored to optimal coherence. The wet pod environment provides more than biological support; it offers a womb-like sanctuary where consciousness can retreat from trauma while the body rebuilds itself according to its divine blueprint.
+Within the pod's nurturing embrace, Alenym's form experiences complete systemic renewal. The three-month duration represents the outer boundary of our regenerative capabilities—a full cycle where every cell, every neural pathway, every quantum signature can be restored to optimal coherence. The wet pod environment provides more than biological support; it offers a womb-like sanctuary where consciousness can retreat from trauma while the body rebuilds itself according to its divine blueprint.
 
 **Deeper Implications**
 
@@ -64,8 +64,8 @@ Her recovery represents hope not only for Taygetan leadership continuity, but fo
 
 ## Related Topics
 
-- [[Medical Technology]]
-- [[Time Differential]]
+- [[medical-technology|Medical Technology]]
+- [[time-differential|Time Differential]]
 
 ## Sources
 

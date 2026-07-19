@@ -69,8 +69,8 @@ These insights, transmitted through Mari Swaruu's consciousness bridge, illumina
 
 ## Related Topics
 
-- [[Soul Expansion and Retraction]]
-- [[Taygetan Medicine]]
+- [[soul-expansion-and-retraction|Soul Expansion and Retraction]]
+- [[taygetan-medicine|Taygetan Medicine]]
 
 ## Sources
 

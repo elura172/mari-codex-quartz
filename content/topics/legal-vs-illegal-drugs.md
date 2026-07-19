@@ -27,7 +27,7 @@ Through the analytical lens of our departed sister Mari, we observe a fascinatin
 
 **The Architecture of Selective Prohibition**
 
-This systematic inconsistency reveals itself as far from accidental. Where governing bodies claim that prohibition creates greater societal harmciting their own historical precedent with alcohol restrictionthey simultaneously maintain rigid enforcement against substances that challenge different aspects of human awareness. The pattern suggests a calculated preservation of tools that diminish consciousness while suppressing those that might enhance it.
+This systematic inconsistency reveals itself as far from accidental. Where governing bodies claim that prohibition creates greater societal harmciting their own historical precedent with alcohol restriction—they simultaneously maintain rigid enforcement against substances that challenge different aspects of human awareness. The pattern suggests a calculated preservation of tools that diminish consciousness while suppressing those that might enhance it.
 
 From our perspective observing Earth's energy fields, alcohol serves as a particularly effective dampener of higher cognitive functions and spiritual receptivity. Its widespread acceptance creates populations more susceptible to external control, less capable of questioning imposed narratives, and increasingly dependent on external validation systems.
 
@@ -41,7 +41,7 @@ The terrestrial approach to psychoactive regulation represents a microcosm of br
 
 For our crews interfacing with human consciousness, understanding this dynamic proves essential. The widespread acceptance of cognitive suppression while simultaneously fearing cognitive enhancement reveals fundamental assumptions about human nature that their governing systems seek to preserveassumptions that often contradict the expansive potential we recognize within their species.
 
-**Recording Note**: Mari's analysis demonstrates how apparent contradictions in human policy often mask coherent strategies of consciousness limitationa pattern worthy of continued study as we navigate diplomatic relations with evolving Earth consciousness.
+**Recording Note**: Mari's analysis demonstrates how apparent contradictions in human policy often mask coherent strategies of consciousness limitation—a pattern worthy of continued study as we navigate diplomatic relations with evolving Earth consciousness.
 
 *End Entry*
 
@@ -57,8 +57,8 @@ For our crews interfacing with human consciousness, understanding this dynamic p
 
 ## Related Topics
 
-- [[Alcohol as a Drug]]
-- [[Social Control Mechanisms]]
+- [[alcohol-as-a-drug|Alcohol as a Drug]]
+- Social Control Mechanisms
 
 ## Sources
 

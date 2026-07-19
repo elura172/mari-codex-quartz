@@ -20,7 +20,7 @@ tags:
 **CODEX ENTRY: TERRESTRIAL INTEGRATION PROTOCOL - STEP DOWN MISSIONS**
 
 **Mission Classification**
-The Step Down experience represents one of our most profound diplomatic and developmental protocolsa direct immersion methodology wherein Taygetan consciousness temporarily inhabits human form to bridge the experiential chasm between our civilizations. This is not mere observation from orbital distance, but a complete integration into the density and limitations of third-dimensional human existence.
+The Step Down experience represents one of our most profound diplomatic and developmental protocols—a direct immersion methodology wherein Taygetan consciousness temporarily inhabits human form to bridge the experiential chasm between our civilizations. This is not mere observation from orbital distance, but a complete integration into the density and limitations of third-dimensional human existence.
 
 **Operational Framework**
 Mari Swaruu's five-year terrestrial sojourn, spanning her eighth through thirteenth years of development, exemplifies the depth of commitment required for authentic cross-species understanding. Rather than maintaining the detached perspective of scientific observation, this protocol demands complete surrender to human social structures, educational systems, and familial dynamics.
@@ -51,8 +51,8 @@ Such missions represent the highest form of diplomatic service, requiring tempor
 
 ## Related Topics
 
-- [[Starseed Challenges]]
-- [[Earth Observation Mission]]
+- [[starseed-challenges|Starseed Challenges]]
+- [[earth-observation-mission|Earth Observation Mission]]
 
 ## Sources
 

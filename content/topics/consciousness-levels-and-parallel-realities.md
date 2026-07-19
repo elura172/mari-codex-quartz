@@ -57,8 +57,8 @@ This codex serves as reminder that consciousness evolution cannot be accelerated
 
 ## Related Topics
 
-- [[Spiritual Protection]]
-- [[Starseed Family Conflict]]
+- [[spiritual-protection|Spiritual Protection]]
+- [[starseed-family-conflict|Starseed Family Conflict]]
 
 ## Sources
 

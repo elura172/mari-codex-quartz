@@ -58,8 +58,8 @@ Through Mari's transmissions, these operations gain their proper context within 
 
 ## Related Topics
 
-- [[Queen Alenym Leadership]]
-- [[Earth Orbit Defense]]
+- Queen Alenym Leadership
+- Earth Orbit Defense
 
 ## Sources
 

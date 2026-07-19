@@ -27,7 +27,7 @@ Our weather manipulation capabilities represent a profound intersection between 
 
 **Technical Architecture**
 
-Weather alteration systems operate through focused energy beam projection and microwave frequency modulation. These systems require atmospheric seeding with energy-reactive elementsprimarily graphene, aluminum, and specialized heavy metal compoundsto create responsive interaction matrices. The technology transforms atmospheric composition into a conductive medium, allowing precise manipulation of pressure systems, precipitation patterns, and thermal dynamics across vast geographical regions.
+Weather alteration systems operate through focused energy beam projection and microwave frequency modulation. These systems require atmospheric seeding with energy-reactive elementsprimarily graphene, aluminum, and specialized heavy metal compounds—to create responsive interaction matrices. The technology transforms atmospheric composition into a conductive medium, allowing precise manipulation of pressure systems, precipitation patterns, and thermal dynamics across vast geographical regions.
 
 **Operational Ethics**
 
@@ -68,8 +68,8 @@ Mari's teachings remind us that technology without consciousness becomes mere ma
 
 ## Related Topics
 
-- [[Planet Temmer Climate]]
-- [[Taygetan Technology]]
+- Planet Temmer Climate
+- [[taygetan-technology|Taygetan Technology]]
 
 ## Sources
 

@@ -62,8 +62,8 @@ Mari's observations suggest the key lies not in opposing individual elements, bu
 
 ## Related Topics
 
-- [[Cabal Operations]]
-- [[Aircraft Fuel Contaminants]]
+- [[cabal-operations|Cabal Operations]]
+- [[aircraft-fuel-contaminants|Aircraft Fuel Contaminants]]
 
 ## Sources
 

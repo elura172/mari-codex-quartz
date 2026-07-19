@@ -29,7 +29,7 @@ In the orbital dance of consciousness and matter that defines our presence above
 
 The incident manifested when Saska One's reinforced bow section penetrated Alcyone's aft superstructure during what should have been a routine separation protocol. This catastrophic contact resulted in complete structural failure of Alcyone's rear sections, generating a debris field that temporarily altered the local orbital environment. The subsequent atmospheric breach within Alcyone created emergency conditions requiring immediate containment and life support protocols.
 
-The collision originated from a convergence of sensor malfunction and computational errors during the undocking sequencea sobering demonstration that consciousness-assisted technology still requires vigilant oversight of mechanical systems operating in the density of third-dimensional reality.
+The collision originated from a convergence of sensor malfunction and computational errors during the undocking sequence—a sobering demonstration that consciousness-assisted technology still requires vigilant oversight of mechanical systems operating in the density of third-dimensional reality.
 
 **Metaphysical Considerations**
 
@@ -61,8 +61,8 @@ This event joins our collective memory as both cautionary tale and affirmation o
 
 ## Related Topics
 
-- [[Ship Docking Procedures]]
-- [[Starship Energy Shields]]
+- Ship Docking Procedures
+- [[starship-energy-shields|Starship Energy Shields]]
 
 ## Sources
 

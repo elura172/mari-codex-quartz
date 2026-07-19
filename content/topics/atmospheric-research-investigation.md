@@ -27,7 +27,7 @@ Our sister Mari Swaruu of Erra commissioned a specialized atmospheric reconnaiss
 
 **The Ionospheric Veil**
 
-The investigation centered upon Earth's ionospherethat charged membrane where planetary consciousness meets cosmic breath. Our pilots discovered what ancient Taygetan wisdom has long understood: visibility is not merely a matter of light reflection, but of frequency alignment between observer and observed. The ionosphere acts as a prismatic filter, selectively revealing or concealing based on vibrational resonance.
+The investigation centered upon Earth's ionosphere—that charged membrane where planetary consciousness meets cosmic breath. Our pilots discovered what ancient Taygetan wisdom has long understood: visibility is not merely a matter of light reflection, but of frequency alignment between observer and observed. The ionosphere acts as a prismatic filter, selectively revealing or concealing based on vibrational resonance.
 
 **Altitude-Dependent Revelation**
 
@@ -61,8 +61,8 @@ Mari's wisdom guides us to see beyond the apparentrecognizing that invisibility 
 
 ## Related Topics
 
-- [[Starship Invisibility in Earth Orbit]]
-- [[Van Allen Radiation Belts]]
+- [[starship-invisibility-in-earth-orbit|Starship Invisibility in Earth Orbit]]
+- [[van-allen-radiation-belts|Van Allen Radiation Belts]]
 
 ## Sources
 

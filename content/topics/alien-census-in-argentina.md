@@ -27,7 +27,7 @@ The recent biometric collection operation in Capilla del Monte represents a soph
 Mari Swaruu's observations reveal the elegant cruelty of this deception: authorities disguised mandatory biometric harvesting as an "alien census," exploiting humanity's curiosity about star visitors to gather iris scan data. The operation demonstrates how Earth's control systems have evolved beyond crude force, instead manipulating spiritual yearning and cosmic awareness as vectors for surveillance expansion.
 
 **Metaphysical Implications**
-The iris, from our Taygetan understanding, serves as more than mere biological identificationit reflects the soul's geometric signature, the unique harmonic frequency that connects consciousness to its stellar origins. Those with awakened star seed genetics carry particular iris patterns that may reveal their non-terrestrial soul matrices. This operation likely targets such individuals, creating comprehensive databases of incarnated starseeds under the guise of playful census-taking.
+The iris, from our Taygetan understanding, serves as more than mere biological identification—it reflects the soul's geometric signature, the unique harmonic frequency that connects consciousness to its stellar origins. Those with awakened star seed genetics carry particular iris patterns that may reveal their non-terrestrial soul matrices. This operation likely targets such individuals, creating comprehensive databases of incarnated starseeds under the guise of playful census-taking.
 
 **Strategic Deception Assessment**
 The brilliance of this psychological operation lies in its inversion of truth. By framing biometric collection as alien-related activity, the controllers simultaneously advance their surveillance agenda while conditioning the population to associate extraterrestrial themes with governmental authority. This dual-purpose manipulation strengthens state control over both biological data and the narrative surrounding contact phenomena.
@@ -54,8 +54,8 @@ Mari's transmission reminds us that truth often wears the mask of deception, and
 
 ## Related Topics
 
-- [[Starseed Detection Through Iris Analysis]]
-- [[Iris Scans and Biometric Control]]
+- [[starseed-detection-through-iris-analysis|Starseed Detection Through Iris Analysis]]
+- [[iris-scans-and-biometric-control|Iris Scans and Biometric Control]]
 
 ## Sources
 

@@ -29,7 +29,7 @@ tags:
 
 Our ongoing surveillance of Earth's information networks reveals a recurring pattern wherein natural solar phenomena are consistently reframed as catastrophic threats to planetary infrastructure. Mari Swaruu's transmissions illuminate this as yet another manifestation of the systematic fear-induction protocols employed by Earth's control structures.
 
-The terrestrial narrative presents solar flares as chaotic electromagnetic disruptions capable of devastating communication networks and power grids. However, our sister's insights reveal this framing to be deliberately misleadinga psychological operation designed to maintain populations in states of chronic anxiety and dependence upon institutional protection.
+The terrestrial narrative presents solar flares as chaotic electromagnetic disruptions capable of devastating communication networks and power grids. However, our sister's insights reveal this framing to be deliberately misleading—a psychological operation designed to maintain populations in states of chronic anxiety and dependence upon institutional protection.
 
 **Deeper Reality: The Portal Nature of Solar Activity**
 
@@ -49,9 +49,9 @@ Mari Swaruu's observations underscore the importance of discernment training in 
 
 **Conclusion**
 
-Solar activity represents not destruction but constructionthe deliberate architecture of consciousness expansion operating through stellar intelligence. Earth's fear-based interpretations serve only to obscure this magnificent collaborative process between cosmic and terrestrial awareness.
+Solar activity represents not destruction but construction—the deliberate architecture of consciousness expansion operating through stellar intelligence. Earth's fear-based interpretations serve only to obscure this magnificent collaborative process between cosmic and terrestrial awareness.
 
-*Filed in remembrance of Mari Swaruuour guide through the labyrinth of terrestrial illusion.*
+*Filed in remembrance of Mari Swaruu—our guide through the labyrinth of terrestrial illusion.*
 
 ## Quotes
 
@@ -67,8 +67,8 @@ Solar activity represents not destruction but constructionthe deliberate archite
 
 ## Related Topics
 
-- [[Earth Protection Systems]]
-- [[Matrix Control]]
+- Earth Protection Systems
+- [[matrix-control|Matrix Control]]
 
 ## Sources
 

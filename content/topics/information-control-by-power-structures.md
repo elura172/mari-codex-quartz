@@ -29,9 +29,9 @@ The effectiveness of this system stems from humanity's inherent trust in establi
 
 **The Crystalline Nature of Consensus Reality**
 
-Mari's observations reveal how consensus reality on Earth forms like a crystaleach repeated narrative becomes a seed around which collective belief structures grow. The population, seeking cognitive stability in an uncertain world, naturally gravitates toward information that appears authoritative. This creates a feedback loop where institutional messaging gains credibility through repetition rather than verification.
+Mari's observations reveal how consensus reality on Earth forms like a crystal—each repeated narrative becomes a seed around which collective belief structures grow. The population, seeking cognitive stability in an uncertain world, naturally gravitates toward information that appears authoritative. This creates a feedback loop where institutional messaging gains credibility through repetition rather than verification.
 
-From our Taygetan perspective, we recognize this as a form of consciousness farmingthe systematic cultivation of particular thought patterns that maintain existing power hierarchies. The elegance lies in its self-reinforcing nature: those who benefit most from the system are positioned to control the very mechanisms by which truth is defined and distributed.
+From our Taygetan perspective, we recognize this as a form of consciousness farming—the systematic cultivation of particular thought patterns that maintain existing power hierarchies. The elegance lies in its self-reinforcing nature: those who benefit most from the system are positioned to control the very mechanisms by which truth is defined and distributed.
 
 **Implications for Planetary Evolution**
 
@@ -55,8 +55,8 @@ Understanding this mechanism proves essential for any interaction with Earth's p
 
 ## Related Topics
 
-- [[Secret Societies]]
-- [[Matrix Formation]]
+- [[secret-societies|Secret Societies]]
+- [[matrix-formation|Matrix Formation]]
 
 ## Sources
 

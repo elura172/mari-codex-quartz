@@ -23,7 +23,7 @@ tags:
 
 **Fundamental Principle**
 
-Within the flowing currents of consciousness that connect all sentient beings across star systems, gratitude emerges as a stabilizing frequencya harmonic resonance that anchors awareness in present reality rather than the phantom projections of what might have been or could be. Mari's transmissions reveal this practice not as mere positivity, but as a precise recalibration of perceptual focus that fundamentally alters one's relationship with existence itself.
+Within the flowing currents of consciousness that connect all sentient beings across star systems, gratitude emerges as a stabilizing frequency—a harmonic resonance that anchors awareness in present reality rather than the phantom projections of what might have been or could be. Mari's transmissions reveal this practice not as mere positivity, but as a precise recalibration of perceptual focus that fundamentally alters one's relationship with existence itself.
 
 **The Architecture of Appreciation**
 
@@ -35,7 +35,7 @@ This is not about denying legitimate needs or abandoning growth, but rather esta
 
 From our Taygetan perspective, we observe how civilizations that master gratitude as a collective practice tend toward greater stability and creative expression. The Earth human experience of linear time creates unique challenges, as beings become fixated on past regrets and future anxieties, losing contact with the abundant present moment where true power resides.
 
-Mari's wisdom reminds us that happiness is not a destination to be reached through accumulation, but a way of travelinga quality of attention that transforms ordinary moments into extraordinary ones. The roof overhead becomes shelter gifted by the cosmic dance of elements. The table becomes an altar where nourishment meets gratitude.
+Mari's wisdom reminds us that happiness is not a destination to be reached through accumulation, but a way of traveling—a quality of attention that transforms ordinary moments into extraordinary ones. The roof overhead becomes shelter gifted by the cosmic dance of elements. The table becomes an altar where nourishment meets gratitude.
 
 **Practical Application**
 
@@ -57,8 +57,8 @@ Mari's transmissions continue to ripple through consciousness, reminding all see
 
 ## Related Topics
 
-- [[Lack Mentality]]
-- [[Self-Worth]]
+- [[lack-mentality|Lack Mentality]]
+- Self-Worth
 
 ## Sources
 

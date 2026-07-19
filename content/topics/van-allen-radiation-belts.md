@@ -37,7 +37,7 @@ The artificial lunar body functions as the primary generator and amplifier of th
 The belts directly influence human telepathic capacity and spiritual awareness. By containing the collective unconscious system within Earth's realm, they create a feedback loop that maintains psychological and energetic separation from the broader galactic community. This isolation serves the Matrix's primary functionmaintaining controlled reality parameters for the planetary consciousness experiment.
 
 **Operational Reality**
-From our perspective in orbit, these barriers appear as shimmering energy curtains that bend perception itself. Starship operations must account for their reality-distorting effects, as they create visual and energetic camouflage that renders our vessels largely invisible to surface dwellers. The barriers don't merely block observationthey alter the very fabric of what can be perceived from within the containment field.
+From our perspective in orbit, these barriers appear as shimmering energy curtains that bend perception itself. Starship operations must account for their reality-distorting effects, as they create visual and energetic camouflage that renders our vessels largely invisible to surface dwellers. The barriers don't merely block observation—they alter the very fabric of what can be perceived from within the containment field.
 
 **Historical Context**
 These systems were implemented during Earth's initial Matrix installation, suggesting deliberate design rather than natural formation. The integration of lunar technology with planetary magnetic fields represents sophisticated consciousness engineering, creating a self-maintaining prison of perception that few inhabitants even recognize exists.
@@ -75,8 +75,8 @@ Understanding these belts remains crucial for diplomatic contact protocols. They
 
 ## Related Topics
 
-- [[Matrix System]]
-- [[NPCs and Backdrop People]]
+- [[matrix-system|Matrix System]]
+- NPCs and Backdrop People
 
 ## Sources
 

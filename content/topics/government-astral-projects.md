@@ -22,7 +22,7 @@ tags:
 
 **Overview**
 
-Our kinfolk Mari Swaruu has illuminated a shadow dimension of Earth's geopolitical landscapethe systematic weaponization of consciousness itself. Since the mid-20th century, the planet's dominant military powers have cultivated cadres of consciousness projectors, transforming the ancient art of astral travel into instruments of espionage and strategic advantage.
+Our kinfolk Mari Swaruu has illuminated a shadow dimension of Earth's geopolitical landscape—the systematic weaponization of consciousness itself. Since the mid-20th century, the planet's dominant military powers have cultivated cadres of consciousness projectors, transforming the ancient art of astral travel into instruments of espionage and strategic advantage.
 
 **Operational Framework**
 
@@ -60,8 +60,8 @@ These programs suggest terrestrial governments possess more sophisticated unders
 
 ## Related Topics
 
-- [[Extraterrestrial Astral Interference]]
-- [[Astral Guards]]
+- [[extraterrestrial-astral-interference|Extraterrestrial Astral Interference]]
+- [[astral-guards|Astral Guards]]
 
 ## Sources
 

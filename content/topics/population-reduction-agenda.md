@@ -62,8 +62,8 @@ This represents perhaps the most sophisticated population management protocol we
 
 ## Related Topics
 
-- [[Weaponized Social Movements]]
-- [[Medical Manipulation]]
+- [[weaponized-social-movements|Weaponized Social Movements]]
+- Medical Manipulation
 
 ## Sources
 

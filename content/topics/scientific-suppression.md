@@ -72,8 +72,8 @@ The isolation is temporary. Connection with galactic consciousness flows inevita
 
 ## Related Topics
 
-- [[Truth Disclosure]]
-- [[Consciousness Awakening]]
+- Truth Disclosure
+- Consciousness Awakening
 
 ## Sources
 

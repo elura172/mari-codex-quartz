@@ -62,8 +62,8 @@ The path forward requires neither blind trust nor complete separation, but rathe
 
 ## Related Topics
 
-- [[Galactic Matrix]]
-- [[Galactic Federation Structure]]
+- [[galactic-matrix|Galactic Matrix]]
+- [[galactic-federation-structure|Galactic Federation Structure]]
 
 ## Sources
 

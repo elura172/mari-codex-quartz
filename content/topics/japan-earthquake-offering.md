@@ -59,8 +59,8 @@ This event serves as continued validation of the interconnected nature of consci
 
 ## Related Topics
 
-- [[Artificial Disasters]]
-- [[Cabal Operations]]
+- Artificial Disasters
+- [[cabal-operations|Cabal Operations]]
 
 ## Sources
 

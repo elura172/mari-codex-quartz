@@ -68,8 +68,8 @@ The Mexican people deserve the opportunity to evolve beyond becoming unwilling p
 
 ## Related Topics
 
-- [[Underground Trafficking Networks]]
-- [[Tectonic Warfare]]
+- [[underground-trafficking-networks|Underground Trafficking Networks]]
+- [[tectonic-warfare|Tectonic Warfare]]
 
 ## Sources
 

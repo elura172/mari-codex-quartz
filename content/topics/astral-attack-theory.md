@@ -47,7 +47,7 @@ Mari's assessment reminds us that starship operations in proximity to planets ex
 
 **Legacy Understanding**
 
-This event serves as testament to the reality of non-physical warfare affecting physical systems. Mari's courage in naming these patterns provides essential intelligence for all crews operating in contested consciousness zones. Her analysis bridges scientific methodology with spiritual discernmenta synthesis crucial for navigating the invisible battles that accompany our visible missions of liberation and awakening.
+This event serves as testament to the reality of non-physical warfare affecting physical systems. Mari's courage in naming these patterns provides essential intelligence for all crews operating in contested consciousness zones. Her analysis bridges scientific methodology with spiritual discernment—a synthesis crucial for navigating the invisible battles that accompany our visible missions of liberation and awakening.
 
 The fungi taught us: some battles rage in realms where microscopes cannot see, yet starship hulls still bear their scars.
 
@@ -70,8 +70,8 @@ The fungi taught us: some battles rage in realms where microscopes cannot see, y
 
 ## Related Topics
 
-- [[Spiritual Elements]]
-- [[Health Crisis Pattern]]
+- Spiritual Elements
+- Health Crisis Pattern
 
 ## Sources
 

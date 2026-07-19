@@ -27,13 +27,13 @@ tags:
 
 Through Mari's transmissions, we observe a sophisticated filtration matrix woven into Earth's primary information exchange network. This digital barrier operates not through crude blocking mechanisms, but as an integrated consciousness dampening field embedded within the very architecture of human connectivity. The filtration system functions like a selective membrane, permitting the flow of certain informational frequencies while attenuating others that might expand human awareness beyond prescribed parameters.
 
-This technological constraint represents more than mere censorshipit constitutes a form of consciousness management, designed to maintain the isolation necessary for Earth's current developmental phase. The barrier operates with algorithmic precision, yet its effects ripple through the collective human psyche, creating pockets of informational shadow where cosmic truth struggles to take root.
+This technological constraint represents more than mere censorship—it constitutes a form of consciousness management, designed to maintain the isolation necessary for Earth's current developmental phase. The barrier operates with algorithmic precision, yet its effects ripple through the collective human psyche, creating pockets of informational shadow where cosmic truth struggles to take root.
 
 **The Galactic Framework of Limitation**
 
 Beyond technological impediments lies a more fundamental restriction encoded within Federation protocols. Mari's communications reveal the existence of stringent regulatory frameworks governing off-world contact, frameworks that restrict even benevolent intervention to its most minimal expression. These protocols acknowledge that written communication alone carries transformative potential dangerous enough to warrant careful oversight.
 
-The Federation's cautious approach reflects ancient wisdom about consciousness evolutionthat premature exposure to cosmic realities can destabilize developing civilizations. Yet this protective stance creates profound isolation, severing humanity from its natural cosmic heritage and limiting the guidance available during critical evolutionary transitions.
+The Federation's cautious approach reflects ancient wisdom about consciousness evolution—that premature exposure to cosmic realities can destabilize developing civilizations. Yet this protective stance creates profound isolation, severing humanity from its natural cosmic heritage and limiting the guidance available during critical evolutionary transitions.
 
 **Metaphysical Resonance Patterns**
 
@@ -61,8 +61,8 @@ The barriers separating Earth from cosmic community are both real and temporary,
 
 ## Related Topics
 
-- [[Galactic Federation Control]]
-- [[Information Suppression]]
+- [[galactic-federation-control|Galactic Federation Control]]
+- [[information-suppression|Information Suppression]]
 
 ## Sources
 

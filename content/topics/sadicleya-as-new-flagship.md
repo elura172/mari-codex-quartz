@@ -53,8 +53,8 @@ As the Sadicleya begins her service epoch, she carries the accumulated hopes and
 
 ## Related Topics
 
-- [[Taygetan Fleet]]
-- [[Starship Toleka Departure]]
+- Taygetan Fleet
+- [[starship-toleka-departure|Starship Toleka Departure]]
 
 ## Sources
 

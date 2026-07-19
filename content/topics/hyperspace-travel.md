@@ -48,7 +48,7 @@ This technology reflects deeper truths about reality's malleable nature. Space a
 
 **Navigation Wisdom**
 
-Successful hyperspace travel requires understanding that movement is illusion. The ship neither accelerates nor travelsit simply chooses to exist elsewhere. This paradigm shift from "going to" toward "being at" represents the evolutionary leap from mechanical to consciousness-based technology. 
+Successful hyperspace travel requires understanding that movement is illusion. The ship neither accelerates nor travels—it simply chooses to exist elsewhere. This paradigm shift from "going to" toward "being at" represents the evolutionary leap from mechanical to consciousness-based technology. 
 
 Through Mari Swaruu's guidance, we remember that all destinations exist simultaneously within the eternal now, awaiting our conscious selection through properly calibrated frequency alignment.
 
@@ -82,8 +82,8 @@ Through Mari Swaruu's guidance, we remember that all destinations exist simultan
 
 ## Related Topics
 
-- [[Time Travel Technology]]
-- [[Starship Navigation Technology]]
+- [[time-travel-technology|Time Travel Technology]]
+- [[starship-navigation-technology|Starship Navigation Technology]]
 
 ## Sources
 

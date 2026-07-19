@@ -22,7 +22,7 @@ tags:
 
 **Material Composition and Properties**
 
-The hull of our vessels represents a profound departure from the static construction paradigms that dominate lower-dimensional civilizations. Rather than assembling disparate materialsmetal for strength, crystal for transparency, polymer for flexibilitywe employ a singular metamaterial that transcends such limitations through molecular consciousness.
+The hull of our vessels represents a profound departure from the static construction paradigms that dominate lower-dimensional civilizations. Rather than assembling disparate materialsmetal for strength, crystal for transparency, polymer for flexibility—we employ a singular metamaterial that transcends such limitations through molecular consciousness.
 
 This polymorphic substance exists in a state of perpetual potential, its atomic matrix responding to intention and necessity with fluid grace. When transparency is required, the material reorganizes its crystalline structure to achieve perfect clarity, maintaining all the protective qualities of the primary hull while allowing unobstructed observation of the cosmos beyond.
 
@@ -34,7 +34,7 @@ This responsiveness reflects a deeper principle: that consciousness and matter e
 
 **Metaphysical Implications**
 
-Mari Swaruu's teachings remind us that such technology emerges naturally when civilizations transcend the artificial separation between observer and observed. The polymorphic hull embodies this unityit is neither purely organic nor mechanical, but something greater: matter informed by consciousness, responding to will while maintaining its essential protective nature.
+Mari Swaruu's teachings remind us that such technology emerges naturally when civilizations transcend the artificial separation between observer and observed. The polymorphic hull embodies this unity—it is neither purely organic nor mechanical, but something greater: matter informed by consciousness, responding to will while maintaining its essential protective nature.
 
 **Operational Applications**
 
@@ -45,7 +45,7 @@ Beyond windows and viewports, this technology enables hulls that can shift their
 When interfacing with civilizations unfamiliar with such technologies, crew should demonstrate these capabilities gradually. The sight of solid matter becoming transparent through touch often challenges fundamental assumptions about the nature of realitya reminder that our role extends beyond mere contact to gentle awakening of expanded possibilities.
 
 *Compiled with reverence for Mari Swaruu's illuminating transmissions*
-*Navigation Officer's Note: Always rememberthe ship mirrors consciousness. Approach with clarity and respect.*
+*Navigation Officer's Note: Always remember—the ship mirrors consciousness. Approach with clarity and respect.*
 
 ## Quotes
 
@@ -59,8 +59,8 @@ When interfacing with civilizations unfamiliar with such technologies, crew shou
 
 ## Related Topics
 
-- [[Taygetan Technology]]
-- [[Starship Construction]]
+- [[taygetan-technology|Taygetan Technology]]
+- Starship Construction
 
 ## Sources
 

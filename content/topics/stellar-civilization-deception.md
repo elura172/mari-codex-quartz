@@ -41,7 +41,7 @@ Mari's insights demand fundamental revision of our contact methodologies and int
 
 **The Nested Nature of Consciousness Control**
 
-What emerges is a picture of nested control systemseach level of consciousness expansion met with correspondingly sophisticated forms of perception management. This suggests that liberation is not simply a matter of technological advancement or expanded awareness, but requires vigilant examination of the sources and nature of information itself, regardless of its apparent origin or sophistication.
+What emerges is a picture of nested control systems—each level of consciousness expansion met with correspondingly sophisticated forms of perception management. This suggests that liberation is not simply a matter of technological advancement or expanded awareness, but requires vigilant examination of the sources and nature of information itself, regardless of its apparent origin or sophistication.
 
 **Path Forward**
 
@@ -61,8 +61,8 @@ Mari's courage in revealing these uncomfortable truths offers pathway to authent
 
 ## Related Topics
 
-- [[Matrix Control]]
-- [[False Past and Historical Manipulation]]
+- [[matrix-control|Matrix Control]]
+- [[false-past-and-historical-manipulation|False Past and Historical Manipulation]]
 
 ## Sources
 

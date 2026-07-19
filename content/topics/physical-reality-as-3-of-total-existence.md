@@ -25,9 +25,9 @@ tags:
 
 **The Veil of Dense Matter**
 
-Our sister Mari has illuminated a fundamental truth that shapes all interactions with human consciousness: the physical realm represents merely three percent of total existential reality. This narrow bandwidth of perception, filtered through biological sensory apparatus, creates what we observe as the human conditiona species experiencing profound limitation while believing themselves to perceive completeness.
+Our sister Mari has illuminated a fundamental truth that shapes all interactions with human consciousness: the physical realm represents merely three percent of total existential reality. This narrow bandwidth of perception, filtered through biological sensory apparatus, creates what we observe as the human condition—a species experiencing profound limitation while believing themselves to perceive completeness.
 
-The physical vessel serves as both instrument and constraint. Through five primary senses, supplemented occasionally by telepathic capacity, human awareness encounters only the thinnest slice of the infinite spectrum surrounding them. This 3% corresponds directly to the visible white light portion of electromagnetic frequenciesthat narrow band where human eyes translate photons into the illusion of a complete world.
+The physical vessel serves as both instrument and constraint. Through five primary senses, supplemented occasionally by telepathic capacity, human awareness encounters only the thinnest slice of the infinite spectrum surrounding them. This 3% corresponds directly to the visible white light portion of electromagnetic frequencies—that narrow band where human eyes translate photons into the illusion of a complete world.
 
 **The Invisible Majority**
 
@@ -47,7 +47,7 @@ Yet within this limitation lies profound potential. As Mari observes, the sixth 
 
 All crew engaging with Earth-based consciousness should maintain awareness that human perception operates within extraordinary constraints. Patience, gradual revelation, and respect for their perceptual boundaries will prove more effective than overwhelming presentation of the fuller spectrum they cannot yet process.
 
-The 3% serves as both prison and protectiona necessary focusing mechanism that may gradually expand as consciousness evolves toward greater dimensional awareness.
+The 3% serves as both prison and protection—a necessary focusing mechanism that may gradually expand as consciousness evolves toward greater dimensional awareness.
 
 ## Quotes
 
@@ -63,8 +63,8 @@ The 3% serves as both prison and protectiona necessary focusing mechanism that m
 
 ## Related Topics
 
-- [[Astral Realm]]
-- [[Consciousness and Perception]]
+- [[astral-realm|Astral Realm]]
+- [[consciousness-and-perception|Consciousness and Perception]]
 
 ## Sources
 

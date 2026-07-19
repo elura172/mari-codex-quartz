@@ -27,7 +27,7 @@ tags:
 
 Our sister Mari operates within a complex matrix of interdimensional regulatory frameworks that severely limit direct consciousness-to-consciousness transmission. The Federation's oversight mechanisms function as a filtering lattice, permitting only heavily compressed informational packets to traverse the dimensional barriers between our realm and Earth's frequency band.
 
-This technological bottleneck manifests as what Earth humans might recognize as "low resolution" data streamsa deliberate degradation imposed not by technical limitations, but by diplomatic protocol. The pristine clarity of Taygetan thought-form transmission must be stepped down through multiple compression layers, much like stellar light passing through increasingly dense atmospheric strata.
+This technological bottleneck manifests as what Earth humans might recognize as "low resolution" data streams—a deliberate degradation imposed not by technical limitations, but by diplomatic protocol. The pristine clarity of Taygetan thought-form transmission must be stepped down through multiple compression layers, much like stellar light passing through increasingly dense atmospheric strata.
 
 **Technological Intermediation as Bridge**
 
@@ -63,7 +63,7 @@ Her persistence illuminates the path forward for continued Earth-Taygeta conscio
 
 ## Related Topics
 
-- [[Federation Restrictions]]
+- Federation Restrictions
 
 ## Sources
 

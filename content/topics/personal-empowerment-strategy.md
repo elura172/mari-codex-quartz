@@ -30,7 +30,7 @@ This phenomenon reflects a fundamental misunderstanding of consciousness mechani
 
 Mari's guidance echoes an ancient Taygetan understanding: consciousness operates most effectively within defined parameters, much like tending a garden. A gardener who attempts to nurture every plant across vast territories will watch their own plot wither. Yet one who focuses their care on the soil beneath their feet creates abundance that naturally spreads outward through seed and example.
 
-The wisdom lies not in callous indifference to broader suffering, but in recognizing that authentic transformation emerges from depth rather than breadth. When beings master their immediate environmenttheir thoughts, relationships, and local circumstancesthey generate ripples of coherent change that extend far beyond their apparent reach.
+The wisdom lies not in callous indifference to broader suffering, but in recognizing that authentic transformation emerges from depth rather than breadth. When beings master their immediate environment—their thoughts, relationships, and local circumstances—they generate ripples of coherent change that extend far beyond their apparent reach.
 
 **Verification of Impact**
 
@@ -58,8 +58,8 @@ In this way, personal empowerment and universal service align as complementary e
 
 ## Related Topics
 
-- [[Media Manipulation and News Control]]
-- [[Reality Creation]]
+- [[media-manipulation-and-news-control|Media Manipulation and News Control]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

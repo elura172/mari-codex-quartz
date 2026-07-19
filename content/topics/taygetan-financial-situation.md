@@ -22,7 +22,7 @@ tags:
 
 **Current Status Assessment**
 
-Our civilization finds itself at a pivotal juncture where transparency has collided with institutional expectations. The Galactic Federation has withdrawn all financial support from Taygetan operations, marking the end of an era of subsidized interdimensional service. This cessation flows directly from our choice to engage in open communication channels with Earth's populationa decision that challenges the Federation's preference for controlled, filtered contact protocols.
+Our civilization finds itself at a pivotal juncture where transparency has collided with institutional expectations. The Galactic Federation has withdrawn all financial support from Taygetan operations, marking the end of an era of subsidized interdimensional service. This cessation flows directly from our choice to engage in open communication channels with Earth's population—a decision that challenges the Federation's preference for controlled, filtered contact protocols.
 
 **The Price of Authentic Expression**
 
@@ -54,8 +54,8 @@ The path ahead requires both practical resourcefulness and unwavering dedication
 
 ## Related Topics
 
-- [[Galactic Federation Sanctions]]
-- [[Resource Dependencies]]
+- Galactic Federation Sanctions
+- [[resource-dependencies|Resource Dependencies]]
 
 ## Sources
 

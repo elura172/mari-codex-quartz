@@ -44,7 +44,7 @@ Mari Swaruu's observations illuminate how this dimensional space serves as both 
 
 Crew members engaging in consciousness projection near Earth should maintain clear intentional focus and avoid prolonged interaction with Lower Astral constructs. Remember that love-based awareness naturally elevates vibrational frequency beyond the gravitational pull of these denser thoughtform regions, ensuring safe passage through all dimensional territories.
 
-The Lower Astral ultimately reflects humanity's collective unconsciousa shadow that must be acknowledged and integrated rather than feared or ignored.
+The Lower Astral ultimately reflects humanity's collective unconscious—a shadow that must be acknowledged and integrated rather than feared or ignored.
 
 ## Quotes
 
@@ -66,8 +66,8 @@ The Lower Astral ultimately reflects humanity's collective unconsciousa shadow t
 
 ## Related Topics
 
-- [[Astral Projection]]
-- [[Paranormal]]
+- [[astral-projection|Astral Projection]]
+- Paranormal
 
 ## Sources
 

@@ -56,8 +56,8 @@ Through Mari's transmissions, we observe the profound courage required for Terra
 
 ## Related Topics
 
-- [[Alter Egos for Personal Development]]
-- [[Emotional Triggers]]
+- [[alter-egos-for-personal-development|Alter Egos for Personal Development]]
+- [[emotional-triggers|Emotional Triggers]]
 
 ## Sources
 

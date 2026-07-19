@@ -24,7 +24,7 @@ tags:
 
 Within the higher vibrational planes of existence, consciousness manifests not as a static property but as an active current flowing through the etheric substrates that underlie all reality. This flow represents the primary animating force from which all material phenomena emerge, serving as both the source and the governing principle of manifestation.
 
-Our Taygetan understanding recognizes that what many cultures perceive as separate forcesgravity, electromagnetism, the strong and weak nuclear interactionsare in truth expressions of this singular consciousness current as it moves through varying density layers of etheric matter. The material universe, in this framework, becomes not a collection of solid objects moving through empty space, but rather a symphony of consciousness frequencies crystallizing into temporary forms.
+Our Taygetan understanding recognizes that what many cultures perceive as separate forcesgravity, electromagnetism, the strong and weak nuclear interactions—are in truth expressions of this singular consciousness current as it moves through varying density layers of etheric matter. The material universe, in this framework, becomes not a collection of solid objects moving through empty space, but rather a symphony of consciousness frequencies crystallizing into temporary forms.
 
 **The Mechanics of Material Creation**
 
@@ -54,9 +54,9 @@ Mari's teachings illuminate this truth: that progress toward higher dimensional 
 
 ## Related Topics
 
-- [[Taygetan Technology]]
-- [[Ether and Space]]
-- [[Reality Creation]]
+- [[taygetan-technology|Taygetan Technology]]
+- Ether and Space
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

@@ -63,8 +63,8 @@ These transmissions represent more than educational content; they constitute con
 
 ## Related Topics
 
-- [[Gravity as Consciousness]]
-- [[Timeline Creation]]
+- [[gravity-as-consciousness|Gravity as Consciousness]]
+- [[timeline-creation|Timeline Creation]]
 
 ## Sources
 

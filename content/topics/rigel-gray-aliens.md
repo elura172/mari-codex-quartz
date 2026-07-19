@@ -35,7 +35,7 @@ The Rigel system, a complex quadruple star arrangement within the Orion constell
 
 **Metaphysical Assessment**
 
-From the Taygetan understanding of consciousness matrices, these Rigel inhabitants appear to embody what we recognize as "troublesome" frequenciesnot inherently malevolent, but operating from contracted states of awareness that generate interference patterns with other civilizations' natural development. Their gray designation likely reflects both physical morphology and the energetic signature of their collective consciousness: neutral in appearance yet carrying undertones of manipulation or control-based thinking.
+From the Taygetan understanding of consciousness matrices, these Rigel inhabitants appear to embody what we recognize as "troublesome" frequencies—not inherently malevolent, but operating from contracted states of awareness that generate interference patterns with other civilizations' natural development. Their gray designation likely reflects both physical morphology and the energetic signature of their collective consciousness: neutral in appearance yet carrying undertones of manipulation or control-based thinking.
 
 **Operational Implications**
 
@@ -47,7 +47,7 @@ Mari's reference to these inhabitants serves as both warning and teaching tool. 
 
 **Training Protocol Recommendations**
 
-Crew members should approach any Rigel-originating communications or technologies with enhanced discernment protocols. These entities represent a branch of galactic civilization that has chosen paths of consciousness exploration through control rather than collaborationa reminder of roads not taken in our own evolutionary journey.
+Crew members should approach any Rigel-originating communications or technologies with enhanced discernment protocols. These entities represent a branch of galactic civilization that has chosen paths of consciousness exploration through control rather than collaboration—a reminder of roads not taken in our own evolutionary journey.
 
 **Closing Observation**
 
@@ -71,8 +71,8 @@ In Mari's wisdom, even troublesome civilizations serve the greater tapestry of c
 
 ## Related Topics
 
-- [[Star Systems]]
-- [[Alien Races]]
+- Star Systems
+- Alien Races
 
 ## Sources
 

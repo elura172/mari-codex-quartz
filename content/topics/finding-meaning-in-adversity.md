@@ -35,7 +35,7 @@ Mari emphasizes that our response to experience supersedes the experience itself
 
 **Practical Application**
 
-The mature consciousness learns to work with what exists rather than exhaust itself fighting shadows of what was. This principle extends beyond personal development into diplomatic and exploratory contexts. When civilizations encounter setbacksfailed contact attempts, cultural misunderstandings, technological challengesthe advancement comes not from denying these experiences but from allowing them to refine approach and deepen wisdom.
+The mature consciousness learns to work with what exists rather than exhaust itself fighting shadows of what was. This principle extends beyond personal development into diplomatic and exploratory contexts. When civilizations encounter setbacksfailed contact attempts, cultural misunderstandings, technological challenges—the advancement comes not from denying these experiences but from allowing them to refine approach and deepen wisdom.
 
 **Integration Protocol**
 
@@ -57,8 +57,8 @@ The path forward illuminates itself not through the elimination of challenge, bu
 
 ## Related Topics
 
-- [[Accepting the Past vs. Changing It]]
-- [[Mari's Personal Journey]]
+- [[accepting-the-past-vs-changing-it|Accepting the Past vs. Changing It]]
+- [[maris-personal-journey|Mari's Personal Journey]]
 
 ## Sources
 

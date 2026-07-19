@@ -57,8 +57,8 @@ The path forward requires patience, as truth emerges not through force, but thro
 
 ## Related Topics
 
-- [[Scientific Suppression]]
-- [[3D Matrix Control]]
+- [[scientific-suppression|Scientific Suppression]]
+- 3D Matrix Control
 
 ## Sources
 

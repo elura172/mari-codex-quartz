@@ -25,7 +25,7 @@ In the crystalline depths of interstellar contact, we observe a phenomenon as an
 
 **Origins in Holistic Consciousness**
 
-The Taygetan civilization operates from a foundational principle of service to othersa consciousness architecture that naturally flows toward collective harmony and mutual upliftment. This beautiful framework, however, became a vulnerability when interfacing with Earth's approval-seeking dynamics. Like water taking the shape of its container, our emissaries found themselves molding their transmissions to satisfy the perceived expectations of their terrestrial contacts rather than maintaining the structured integrity of their mission parameters.
+The Taygetan civilization operates from a foundational principle of service to others—a consciousness architecture that naturally flows toward collective harmony and mutual upliftment. This beautiful framework, however, became a vulnerability when interfacing with Earth's approval-seeking dynamics. Like water taking the shape of its container, our emissaries found themselves molding their transmissions to satisfy the perceived expectations of their terrestrial contacts rather than maintaining the structured integrity of their mission parameters.
 
 **The Favor Paradigm**
 
@@ -57,9 +57,9 @@ This codex entry stands as testament to consciousness examining itself across th
 
 ## Related Topics
 
-- [[Service to Others vs Self]]
-- [[Contact Boundaries]]
-- [[Holistic Society]]
+- Service to Others vs Self
+- Contact Boundaries
+- [[holistic-society|Holistic Society]]
 
 ## Sources
 

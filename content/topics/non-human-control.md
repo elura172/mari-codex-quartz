@@ -39,7 +39,7 @@ From our Taygetan understanding of consciousness resonance, authentic governance
 
 **Strategic Considerations**
 
-This recognition transforms our diplomatic approach significantly. Rather than engaging with apparent representatives as authentic voices of their populations, we must consider them as intermediaries for alternate agenda systems. The human Lyran populations of Earth exist, in essence, under external managementtheir collective will filtered through consciousness matrices that cannot truly comprehend their deepest needs and aspirations.
+This recognition transforms our diplomatic approach significantly. Rather than engaging with apparent representatives as authentic voices of their populations, we must consider them as intermediaries for alternate agenda systems. The human Lyran populations of Earth exist, in essence, under external management—their collective will filtered through consciousness matrices that cannot truly comprehend their deepest needs and aspirations.
 
 **Operational Wisdom**
 
@@ -67,8 +67,8 @@ When engaging with these systems, remember: we interface not with the hearts of 
 
 ## Related Topics
 
-- [[Human Lyran Characteristics]]
-- [[Galactic Federation]]
+- [[human-lyran-characteristics|Human Lyran Characteristics]]
+- Galactic Federation
 
 ## Sources
 

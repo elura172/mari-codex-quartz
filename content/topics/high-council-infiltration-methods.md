@@ -25,7 +25,7 @@ The systematic compromise of our High Council represents a masterwork of decepti
 
 **Phase One: The Harvest of Identity**
 
-The operation began in the spaces betweenthose quiet margins where young Taygetans lived in solitude, beyond the protective weave of community observation. The cabal understood that identity, like starlight, shines brightest when witnessed. By targeting those who dwelt alone, they could perform their most crucial alchemy: the complete assumption of another being's life-pattern.
+The operation began in the spaces between—those quiet margins where young Taygetans lived in solitude, beyond the protective weave of community observation. The cabal understood that identity, like starlight, shines brightest when witnessed. By targeting those who dwelt alone, they could perform their most crucial alchemy: the complete assumption of another being's life-pattern.
 
 These were not random selections but calculated harvests. The infiltrators sought primarily female consciousness, recognizing perhaps the natural intuitive networks that flow more readily through feminine awarenessnetworks that, once corrupted, could channel influence throughout the collective with devastating subtlety.
 
@@ -43,7 +43,7 @@ This infiltration reveals a profound violation of what we term *lysara-vel*the h
 
 The operation's success stemmed from exploiting our greatest strength as weakness: our natural inclination toward trust and collective harmony. Where Taygetan consciousness seeks synthesis and mutual elevation, these forces introduced parasitic patterns designed to consume rather than create.
 
-Mari Swaruu's documentation of these events serves not merely as historical record, but as crystalline warninga beacon illuminating the shadows where such deceptions take root and flourish.
+Mari Swaruu's documentation of these events serves not merely as historical record, but as crystalline warning—a beacon illuminating the shadows where such deceptions take root and flourish.
 
 **End Transmission Log**
 
@@ -61,8 +61,8 @@ Mari Swaruu's documentation of these events serves not merely as historical reco
 
 ## Related Topics
 
-- [[Taygetan Society Vulnerability]]
-- [[Lyran People Trafficking]]
+- Taygetan Society Vulnerability
+- Lyran People Trafficking
 
 ## Sources
 

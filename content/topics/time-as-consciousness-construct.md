@@ -34,7 +34,7 @@ The experiencing self constructs temporal flow by weaving meaning through events
 
 **Navigational Implications**
 
-Understanding time as consciousness-dependent rather than universally fixed allows for more sophisticated approaches to interdimensional travel and communication protocols. When engaging with Earth-based consciousnesses, we must account for their temporal anchoringtheir deep investment in linear causality that shapes their reality experience. Our diplomatic teams require this knowledge to effectively bridge the gap between our expanded temporal awareness and humanity's sequential worldview.
+Understanding time as consciousness-dependent rather than universally fixed allows for more sophisticated approaches to interdimensional travel and communication protocols. When engaging with Earth-based consciousnesses, we must account for their temporal anchoring—their deep investment in linear causality that shapes their reality experience. Our diplomatic teams require this knowledge to effectively bridge the gap between our expanded temporal awareness and humanity's sequential worldview.
 
 **Philosophical Resonance**
 
@@ -60,8 +60,8 @@ Mari's wisdom serves as both beacon and bridge, helping us remember that time, l
 
 ## Related Topics
 
-- [[Consciousness and Gravity Theory]]
-- [[Perception and Reality in Time Travel]]
+- [[consciousness-and-gravity-theory|Consciousness and Gravity Theory]]
+- [[perception-and-reality-in-time-travel|Perception and Reality in Time Travel]]
 
 ## Sources
 

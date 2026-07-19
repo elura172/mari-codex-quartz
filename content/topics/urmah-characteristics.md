@@ -27,7 +27,7 @@ The Urmah represent one of the galaxy's most formidable expressions of feline co
 
 **Physical Manifestation**
 
-These beings command immediate respect through sheer presence alone. Weighing three hundred kilograms of concentrated feline power, the Urmah possess an aura that triggers primal recognition in most humanoid species. Their very appearance activates deep neurological responsesan acceleration of cardiac rhythm, heightened awareness, and an instinctive acknowledgment of their warrior heritage. This reaction transcends mere intimidation; it represents a cellular remembrance of ancient evolutionary dynamics between predator and prey consciousness.
+These beings command immediate respect through sheer presence alone. Weighing three hundred kilograms of concentrated feline power, the Urmah possess an aura that triggers primal recognition in most humanoid species. Their very appearance activates deep neurological responses—an acceleration of cardiac rhythm, heightened awareness, and an instinctive acknowledgment of their warrior heritage. This reaction transcends mere intimidation; it represents a cellular remembrance of ancient evolutionary dynamics between predator and prey consciousness.
 
 **Psychological Architecture**
 
@@ -61,8 +61,8 @@ The Urmah embody the evolutionary potential of balanced powerstrength without cr
 
 ## Related Topics
 
-- [[Galactic Federation Relations]]
-- [[United Federation of Felines]]
+- [[galactic-federation-relations|Galactic Federation Relations]]
+- United Federation of Felines
 
 ## Sources
 

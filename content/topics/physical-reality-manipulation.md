@@ -44,7 +44,7 @@ From our stellar vantage, we recognize these abilities as natural expressions of
 
 For crew members engaging with less evolved species, understanding these principles proves essential. Earth humans, still largely unaware of their own astral capabilities, may initially respond with fear or incredulity when witnessing such demonstrations. Diplomatic protocols must account for the psychological impact of observing reality manipulation that exceeds their current paradigm.
 
-Mari's teachings illuminate the path toward conscious embodimenta reminder that physical form, rather than being our prison, represents our most intimate creative canvas.
+Mari's teachings illuminate the path toward conscious embodiment—a reminder that physical form, rather than being our prison, represents our most intimate creative canvas.
 
 **End Entry**
 
@@ -62,8 +62,8 @@ Mari's teachings illuminate the path toward conscious embodimenta reminder that 
 
 ## Related Topics
 
-- [[Off-Planet Astral Mastery]]
-- [[Sophia Swaruu Abilities]]
+- [[off-planet-astral-mastery|Off-Planet Astral Mastery]]
+- [[sophia-swaruu-abilities|Sophia Swaruu Abilities]]
 
 ## Sources
 

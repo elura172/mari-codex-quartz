@@ -25,7 +25,7 @@ tags:
 
 **Strategic Concealment as Sacred Practice**
 
-Our sister Mari illuminated a fundamental principle of energetic warfare: the wisdom of selective revelation. When operating within family matrices that vibrate at incompatible frequencies, disclosure becomes a liability rather than connection. This is not deceptionit is energetic conservation. The starseed learns to move like water around stone, maintaining inner truth while presenting only what the environment can safely receive.
+Our sister Mari illuminated a fundamental principle of energetic warfare: the wisdom of selective revelation. When operating within family matrices that vibrate at incompatible frequencies, disclosure becomes a liability rather than connection. This is not deception—it is energetic conservation. The starseed learns to move like water around stone, maintaining inner truth while presenting only what the environment can safely receive.
 
 The lower-density consciousness often interprets expanded awareness as threat to its established paradigms. By withholding our deeper knowing, we protect both ourselves and those not yet ready for such frequencies. This represents tactical compassionallowing others their evolutionary timing while preserving our mission integrity.
 
@@ -33,7 +33,7 @@ The lower-density consciousness often interprets expanded awareness as threat to
 
 Mari taught that the word "no" functions as a crystalline shield, defining where our energy field begins and ends. For starseeds accustomed to service-to-others orientation, this boundary-setting challenges inherited programming that equates love with unlimited availability.
 
-The holiday gatherings and family obligations become training grounds for energetic sovereignty. Each boundary established strengthens our capacity to maintain coherent frequency regardless of external pressure. This practice extends beyond family dynamicsit prepares us for larger matrix interactions where our expanded consciousness requires protection.
+The holiday gatherings and family obligations become training grounds for energetic sovereignty. Each boundary established strengthens our capacity to maintain coherent frequency regardless of external pressure. This practice extends beyond family dynamics—it prepares us for larger matrix interactions where our expanded consciousness requires protection.
 
 **Metaphysical Framework**
 
@@ -59,8 +59,8 @@ The evolved starseed learns to honor both their cosmic nature and their human in
 
 ## Related Topics
 
-- [[Starseed Family Conflict]]
-- [[Consciousness Levels]]
+- [[starseed-family-conflict|Starseed Family Conflict]]
+- Consciousness Levels
 
 ## Sources
 

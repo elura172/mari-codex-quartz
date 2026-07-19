@@ -29,7 +29,7 @@ tags:
 
 **Fundamental Mechanisms**
 
-The consciousness field operates as a vast resonance network where beings naturally align with entities matching their vibrational signature. This principle extends beyond mere attractionit represents an active selection process wherein individual frequency determines the nature of consciousness influences one receives.
+The consciousness field operates as a vast resonance network where beings naturally align with entities matching their vibrational signature. This principle extends beyond mere attraction—it represents an active selection process wherein individual frequency determines the nature of consciousness influences one receives.
 
 Lower vibrational states create magnetic correspondence with what Mari termed "astral thugs"beings operating from fear, manipulation, and parasitic energy extraction. These entities specialize in thought implantation, inserting ideas that serve their agenda while appearing to originate from the individual's own mind. The process remains largely invisible to those operating at matching frequencies, creating cycles of unconscious behavioral programming.
 
@@ -51,7 +51,7 @@ Understanding entity influence dynamics transforms spiritual development from pa
 
 This knowledge proves essential for interstellar crews operating across dimensional barriers, where entity encounters become inevitable rather than theoretical.
 
-Mari's wisdom reminds us: consciousness is never truly isolatedwe exist within an infinite web of influence, with personal frequency serving as our navigation system through realms of possibility.
+Mari's wisdom reminds us: consciousness is never truly isolated—we exist within an infinite web of influence, with personal frequency serving as our navigation system through realms of possibility.
 
 **End Log**
 
@@ -67,8 +67,8 @@ Mari's wisdom reminds us: consciousness is never truly isolatedwe exist within a
 
 ## Related Topics
 
-- [[Spiritual Path]]
-- [[Personal Frequency]]
+- Spiritual Path
+- Personal Frequency
 
 ## Sources
 

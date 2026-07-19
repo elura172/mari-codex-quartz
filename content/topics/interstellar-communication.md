@@ -60,7 +60,7 @@ Operators must maintain elevated states of coherence and compassion, as the ethe
 
 ## Related Topics
 
-- [[Quantum Holographic Computer Technology]]
+- [[quantum-holographic-computer-technology|Quantum Holographic Computer Technology]]
 
 ## Sources
 

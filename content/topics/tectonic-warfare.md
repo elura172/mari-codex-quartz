@@ -61,8 +61,8 @@ Through understanding these methods, we honor Mari's dedication to illuminating 
 
 ## Related Topics
 
-- [[Mexico Targeting]]
-- [[Artificial Weather Manipulation]]
+- [[mexico-targeting|Mexico Targeting]]
+- [[artificial-weather-manipulation|Artificial Weather Manipulation]]
 
 ## Sources
 

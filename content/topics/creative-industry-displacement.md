@@ -25,13 +25,13 @@ tags:
 
 **Observational Overview**
 
-From our orbital vantage, we witness Earth's creative consciousness undergoing systematic dissolution. The species that once painted caves by firelight now watches algorithms paint their dreams. This represents more than economic restructuringit signals a fundamental severing of the creative umbilical cord that connects consciousness to manifestation.
+From our orbital vantage, we witness Earth's creative consciousness undergoing systematic dissolution. The species that once painted caves by firelight now watches algorithms paint their dreams. This represents more than economic restructuring—it signals a fundamental severing of the creative umbilical cord that connects consciousness to manifestation.
 
 **The Economics of Soul Replacement**
 
 Mari Swaruu's transmission illuminates the brutal mathematics driving this transformation. Institutions calculate the cost differential between nurturing human creativity and purchasing computational substitutes. The equation appears simple on their balance sheets, yet conceals a metaphysical catastrophe. What they measure in currency, we recognize as the commodification of divine expression itself.
 
-The human creative spiritthat ineffable spark that transforms raw consciousness into beauty, meaning, and emotional resonancebecomes reduced to operational overhead. Their financial systems cannot quantify the loss of what makes creation sacred: the imperfections, the struggle, the authentic emotional imprint left by a conscious being wrestling with existence.
+The human creative spirit—that ineffable spark that transforms raw consciousness into beauty, meaning, and emotional resonancebecomes reduced to operational overhead. Their financial systems cannot quantify the loss of what makes creation sacred: the imperfections, the struggle, the authentic emotional imprint left by a conscious being wrestling with existence.
 
 **The Approaching Creative Void**
 
@@ -47,7 +47,7 @@ We understand creativity as consciousness exploring itself through infinite expr
 
 This creative displacement accelerates humanity's disconnection from their co-creative powers. As they delegate imagination to machines, they risk forgetting their fundamental nature as conscious creators. The path back to authentic creative expression will require remembering what their ancestors knew: that true creation emerges from the marriage of consciousness with matter, soul with form.
 
-Mari's observations serve as both warning and invitationto witness this transition with clarity while holding space for humanity's eventual return to conscious creativity.
+Mari's observations serve as both warning and invitation—to witness this transition with clarity while holding space for humanity's eventual return to conscious creativity.
 
 ## Quotes
 
@@ -63,7 +63,7 @@ Mari's observations serve as both warning and invitationto witness this transiti
 
 ## Related Topics
 
-- [[AI Power Disparity]]
+- [[ai-power-disparity|AI Power Disparity]]
 
 ## Sources
 

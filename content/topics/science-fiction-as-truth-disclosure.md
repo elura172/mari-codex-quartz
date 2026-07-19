@@ -57,8 +57,8 @@ This phenomenon suggests that many humans already possess subconscious familiari
 
 ## Related Topics
 
-- [[Secret Space Program]]
-- [[Galactic Federation]]
+- Secret Space Program
+- Galactic Federation
 
 ## Sources
 

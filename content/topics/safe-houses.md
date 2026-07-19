@@ -56,8 +56,8 @@ The safe house network stands as testament to our dedication to Earth's ascensio
 
 ## Related Topics
 
-- [[Security Protocols]]
-- [[Taygetan Supply Missions]]
+- Security Protocols
+- [[taygetan-supply-missions|Taygetan Supply Missions]]
 
 ## Sources
 

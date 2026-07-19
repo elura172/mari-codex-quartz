@@ -25,7 +25,7 @@ tags:
 
 **Overview**
 
-From the orbital perspective above Earth's dense atmospheric layers, we observe a concerning pattern in the human exploration of consciousness through synthetic and organic psychoactive compounds. Mari's transmissions illuminate a fundamental misunderstanding that permeates terrestrial spiritual practicesthe belief that altered states induced by external substances represent genuine advancement.
+From the orbital perspective above Earth's dense atmospheric layers, we observe a concerning pattern in the human exploration of consciousness through synthetic and organic psychoactive compounds. Mari's transmissions illuminate a fundamental misunderstanding that permeates terrestrial spiritual practices—the belief that altered states induced by external substances represent genuine advancement.
 
 **Cellular Frequency Disruption**
 
@@ -61,9 +61,9 @@ Mari's warnings emerge not from judgment, but from the loving concern of elder s
 
 ## Related Topics
 
-- [[Cellular Chemistry]]
-- [[Frequency and Vibration]]
-- [[Lower Astral Entities]]
+- Cellular Chemistry
+- [[frequency-and-vibration|Frequency and Vibration]]
+- [[lower-astral-entities|Lower Astral Entities]]
 
 ## Sources
 

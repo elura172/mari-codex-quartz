@@ -25,7 +25,7 @@ The human intelligence apparatus of the former Soviet Union maintained systemati
 
 **Operational Context and Purpose**
 
-The handbook functioned as a practical identification guide for agents encountering anomalous entities during sensitive operations. Its existence confirms that terrestrial governments possessed far more extensive knowledge of extraterrestrial presence than publicly acknowledged, maintaining dual realitiesone for the populace, another for operational personnel tasked with managing otherworldly interactions.
+The handbook functioned as a practical identification guide for agents encountering anomalous entities during sensitive operations. Its existence confirms that terrestrial governments possessed far more extensive knowledge of extraterrestrial presence than publicly acknowledged, maintaining dual realities—one for the populace, another for operational personnel tasked with managing otherworldly interactions.
 
 **The Invisible Ones: A Case Study in Limited Perception**
 
@@ -57,8 +57,8 @@ The handbook stands as testament to humanity's readiness to acknowledge wider re
 
 ## Related Topics
 
-- [[Shadow People as Extraterrestrial Race]]
-- [[Government Knowledge of Paranormal]]
+- [[shadow-people-as-extraterrestrial-race|Shadow People as Extraterrestrial Race]]
+- [[government-knowledge-of-paranormal|Government Knowledge of Paranormal]]
 
 ## Sources
 

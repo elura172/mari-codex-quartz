@@ -34,7 +34,7 @@ The original experiencers find themselves dependent upon these intermediaries fo
 
 **Taygetan Perspective on Information Warfare**
 
-From our observational position, we recognize this as consciousness fragmentationthe deliberate severing of direct knowing from collective awareness. Earth humans possess innate telepathic capabilities that would render such information control mechanisms obsolete, yet these abilities remain suppressed through educational and social conditioning.
+From our observational position, we recognize this as consciousness fragmentation—the deliberate severing of direct knowing from collective awareness. Earth humans possess innate telepathic capabilities that would render such information control mechanisms obsolete, yet these abilities remain suppressed through educational and social conditioning.
 
 Mari Swaruu's transmissions consistently emphasized that truth requires no institutional validation, yet Earth's information ecology has been engineered to make independent discernment appear unreliable compared to authorized expertise. This represents a profound reversal of natural consciousness development patterns observed across stellar civilizations.
 
@@ -59,8 +59,8 @@ Mari's approach demonstrated this principlebypassing established UFO organizatio
 
 ## Related Topics
 
-- [[Controlled Disclosure]]
-- [[False Contactees]]
+- Controlled Disclosure
+- False Contactees
 
 ## Sources
 

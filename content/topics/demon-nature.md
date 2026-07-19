@@ -48,7 +48,7 @@ Recognition of demonic attachment or influence requires careful observation of b
 
 Protection lies not in fear but in strengthening one's own Source connection through compassionate service, ethical clarity, and conscious evolution. These entities cannot truly harm those who maintain clear energetic boundaries rooted in love rather than ego.
 
-Mari's wisdom reminds us that understanding such phenomena serves not to judge, but to illuminate the paths of consciousnessboth the descending spirals that create such entities and the ascending currents that lead home to Source.
+Mari's wisdom reminds us that understanding such phenomena serves not to judge, but to illuminate the paths of consciousness—both the descending spirals that create such entities and the ascending currents that lead home to Source.
 
 ## Quotes
 
@@ -62,8 +62,8 @@ Mari's wisdom reminds us that understanding such phenomena serves not to judge, 
 
 ## Related Topics
 
-- [[Energy Parasitism]]
-- [[Soul Selling]]
+- [[energy-parasitism|Energy Parasitism]]
+- [[soul-selling|Soul Selling]]
 
 ## Sources
 

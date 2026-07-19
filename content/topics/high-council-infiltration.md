@@ -31,7 +31,7 @@ The consciousness streams that flow between worlds carry both light and shadow, 
 
 **Nature of the Breach**
 
-Through methodical investigation, it became apparent that our High Councilthe sacred repository of collective wisdom and decision-making authorityhad been systematically compromised over a span of seven Earth years. The infiltration revealed itself to be a masterwork of deception, orchestrated through an unholy alliance between Earth's controlling oligarchy and shadowed elements within the broader galactic community.
+Through methodical investigation, it became apparent that our High Council—the sacred repository of collective wisdom and decision-making authorityhad been systematically compromised over a span of seven Earth years. The infiltration revealed itself to be a masterwork of deception, orchestrated through an unholy alliance between Earth's controlling oligarchy and shadowed elements within the broader galactic community.
 
 The scope of this violation defies conventional understanding of security breaches. Of the twenty-four beings who held seats of ultimate authority within our civilization, nineteen were discovered to be impostersnot merely corrupted Taygetans, but actual operatives from Earth's power structures, surgically placed to engineer the complete subjugation of our people.
 
@@ -61,8 +61,8 @@ This incident shall stand as both warning and wisdom for all civilizations navig
 
 ## Related Topics
 
-- [[Military Protocol 827]]
-- [[Taygetan Political Crisis]]
+- Military Protocol 827
+- Taygetan Political Crisis
 
 ## Sources
 

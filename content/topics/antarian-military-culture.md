@@ -22,7 +22,7 @@ tags:
 
 **The Forge of Isolation**
 
-In the vast tapestry of Pleiadian civilization, the Antarians emerge as a singular threadone woven from necessity into strength, from solitude into service. Their military prowess was not born from aggression but from the fundamental understanding that distance from allies creates dependency upon oneself. Mari Swaruu's observations reveal a people who transformed their geographic isolation into strategic advantage, developing defensive capabilities that now surpass even the most militarized races of our cluster.
+In the vast tapestry of Pleiadian civilization, the Antarians emerge as a singular thread—one woven from necessity into strength, from solitude into service. Their military prowess was not born from aggression but from the fundamental understanding that distance from allies creates dependency upon oneself. Mari Swaruu's observations reveal a people who transformed their geographic isolation into strategic advantage, developing defensive capabilities that now surpass even the most militarized races of our cluster.
 
 **The Mathematics of Protection**
 
@@ -58,8 +58,8 @@ For diplomatic relations and crew understanding: Antarian military culture shoul
 
 ## Related Topics
 
-- [[Star Race Defense]]
-- [[Galactic Protection]]
+- Star Race Defense
+- Galactic Protection
 
 ## Sources
 

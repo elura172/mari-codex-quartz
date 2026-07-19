@@ -31,7 +31,7 @@ The maintenance of elevated vibrational states serves as the primary defense mec
 
 **Protection Methodology**
 
-When confronted with lower astral manifestations or negative entity contact, conscious beings may activate protective frequencies through specific cognitive-emotional protocols. The process involves establishing fearless presence while simultaneously anchoring awareness in Source consciousnessthat unified field from which all authentic power emanates.
+When confronted with lower astral manifestations or negative entity contact, conscious beings may activate protective frequencies through specific cognitive-emotional protocols. The process involves establishing fearless presence while simultaneously anchoring awareness in Source consciousness—that unified field from which all authentic power emanates.
 
 The visualization of golden-yellow luminous energy surrounding one's energetic field serves as both symbol and actualization of this elevated state. This chromatic frequency corresponds to solar consciousness and represents the transmutation of fear-based patterns into love-based coherence. Such entities, existing within contracted frequencies, cannot maintain proximity to this expanded state and naturally withdraw from the energetic environment.
 
@@ -69,8 +69,8 @@ For diplomatic missions and consciousness interface protocols, these teachings p
 
 ## Related Topics
 
-- [[Frequency Manifestation]]
-- [[Source Connection]]
+- Frequency Manifestation
+- [[source-connection|Source Connection]]
 
 ## Sources
 

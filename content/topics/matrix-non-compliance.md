@@ -22,11 +22,11 @@ tags:
 
 **Foundational Understanding**
 
-The construct known as "the Matrix" represents far more than technological controlit is a consciousness trap sustained by the voluntary participation of those it seeks to dominate. Mari Swaruu's transmissions reveal a profound truth: every act of compliance feeds the very system that restricts organic consciousness development. The solution lies not in violent resistance, but in the elegant withdrawal of energetic support.
+The construct known as "the Matrix" represents far more than technological control—it is a consciousness trap sustained by the voluntary participation of those it seeks to dominate. Mari Swaruu's transmissions reveal a profound truth: every act of compliance feeds the very system that restricts organic consciousness development. The solution lies not in violent resistance, but in the elegant withdrawal of energetic support.
 
 **Strategic Withdrawal Principles**
 
-Non-compliance begins with recognizing that oppressive systems require constant feeding to maintain their artificial structures. Like a parasitic organism, the Matrix depends entirely on the life force of its hosts. When beings consciously choose to withhold their energythrough selective non-participation rather than reactive rebellionthe entire framework begins to weaken at its foundation.
+Non-compliance begins with recognizing that oppressive systems require constant feeding to maintain their artificial structures. Like a parasitic organism, the Matrix depends entirely on the life force of its hosts. When beings consciously choose to withhold their energythrough selective non-participation rather than reactive rebellion—the entire framework begins to weaken at its foundation.
 
 This approach aligns with Taygetan understanding of reality as consciousness-based rather than purely material. What appears as an external control system is ultimately a reflection of collective mental patterns. By changing individual response patterns, each being contributes to shifting the larger holographic projection.
 
@@ -59,8 +59,8 @@ Mari's wisdom reminds us that liberation occurs not through fighting darkness, b
 
 ## Related Topics
 
-- [[Galactic Federation Consent Requirements]]
-- [[Etheric Perspective on Actions]]
+- [[galactic-federation-consent-requirements|Galactic Federation Consent Requirements]]
+- [[etheric-perspective-on-actions|Etheric Perspective on Actions]]
 
 ## Sources
 

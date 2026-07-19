@@ -60,8 +60,8 @@ Mari Swaruu's documentation of this event reminds us that even in our advanced t
 
 ## Related Topics
 
-- [[Crew Health Crisis]]
-- [[Food Poisoning]]
+- Crew Health Crisis
+- Food Poisoning
 
 ## Sources
 

@@ -64,8 +64,8 @@ Understanding human concepts of the Akashic Records provides insight into their 
 
 ## Related Topics
 
-- [[Higher Realms]]
-- [[Collective Unconscious]]
+- [[higher-realms|Higher Realms]]
+- [[collective-unconscious|Collective Unconscious]]
 
 ## Sources
 

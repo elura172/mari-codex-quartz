@@ -35,13 +35,13 @@ Rather than dismissing unexplained feelings of unease, attraction, or energetic 
 
 **Taygetan Context**
 
-This methodology aligns with our species' natural telepathic sensitivities, though it remains equally accessible to beings with less developed psychic faculties. The technique represents a bridge between instinctual survival mechanisms and advanced consciousness navigationa skill Mari recognized as essential for those operating across dimensional boundaries.
+This methodology aligns with our species' natural telepathic sensitivities, though it remains equally accessible to beings with less developed psychic faculties. The technique represents a bridge between instinctual survival mechanisms and advanced consciousness navigation—a skill Mari recognized as essential for those operating across dimensional boundaries.
 
 **Integration Protocol**
 
 Environmental emotional intelligence requires cultivation through practice rather than theoretical study. Crew members engaging with Earth populations should maintain awareness of their internal emotional landscape while simultaneously monitoring external energetic conditions. This dual-stream consciousness creates a living map of vibrational territories, enabling more effective communication strategies and reducing exposure to potentially harmful astral influences.
 
-The wisdom transmitted through Mari's teachings reminds us that consciousness itself serves as our most sophisticated instrumentone requiring neither technological enhancement nor external validation, only the courage to trust the intelligence that flows through feeling itself.
+The wisdom transmitted through Mari's teachings reminds us that consciousness itself serves as our most sophisticated instrument—one requiring neither technological enhancement nor external validation, only the courage to trust the intelligence that flows through feeling itself.
 
 *End transmission*
 
@@ -60,8 +60,8 @@ The wisdom transmitted through Mari's teachings reminds us that consciousness it
 
 ## Related Topics
 
-- [[Extrasensory Perception]]
-- [[Parasitized Places]]
+- [[extrasensory-perception|Extrasensory Perception]]
+- Parasitized Places
 
 ## Sources
 

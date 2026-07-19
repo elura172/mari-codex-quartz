@@ -18,7 +18,7 @@ tags:
 
 # Astral Entity Influence
 
-*Part of: [[Astral Entity Influence & Related Concepts]]*
+*Part of: [[astral-entity-influence-related-concepts|Astral Entity Influence & Related Concepts]]*
 
 ## Summary
 
@@ -62,8 +62,8 @@ The interplay between stellar rhythms, consciousness frequencies, and dimensiona
 
 ## Related Topics
 
-- [[Cabal Rituals]]
-- [[Solar Portals and Sunspots]]
+- Cabal Rituals
+- Solar Portals and Sunspots
 
 ## Sources
 

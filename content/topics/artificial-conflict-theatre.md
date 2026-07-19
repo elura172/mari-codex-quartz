@@ -31,7 +31,7 @@ Mari Swaruu's communications reveal a fundamental truth about Earth's sociopolit
 
 From our elevated observational position, the pattern becomes unmistakably clear. Those who wield true authority behind Earth's various governmental facades have achieved something remarkable in its cynicism: total planetary control through the illusion of opposition. The same orchestrating intelligence guides both sides of every major conflict, ensuring that regardless of which faction appears to triumph, the fundamental power structure remains undisturbed.
 
-This represents a sophisticated evolution of control methodologyone that harnesses humanity's natural tribal instincts while preventing any genuine challenge to the existing order. Citizens pour their revolutionary energy into conflicts that are ultimately meaningless, believing they fight for freedom while strengthening the very chains that bind them.
+This represents a sophisticated evolution of control methodology—one that harnesses humanity's natural tribal instincts while preventing any genuine challenge to the existing order. Citizens pour their revolutionary energy into conflicts that are ultimately meaningless, believing they fight for freedom while strengthening the very chains that bind them.
 
 **The Sick Game Paradigm**
 
@@ -39,7 +39,7 @@ Mari's insight into this "sick game" reveals the psychological architecture unde
 
 **Taygetan Perspective: Density Warfare**
 
-From our understanding of consciousness evolution, this represents a form of density warfarethe deliberate suppression of collective awareness through engineered confusion. When beings cannot distinguish between authentic conflict and manufactured drama, their ability to perceive higher-dimensional realities becomes severely compromised.
+From our understanding of consciousness evolution, this represents a form of density warfare—the deliberate suppression of collective awareness through engineered confusion. When beings cannot distinguish between authentic conflict and manufactured drama, their ability to perceive higher-dimensional realities becomes severely compromised.
 
 **Strategic Implications**
 
@@ -61,8 +61,8 @@ Mari's transmission serves as both warning and wisdom for our continued observat
 
 ## Related Topics
 
-- [[Antarctica Secrets]]
-- [[Global Control Structure]]
+- [[antarctica-secrets|Antarctica Secrets]]
+- [[global-control-structure|Global Control Structure]]
 
 ## Sources
 

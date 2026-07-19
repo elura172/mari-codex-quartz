@@ -31,7 +31,7 @@ At a considerably elevated orbital distanceapproximately five million kilometers
 
 **Strategic Implications**
 
-The numerical superiority of allied forces creates a protective matrix around Earth, yet the Orion presence cannot be dismissed as merely symbolic. Their advanced positioning allows for rapid deployment while maintaining plausible neutralitya classic Orion tactical doctrine that demonstrates their sophisticated understanding of both physical and consciousness-based warfare.
+The numerical superiority of allied forces creates a protective matrix around Earth, yet the Orion presence cannot be dismissed as merely symbolic. Their advanced positioning allows for rapid deployment while maintaining plausible neutrality—a classic Orion tactical doctrine that demonstrates their sophisticated understanding of both physical and consciousness-based warfare.
 
 **Metaphysical Considerations**
 
@@ -59,9 +59,9 @@ This delicate balance of forces creates what Mari Swaruu would recognize as a cr
 
 ## Related Topics
 
-- [[Earth Protection]]
-- [[Orion Empire]]
-- [[Galactic Federation]]
+- Earth Protection
+- Orion Empire
+- Galactic Federation
 
 ## Sources
 

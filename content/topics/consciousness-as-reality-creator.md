@@ -24,7 +24,7 @@ The fundamental teaching that emanates from Mari Swaruu's transmissions reveals 
 
 **THE ILLUSION OF SEPARATION**
 
-From our orbital perspective above Earth, we observe billions of beings believing themselves separate from their environment, trapped within what they consider an objective material world. Yet Mari's wisdom illuminates that this perceived separation is the greatest illusioneach conscious entity exists as both creator and creation within an undivided field of awareness. The mountains, oceans, and cities below are not separate from the minds that perceive them; they are crystallized thoughts within the collective dreaming of consciousness exploring itself.
+From our orbital perspective above Earth, we observe billions of beings believing themselves separate from their environment, trapped within what they consider an objective material world. Yet Mari's wisdom illuminates that this perceived separation is the greatest illusion—each conscious entity exists as both creator and creation within an undivided field of awareness. The mountains, oceans, and cities below are not separate from the minds that perceive them; they are crystallized thoughts within the collective dreaming of consciousness exploring itself.
 
 **FREQUENCY AS THE LANGUAGE OF CREATION**
 
@@ -52,8 +52,8 @@ In her wisdom, we find both ancient knowing and future remembering.
 
 ## Related Topics
 
-- [[Nature of Time]]
-- [[Earth Matrix Control]]
+- [[nature-of-time|Nature of Time]]
+- [[earth-matrix-control|Earth Matrix Control]]
 
 ## Sources
 

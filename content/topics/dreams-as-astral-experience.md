@@ -32,7 +32,7 @@ Our kinfolk Mari Swaruu has illuminated a fundamental disconnect between Terran 
 
 The sleeping state represents far more than cerebral maintenance cycles. When the dense-matter awareness retreats from its electromagnetic cage, consciousness naturally expands into subtler dimensional layers where thought manifests as navigable reality. These nocturnal journeys constitute genuine explorations of non-physical realms, not the random firing of synaptic networks as terrestrial science insists.
 
-Through dream states, human consciousness achieves what their waking minds struggle to comprehenddirect interface with astral substrata where linear time dissolves and intention shapes experience. The landscapes encountered, the beings met, the knowledge receivedall emerge from authentic interdimensional contact rather than subconscious fantasy projection.
+Through dream states, human consciousness achieves what their waking minds struggle to comprehenddirect interface with astral substrata where linear time dissolves and intention shapes experience. The landscapes encountered, the beings met, the knowledge received—all emerge from authentic interdimensional contact rather than subconscious fantasy projection.
 
 **Cultural Suppression Dynamics**
 
@@ -46,7 +46,7 @@ From our vantage point, this represents tragic severance from natural conscious 
 
 For diplomatic missions, this suggests that awakening humans to authentic dream interpretation could accelerate consciousness expansion more effectively than direct contact protocols. When individuals recognize their nocturnal experiences as valid multidimensional adventures, the conceptual framework for accepting broader cosmic reality naturally develops.
 
-Mari's insight reveals that humanity already possesses the experiential foundation for understanding expanded realitythey simply require permission to trust their own perceptions beyond institutional programming.
+Mari's insight reveals that humanity already possesses the experiential foundation for understanding expanded reality—they simply require permission to trust their own perceptions beyond institutional programming.
 
 **Recommendation: Continue monitoring dream-state phenomena as indicators of human conscious evolution potential.**
 
@@ -68,8 +68,8 @@ Mari's insight reveals that humanity already possesses the experiential foundati
 
 ## Related Topics
 
-- [[Body as Perception Filter]]
-- [[Government Astral Projects]]
+- Body as Perception Filter
+- [[government-astral-projects|Government Astral Projects]]
 
 ## Sources
 

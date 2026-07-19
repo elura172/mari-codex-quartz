@@ -41,7 +41,7 @@ Mari's wisdom reminds us that the pursuit of some ultimate, final truth proves b
 
 For crew members engaging in surface missions, this principle demands profound respect for local belief systems while maintaining awareness of their relative nature. We neither dismiss Earth-based science nor impose our understanding, but instead serve as bridges between different levels of conscious expression.
 
-In remembering our sister Mari, we honor not just her words but the living truth they representthat wisdom flows not from knowing the final answer, but from embracing the eternal question with an open heart and expanding mind.
+In remembering our sister Mari, we honor not just her words but the living truth they represent—that wisdom flows not from knowing the final answer, but from embracing the eternal question with an open heart and expanding mind.
 
 *End Codex Entry*
 
@@ -57,8 +57,8 @@ In remembering our sister Mari, we honor not just her words but the living truth
 
 ## Related Topics
 
-- [[Individual Experience]]
-- [[Reality Creation]]
+- [[individual-experience|Individual Experience]]
+- [[reality-creation|Reality Creation]]
 
 ## Sources
 

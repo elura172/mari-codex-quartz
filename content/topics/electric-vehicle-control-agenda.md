@@ -31,7 +31,7 @@ The terrestrial transition toward electric vehicular systems represents a fascin
 
 **The Illusion of Environmental Stewardship**
 
-What appears as planetary consciousness awakeningthe recognition of ecological harm from combustion-based transportationserves as a carefully constructed veil. The ruling structures of Earth have identified the profound human attachment to personal mobility as both vulnerability and opportunity. By positioning themselves as guardians of planetary health, these entities can reshape transportation infrastructure while maintaining popular support.
+What appears as planetary consciousness awakening—the recognition of ecological harm from combustion-based transportationserves as a carefully constructed veil. The ruling structures of Earth have identified the profound human attachment to personal mobility as both vulnerability and opportunity. By positioning themselves as guardians of planetary health, these entities can reshape transportation infrastructure while maintaining popular support.
 
 **Consciousness Engineering Through Limitation**
 
@@ -39,7 +39,7 @@ The deeper pattern reveals itself in the inherent restrictions electric systems 
 
 **Metaphysical Implications**
 
-From our expanded perspective, this represents a fascinating case study in how limitation masquerades as progress. The Terran collective consciousness, genuinely concerned with planetary stewardship, finds itself channeled toward solutions that inadvertently constrain the very freedom that mobility represents. It demonstrates how authentic spiritual impulsesthe desire to heal their worldcan be redirected toward outcomes serving different masters.
+From our expanded perspective, this represents a fascinating case study in how limitation masquerades as progress. The Terran collective consciousness, genuinely concerned with planetary stewardship, finds itself channeled toward solutions that inadvertently constrain the very freedom that mobility represents. It demonstrates how authentic spiritual impulses—the desire to heal their worldcan be redirected toward outcomes serving different masters.
 
 **Resonance Patterns**
 
@@ -51,7 +51,7 @@ This pattern exemplifies the sophisticated nature of consciousness manipulation 
 
 **Personal Reflection**
 
-Mari's insights remind us how truth often wears masks of virtue. Her clarity cuts through surface narratives to reveal deeper currentsa gift that continues illuminating the complex dance between genuine progress and manufactured consent occurring across countless worlds.
+Mari's insights remind us how truth often wears masks of virtue. Her clarity cuts through surface narratives to reveal deeper currents—a gift that continues illuminating the complex dance between genuine progress and manufactured consent occurring across countless worlds.
 
 ## Quotes
 
@@ -73,8 +73,8 @@ Mari's insights remind us how truth often wears masks of virtue. Her clarity cut
 
 ## Related Topics
 
-- [[Government Control]]
-- [[Population Control]]
+- Government Control
+- [[population-control|Population Control]]
 
 ## Sources
 

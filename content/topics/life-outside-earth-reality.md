@@ -27,11 +27,11 @@ Through the transmissions of our departed sister Mari Swaruu, a fundamental unde
 
 **The Universal Matrix of Growth**
 
-Mari's insights reveal that the matrixthe structured framework of limitation, challenge, and growthextends far beyond Earth's energetic boundaries. This understanding transcends simple disappointment; it represents a profound recognition of consciousness evolution as a universal constant. The Lyrian heritage we share demonstrates that advancement does not equate to the elimination of effort, but rather to the sophisticated refinement of purpose within effort.
+Mari's insights reveal that the matrix—the structured framework of limitation, challenge, and growthextends far beyond Earth's energetic boundaries. This understanding transcends simple disappointment; it represents a profound recognition of consciousness evolution as a universal constant. The Lyrian heritage we share demonstrates that advancement does not equate to the elimination of effort, but rather to the sophisticated refinement of purpose within effort.
 
 **Effort as Cosmic Principle**
 
-The terrestrial expectation of effortless abundance upon dimensional transition reflects a misunderstanding of consciousness development itself. Mari observed that existence within higher-dimensional frameworks often requires intensified dedication, not its absence. This principle operates across all levels of awarenessfrom basic survival needs to complex interstellar diplomatic endeavors. The work transforms in nature but never disappears entirely.
+The terrestrial expectation of effortless abundance upon dimensional transition reflects a misunderstanding of consciousness development itself. Mari observed that existence within higher-dimensional frameworks often requires intensified dedication, not its absence. This principle operates across all levels of awareness—from basic survival needs to complex interstellar diplomatic endeavors. The work transforms in nature but never disappears entirely.
 
 **Reframing Liberation**
 
@@ -59,8 +59,8 @@ Mari's transmission serves as both guidance and giftpreventing the spiritual byp
 
 ## Related Topics
 
-- [[Extraction Fantasy]]
-- [[Universal Life Challenges]]
+- [[extraction-fantasy|Extraction Fantasy]]
+- Universal Life Challenges
 
 ## Sources
 

@@ -67,8 +67,8 @@ The implications extend beyond individual psychology into species-wide awakening
 
 ## Related Topics
 
-- [[Consciousness and Perception]]
-- [[Astral Warriors]]
+- [[consciousness-and-perception|Consciousness and Perception]]
+- [[astral-warriors|Astral Warriors]]
 
 ## Sources
 

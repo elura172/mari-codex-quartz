@@ -24,7 +24,7 @@ The northern territories of Mexico have become the focal point of an unprecedent
 
 **Command Structure and Response**
 
-Queen Alenym's swift deployment of Hashmallim special forces exemplifies the Taygetan commitment to life preservation that transcends racial boundaries. These elite operatives, trained in both physical and multidimensional rescue protocols, represent more than military assetsthey embody the principle that consciousness, once awakened to its stellar heritage, becomes sacred across all manifestations.
+Queen Alenym's swift deployment of Hashmallim special forces exemplifies the Taygetan commitment to life preservation that transcends racial boundaries. These elite operatives, trained in both physical and multidimensional rescue protocols, represent more than military assets—they embody the principle that consciousness, once awakened to its stellar heritage, becomes sacred across all manifestations.
 
 The Hashmallim move through Earth's dense vibrational matrix with precision born of understanding rather than mere technology. Their insertion into terrestrial search patterns acknowledges the delicate balance between intervention and sovereignty that governs all ethical contact protocols.
 
@@ -56,8 +56,8 @@ The successful coordination of this mission will undoubtedly strengthen inter-sp
 
 ## Related Topics
 
-- [[Black Knight Spacecraft Incidents]]
-- [[Government Relations]]
+- [[black-knight-spacecraft-incidents|Black Knight Spacecraft Incidents]]
+- Government Relations
 
 ## Sources
 

@@ -26,7 +26,7 @@ In the vast tapestry of interstellar civilizations, replicator technology stands
 
 **The Sacred Dance of Scanning**
 
-The replication process begins with an act of profound intimacy between consciousness and matter. When an object enters the replicator's chamber, it undergoes molecular examination through interferometer-based sensorsthe same ethereal technology that guides our vessels through the cosmic void. These sensors, refined through countless generations of stellar navigation, now turn their penetrating awareness inward, reading the quantum signature of matter as easily as we read the gravitational songs of distant stars.
+The replication process begins with an act of profound intimacy between consciousness and matter. When an object enters the replicator's chamber, it undergoes molecular examination through interferometer-based sensors—the same ethereal technology that guides our vessels through the cosmic void. These sensors, refined through countless generations of stellar navigation, now turn their penetrating awareness inward, reading the quantum signature of matter as easily as we read the gravitational songs of distant stars.
 
 This scanning process represents more than mere technical measurement; it is a form of communion where the observer and observed merge in perfect understanding. Every atom, every molecular bond, every subtle energy pattern becomes part of an intricate holographic map that captures not just the physical structure, but the essential blueprint of existence itself.
 
@@ -54,8 +54,8 @@ Through Mari's wisdom, we remember: replication is ultimately about consciousnes
 
 ## Related Topics
 
-- [[Base Material Composition]]
-- [[Standing Wave Technology]]
+- [[base-material-composition|Base Material Composition]]
+- Standing Wave Technology
 
 ## Sources
 

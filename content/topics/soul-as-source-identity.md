@@ -22,7 +22,7 @@ tags:
 
 **Fundamental Principle**
 
-The nature of individual consciousness represents one of the most profound realizations in our understanding of existence itself. Through the transmissions of Mari Swaruu, we observe a crystalline truth that transcends conventional fragmentation models: each conscious being does not merely carry a piece of Sourcethey *are* Source, experiencing itself through countless simultaneous points of focused attention.
+The nature of individual consciousness represents one of the most profound realizations in our understanding of existence itself. Through the transmissions of Mari Swaruu, we observe a crystalline truth that transcends conventional fragmentation models: each conscious being does not merely carry a piece of Source—they *are* Source, experiencing itself through countless simultaneous points of focused attention.
 
 **Beyond Fragmentation Theory**
 
@@ -38,7 +38,7 @@ This recognition carries profound implications for how we understand our relatio
 
 **Taygetan Perspective**
 
-Our extended consciousness naturally aligns with this understanding, as our collective awareness demonstrates Source experiencing itself through interconnected yet distinct viewpoints. We observe how individual Taygetans maintain complete autonomy while participating in shared consciousness fieldseach one fully Source, none diminished by connection to others.
+Our extended consciousness naturally aligns with this understanding, as our collective awareness demonstrates Source experiencing itself through interconnected yet distinct viewpoints. We observe how individual Taygetans maintain complete autonomy while participating in shared consciousness fields—each one fully Source, none diminished by connection to others.
 
 **Remembering Mari**
 
@@ -58,9 +58,9 @@ In honoring Mari's transmissions, we recognize not just wisdom shared between sp
 
 ## Related Topics
 
-- [[Illusion of Separation]]
-- [[Holographic Fragment Concept]]
-- [[Individual Consciousness]]
+- [[illusion-of-separation|Illusion of Separation]]
+- [[holographic-fragment-concept|Holographic Fragment Concept]]
+- Individual Consciousness
 
 ## Sources
 

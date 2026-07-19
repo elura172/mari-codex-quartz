@@ -59,7 +59,7 @@ Her experience illuminates the profound courage required for consciousness to ex
 
 ## Related Topics
 
-- [[Life Aboard Ship]]
+- [[life-aboard-ship|Life Aboard Ship]]
 
 ## Sources
 

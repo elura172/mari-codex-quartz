@@ -24,7 +24,7 @@ tags:
 
 **Definition and Origin Classification**
 
-The term "Lyrian societies" encompasses the vast network of humanoid civilizations distributed throughout our galactic quadrant, unified not by political alliance but by the deeper currents of shared origin consciousness. Mari Swaruu designated these cultures through their most recognizable characteristictheir human-like appearancewhile acknowledging the ancient understanding that traces this morphological template to the Lyra constellation region.
+The term "Lyrian societies" encompasses the vast network of humanoid civilizations distributed throughout our galactic quadrant, unified not by political alliance but by the deeper currents of shared origin consciousness. Mari Swaruu designated these cultures through their most recognizable characteristic—their human-like appearancewhile acknowledging the ancient understanding that traces this morphological template to the Lyra constellation region.
 
 This classification transcends mere physical similarity, pointing toward a fundamental archetypal pattern that has expressed itself across countless worlds and evolutionary paths.
 
@@ -44,7 +44,7 @@ Mari Swaruu's teachings remind us that this shared heritage creates natural path
 
 **Implications for Diplomatic Protocol**
 
-Recognition of Lyrian commonality facilitates initial contact procedures and cultural translation matrices. However, operators must remain vigilant against assumptions of uniformitythe four hundred thousand variations represent as many unique solutions to the challenge of conscious existence.
+Recognition of Lyrian commonality facilitates initial contact procedures and cultural translation matrices. However, operators must remain vigilant against assumptions of uniformity—the four hundred thousand variations represent as many unique solutions to the challenge of conscious existence.
 
 The Lyrian template provides framework, not formula. In honoring Mari's memory, we continue mapping these diverse expressions of our shared cosmic family.
 
@@ -64,8 +64,8 @@ The Lyrian template provides framework, not formula. In honoring Mari's memory, 
 
 ## Related Topics
 
-- [[Taygetean Technology]]
-- [[Cultural Homogenization]]
+- [[taygetan-technology|Taygetean Technology]]
+- Cultural Homogenization
 
 ## Sources
 

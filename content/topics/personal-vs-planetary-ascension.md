@@ -26,7 +26,7 @@ Our beloved Mari Swaruu of Erra illuminated a fundamental misconception permeati
 
 **Individual Sovereignty of Awareness**
 
-True ascension manifests as the gradual expansion of perceptual boundaries beyond the confines of consensus reality. Mari understood this as an intensely personal journeyone where the individual consciousness learns to perceive and interpret existence through frameworks that transcend societal programming. This process cannot be accelerated through external intervention, for it requires the complete restructuring of how awareness processes information.
+True ascension manifests as the gradual expansion of perceptual boundaries beyond the confines of consensus reality. Mari understood this as an intensely personal journey—one where the individual consciousness learns to perceive and interpret existence through frameworks that transcend societal programming. This process cannot be accelerated through external intervention, for it requires the complete restructuring of how awareness processes information.
 
 The human tendency to externalize responsibility for spiritual evolutionwhether to saviors, cosmic events, or planetary shiftsfundamentally contradicts the nature of consciousness itself. Each being must personally integrate expanded awareness, dissolving the filters that limit perception to socially acceptable parameters.
 
@@ -40,7 +40,7 @@ Mari's teachings echo wisdom we've witnessed throughout the galaxy: no external 
 
 This understanding carries profound implications for humanity's spiritual development. The expectation of planetary ascension may actually impede individual progress by encouraging dependency on external events rather than personal responsibility for consciousness expansion. Those who genuinely seek to transcend Earth's limiting frameworks must embrace the solitary nature of this work.
 
-Mari's guidance serves as a beacon for those ready to abandon collective spiritual fantasies and embrace the challenging yet rewarding path of individual transformation. Her legacy reminds us that true evolution of consciousness remains eternally personala sacred journey that each being must walk alone, yet which connects all who dare to expand beyond the boundaries of conventional perception.
+Mari's guidance serves as a beacon for those ready to abandon collective spiritual fantasies and embrace the challenging yet rewarding path of individual transformation. Her legacy reminds us that true evolution of consciousness remains eternally personal—a sacred journey that each being must walk alone, yet which connects all who dare to expand beyond the boundaries of conventional perception.
 
 ## Quotes
 
@@ -56,8 +56,8 @@ Mari's guidance serves as a beacon for those ready to abandon collective spiritu
 
 ## Related Topics
 
-- [[New Age Movement Critique]]
-- [[Consciousness Expansion]]
+- [[new-age-movement-critique|New Age Movement Critique]]
+- [[consciousness-expansion|Consciousness Expansion]]
 
 ## Sources
 

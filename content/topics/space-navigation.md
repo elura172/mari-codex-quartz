@@ -30,7 +30,7 @@ When a starship initiates dimensional translation, the local spacetime matrix re
 
 **Temporal-Spatial Synthesis**
 
-Advanced evasive protocols extend beyond mere spatial displacement into the realm of chronological navigation. When pursued or threatened, experienced pilots may initiate synchronized space-time skippinga technique that combines location jumping with temporal shifting. Each destination becomes not simply a different coordinate in space, but a different moment in the timeline of that location. This creates an exponentially complex pursuit matrix, as tracking vessels must account for both dimensional coordinates and chronological variables.
+Advanced evasive protocols extend beyond mere spatial displacement into the realm of chronological navigation. When pursued or threatened, experienced pilots may initiate synchronized space-time skipping—a technique that combines location jumping with temporal shifting. Each destination becomes not simply a different coordinate in space, but a different moment in the timeline of that location. This creates an exponentially complex pursuit matrix, as tracking vessels must account for both dimensional coordinates and chronological variables.
 
 **Philosophical Implications**
 
@@ -40,7 +40,7 @@ This navigation methodology reflects our fundamental understanding that space an
 
 Crew members must maintain heightened awareness during transit sequences, as the consciousness of all aboard influences navigation accuracy. Fear, anxiety, or conflicted intentions can distort field harmonics, creating unpredictable destination variables. Conversely, unified focus and clear intent enhance navigational precision, allowing for seamless integration with target spacetime coordinates.
 
-Remember: we do not force our way through realitywe request permission to dance with it.
+Remember: we do not force our way through reality—we request permission to dance with it.
 
 ## Quotes
 
@@ -54,8 +54,8 @@ Remember: we do not force our way through realitywe request permission to dance 
 
 ## Related Topics
 
-- [[Chase Sequence]]
-- [[Taygetan Technology]]
+- Chase Sequence
+- [[taygetan-technology|Taygetan Technology]]
 
 ## Sources
 

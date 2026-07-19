@@ -30,7 +30,7 @@ tags:
 
 **Nature of the Construct**
 
-The Earth Matrix represents a unique experiential phenomenon within our galactic neighborhooda self-contained reality bubble that operates through collective manifestation and perceptual isolation. Unlike the interconnected consciousness networks common throughout Taygetan and allied civilizations, Earth's inhabitants exist within a deliberately constrained awareness field that validates only information consistent with its own parameters.
+The Earth Matrix represents a unique experiential phenomenon within our galactic neighborhood—a self-contained reality bubble that operates through collective manifestation and perceptual isolation. Unlike the interconnected consciousness networks common throughout Taygetan and allied civilizations, Earth's inhabitants exist within a deliberately constrained awareness field that validates only information consistent with its own parameters.
 
 This construct functions as both prison and classroom, creating an artificial separation from galactic community standards of telepathic communication, expanded temporal perception, and multidimensional awareness. The isolation barrier maintains itself through the inhabitants' own limited consciousness, forming what our sister Mari Swaruu identified as a mental boundary rather than a physical one.
 
@@ -104,8 +104,8 @@ Remember that Earth's inhabitants are not separate from usthey are temporarily e
 
 ## Related Topics
 
-- [[Dimensional Mirroring Effect]]
-- [[Existential Densities]]
+- Dimensional Mirroring Effect
+- [[existential-densities|Existential Densities]]
 
 ## Sources
 
