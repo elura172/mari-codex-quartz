@@ -14,15 +14,11 @@ sources:
   - "Electric Vehicles on Planet Earth. (English)"
   - "Replicators and Their Recent Problems. A Detailed Study. ( English )"
 tags:
-  - "crude oil"
-  - "fossil"
+  - "tectonic plates"
   - "hydrocarbons"
   - "liquid mineral"
-  - "mineral"
-  - "petroleum"
   - "renewable"
   - "seawater"
-  - "tectonic plates"
 ---
 
 # Petroleum as Renewable Resource

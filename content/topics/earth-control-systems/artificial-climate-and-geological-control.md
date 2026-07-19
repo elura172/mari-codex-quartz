@@ -17,20 +17,14 @@ sources:
   - "Space News 95, Crash against Viera, Earthquakes, Mexico. (English)"
   - "The Formation of a Matrix. (English)"
 tags:
-  - "Barcelona"
-  - "HAARP"
-  - "Valencia"
-  - "artificial climate"
-  - "artificial weather"
-  - "cloud seeding"
-  - "controlled earthquakes"
-  - "deluge"
-  - "droughts"
-  - "environmental control"
-  - "floods"
-  - "hurricanes"
   - "weather manipulation"
-  - "weather weapons"
+  - "cloud seeding"
+  - "HAARP"
+  - "floods"
+  - "Barcelona"
+  - "Valencia"
+  - "artificial weather"
+  - "deluge"
 ---
 
 # Artificial Climate and Geological Control

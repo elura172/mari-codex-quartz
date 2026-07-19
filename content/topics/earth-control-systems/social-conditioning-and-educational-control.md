@@ -15,18 +15,11 @@ sources:
   - "Starseeds and their Problems, part 4, Money Issues. (English)"
 tags:
   - "age"
-  - "college degrees"
   - "conditioning"
-  - "disapproval"
-  - "doubt"
-  - "institutional knowledge"
-  - "licensing"
   - "maturity"
-  - "monopolization"
   - "obedience"
-  - "schools"
-  - "submissive personality"
-  - "universities"
+  - "college degrees"
+  - "licensing"
 ---
 
 # Social Conditioning and Educational Control

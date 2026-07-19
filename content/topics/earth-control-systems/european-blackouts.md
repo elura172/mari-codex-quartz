@@ -12,15 +12,14 @@ sources:
   - "Arishah, the Urmah Tiger , 3rd Interview, Part 1. (English)"
   - "Space News 77. Blackouts, More on the Rescues, Antaria enters Action, More Orion Ships. (English)"
 tags:
+  - "population control"
+  - "mind control"
+  - "false flag"
+  - "artificial"
+  - "false flags"
+  - "pandemics"
   - "1918"
   - "1979"
-  - "artificial"
-  - "blackout"
-  - "false flag"
-  - "false flags"
-  - "mind control"
-  - "pandemics"
-  - "population control"
 ---
 
 # European Blackouts

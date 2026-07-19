@@ -13,15 +13,12 @@ sources:
   - "The Sun and its Portals Within. (English)"
   - "The Sun and its portals. (English)"
 tags:
-  - "black holes"
-  - "entangled"
+  - "portals"
   - "etheric"
   - "interdimensional"
-  - "network"
   - "neurons"
-  - "portals"
+  - "network"
   - "stars"
-  - "stellar network"
   - "travel"
   - "wormholes"
 ---

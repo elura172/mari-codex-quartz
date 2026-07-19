@@ -17,22 +17,14 @@ sources:
   - "Space News 96. More on Earthquakes, Volcanoes. Bye, Sadicleya and Big-E. Hello Elnath. (English)"
   - "Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka. (English)"
 tags:
-  - "Aldebaran class"
-  - "Elnath"
-  - "Enterprise"
-  - "Sadicleya"
-  - "Temmer"
-  - "aging"
-  - "departure"
-  - "destroyer"
-  - "dreadnought"
-  - "dreadnoughts"
-  - "engine upgrades"
   - "flagship"
-  - "fleet"
-  - "fleet changes"
   - "maintenance"
-  - "software upgrade"
+  - "Temmer"
+  - "fleet"
+  - "dreadnought"
+  - "Sadicleya"
+  - "dreadnoughts"
+  - "Elnath"
 ---
 
 # Taygetan Starship Elnath Return

@@ -12,18 +12,11 @@ mentions: 3
 sources:
   - "The Urmah Healed Me, Part 2. Face to Face with the Cosmic Cat I once said didnt exist. (English)."
 tags:
-  - "blue_lion"
   - "consciousness"
-  - "cosmic_cat"
-  - "flames"
-  - "guide"
+  - "soul"
   - "incarnation"
   - "mission"
-  - "orange_cat"
   - "return"
-  - "soul"
-  - "telepathic_communication"
-  - "tigress"
 ---
 
 # Blue Lion Spirit Encounter

@@ -13,18 +13,14 @@ sources:
   - "Taygetan Military. (English)"
   - "The Antarian People. ( English )"
 tags:
+  - "starseeds"
+  - "protection"
+  - "starships"
+  - "monitoring"
   - "Earth orbit"
   - "defense"
-  - "hostile species"
-  - "military fleet"
-  - "military necessity"
-  - "monitoring"
-  - "protection"
-  - "protectors"
   - "regressive races"
-  - "space dangers"
-  - "starseeds"
-  - "starships"
+  - "protectors"
 ---
 
 # Military Necessity in Space

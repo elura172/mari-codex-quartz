@@ -14,18 +14,13 @@ sources:
   - "Space News 86. Large, Fierce Conflict in the Andromedan Viera. Part 1. (English)"
   - "Space News: 4 New People Arriving on The Ship. First Part. (English)"
 tags:
-  - "STACK craft"
+  - "independence"
+  - "strength"
   - "disobedience"
   - "fighter pilots"
-  - "fog of war"
-  - "independence"
   - "non-aggressive"
   - "orders"
   - "plasma rifles"
-  - "retreat"
-  - "robot dogs"
-  - "strength"
-  - "zero-point weapons"
 ---
 
 # Military Technology and Tactics

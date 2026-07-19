@@ -12,14 +12,8 @@ sources:
   - "Reptilians and the Galactic Federation, and Positive Reptiles. (English)"
   - "Reptiloids and how they view Earth and Humanity. ( English )"
 tags:
-  - "clans"
-  - "feudalistic"
   - "hierarchy"
-  - "kingu"
-  - "political divisions"
   - "seven levels"
-  - "social classes"
-  - "sub-overlords"
   - "subspecies"
 ---
 

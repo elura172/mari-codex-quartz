@@ -12,15 +12,11 @@ sources:
   - "A Day in Maris Life. ( English )"
   - "Space News 38, New Crew Member, Another G.F. Diplomatic Incident, Thinking Hat 02. (English)"
 tags:
-  - "Anna Olgyria"
-  - "Space Academy"
   - "Temmer"
-  - "assistant"
-  - "classes"
-  - "crew member"
   - "learning"
-  - "skills"
   - "training"
+  - "Space Academy"
+  - "skills"
 ---
 
 # New Crew Member Anna Olgyria

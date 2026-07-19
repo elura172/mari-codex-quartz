@@ -15,21 +15,14 @@ sources:
   - "Taygetean Technological Suits and Boots (English)"
   - "Taygetean Technology: Part 1  Suits and Boots (English)"
 tags:
-  - "anti-gravity"
-  - "boots"
-  - "control system"
-  - "energy fields"
-  - "flight"
-  - "flight boots"
-  - "gravity generators"
-  - "levitation"
-  - "magnetic"
-  - "magnetic soles"
-  - "polymorphic"
-  - "safety"
-  - "shield harmonics"
   - "starship"
-  - "zero gravity"
+  - "safety"
+  - "anti-gravity"
+  - "control system"
+  - "polymorphic"
+  - "magnetic"
+  - "shield harmonics"
+  - "flight"
 ---
 
 # Gravity Generators and Ship Technology

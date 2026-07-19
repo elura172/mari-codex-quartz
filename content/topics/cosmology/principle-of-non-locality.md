@@ -18,22 +18,14 @@ sources:
   - "Hexa-Dimensional Space-Time. (English)"
   - "The Astral. Part 3. Important recapitulation of base concepts that describe everything. (English)"
 tags:
-  - "biblical waters"
-  - "biblical waters above"
   - "ether"
-  - "etheric fluid"
   - "gravity"
-  - "high density"
   - "high frequency"
-  - "high vibrational water"
-  - "interstellar space"
-  - "non-locality"
-  - "not empty"
-  - "redshift"
   - "space"
+  - "etheric fluid"
+  - "non-locality"
+  - "redshift"
   - "space density"
-  - "vibrational fluid"
-  - "water"
 ---
 
 # Principle of Non-Locality

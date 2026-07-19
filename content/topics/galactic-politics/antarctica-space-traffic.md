@@ -11,15 +11,9 @@ mentions: 2
 sources:
   - "Antarctica, my present report. (English)"
 tags:
-  - "geometric center"
-  - "green vegetation"
-  - "ice-free"
-  - "inner Earth"
-  - "polar cavity"
-  - "shuttle craft"
   - "space traffic"
   - "traffic control"
-  - "wall structure"
+  - "inner Earth"
 ---
 
 # Antarctica Space Traffic

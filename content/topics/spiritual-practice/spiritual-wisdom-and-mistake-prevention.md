@@ -18,21 +18,14 @@ sources:
   - "Stupidity and the Ego from a Spiritual Perspective. (English)"
   - "Stupidity and the Ego, a spiritual perspective. (English)"
 tags:
-  - "antidote"
-  - "behavior"
-  - "circumstances"
-  - "conscious awareness"
-  - "definition"
-  - "detriment"
-  - "enlightenment"
-  - "learning from others"
-  - "mistake prevention"
   - "past lives"
-  - "spiritual wisdom"
-  - "stupidity"
+  - "enlightenment"
   - "trauma"
   - "triggers"
   - "wisdom"
+  - "definition"
+  - "antidote"
+  - "circumstances"
 ---
 
 # Spiritual Wisdom and Mistake Prevention

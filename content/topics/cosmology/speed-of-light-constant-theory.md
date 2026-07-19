@@ -14,17 +14,12 @@ sources:
   - "The Problem with Science on Planet Earth (PART 2). (English)"
   - "The problem with science on Earth. (English)"
 tags:
-  - "1972 formula"
-  - "Einstein"
-  - "circular reasoning"
-  - "circular validation"
-  - "constant"
-  - "light speed"
-  - "measurements"
   - "physics"
+  - "circular reasoning"
+  - "constant"
+  - "measurements"
   - "relativity"
   - "speed of light"
-  - "universal constants"
 ---
 
 # Speed of Light Constant Theory

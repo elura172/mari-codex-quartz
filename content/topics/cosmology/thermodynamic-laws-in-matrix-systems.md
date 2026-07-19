@@ -13,15 +13,13 @@ sources:
   - "The Basic Mathematics behind the Dimensional Mirroring Phenomena  (SV-70, English)"
   - "Time and How It Works, Part 2, Timelines (SV-50 English)"
 tags:
-  - "base-10"
-  - "base-12"
-  - "depolarize"
-  - "dynamic fields"
-  - "energy accommodation"
-  - "energy balance"
   - "etheric"
-  - "thermodynamics"
+  - "base-12"
+  - "base-10"
   - "zero-point energy"
+  - "depolarize"
+  - "energy balance"
+  - "thermodynamics"
 ---
 
 # Thermodynamic Laws in Matrix Systems

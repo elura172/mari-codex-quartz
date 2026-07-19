@@ -12,16 +12,7 @@ sources:
   - "Artificial Weather (English )  (Re-loaded)"
   - "Beware of Replicated Food. ( English )"
 tags:
-  - "MSG"
-  - "additives"
-  - "barium"
-  - "fertility"
   - "ice crystals"
-  - "jet fuel"
-  - "monosodium glutamate"
-  - "myelin"
-  - "preservatives"
-  - "testosterone"
 ---
 
 # Aircraft Fuel Contaminants

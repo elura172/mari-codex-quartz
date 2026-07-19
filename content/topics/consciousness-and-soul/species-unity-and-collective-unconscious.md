@@ -16,20 +16,13 @@ sources:
   - "The Unity of Each Species. (English)"
   - "The Urmah Healed Me, Part 3, Aftermath and Conclusions. (English)."
 tags:
-  - "Lyrian"
-  - "behavioral patterns"
-  - "behavioral traits"
+  - "consciousness"
   - "collective unconscious"
   - "compatibility"
-  - "consciousness"
   - "feline"
-  - "perception differences"
-  - "reality concepts"
-  - "social organization"
-  - "species"
-  - "species connection"
-  - "species programming"
   - "unity"
+  - "Lyrian"
+  - "species"
 ---
 
 # Species Unity and Collective Unconscious

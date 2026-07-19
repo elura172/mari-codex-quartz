@@ -13,18 +13,9 @@ sources:
   - "Space News 78. Tensions in Space, More on the Rescues, Etorthans Respond, Urmah, Antaria (English)"
   - "Space News 80, More on The Rescues and Other News. (English)"
 tags:
-  - "Viera biosphere"
   - "attack"
-  - "child welfare"
-  - "cultural development"
-  - "human facilities"
   - "pilot"
-  - "pre-industrial cultures"
-  - "repatriation"
-  - "rescued girls"
-  - "trauma mitigation"
-  - "violence"
-  - "wrench"
+  - "cultural development"
 ---
 
 # Violence from Rescued Individuals

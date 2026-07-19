@@ -17,24 +17,11 @@ sources:
   - "Space News 48, What on Earth is going on in Australia? ( English )"
   - "Space News 49, New Spaceport, More on Australia, My health & Birthday. ( English )"
 tags:
-  - "$270 million"
-  - "Alfratans"
   - "Cabal"
   - "Galactic Federation"
-  - "bounty"
-  - "cabal"
-  - "cabal installations"
-  - "cabal overlords"
-  - "change of guard"
-  - "commander-in-chief"
-  - "golden hat"
-  - "meetings"
-  - "middle Australia"
-  - "military operations"
-  - "no-fly zones"
-  - "target"
+  - "Alfratans"
   - "underground bases"
-  - "war"
+  - "meetings"
 ---
 
 # Galactic Federation Meeting Speculation

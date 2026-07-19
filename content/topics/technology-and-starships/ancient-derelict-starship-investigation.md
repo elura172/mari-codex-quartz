@@ -15,23 +15,14 @@ sources:
   - "Space News, 23, May 11, 2024, 500 Video Special.  Mari-16 (English)"
   - "Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka. (English)"
 tags:
-  - "Lemurian"
+  - "maintenance"
+  - "investigation"
+  - "space accident"
+  - "communication failure"
+  - "wreck"
   - "Sahara"
   - "battle damage"
-  - "communication failure"
-  - "debris field"
-  - "derelict"
-  - "gravitational effects"
   - "hull"
-  - "investigation"
-  - "maintenance"
-  - "misunderstanding"
-  - "orbital debris"
-  - "orbital velocity"
-  - "space accident"
-  - "space dust"
-  - "space physics"
-  - "wreck"
 ---
 
 # Ancient Derelict Starship Investigation

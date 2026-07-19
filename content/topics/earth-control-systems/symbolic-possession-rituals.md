@@ -12,17 +12,8 @@ sources:
   - "Avoid building Karma, or build as much Karma as you can in your life. (English)"
   - "The Earth is a Demonic Realm. (English)"
 tags:
-  - "666"
-  - "Nike"
-  - "astronauts"
-  - "combat pilots"
-  - "logos"
-  - "orange clothing"
   - "possession"
-  - "prison inmates"
   - "rituals"
-  - "sacrifice symbolism"
-  - "symbols"
 ---
 
 # Symbolic Possession Rituals

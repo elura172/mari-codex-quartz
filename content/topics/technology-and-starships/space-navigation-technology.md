@@ -15,17 +15,14 @@ sources:
   - "Stellar Navigation, Basic principles ( English )"
   - "Stellar Navigation, Basic principles (English)"
 tags:
-  - "AI navigation"
-  - "combat maneuver"
-  - "covering tracks"
+  - "hyperspace"
   - "field disturbance"
   - "frequency detection"
-  - "frequency of destination detection"
-  - "hyperspace"
   - "space skipping"
-  - "space-skipping"
   - "stellar navigation"
-  - "temporal skipping"
+  - "combat maneuver"
+  - "covering tracks"
+  - "space-skipping"
 ---
 
 # Space Navigation Technology

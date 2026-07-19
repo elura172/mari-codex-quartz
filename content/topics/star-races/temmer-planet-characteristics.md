@@ -17,10 +17,7 @@ tags:
   - "hot climate"
   - "humid"
   - "low gravity"
-  - "stable climate"
-  - "super inhabitable"
   - "swamp planet"
-  - "tropical"
   - "water planet"
 ---
 

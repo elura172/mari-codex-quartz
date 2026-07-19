@@ -16,19 +16,10 @@ sources:
   - "Monitoring Spirits. Part 2. ( English )"
   - "The Astral Warriors, Part 2. Episode 4. Star Seeds and their Mission. (English)"
 tags:
-  - "amethyst"
-  - "black tourmaline"
-  - "high_vibration"
-  - "lapis lazuli"
-  - "matrix defense"
-  - "non-confrontation"
-  - "obsidian"
-  - "smoky quartz"
   - "strategy"
-  - "system preservation"
-  - "tiger eye"
+  - "high_vibration"
+  - "non-confrontation"
   - "untouchable"
-  - "vibration balance"
 ---
 
 # Matrix Self-Defense Mechanism

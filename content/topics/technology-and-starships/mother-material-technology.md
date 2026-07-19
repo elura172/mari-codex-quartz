@@ -12,14 +12,11 @@ sources:
   - "Industrial Replicators, Makeup and Clothes in Taygeta. (English)"
   - "Replicators and Their Recent Problems. A Detailed Study. ( English )"
 tags:
-  - "base component"
-  - "carbon"
-  - "magnetic"
-  - "molecular alteration"
-  - "mother cell"
-  - "mother material"
-  - "silicon"
   - "transformation"
+  - "magnetic"
+  - "carbon"
+  - "mother cell"
+  - "silicon"
   - "white dust"
 ---
 

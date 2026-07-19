@@ -12,14 +12,6 @@ sources:
   - "Space News March 6 2024, Earth moving into a Positive Timeline, detected. (English)"
   - "Technology and why I cannot share More Details. (English)"
 tags:
-  - "BlackRock"
-  - "JP Morgan"
-  - "agenda 2030"
-  - "cabal plans"
-  - "elimination"
-  - "institutional backing"
-  - "inventors"
-  - "patents"
   - "suppression"
 ---
 

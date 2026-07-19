@@ -11,7 +11,7 @@ A living knowledge base of cosmic contact and consciousness exploration — core
 <div class="codex-stats">
   <div class="stat-card"><span class="stat-number">1,355</span><span class="stat-label">Topics</span></div>
   <div class="stat-card"><span class="stat-number">494</span><span class="stat-label">Transcripts</span></div>
-  <div class="stat-card"><span class="stat-number">26,960</span><span class="stat-label">Connections</span></div>
+  <div class="stat-card"><span class="stat-number">28K+</span><span class="stat-label">Connections</span></div>
 </div>
 
 ## Start Exploring

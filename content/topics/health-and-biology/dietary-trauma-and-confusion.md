@@ -13,18 +13,10 @@ sources:
   - "Closer to Mari, Part 3. It is really hard to be the Taygetan Queen. (English)"
   - "The Problem with Food and Diet on Earth. ( English )"
 tags:
-  - "Matrix experts"
-  - "biased studies"
-  - "contradictions"
-  - "despair"
-  - "drug companies"
-  - "eating trauma"
-  - "food companies"
-  - "food safety"
   - "guilt"
+  - "despair"
+  - "food safety"
   - "spectrometer"
-  - "supply chain"
-  - "toxin detection"
 ---
 
 # Dietary Trauma and Confusion

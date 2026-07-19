@@ -15,21 +15,14 @@ sources:
   - "Space News 47, My Health, Sick Taygetans, Queen Subjects in Temmer. ( English )"
   - "The Antarian People. ( English )"
 tags:
-  - "Alcyone Council"
-  - "Antarian"
-  - "Antarians"
-  - "King Ruhr"
-  - "Pleiades"
-  - "appearance"
   - "cooperation"
+  - "Alcyone Council"
+  - "Pleiades"
   - "council"
-  - "genetics"
-  - "joining"
-  - "membership"
-  - "physical traits"
-  - "porcelain skin"
   - "treaty"
-  - "treaty signing"
+  - "Antarians"
+  - "genetics"
+  - "membership"
 ---
 
 # Antarian Physical Characteristics

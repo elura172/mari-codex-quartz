@@ -11,16 +11,12 @@ mentions: 2
 sources:
   - "Space News 95, Crash against Viera, Earthquakes, Mexico. (English)"
 tags:
-  - "Mexico"
-  - "Middle East"
-  - "September"
-  - "Thailand"
-  - "Ukraine"
   - "cabal"
-  - "global network"
-  - "targeting"
   - "trafficking"
-  - "trafficking hubs"
+  - "Mexico"
+  - "targeting"
+  - "September"
+  - "Ukraine"
 ---
 
 # Global Trafficking Hubs

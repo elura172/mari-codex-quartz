@@ -13,18 +13,8 @@ sources:
   - "Grey Aliens. Part 2, Orions, and Etorthans. (English)"
   - "Space News 87. Urmah Unleashed. Large, Fierce Conflict in the Andromedan Viera. Part 2. (English)"
 tags:
-  - "AI chips"
   - "artificial"
-  - "bio-robots"
-  - "brain worms"
-  - "cyborg augmentation"
-  - "cysticerci"
-  - "genetic tampering"
-  - "genetically engineered"
-  - "metabolic enhancement"
   - "soulless"
-  - "super soldiers"
-  - "zombification"
 ---
 
 # Parasitic Mind Control

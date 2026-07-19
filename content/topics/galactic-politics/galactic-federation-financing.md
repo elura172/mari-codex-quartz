@@ -14,17 +14,13 @@ sources:
   - "Space News 68, the lost Alfratan Starship and the incident around it. (English)"
   - "Space News 77. Blackouts, More on the Rescues, Antaria enters Action, More Orion Ships. (English)"
 tags:
-  - "Galactic Federation preference"
-  - "Saturn level"
-  - "Sirius A"
   - "bureaucracy"
-  - "diplomacy"
-  - "financing"
   - "funding"
   - "intervention"
-  - "obstruction"
+  - "diplomacy"
   - "rejection"
-  - "space_law"
+  - "Saturn level"
+  - "obstruction"
 ---
 
 # Galactic Federation Financing

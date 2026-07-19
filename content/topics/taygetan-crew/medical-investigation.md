@@ -15,18 +15,11 @@ sources:
   - "Space News 55, Event Report 03. (English)"
 tags:
   - "Matrix"
-  - "Sarka"
   - "astral"
-  - "biometric data"
-  - "fever"
-  - "filtered communication"
-  - "induced trance"
   - "medical pods"
-  - "mindless puppets"
   - "pathogen"
   - "people-pleasing"
   - "salmonella"
-  - "spiritual attack"
 ---
 
 # Medical Investigation

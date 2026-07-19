@@ -14,17 +14,12 @@ sources:
   - "Space News 78. Tensions in Space, More on the Rescues, Etorthans Respond, Urmah, Antaria (English)"
   - "Space News 79. The Difficult Situation Around Earth, and Another Rescue. (English)."
 tags:
-  - "Ethortan fleet"
   - "ambassador"
-  - "coronation"
-  - "deadline"
-  - "new queen"
+  - "threat"
   - "succession"
   - "tensions"
-  - "threat"
-  - "ultimatum"
-  - "war prelude"
   - "warships"
+  - "coronation"
 ---
 
 # Ethortan Threat and Ultimatum

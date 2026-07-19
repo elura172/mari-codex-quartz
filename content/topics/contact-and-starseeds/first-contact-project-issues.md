@@ -16,23 +16,14 @@ sources:
   - "The strange phenomena of Dimensional Mirroring (English)"
   - "The strange phenomena of Dimensional Mirroring ( SV-62 English)"
 tags:
-  - "astral connection"
-  - "catfishing"
-  - "doppelganger"
-  - "doppelgangers"
-  - "duplicate"
-  - "duplicates"
-  - "duplication"
-  - "identical"
-  - "identical appearance"
-  - "identity plagiarism"
-  - "multiple versions"
   - "parallel universes"
-  - "photograph confusion"
+  - "duplication"
+  - "catfishing"
+  - "identical"
+  - "doppelgangers"
+  - "multiple versions"
   - "soul connection"
   - "soul fragmentation"
-  - "spiritual duplication"
-  - "twin"
 ---
 
 # First Contact Project Issues

@@ -14,18 +14,14 @@ sources:
   - "Space News 84. Many news, Arrests in the Viera, and an Amazing Rescue. (English)"
   - "Space News 90. Exo-Politics, Extreme Weather, Many Subjects Discussed. (English)"
 tags:
-  - "Canada"
-  - "STAC"
-  - "animal rescue"
+  - "rescue"
   - "crash"
+  - "pets"
+  - "Canada"
   - "helicopter craft"
   - "malfunction"
-  - "pets"
-  - "rescue"
   - "rescues"
   - "surface operations"
-  - "tractor beam"
-  - "wildlife"
 ---
 
 # Alfratan-Centauri Crash and Rescue

@@ -18,26 +18,14 @@ sources:
   - "Space News, 32, July 18, 2024, Beryl, Attempt against Carrot, Goriel Rep-2, New Ship (English)"
   - "Space News, 30, July 01, 2024,, Hurricane in Temmer, Aftermath (English)"
 tags:
-  - "Beryl"
-  - "Toleka City"
-  - "Turquoise Sea"
   - "artificial"
-  - "blocked hangars"
   - "damage"
-  - "debris"
-  - "dimensional mirror"
-  - "emergency vehicles"
-  - "hurricane"
-  - "palm trees"
-  - "preparedness"
-  - "reconstruction"
   - "recovery"
+  - "Toleka City"
+  - "hurricane"
   - "repairs"
-  - "search and rescue"
-  - "shallow soil"
   - "storm"
   - "weather"
-  - "weather control"
 ---
 
 # Toleka City Hurricane Recovery

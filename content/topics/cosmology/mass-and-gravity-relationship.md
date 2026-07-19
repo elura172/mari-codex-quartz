@@ -13,19 +13,14 @@ sources:
   - "A Case Against the Existence of Gravity. ( English )"
   - "Portals. Basic Principles. (English)"
 tags:
-  - "Newton"
-  - "buoyancy"
-  - "concentration"
   - "density"
-  - "field"
-  - "flat earth"
-  - "fluid"
   - "gravity"
+  - "concentration"
+  - "flat earth"
+  - "Newton"
+  - "field"
   - "human term"
   - "loaded word"
-  - "mass"
-  - "no translation"
-  - "squashed globe"
 ---
 
 # Mass and Gravity Relationship

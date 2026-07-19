@@ -16,20 +16,10 @@ sources:
   - "Second Important Message from C.I.C. Team. (English)"
   - "Space News 79. The Difficult Situation Around Earth, and Another Rescue. (English)."
 tags:
-  - "authentic disclosure"
-  - "consequences"
-  - "exposure"
-  - "mass communication"
-  - "matrix surveillance"
-  - "need-to-know"
-  - "no private contact"
-  - "operational security"
-  - "plan protection"
-  - "privacy"
-  - "publication"
-  - "secrecy"
   - "silence"
-  - "strategic"
+  - "secrecy"
+  - "consequences"
+  - "privacy"
 ---
 
 # Operational Security for Starseeds

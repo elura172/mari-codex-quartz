@@ -14,14 +14,9 @@ sources:
   - "Taygetan Star Ship private rooms and Toilets (English)"
   - "Taygetean Technological Suits and Boots (English)"
 tags:
-  - "adaptive"
-  - "composite"
-  - "crystalline arrangement"
-  - "modular construction"
-  - "molecular"
   - "molecular structure"
+  - "crystalline arrangement"
   - "polymorphic material"
-  - "polymorphic titanium"
   - "self-repair"
   - "transparent windows"
 ---

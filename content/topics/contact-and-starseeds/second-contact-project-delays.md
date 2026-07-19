@@ -12,15 +12,8 @@ sources:
   - "Taygeta Space News, 34, August 5, 2024, Swaruuneans No More, Bad-G.F., New-Meetings, (English)"
   - "Why was Project First Contact a failure? (English)"
 tags:
-  - "900 people"
-  - "Second Contact"
-  - "chat rooms"
-  - "dating sites"
-  - "flawed"
   - "internet"
-  - "methodology"
-  - "technical issues"
-  - "wrong venues"
+  - "Second Contact"
 ---
 
 # Second Contact Project Delays

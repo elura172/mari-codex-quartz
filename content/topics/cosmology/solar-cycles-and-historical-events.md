@@ -19,24 +19,14 @@ sources:
   - "The Sun and its portals. (English)"
   - "Why Minecraft, Pool Area and Main Garden (English)"
 tags:
-  - "11-year cycle"
-  - "180 minutes"
   - "Cabal"
   - "Earth"
-  - "Earth views"
-  - "cabal"
-  - "circadian rhythm"
-  - "correlation"
   - "dark entities"
-  - "day cycles"
-  - "historical events"
-  - "light cycles"
-  - "lighting"
-  - "orbit"
   - "rituals"
-  - "sacrifices"
-  - "solar maximum"
+  - "orbit"
   - "sunspots"
+  - "180 minutes"
+  - "Earth views"
 ---
 
 # Solar Cycles and Historical Events

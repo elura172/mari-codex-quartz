@@ -20,17 +20,10 @@ sources:
   - "Space News, 25, June 3, 2024, Moghyays, Alenym Unwell, Mari Swa in Control. (English)"
 tags:
   - "communication"
-  - "computer data portal"
-  - "gravity control"
-  - "immersive environment"
-  - "lepton muon"
-  - "location transfer"
-  - "portal"
-  - "projection"
-  - "real-time"
   - "remote presence"
-  - "spatial manipulation"
-  - "transmission"
+  - "portal"
+  - "computer data portal"
+  - "projection"
 ---
 
 # Controlled Gravity Environment

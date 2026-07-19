@@ -15,21 +15,14 @@ sources:
   - "The Moon, part 4, how it influences Earths Matrix, shady things and conclusions. ( English )"
   - "The Moon, part 4, how it influences Earths Matrix, shady things and conclusions.(SV-89 English)"
 tags:
+  - "radiation"
+  - "nuclear weapons"
   - "Canary Islands"
   - "Chinese satellites"
   - "Hawaii"
   - "Mahabharata"
   - "Mohenjo-daro"
   - "Rajasthan"
-  - "Sodom and Gomorrah"
-  - "Tiamat War"
-  - "ancient nuclear"
-  - "archaeology"
-  - "contaminated"
-  - "energy weapons"
-  - "fires"
-  - "nuclear weapons"
-  - "radiation"
 ---
 
 # Ancient Nuclear Evidence on Earth

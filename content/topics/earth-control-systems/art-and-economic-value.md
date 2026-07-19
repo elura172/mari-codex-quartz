@@ -12,15 +12,10 @@ sources:
   - "Dreams, and What They Are. ( English )"
   - "Starseeds and their Problems, part 4, Money Issues. (English)"
 tags:
-  - "art"
-  - "artistic success"
-  - "controllers"
-  - "creativity"
-  - "cultural gatekeepers"
-  - "obedience"
   - "secret societies"
-  - "social control"
-  - "workers"
+  - "controllers"
+  - "art"
+  - "obedience"
 ---
 
 # Art and Economic Value

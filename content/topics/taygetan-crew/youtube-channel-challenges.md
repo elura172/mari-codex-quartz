@@ -12,15 +12,9 @@ sources:
   - "Changes in this YouTube Channel, Swaruu Official, and a Surprise. ( English )"
   - "Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)"
 tags:
-  - "comments"
-  - "donations"
-  - "earnings"
-  - "negative content"
-  - "policy"
   - "protection"
-  - "shadow banned"
-  - "shielding"
-  - "subscribers"
+  - "donations"
+  - "comments"
 ---
 
 # YouTube Channel Challenges

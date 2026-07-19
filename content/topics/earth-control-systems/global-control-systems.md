@@ -15,18 +15,12 @@ sources:
   - "How Electric Vehicles are in Taygeta, and on Earth. (English)"
   - "Space News March 6 2024, Earth moving into a Positive Timeline, detected. (English)"
 tags:
-  - "asset ownership"
-  - "awakening"
   - "awareness"
-  - "borderless travel"
-  - "corporate citizenship"
-  - "farmers"
-  - "geoengineering"
-  - "governmental lies"
-  - "legal structure"
   - "population control"
-  - "rebellion"
-  - "ruling class"
+  - "awakening"
+  - "legal structure"
+  - "asset ownership"
+  - "corporate citizenship"
   - "theater"
 ---
 

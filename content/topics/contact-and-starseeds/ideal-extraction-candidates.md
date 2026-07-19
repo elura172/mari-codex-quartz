@@ -13,17 +13,10 @@ sources:
   - "Extractions and their problems. Part 3 (English)"
   - "Why no one can escape the Matrix. (English)"
 tags:
-  - "duality"
-  - "grass is greener"
-  - "here"
-  - "illusion"
   - "manifestation"
-  - "matrix_mastery"
   - "perception"
-  - "satisfaction"
-  - "soul_growth"
-  - "there"
-  - "triumph"
+  - "illusion"
+  - "duality"
 ---
 
 # Ideal Extraction Candidates

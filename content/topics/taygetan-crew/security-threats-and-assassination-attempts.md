@@ -12,15 +12,8 @@ sources:
   - "Closer to Mari, Part 3. It is really hard to be the Taygetan Queen. (English)"
   - "Space News 101. Events affecting Antarian, Urmah and Taygetan Leadership. Exopolitics. (English)"
 tags:
-  - "DNA toxins"
-  - "Lina"
   - "assassination"
-  - "banquet"
-  - "physical attack"
-  - "poison"
   - "poisoning"
-  - "security protocols"
-  - "smart toxins"
 ---
 
 # Security Threats and Assassination Attempts

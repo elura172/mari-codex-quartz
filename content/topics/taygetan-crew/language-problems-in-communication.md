@@ -14,17 +14,12 @@ sources:
   - "Important Message from C.I.C. Team. (English)"
   - "New Channel Presentation (English)"
 tags:
-  - "English"
-  - "Spanish"
-  - "communication barriers"
-  - "cultural interpretation"
-  - "daily videos"
-  - "language"
-  - "language differences"
-  - "loaded meanings"
-  - "military communication"
-  - "multilingual"
   - "translation"
+  - "Spanish"
+  - "daily videos"
+  - "English"
+  - "communication barriers"
+  - "multilingual"
   - "words"
 ---
 

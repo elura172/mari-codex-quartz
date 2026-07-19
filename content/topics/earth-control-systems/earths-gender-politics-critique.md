@@ -14,17 +14,14 @@ sources:
   - "Soft Social Resets, and how they are done with Mind Control, going deep into details. (English)"
   - "Space News 86. Large, Fierce Conflict in the Andromedan Viera. Part 1. (English)"
 tags:
-  - "agenda"
-  - "big stick"
-  - "defense"
+  - "population control"
   - "duality"
-  - "feminism"
+  - "spirituality"
+  - "defense"
+  - "agenda"
   - "feminization"
   - "gender conflict"
   - "masculinity shaming"
-  - "population control"
-  - "social division"
-  - "spirituality"
 ---
 
 # Earth's Gender Politics Critique

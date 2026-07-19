@@ -15,16 +15,11 @@ sources:
   - "Space News 82. We are in the Viera and The Current Situation. (English)"
 tags:
   - "combat"
-  - "evasion"
   - "fighter pilot"
   - "frequency skipping"
-  - "hyperspace jumps"
-  - "low altitude"
   - "pursuit"
-  - "quick operations"
   - "space maneuvers"
   - "space-skipping"
-  - "temporal-skipping"
 ---
 
 # SSP Evasion Tactics

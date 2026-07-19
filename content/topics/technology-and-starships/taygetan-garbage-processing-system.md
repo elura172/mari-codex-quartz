@@ -16,20 +16,12 @@ sources:
 tags:
   - "cleaning system"
   - "electrical generation"
-  - "energy conversion"
   - "energy efficiency"
-  - "molecular disintegration"
   - "plasma energy"
   - "plasma vaporization"
-  - "recycling"
   - "resource optimization"
   - "system integration"
   - "thermovoltaic"
-  - "ultrasonic bubbles"
-  - "waste conversion"
-  - "waste disposal"
-  - "waste management"
-  - "waste recycling"
 ---
 
 # Taygetan Garbage Processing System

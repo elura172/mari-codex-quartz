@@ -19,23 +19,13 @@ sources:
   - "Space News 91. Science Fiction, 787, Weather Ships, Situation, Many Subjects Discussed. (English)"
 tags:
   - "Galactic Federation"
+  - "starships"
+  - "artificial disasters"
+  - "cloud seeding"
+  - "weather modification"
   - "HAARP"
   - "antennas"
-  - "artificial disasters"
-  - "atmospheric pressure"
   - "climate control"
-  - "cloud seeding"
-  - "gravity beams"
-  - "holographic controls"
-  - "microwave"
-  - "microwave technology"
-  - "military ships"
-  - "mind-machine interface"
-  - "mobile arrays"
-  - "non-humans"
-  - "off-planet control"
-  - "starships"
-  - "weather modification"
 ---
 
 # HAARP and Microwave Weather Manipulation
